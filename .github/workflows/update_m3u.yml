@@ -21,7 +21,7 @@ jobs:
       - name: Install requests
         run: pip install requests
 
-      - name: Fetch raw M3U
+      - name: Fetch and split M3U
         env:
           M3U_URL: ${{ secrets.M3U_URL }}
         run: python scripts/fetch_m3u.py
@@ -30,6 +30,6 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add playlists/alltv.m3u
-          git commit -m "Auto-update raw M3U playlist" || echo "No changes"
+          git add playlists/*.m3u
+          git commit -m "Auto-update raw M3U playlist" || echo "No changes to commit"
           git push
