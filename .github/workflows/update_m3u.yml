@@ -1,0 +1,35 @@
+name: Update Raw M3U
+
+on:
+  schedule:
+    - cron: '0 1 * * *'  # daily at 01:00 UTC
+  workflow_dispatch:  # manual trigger
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.x"
+
+      - name: Install requests
+        run: pip install requests
+
+      - name: Fetch raw M3U
+        env:
+          M3U_URL: ${{ secrets.M3U_URL }}
+        run: python scripts/fetch_m3u.py
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add playlists/alltv.m3u
+          git commit -m "Auto-update raw M3U playlist" || echo "No changes"
+          git push
