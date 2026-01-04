@@ -1,24 +1,26 @@
 import os
 import requests
 
-# Get URL from GitHub secret
+# URL from GitHub secret
 M3U_URL = os.getenv("M3U_URL")
 if not M3U_URL:
     raise ValueError("M3U_URL environment variable not set!")
 
-# Output folder and file
 OUTPUT_FOLDER = "playlists"
-OUTPUT_FILE = os.path.join(OUTPUT_FOLDER, "alltv.m3u")
-
-# Create folder if it doesn't exist
 os.makedirs(OUTPUT_FOLDER, exist_ok=True)
 
-# Fetch the raw M3U data
+# Fetch M3U
 response = requests.get(M3U_URL, timeout=30)
+if response.status_code != 200:
+    raise ValueError(f"Failed to fetch M3U: {response.status_code}")
 
-if response.status_code == 200:
-    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-        f.write(response.text)
-    print("Raw M3U playlist saved successfully.")
-else:
-    print("Failed to fetch M3U:", response.status_code)
+lines = response.text.splitlines()
+
+# Split into smaller files (~50,000 lines each to stay <100MB)
+MAX_LINES = 50000
+for i in range(0, len(lines), MAX_LINES):
+    part_number = i // MAX_LINES + 1
+    chunk_file = os.path.join(OUTPUT_FOLDER, f"alltv_part{part_number}.m3u")
+    with open(chunk_file, "w", encoding="utf-8") as f:
+        f.write("\n".join(lines[i:i+MAX_LINES]))
+    print(f"Saved {chunk_file} ({len(lines[i:i+MAX_LINES])} lines)")
