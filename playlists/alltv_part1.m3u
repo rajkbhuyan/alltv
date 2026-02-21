@@ -29093,6 +29093,12 @@ http://filex.me:8080//live/shafiq02/1234/908780.ts
 http://filex.me:8080//live/shafiq02/1234/908774.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR: WANASAH HD" tvg-logo="" group-title="✯MUSIC✯اغاني",AR: WANASAH HD
 http://filex.me:8080//live/shafiq02/1234/908783.ts
+#EXTINF:-1 tvg-id="" tvg-name="Shatak Sangh Ke 100 Varsh (2026)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJLk-tc4JxazDcZGHI9WDB3g0N9oSdzD6M-kkSeBC2PrHIhNDqdGoXsRoD&s=10" group-title="✯BOLLYWOOD✯ 2026",Shatak Sangh Ke 100 Varsh (2026)
+http://filex.me:8080/movie/shafiq02/1234/966827.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Swedish Connection (2026) Hindi + English " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y5EyBB1FIjDAtsIgwNuxEC9caVF.jpg" group-title="✯NETFLIX HINDI✯",The Swedish Connection (2026) Hindi + English 
+http://filex.me:8080/movie/shafiq02/1234/966821.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pavane (2026) Hindi + Korean + English " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzaTF1bFNGDH7gx2KZKpKK77yZyADsPRuFpr_zEPXLjp5wtOIhvhgWgjg&s=10" group-title="✯NETFLIX HINDI✯",Pavane (2026) Hindi + Korean + English 
+http://filex.me:8080/movie/shafiq02/1234/966789.mp4
 #EXTINF:-1 tvg-id="" tvg-name="WWE NXT ●17•2•2026●" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lit1C01yTmyvtMlVoGNIpxXyqti.jpg" group-title="✯WWE✯",WWE NXT ●17•2•2026●
 http://filex.me:8080/movie/shafiq02/1234/966723.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Monday Night RAW 16-2-2026 " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3NgDkPd7XirD3Ajeyrw28v9-eWebsELaGTuLGFLK7rEJdfpLtPV61_Go3&s=10" group-title="✯WWE✯",Monday Night RAW 16-2-2026 
@@ -32693,6 +32699,10 @@ http://filex.me:8080/movie/shafiq02/1234/851462.mp4
 http://filex.me:8080/movie/shafiq02/1234/851461.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Mohra (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nWAptaCNiTIJtv9cYqfF5E7qm0I.jpg" group-title="✯BOLLYWOOD✯ 90s",Mohra (1994)
 http://filex.me:8080/movie/shafiq02/1234/685811.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hijack 1971 (2024) Hindi + Korean " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/68jNkFi61MQjrJEqj2up5wZ4w5R.jpg" group-title="✯HINDI✯DUB HOLLYWOOD 2023-2024",Hijack 1971 (2024) Hindi + Korean 
+http://filex.me:8080/movie/shafiq02/1234/966824.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Firebreak (2026) Hindi + Spanish " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/knh3c8LzL9fMhjc5SZPAOotXyiy.jpg" group-title="✯HINDI✯DUB HOLLYWOOD 2026",Firebreak (2026) Hindi + Spanish 
+http://filex.me:8080/movie/shafiq02/1234/966786.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Retta Thala (2025) Hindi Audio " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zlE1oVtfr7MckzDyEMZkF4WIvGG.jpg" group-title="✯HINDI✯DUB HOLLYWOOD 2025",Retta Thala (2025) Hindi Audio 
 http://filex.me:8080/movie/shafiq02/1234/966691.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Dogs (2025) Hindi Audio " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kz6oqKyKCjmR8V1JdnF9brp9DSn.jpg" group-title="✯HINDI✯DUB HOLLYWOOD 2025",The Dogs (2025) Hindi Audio 
@@ -49988,13 +49998,3 @@ http://filex.me:8080/movie/shafiq02/1234/860989.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Motu Patlu in _ _ Safed Haathi" tvg-logo="" group-title="✯MOTU PATLU✯",Motu Patlu in _ _ Safed Haathi
 http://filex.me:8080/movie/shafiq02/1234/860988.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Motu Patlu-Khatrey Ki Ghanti-Motu Patlu in" tvg-logo="" group-title="✯MOTU PATLU✯",Motu Patlu-Khatrey Ki Ghanti-Motu Patlu in
-http://filex.me:8080/movie/shafiq02/1234/860987.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Good Luck Bad Luck-Motu Patlu in-for e" tvg-logo="" group-title="✯MOTU PATLU✯",Good Luck Bad Luck-Motu Patlu in-for e
-http://filex.me:8080/movie/shafiq02/1234/860986.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Motu Patlu-Photo Shop-Motu Patlu in" tvg-logo="" group-title="✯MOTU PATLU✯",Motu Patlu-Photo Shop-Motu Patlu in
-http://filex.me:8080/movie/shafiq02/1234/860985.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Motu Patlu-Fire Ball Aliens-Motu Patlu in" tvg-logo="" group-title="✯MOTU PATLU✯",Motu Patlu-Fire Ball Aliens-Motu Patlu in
-http://filex.me:8080/movie/shafiq02/1234/860984.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Motu Patlu-Ice Hockey-Motu Patlu in" tvg-logo="" group-title="✯MOTU PATLU✯",Motu Patlu-Ice Hockey-Motu Patlu in
-http://filex.me:8080/movie/shafiq02/1234/860983.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Motu Patlu s In _ Animated Series _ Motu Patlu Ka Sapna _ Wow Kidz" tvg-logo="" group-title="✯MOTU PATLU✯",Motu Patlu s In _ Animated Series _ Motu Patlu Ka Sapna _ Wow Kidz
