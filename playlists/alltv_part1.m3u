@@ -313,20 +313,20 @@ http://filex.me:8080//live/shafiq02/1234/303596.ts
 http://filex.me:8080//live/shafiq02/1234/303597.ts
 #EXTINF:-1 tvg-id="" tvg-name="NL: XITE HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/08e0f3fc7bb2f2dd60a0fc1c4de69b21.png" group-title="Netherlands ➾ Music",NL: XITE HD
 http://filex.me:8080//live/shafiq02/1234/303598.ts
-#EXTINF:-1 tvg-id="" tvg-name="✯CHOTA BHEEM✯5" tvg-logo="https://i.ibb.co/k2fw0nL7/IMG-0155.jpg" group-title="✯CARTOON NETWORK✯ 24/7",✯CHOTA BHEEM✯5
-http://filex.me:8080//live/shafiq02/1234/966957.ts
-#EXTINF:-1 tvg-id="" tvg-name="✯CHOTA BHEEM✯6" tvg-logo="https://i.ibb.co/k2fw0nL7/IMG-0155.jpg" group-title="✯CARTOON NETWORK✯ 24/7",✯CHOTA BHEEM✯6
-http://filex.me:8080//live/shafiq02/1234/966958.ts
 #EXTINF:-1 tvg-id="" tvg-name="✯CHOTA BHEEM✯7" tvg-logo="https://i.ibb.co/k2fw0nL7/IMG-0155.jpg" group-title="✯CARTOON NETWORK✯ 24/7",✯CHOTA BHEEM✯7
 http://filex.me:8080//live/shafiq02/1234/966959.ts
+#EXTINF:-1 tvg-id="" tvg-name="✯CHOTA BHEEM✯4" tvg-logo="https://i.ibb.co/k2fw0nL7/IMG-0155.jpg" group-title="✯CARTOON NETWORK✯ 24/7",✯CHOTA BHEEM✯4
+http://filex.me:8080//live/shafiq02/1234/966956.ts
 #EXTINF:-1 tvg-id="" tvg-name="✯CHOTA BHEEM✯8" tvg-logo="https://i.ibb.co/k2fw0nL7/IMG-0155.jpg" group-title="✯CARTOON NETWORK✯ 24/7",✯CHOTA BHEEM✯8
 http://filex.me:8080//live/shafiq02/1234/966960.ts
 #EXTINF:-1 tvg-id="" tvg-name="✯CHOTA BHEEM✯9" tvg-logo="https://i.ibb.co/k2fw0nL7/IMG-0155.jpg" group-title="✯CARTOON NETWORK✯ 24/7",✯CHOTA BHEEM✯9
 http://filex.me:8080//live/shafiq02/1234/966961.ts
 #EXTINF:-1 tvg-id="" tvg-name="✯CHOTA BHEEM✯10" tvg-logo="https://i.ibb.co/k2fw0nL7/IMG-0155.jpg" group-title="✯CARTOON NETWORK✯ 24/7",✯CHOTA BHEEM✯10
 http://filex.me:8080//live/shafiq02/1234/966962.ts
-#EXTINF:-1 tvg-id="" tvg-name="✯CHOTA BHEEM✯4" tvg-logo="https://i.ibb.co/k2fw0nL7/IMG-0155.jpg" group-title="✯CARTOON NETWORK✯ 24/7",✯CHOTA BHEEM✯4
-http://filex.me:8080//live/shafiq02/1234/966956.ts
+#EXTINF:-1 tvg-id="" tvg-name="✯CHOTA BHEEM✯6" tvg-logo="https://i.ibb.co/k2fw0nL7/IMG-0155.jpg" group-title="✯CARTOON NETWORK✯ 24/7",✯CHOTA BHEEM✯6
+http://filex.me:8080//live/shafiq02/1234/966958.ts
+#EXTINF:-1 tvg-id="" tvg-name="✯CHOTA BHEEM✯5" tvg-logo="https://i.ibb.co/k2fw0nL7/IMG-0155.jpg" group-title="✯CARTOON NETWORK✯ 24/7",✯CHOTA BHEEM✯5
+http://filex.me:8080//live/shafiq02/1234/966957.ts
 #EXTINF:-1 tvg-id="" tvg-name="CInemania Malayalam 1 FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="✯IND✯ MALAYALAM 24/7",CInemania Malayalam 1 FHD
 http://filex.me:8080//live/shafiq02/1234/507277.ts
 #EXTINF:-1 tvg-id="" tvg-name="CInemania Malayalam 2 FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="✯IND✯ MALAYALAM 24/7",CInemania Malayalam 2 FHD
@@ -4363,36 +4363,6 @@ http://filex.me:8080//live/shafiq02/1234/507564.ts
 http://filex.me:8080//live/shafiq02/1234/507565.ts
 #EXTINF:-1 tvg-id="" tvg-name="CM: Hindi Dubbed 1 FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="BOLLYWOOD ➾ 24/7",CM: Hindi Dubbed 1 FHD
 http://filex.me:8080//live/shafiq02/1234/507446.ts
-#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="1.bollywood Movie 24/7 HD" tvg-logo="" group-title="BOLLYWOOD MOVIES 24/7",1.bollywood Movie 24/7 HD
-http://filex.me:8080//live/shafiq02/1234/501184.ts
-#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="2.bollywood Movie 24/7 HD" tvg-logo="" group-title="BOLLYWOOD MOVIES 24/7",2.bollywood Movie 24/7 HD
-http://filex.me:8080//live/shafiq02/1234/501185.ts
-#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="3.bollywood Movie 24/7 HD" tvg-logo="" group-title="BOLLYWOOD MOVIES 24/7",3.bollywood Movie 24/7 HD
-http://filex.me:8080//live/shafiq02/1234/501186.ts
-#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="4.bollywood Movie 24/7 HD" tvg-logo="" group-title="BOLLYWOOD MOVIES 24/7",4.bollywood Movie 24/7 HD
-http://filex.me:8080//live/shafiq02/1234/501187.ts
-#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="5.bollywood Movie 24/7 HD" tvg-logo="" group-title="BOLLYWOOD MOVIES 24/7",5.bollywood Movie 24/7 HD
-http://filex.me:8080//live/shafiq02/1234/501188.ts
-#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="6.bollywood Movie 24/7 HD" tvg-logo="" group-title="BOLLYWOOD MOVIES 24/7",6.bollywood Movie 24/7 HD
-http://filex.me:8080//live/shafiq02/1234/501189.ts
-#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="7.bollywood Movie 24/7 HD" tvg-logo="" group-title="BOLLYWOOD MOVIES 24/7",7.bollywood Movie 24/7 HD
-http://filex.me:8080//live/shafiq02/1234/501190.ts
-#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="8.bollywood Movie 24/7 HD" tvg-logo="" group-title="BOLLYWOOD MOVIES 24/7",8.bollywood Movie 24/7 HD
-http://filex.me:8080//live/shafiq02/1234/501191.ts
-#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="9.bollywood Movie 24/7 HD" tvg-logo="" group-title="BOLLYWOOD MOVIES 24/7",9.bollywood Movie 24/7 HD
-http://filex.me:8080//live/shafiq02/1234/501192.ts
-#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="10.bollywood Movie 24/7 HD" tvg-logo="" group-title="BOLLYWOOD MOVIES 24/7",10.bollywood Movie 24/7 HD
-http://filex.me:8080//live/shafiq02/1234/501193.ts
-#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="11.bollywood Movie 24/7 HD" tvg-logo="" group-title="BOLLYWOOD MOVIES 24/7",11.bollywood Movie 24/7 HD
-http://filex.me:8080//live/shafiq02/1234/501195.ts
-#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="12.bollywood Movie 24/7 HD" tvg-logo="" group-title="BOLLYWOOD MOVIES 24/7",12.bollywood Movie 24/7 HD
-http://filex.me:8080//live/shafiq02/1234/501196.ts
-#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="13.bollywood Movie 24/7 HD" tvg-logo="" group-title="BOLLYWOOD MOVIES 24/7",13.bollywood Movie 24/7 HD
-http://filex.me:8080//live/shafiq02/1234/501197.ts
-#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="14.bollywood Movie 24/7 HD" tvg-logo="" group-title="BOLLYWOOD MOVIES 24/7",14.bollywood Movie 24/7 HD
-http://filex.me:8080//live/shafiq02/1234/501198.ts
-#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="15.bollywood Movie 24/7 HD" tvg-logo="" group-title="BOLLYWOOD MOVIES 24/7",15.bollywood Movie 24/7 HD
-http://filex.me:8080//live/shafiq02/1234/501199.ts
 #EXTINF:-1 tvg-id="" tvg-name="IN: Abhay DEOL Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="BOLLYWOOD ACTORS ➾ 24/7",IN: Abhay DEOL Movies HD
 http://filex.me:8080//live/shafiq02/1234/507381.ts
 #EXTINF:-1 tvg-id="" tvg-name="IN: Abhishek Bachchan Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="BOLLYWOOD ACTORS ➾ 24/7",IN: Abhishek Bachchan Movies HD
@@ -49998,3 +49968,33 @@ http://filex.me:8080/movie/shafiq02/1234/861004.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Jailer Alien-Motu Patlu in-SUBTITLES!- A" tvg-logo="" group-title="✯MOTU PATLU✯",Jailer Alien-Motu Patlu in-SUBTITLES!- A
 http://filex.me:8080/movie/shafiq02/1234/861003.mkv
 #EXTINF:-1 tvg-id="" tvg-name="FWWE Fight-Motu Patlu in" tvg-logo="" group-title="✯MOTU PATLU✯",FWWE Fight-Motu Patlu in
+http://filex.me:8080/movie/shafiq02/1234/861002.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Motu Patlu-Cylinder Ki Sawaari-Motu Patlu in" tvg-logo="" group-title="✯MOTU PATLU✯",Motu Patlu-Cylinder Ki Sawaari-Motu Patlu in
+http://filex.me:8080/movie/shafiq02/1234/861001.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Motu Patlu-Inaam Dus Karood-Motu Patlu in" tvg-logo="" group-title="✯MOTU PATLU✯",Motu Patlu-Inaam Dus Karood-Motu Patlu in
+http://filex.me:8080/movie/shafiq02/1234/861000.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Motu Patlu s In _ Animated _ Road roller _ Wow Kidz" tvg-logo="" group-title="✯MOTU PATLU✯",Motu Patlu s In _ Animated _ Road roller _ Wow Kidz
+http://filex.me:8080/movie/shafiq02/1234/860999.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aadiwasi Ka Mukut-Motu Patlu in HIndi" tvg-logo="" group-title="✯MOTU PATLU✯",Aadiwasi Ka Mukut-Motu Patlu in HIndi
+http://filex.me:8080/movie/shafiq02/1234/860998.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Motu Patlu s In _ Animated _ Mehnat ki kamayee _ Wow Kidz" tvg-logo="" group-title="✯MOTU PATLU✯",Motu Patlu s In _ Animated _ Mehnat ki kamayee _ Wow Kidz
+http://filex.me:8080/movie/shafiq02/1234/860997.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bubblegum Bomb-Motu Patlu in -ENGLISH & !-3" tvg-logo="" group-title="✯MOTU PATLU✯",Bubblegum Bomb-Motu Patlu in -ENGLISH & !-3
+http://filex.me:8080/movie/shafiq02/1234/860996.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Motu Patlu-Lottery-Best For" tvg-logo="" group-title="✯MOTU PATLU✯",Motu Patlu-Lottery-Best For
+http://filex.me:8080/movie/shafiq02/1234/860995.mkv
+#EXTINF:-1 tvg-id="" tvg-name="John's Certificate-Motu Patlu in WITH SUBTITLE" tvg-logo="" group-title="✯MOTU PATLU✯",John's Certificate-Motu Patlu in WITH SUBTITLE
+http://filex.me:8080/movie/shafiq02/1234/860994.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Motu Patlu in _ _ John Ka Jaal" tvg-logo="" group-title="✯MOTU PATLU✯",Motu Patlu in _ _ John Ka Jaal
+http://filex.me:8080/movie/shafiq02/1234/860993.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Motu Patlu-Energy Charger-Motu Patlu in" tvg-logo="" group-title="✯MOTU PATLU✯",Motu Patlu-Energy Charger-Motu Patlu in
+http://filex.me:8080/movie/shafiq02/1234/860992.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Motu Patlu s In _ Animated _ Dr. Jhatka ke dadaji _ Wow Kid" tvg-logo="" group-title="✯MOTU PATLU✯",Motu Patlu s In _ Animated _ Dr. Jhatka ke dadaji _ Wow Kid
+http://filex.me:8080/movie/shafiq02/1234/860991.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Motu Patlu in _ Motu Patlu _ Bhag Bandar Ayaa" tvg-logo="" group-title="✯MOTU PATLU✯",Motu Patlu in _ Motu Patlu _ Bhag Bandar Ayaa
+http://filex.me:8080/movie/shafiq02/1234/860990.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Motu Patlu-Chamatkari Mukut-Best For" tvg-logo="" group-title="✯MOTU PATLU✯",Motu Patlu-Chamatkari Mukut-Best For
+http://filex.me:8080/movie/shafiq02/1234/860989.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Motu Patlu in _ _ Safed Haathi" tvg-logo="" group-title="✯MOTU PATLU✯",Motu Patlu in _ _ Safed Haathi
+http://filex.me:8080/movie/shafiq02/1234/860988.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Motu Patlu-Khatrey Ki Ghanti-Motu Patlu in" tvg-logo="" group-title="✯MOTU PATLU✯",Motu Patlu-Khatrey Ki Ghanti-Motu Patlu in
