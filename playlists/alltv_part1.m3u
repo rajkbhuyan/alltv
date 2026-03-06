@@ -32681,10 +32681,10 @@ http://filex.me:8080/movie/shafiq02/1234/851462.mp4
 http://filex.me:8080/movie/shafiq02/1234/851461.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Mohra (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nWAptaCNiTIJtv9cYqfF5E7qm0I.jpg" group-title="✯BOLLYWOOD✯ 90s",Mohra (1994)
 http://filex.me:8080/movie/shafiq02/1234/685811.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Athiran (2019) Hindi + English " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mpcZ49Z4VH5niZVhiY0rwLJDMS0.jpg" group-title="✯HINDI✯DUB HOLLYWOOD 2019-2020",Athiran (2019) Hindi + English 
-http://filex.me:8080/movie/shafiq02/1234/967656.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Failure! (2023) Hindi + English " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/88NQffi3zkG1qGOvMIPnmfJo4jM.jpg" group-title="✯HINDI✯DUB HOLLYWOOD 2023-2024",Failure! (2023) Hindi + English 
-http://filex.me:8080/movie/shafiq02/1234/967653.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Comeback (2023) Hindi + Chinese " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hNnrtEEcDE0kHnUzzUmEGzY2eny.jpg" group-title="✯HINDI✯DUB HOLLYWOOD 2023-2024",The Comeback (2023) Hindi + Chinese 
+http://filex.me:8080/movie/shafiq02/1234/967718.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Master (1992) Hindi + Chinese " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j9Eji1A8AyelmdHCJTlVBCZziGK.jpg" group-title="✯HINDI✯DUB HOLLYWOOD 1950-1999",The Master (1992) Hindi + Chinese 
+http://filex.me:8080/movie/shafiq02/1234/967715.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Foreigner (2017) Hindi + English " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rwM4hzrmc5HiWfQD9ls9DL4QgGl.jpg" group-title="✯HINDI✯DUB HOLLYWOOD 2016-2018",The Foreigner (2017) Hindi + English 
 http://filex.me:8080/movie/shafiq02/1234/967650.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Anniversary (2025) Hindi + English " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sSdpXGBNt3mQzjZZVK6eV5NcPdc.jpg" group-title="✯HINDI✯DUB HOLLYWOOD 2025",Anniversary (2025) Hindi + English 
@@ -49869,6 +49869,14 @@ http://filex.me:8080/movie/shafiq02/1234/859713.mkv
 http://filex.me:8080/movie/shafiq02/1234/859712.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Chhota Bheem - Crazy Cards World _ Videos for Kids in Hindi _ Fun Kids Videos" tvg-logo="" group-title="✯CHOTA BHEEM✯",Chhota Bheem - Crazy Cards World _ Videos for Kids in Hindi _ Fun Kids Videos
 http://filex.me:8080/movie/shafiq02/1234/859711.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kaappaan (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vfw7EO15wqhzf9pWrVhjqn53YKg.jpg" group-title="✯SOUTH✯ INDIA 1990-2020",Kaappaan (2019)
+http://filex.me:8080/movie/shafiq02/1234/967677.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jockey (2026) Hindi + Tamil " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/69zi48P9NIwPq7qdssxQ8qqbBNG.jpg" group-title="✯SOUTH✯ INDIA 2026",Jockey (2026) Hindi + Tamil 
+http://filex.me:8080/movie/shafiq02/1234/967662.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jora Kaiya Thattunga (2025) Hindi + Tamil " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kom0PpAofXsyGzsuL76XApU8Dtr.jpg" group-title="✯SOUTH✯ INDIA 2025",Jora Kaiya Thattunga (2025) Hindi + Tamil 
+http://filex.me:8080/movie/shafiq02/1234/967659.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Athiran (2019) Hindi + Malayalam " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mpcZ49Z4VH5niZVhiY0rwLJDMS0.jpg" group-title="✯SOUTH✯ INDIA 2021-2022",Athiran (2019) Hindi + Malayalam 
+http://filex.me:8080/movie/shafiq02/1234/967656.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Mithada Maheman (2025) Hindi Audio " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ofrAJihhCn60NC50e0Idw5bJvT.jpg" group-title="✯SOUTH✯ INDIA 2025",Mithada Maheman (2025) Hindi Audio 
 http://filex.me:8080/movie/shafiq02/1234/967369.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Honey (2026) Hindi + Telugu " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjLAzeEE7VPbHepAa4CuV2OFV9VivG4ijzaYQTDYnPuA&s=10" group-title="✯SOUTH✯ INDIA 2026",Honey (2026) Hindi + Telugu 
@@ -49990,11 +49998,3 @@ http://filex.me:8080/movie/shafiq02/1234/910111.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Andhra King Taluka (2025) Hindi Audio " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e1lNI9dZKar0JN9iNuDeUhCZcwL.jpg" group-title="✯SOUTH✯ INDIA 2025",Andhra King Taluka (2025) Hindi Audio 
 http://filex.me:8080/movie/shafiq02/1234/910105.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Rehna Nahi Bin Tere (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ySousuB9vIjAhSNVd0KKjAXWww.jpg" group-title="✯SOUTH✯ INDIA 2025",Rehna Nahi Bin Tere (2025)
-http://filex.me:8080/movie/shafiq02/1234/908999.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Date with Saie (2025) Hindi Audio " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x9VjMlxYcBEdzKHkYggH2GbZBR.jpg" group-title="✯SOUTH✯ INDIA 2025",Date with Saie (2025) Hindi Audio 
-http://filex.me:8080/movie/shafiq02/1234/908967.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mass Jathara (2025) Hindi Audio" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjA5ZTZmNDctMzFlNi00ZjE1LTkzMDgtOTkzMGQ3NDcwZDU4XkEyXkFqcGc@._V1_.jpg" group-title="✯SOUTH✯ INDIA 2025",Mass Jathara (2025) Hindi Audio
-http://filex.me:8080/movie/shafiq02/1234/908961.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mamta Child Factory (2025) Hindi Audio" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Jt0Phg221heM8DJtWYyBYPZTr8.jpg" group-title="✯SOUTH✯ INDIA 2025",Mamta Child Factory (2025) Hindi Audio
-http://filex.me:8080/movie/shafiq02/1234/905367.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ekō (2025) Hindi Audio" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wwTRcagd2QZ36JuFQnWBbXs40YM.jpg" group-title="✯SOUTH✯ INDIA 2025",Ekō (2025) Hindi Audio
