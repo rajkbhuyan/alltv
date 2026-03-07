@@ -7909,8 +7909,6 @@ http://filex.me:8080//live/shafiq02/1234/957074.ts
 http://filex.me:8080//live/shafiq02/1234/957075.ts
 #EXTINF:-1 tvg-id="" tvg-name="DAZN BUNDESLIGA 2" tvg-logo="https://logo.m3uassets.com/daznbundesliga.png" group-title="SPORTS | ALL",DAZN BUNDESLIGA 2
 http://filex.me:8080//live/shafiq02/1234/957054.ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA 10" tvg-logo="https://logo.m3uassets.com/daznlaliga.png" group-title="SPORTS | ALL",DAZN LALIGA 10
-http://filex.me:8080//live/shafiq02/1234/957052.ts
 #EXTINF:-1 tvg-id="" tvg-name="SHAHID SPORT 3 FHD" tvg-logo="" group-title="SPORTS | ALL",SHAHID SPORT 3 FHD
 http://filex.me:8080//live/shafiq02/1234/957077.ts
 #EXTINF:-1 tvg-id="" tvg-name="DAZN SERIE A 7" tvg-logo="https://logo.m3uassets.com/daznseriea1.png" group-title="SPORTS | ALL",DAZN SERIE A 7
@@ -7935,28 +7933,10 @@ http://filex.me:8080//live/shafiq02/1234/957037.ts
 http://filex.me:8080//live/shafiq02/1234/957038.ts
 #EXTINF:-1 tvg-id="" tvg-name="DAZN SERIE A 8" tvg-logo="https://logo.m3uassets.com/daznseriea1.png" group-title="SPORTS | ALL",DAZN SERIE A 8
 http://filex.me:8080//live/shafiq02/1234/957040.ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA 9" tvg-logo="https://logo.m3uassets.com/daznlaliga.png" group-title="SPORTS | ALL",DAZN LALIGA 9
-http://filex.me:8080//live/shafiq02/1234/957051.ts
 #EXTINF:-1 tvg-id="" tvg-name="DAZN SERIE A 9" tvg-logo="https://logo.m3uassets.com/daznseriea1.png" group-title="SPORTS | ALL",DAZN SERIE A 9
 http://filex.me:8080//live/shafiq02/1234/957041.ts
 #EXTINF:-1 tvg-id="" tvg-name="DAZN SERIE A 10" tvg-logo="https://logo.m3uassets.com/daznseriea1.png" group-title="SPORTS | ALL",DAZN SERIE A 10
 http://filex.me:8080//live/shafiq02/1234/957042.ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA 1" tvg-logo="https://logo.m3uassets.com/daznlaliga.png" group-title="SPORTS | ALL",DAZN LALIGA 1
-http://filex.me:8080//live/shafiq02/1234/957043.ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA 2" tvg-logo="https://logo.m3uassets.com/daznlaliga2.png" group-title="SPORTS | ALL",DAZN LALIGA 2
-http://filex.me:8080//live/shafiq02/1234/957044.ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA 3" tvg-logo="https://logo.m3uassets.com/daznlaliga3.png" group-title="SPORTS | ALL",DAZN LALIGA 3
-http://filex.me:8080//live/shafiq02/1234/957045.ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA 4" tvg-logo="https://logo.m3uassets.com/daznlaliga4.png" group-title="SPORTS | ALL",DAZN LALIGA 4
-http://filex.me:8080//live/shafiq02/1234/957046.ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA 5" tvg-logo="https://logo.m3uassets.com/daznlaliga5.png" group-title="SPORTS | ALL",DAZN LALIGA 5
-http://filex.me:8080//live/shafiq02/1234/957047.ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA 6" tvg-logo="https://logo.m3uassets.com/daznlaliga.png" group-title="SPORTS | ALL",DAZN LALIGA 6
-http://filex.me:8080//live/shafiq02/1234/957048.ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA 7" tvg-logo="https://logo.m3uassets.com/daznlaliga.png" group-title="SPORTS | ALL",DAZN LALIGA 7
-http://filex.me:8080//live/shafiq02/1234/957049.ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA 8" tvg-logo="https://logo.m3uassets.com/daznlaliga.png" group-title="SPORTS | ALL",DAZN LALIGA 8
-http://filex.me:8080//live/shafiq02/1234/957050.ts
 #EXTINF:-1 tvg-id="" tvg-name="SHAHID SPORT 2 FHD" tvg-logo="" group-title="SPORTS | ALL",SHAHID SPORT 2 FHD
 http://filex.me:8080//live/shafiq02/1234/957076.ts
 #EXTINF:-1 tvg-id="" tvg-name="SHAHID SPORT 4 FHD" tvg-logo="" group-title="SPORTS | ALL",SHAHID SPORT 4 FHD
@@ -13867,8 +13847,6 @@ http://filex.me:8080//live/shafiq02/1234/290333.ts
 http://filex.me:8080//live/shafiq02/1234/290346.ts
 #EXTINF:-1 tvg-id="SS Variety 3" tvg-name="ZA: Supersport Variety 4 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/7816729fca81dcee05b869f633b8a84d.png" group-title="South Africa ➾ Sports",ZA: Supersport Variety 4 HD
 http://filex.me:8080//live/shafiq02/1234/290347.ts
-#EXTINF:-1 tvg-id="SuperSport LaLiga" tvg-name="ZA: Supersport Laliga HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/dd29bde85c09ac2e0c1c250edb6bcf23.png" group-title="South Africa ➾ Sports",ZA: Supersport Laliga HD
-http://filex.me:8080//live/shafiq02/1234/290340.ts
 #EXTINF:-1 tvg-id="SS Action" tvg-name="ZA: Supersport Action HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/c01edd9028bd637cc5bdc8527acc3353.png" group-title="South Africa ➾ Sports",ZA: Supersport Action HD
 http://filex.me:8080//live/shafiq02/1234/290335.ts
 #EXTINF:-1 tvg-id="SS Rugby" tvg-name="ZA: Supersport Rugby HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/55a7ac3c8cdd7718d94d29b8ebc99f2e.png" group-title="South Africa ➾ Sports",ZA: Supersport Rugby HD
@@ -16899,40 +16877,6 @@ http://filex.me:8080//live/shafiq02/1234/292977.ts
 http://filex.me:8080//live/shafiq02/1234/292978.ts
 #EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="ES: DAZN 4 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/7b834941508cb1ab7d5787042c10bc7b.png" group-title="Spain ➾ Football",ES: DAZN 4 HD
 http://filex.me:8080//live/shafiq02/1234/292979.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN Laliga HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/7c83dbf4ff68c32c3a692312a13a4d79.jpg" group-title="Spain ➾ Football",ES: DAZN Laliga HD
-http://filex.me:8080//live/shafiq02/1234/292980.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN Laliga 2 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/4c44f8e1726a04ccabb219f60f174ebc.png" group-title="Spain ➾ Football",ES: DAZN Laliga 2 HD
-http://filex.me:8080//live/shafiq02/1234/292981.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: Laliga Smartbank TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-03/919f1429f4969700078f3cfded40151c.svg" group-title="Spain ➾ Football",ES: Laliga Smartbank TV HD
-http://filex.me:8080//live/shafiq02/1234/292982.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: Laliga Smartbank TV 1 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-03/18bb555912f34dff06c2de73b972737b.svg" group-title="Spain ➾ Football",ES: Laliga Smartbank TV 1 HD
-http://filex.me:8080//live/shafiq02/1234/292983.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: Laliga Smartbank TV 2 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-03/db1b5c362ed561b2c801433ba3e3f13b.svg" group-title="Spain ➾ Football",ES: Laliga Smartbank TV 2 HD
-http://filex.me:8080//live/shafiq02/1234/292984.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: Laliga Smartbank TV 3 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-03/202142881d4f8c20b932b94b581c0938.svg" group-title="Spain ➾ Football",ES: Laliga Smartbank TV 3 HD
-http://filex.me:8080//live/shafiq02/1234/292985.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: Laliga TV BAR HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/f17a72afc795aeb69406238055a55c0d.jpg" group-title="Spain ➾ Football",ES: Laliga TV BAR HD
-http://filex.me:8080//live/shafiq02/1234/292986.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: Laliga TV Hypermotion HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/2ccef25607c0695c121d55b5b40bb82a.png" group-title="Spain ➾ Football",ES: Laliga TV Hypermotion HD
-http://filex.me:8080//live/shafiq02/1234/292987.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: Laliga TV Hypermotion 2 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/8b9d814866130fd62e4ccc22e7ebffe8.png" group-title="Spain ➾ Football",ES: Laliga TV Hypermotion 2 HD
-http://filex.me:8080//live/shafiq02/1234/292988.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: Laliga TV Hypermotion 3 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-04/74600f9d2e3f5255b425f5b19f1bac1a.png" group-title="Spain ➾ Football",ES: Laliga TV Hypermotion 3 HD
-http://filex.me:8080//live/shafiq02/1234/292989.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ Laliga HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/1c92f761559aeaa4272197b0a5cbca0e.png" group-title="Spain ➾ Football",ES: M+ Laliga HD
-http://filex.me:8080//live/shafiq02/1234/292990.ts
-#EXTINF:-1 tvg-id="la1.es" tvg-name="ES: Movistar Laliga HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/83c20e93f805d1c0de43abcaf10f42de.png" group-title="Spain ➾ Football",ES: Movistar Laliga HD
-http://filex.me:8080//live/shafiq02/1234/292991.ts
-#EXTINF:-1 tvg-id="la1.es" tvg-name="ES: Movistar Laliga 2 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/2f992ea3f06a9d0385df6e3e39e2c00b.png" group-title="Spain ➾ Football",ES: Movistar Laliga 2 HD
-http://filex.me:8080//live/shafiq02/1234/292992.ts
-#EXTINF:-1 tvg-id="la1.es" tvg-name="ES: Movistar Laliga 3 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/22ba20bcd4a9505d1ad7435f1dceaa93.png" group-title="Spain ➾ Football",ES: Movistar Laliga 3 HD
-http://filex.me:8080//live/shafiq02/1234/292993.ts
-#EXTINF:-1 tvg-id="la1.es" tvg-name="ES: Movistar Laliga 4 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/158d3d24cbf3ba9dc16e939750ab0ad9.png" group-title="Spain ➾ Football",ES: Movistar Laliga 4 HD
-http://filex.me:8080//live/shafiq02/1234/292994.ts
-#EXTINF:-1 tvg-id="la1.es" tvg-name="ES: Movistar Laliga 5 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/8547f7041c05f04ce7aad56c67b64481.png" group-title="Spain ➾ Football",ES: Movistar Laliga 5 HD
-http://filex.me:8080//live/shafiq02/1234/292995.ts
-#EXTINF:-1 tvg-id="la1.es" tvg-name="ES: Movistar Laliga 7 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/2d066efd0a3ae54514a638b6341b09dc.jpg" group-title="Spain ➾ Football",ES: Movistar Laliga 7 HD
-http://filex.me:8080//live/shafiq02/1234/292996.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: Movistar LIGA DE Campeones HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/98c3b45e9801cd9fe5e72bc8d42b859d.png" group-title="Spain ➾ Football",ES: Movistar LIGA DE Campeones HD
 http://filex.me:8080//live/shafiq02/1234/292997.ts
 #EXTINF:-1 tvg-id="vamos.es" tvg-name="ES: Movistar LIGA DE Campeones 2 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/058dabf82e072bd3c9b5a2d603e2663e.png" group-title="Spain ➾ Football",ES: Movistar LIGA DE Campeones 2 HD
@@ -24327,8 +24271,6 @@ http://filex.me:8080//live/shafiq02/1234/303363.ts
 http://filex.me:8080//live/shafiq02/1234/303364.ts
 #EXTINF:-1 tvg-id="investigationdiscovery.bg" tvg-name="LA: Investigation Discovery HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/fa736a0d75e817b038e3df45c3c46e81.png" group-title="Latino",LA: Investigation Discovery HD
 http://filex.me:8080//live/shafiq02/1234/303365.ts
-#EXTINF:-1 tvg-id="" tvg-name="LA: LA LIGA HD" tvg-logo="" group-title="Latino",LA: LA LIGA HD
-http://filex.me:8080//live/shafiq02/1234/303366.ts
 #EXTINF:-1 tvg-id="" tvg-name="LA: Latin America Sport HD" tvg-logo="" group-title="Latino",LA: Latin America Sport HD
 http://filex.me:8080//live/shafiq02/1234/303367.ts
 #EXTINF:-1 tvg-id="lifetime.uk" tvg-name="LA: Lifetime HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2bafbfd0d059dc1b372611d3465a8063.png" group-title="Latino",LA: Lifetime HD
@@ -28989,6 +28931,10 @@ http://filex.me:8080//live/shafiq02/1234/908780.ts
 http://filex.me:8080//live/shafiq02/1234/908774.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR: WANASAH HD" tvg-logo="" group-title="✯MUSIC✯اغاني",AR: WANASAH HD
 http://filex.me:8080//live/shafiq02/1234/908783.ts
+#EXTINF:-1 tvg-id="" tvg-name="The Rajasaab (2026) HD " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nvK6gYa4diCnQkDVN42uoYXPrdT.jpg" group-title="✯BOLLYWOOD✯ 2026",The Rajasaab (2026) HD 
+http://filex.me:8080/movie/shafiq02/1234/967746.mp4
+#EXTINF:-1 tvg-id="" tvg-name="War Machine (2026) Hindi Audio " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rFhKkXhk7ClU03jQ5rHIApJDwev.jpg" group-title="✯NETFLIX HINDI✯",War Machine (2026) Hindi Audio 
+http://filex.me:8080/movie/shafiq02/1234/967731.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Subedaar (2026) " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gKn63ZWEVK66OaC1svlI7g6r9ah.jpg" group-title="✯BOLLYWOOD✯ 2026",Subedaar (2026) 
 http://filex.me:8080/movie/shafiq02/1234/967647.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Monday Night RAW 2.3.2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAOAk5Zudw77GAIfucK3CAeSd9ouCSTwbF52tGZgkF056ItbFuLaRklPV&s=10" group-title="✯WWE✯",Monday Night RAW 2.3.2026
@@ -49869,6 +49815,8 @@ http://filex.me:8080/movie/shafiq02/1234/859713.mkv
 http://filex.me:8080/movie/shafiq02/1234/859712.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Chhota Bheem - Crazy Cards World _ Videos for Kids in Hindi _ Fun Kids Videos" tvg-logo="" group-title="✯CHOTA BHEEM✯",Chhota Bheem - Crazy Cards World _ Videos for Kids in Hindi _ Fun Kids Videos
 http://filex.me:8080/movie/shafiq02/1234/859711.mkv
+#EXTINF:-1 tvg-id="" tvg-name="With Love (2026) Hindi + Tamil " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/84rCbRiY7cXwDO8lAXp5MIxuok5.jpg" group-title="✯SOUTH✯ INDIA 2026",With Love (2026) Hindi + Tamil 
+http://filex.me:8080/movie/shafiq02/1234/967728.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Kaappaan (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vfw7EO15wqhzf9pWrVhjqn53YKg.jpg" group-title="✯SOUTH✯ INDIA 1990-2020",Kaappaan (2019)
 http://filex.me:8080/movie/shafiq02/1234/967677.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Jockey (2026) Hindi + Tamil " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/69zi48P9NIwPq7qdssxQ8qqbBNG.jpg" group-title="✯SOUTH✯ INDIA 2026",Jockey (2026) Hindi + Tamil 
@@ -49998,3 +49946,55 @@ http://filex.me:8080/movie/shafiq02/1234/910111.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Andhra King Taluka (2025) Hindi Audio " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e1lNI9dZKar0JN9iNuDeUhCZcwL.jpg" group-title="✯SOUTH✯ INDIA 2025",Andhra King Taluka (2025) Hindi Audio 
 http://filex.me:8080/movie/shafiq02/1234/910105.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Rehna Nahi Bin Tere (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ySousuB9vIjAhSNVd0KKjAXWww.jpg" group-title="✯SOUTH✯ INDIA 2025",Rehna Nahi Bin Tere (2025)
+http://filex.me:8080/movie/shafiq02/1234/908999.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Date with Saie (2025) Hindi Audio " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x9VjMlxYcBEdzKHkYggH2GbZBR.jpg" group-title="✯SOUTH✯ INDIA 2025",Date with Saie (2025) Hindi Audio 
+http://filex.me:8080/movie/shafiq02/1234/908967.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mass Jathara (2025) Hindi Audio" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjA5ZTZmNDctMzFlNi00ZjE1LTkzMDgtOTkzMGQ3NDcwZDU4XkEyXkFqcGc@._V1_.jpg" group-title="✯SOUTH✯ INDIA 2025",Mass Jathara (2025) Hindi Audio
+http://filex.me:8080/movie/shafiq02/1234/908961.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mamta Child Factory (2025) Hindi Audio" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Jt0Phg221heM8DJtWYyBYPZTr8.jpg" group-title="✯SOUTH✯ INDIA 2025",Mamta Child Factory (2025) Hindi Audio
+http://filex.me:8080/movie/shafiq02/1234/905367.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ekō (2025) Hindi Audio" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wwTRcagd2QZ36JuFQnWBbXs40YM.jpg" group-title="✯SOUTH✯ INDIA 2025",Ekō (2025) Hindi Audio
+http://filex.me:8080/movie/shafiq02/1234/905295.mp4
+#EXTINF:-1 tvg-id="" tvg-name="K-Ramp (2025) [Multi Audio]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vgnjJdGLY2TIxZsG6s8LCVELh8T.jpg" group-title="✯SOUTH✯ INDIA 2025",K-Ramp (2025) [Multi Audio]
+http://filex.me:8080/movie/shafiq02/1234/905222.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kaantha (2025) Hindi " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a6A0CvOMUUbQNfgkRSPqf5JMpsU.jpg" group-title="✯SOUTH✯ INDIA 2025",Kaantha (2025) Hindi 
+http://filex.me:8080/movie/shafiq02/1234/905199.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aaryan (2025) [Multi Audio]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rRjh3zumdW89fNMe4tdjmALB1xG.jpg" group-title="✯SOUTH✯ INDIA 2025",Aaryan (2025) [Multi Audio]
+http://filex.me:8080/movie/shafiq02/1234/904640.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maaman (2025) [Multi Audio]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a0BsRj9qQu8L2arBAHcbbfrVrB7.jpg" group-title="✯SOUTH✯ INDIA 2025",Maaman (2025) [Multi Audio]
+http://filex.me:8080/movie/shafiq02/1234/904639.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jatadhara (2025)  [Multi Audio]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/91aJa79gHiTUWh86XFRMaD2MGjj.jpg" group-title="✯SOUTH✯ INDIA 2025",Jatadhara (2025)  [Multi Audio]
+http://filex.me:8080/movie/shafiq02/1234/904638.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Girlfriend (2025)  [Multi Audio]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vcGeERDrMBVihLaxbFbj5pK3kgL.jpg" group-title="✯SOUTH✯ INDIA 2025",The Girlfriend (2025)  [Multi Audio]
+http://filex.me:8080/movie/shafiq02/1234/904637.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Prince and Family (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bsFg2yv4zeOSbch0K3xxObrvux1.jpg" group-title="✯SOUTH INDIA✯ 4K ✯MULTI✯",Prince and Family (2025)
+http://filex.me:8080/movie/shafiq02/1234/888391.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Alappuzha Gymkhana (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q4OwzcY6r2L1M1S6uYzmtzjwAqX.jpg" group-title="✯SOUTH INDIA✯ 4K ✯MULTI✯",Alappuzha Gymkhana (2025)
+http://filex.me:8080/movie/shafiq02/1234/888390.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gadar 2 (2023) 4k [Multi-Audio]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/brCBYKGQaxZZcwmFF6OIxZLdKVU.jpg" group-title="✯SOUTH INDIA✯ 4K ✯MULTI✯",Gadar 2 (2023) 4k [Multi-Audio]
+http://filex.me:8080/movie/shafiq02/1234/888389.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Vedaa (2024) 4K [Multio-Audio]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wK0p210TWMH4P3isT1bI0FVEuZ9.jpg" group-title="✯SOUTH INDIA✯ 4K ✯MULTI✯",Vedaa (2024) 4K [Multio-Audio]
+http://filex.me:8080/movie/shafiq02/1234/888388.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sankranthiki Vasthunam (2025) 4K [Multio-Audio]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gFa07KuR3tWFI6YFTeGz930zeMo.jpg" group-title="✯SOUTH INDIA✯ 4K ✯MULTI✯",Sankranthiki Vasthunam (2025) 4K [Multio-Audio]
+http://filex.me:8080/movie/shafiq02/1234/888387.mkv
+#EXTINF:-1 tvg-id="" tvg-name="MAX (2024)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzI4M2I5YzAtYmUxMy00MDg1LTljYTgtNGM0ZTkwYmI3MGQxXkEyXkFqcGc@._V1_.jpg" group-title="✯SOUTH INDIA✯ 4K ✯MULTI✯",MAX (2024)
+http://filex.me:8080/movie/shafiq02/1234/888386.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Thiru.Manickam (2024) [Multi-Audio] 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/84UUyVmkF1GZm878YthNBxaVaIy.jpg" group-title="✯SOUTH INDIA✯ 4K ✯MULTI✯",Thiru.Manickam (2024) [Multi-Audio] 4K
+http://filex.me:8080/movie/shafiq02/1234/888385.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mukundan Unni Associates™ (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7aEuV7eLbc0KXVBbtRZr1avWjSL.jpg" group-title="✯SOUTH INDIA✯ 4K ✯MULTI✯",Mukundan Unni Associates™ (2022)
+http://filex.me:8080/movie/shafiq02/1234/888384.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Kerala Story (2023) [Multi-Audio] 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g70f3hwn5jPaNzqPssoa9unlawo.jpg" group-title="✯SOUTH INDIA✯ 4K ✯MULTI✯",The Kerala Story (2023) [Multi-Audio] 4K
+http://filex.me:8080/movie/shafiq02/1234/888383.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Queen Elizabeth (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8EhkCeQKd1h9DVbMgMIAzJlaeIz.jpg" group-title="✯SOUTH INDIA✯ 4K ✯MULTI✯",Queen Elizabeth (2023)
+http://filex.me:8080/movie/shafiq02/1234/888382.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Max (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/45KquhppYWhyNH7qkbCSPWJc6op.jpg" group-title="✯SOUTH INDIA✯ 4K ✯MULTI✯",Max (2021)
+http://filex.me:8080/movie/shafiq02/1234/888381.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mangalavaaram (2023) [Multi-Audio] 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zZxBWGqdoQ3lX7oPjtI41Yby59j.jpg" group-title="✯SOUTH INDIA✯ 4K ✯MULTI✯",Mangalavaaram (2023) [Multi-Audio] 4K
+http://filex.me:8080/movie/shafiq02/1234/888380.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bougainvillea (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lH5bWsODh1QU6aia1ZpaC79kq2j.jpg" group-title="✯SOUTH INDIA✯ 4K ✯MULTI✯",Bougainvillea (2024)
+http://filex.me:8080/movie/shafiq02/1234/888379.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bougainvillea (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lH5bWsODh1QU6aia1ZpaC79kq2j.jpg" group-title="✯SOUTH INDIA✯ 4K ✯MULTI✯",Bougainvillea (2024)
+http://filex.me:8080/movie/shafiq02/1234/888378.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Identity (2025) [Multi-Audio] 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hrusjWrcRuClY6PNooSZiKL6gqv.jpg" group-title="✯SOUTH INDIA✯ 4K ✯MULTI✯",Identity (2025) [Multi-Audio] 4K
+http://filex.me:8080/movie/shafiq02/1234/888377.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pravinkoodu Shappu (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/19RY8hiPUklE2UrjQrUiSgyVO5f.jpg" group-title="✯SOUTH INDIA✯ 4K ✯MULTI✯",Pravinkoodu Shappu (2025)
