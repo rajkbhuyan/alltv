@@ -28859,6 +28859,10 @@ http://filex.me:8080//live/shafiq02/1234/908780.ts
 http://filex.me:8080//live/shafiq02/1234/908774.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR: WANASAH HD" tvg-logo="" group-title="✯MUSIC✯اغاني",AR: WANASAH HD
 http://filex.me:8080//live/shafiq02/1234/908783.ts
+#EXTINF:-1 tvg-id="" tvg-name="The Taj Story (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6oMIAvdPWFbwowAq7Zn8unbREAY.jpg" group-title="✯BOLLYWOOD✯ 2025",The Taj Story (2025)
+http://filex.me:8080/movie/shafiq02/1234/968566.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monday Night RAW ●9.3.2026●" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3NgDkPd7XirD3Ajeyrw28v9-eWebsELaGTuLGFLK7rEJdfpLtPV61_Go3&s=10" group-title="✯WWE✯",Monday Night RAW ●9.3.2026●
+http://filex.me:8080/movie/shafiq02/1234/968413.mp4
 #EXTINF:-1 tvg-id="" tvg-name="• 60 FPS • Diés Iraé (2025) Multi Lang" tvg-logo="https://lh3.googleusercontent.com/gg/AMW1TPp_V_R2UdclOhDdcltgAxQQwrHoHAMRi18HDhw8BJboC5v1qhM2-BLW1YrxEIUA0YYjTUeVSMhxLk01OmvObaISubGV9yFbwPfqZ9JPAKP87qy4bufeHnZaTDa7XQ7kFKf9dJEYPMiLJaSE4wmfv3jPuvTY2BjaSjqFcO5ocMkXrjQjA-g=s1024-rj-mp2" group-title="60 FPS UHD  HINDI",• 60 FPS • Diés Iraé (2025) Multi Lang
 http://filex.me:8080/movie/shafiq02/1234/968156.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Subedaar (2026) 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gKn63ZWEVK66OaC1svlI7g6r9ah.jpg" group-title="✯BOLLYWOOD✯4K",Subedaar (2026) 4K
@@ -29421,8 +29425,6 @@ http://filex.me:8080/movie/shafiq02/1234/871174.mp4
 http://filex.me:8080/movie/shafiq02/1234/871173.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Andaaz 2 (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4aev7jUk0ITeUovbirv5EFdgKAR.jpg" group-title="✯BOLLYWOOD✯ 2025",Andaaz 2 (2025)
 http://filex.me:8080/movie/shafiq02/1234/871172.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Taj Story (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6oMIAvdPWFbwowAq7Zn8unbREAY.jpg" group-title="✯BOLLYWOOD✯ 2025",The Taj Story (2025)
-http://filex.me:8080/movie/shafiq02/1234/871171.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Mastiii 4 (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AtiolX53e4zbsgmGItI85qhrTnv.jpg" group-title="✯BOLLYWOOD✯ 2025",Mastiii 4 (2025)
 http://filex.me:8080/movie/shafiq02/1234/871170.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Metro... In Dino (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AlmzM8CNm2fRJQW2iA9Ittwv0ig.jpg" group-title="✯BOLLYWOOD✯ 2025",Metro... In Dino (2025)
@@ -32569,6 +32571,18 @@ http://filex.me:8080/movie/shafiq02/1234/851462.mp4
 http://filex.me:8080/movie/shafiq02/1234/851461.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Mohra (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nWAptaCNiTIJtv9cYqfF5E7qm0I.jpg" group-title="✯BOLLYWOOD✯ 90s",Mohra (1994)
 http://filex.me:8080/movie/shafiq02/1234/685811.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ticket to Paradise (2022) Hindi + English " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1tzERH50P5c2mFWtLbgixzLZS1L.jpg" group-title="✯HINDI✯DUB HOLLYWOOD 2025",Ticket to Paradise (2022) Hindi + English 
+http://filex.me:8080/movie/shafiq02/1234/968481.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Turbulence (2025) Hindi + English " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jRuiKL4S9UpLma2ZlM47xIu2gbe.jpg" group-title="✯HINDI✯DUB HOLLYWOOD 2025",Turbulence (2025) Hindi + English 
+http://filex.me:8080/movie/shafiq02/1234/968478.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Death Whisperer 3 (2025) [Cam] Hindi " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iGKM5vTczW0U17Wi0Aek4Mkl1y.jpg" group-title="✯HINDI✯DUB HOLLYWOOD 2025",Death Whisperer 3 (2025) [Cam] Hindi 
+http://filex.me:8080/movie/shafiq02/1234/968463.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Louis Theroux: Inside the Manosphere (2026) Hindi + English " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ouOvRvsgF37yEx3D6ZLWyuxZFjE.jpg" group-title="✯HINDI✯DUB HOLLYWOOD 2026",Louis Theroux: Inside the Manosphere (2026) Hindi + English 
+http://filex.me:8080/movie/shafiq02/1234/968428.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dust Bunny (2025) Hindi + English " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qa5aZpO8tQqhlDaE0flalS1TuIS.jpg" group-title="✯HINDI✯DUB HOLLYWOOD 2025",Dust Bunny (2025) Hindi + English 
+http://filex.me:8080/movie/shafiq02/1234/968425.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Captain Hook: The Cursed Tides (2025) Hindi + English" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oKE2xPJs87V9DbDmoo8igAsDeH1.jpg" group-title="✯HINDI✯DUB HOLLYWOOD 2026",Captain Hook: The Cursed Tides (2025) Hindi + English
+http://filex.me:8080/movie/shafiq02/1234/968416.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Murderer Report (2025) Hindi + Korean " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sPec0E9uLvgwiQKX8gt8cFHJopC.jpg" group-title="✯HINDI✯DUB HOLLYWOOD 2025",Murderer Report (2025) Hindi + Korean 
 http://filex.me:8080/movie/shafiq02/1234/967779.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Comeback (2023) Hindi + Chinese " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hNnrtEEcDE0kHnUzzUmEGzY2eny.jpg" group-title="✯HINDI✯DUB HOLLYWOOD 2023-2024",The Comeback (2023) Hindi + Chinese 
@@ -44855,8 +44869,6 @@ http://filex.me:8080/movie/shafiq02/1234/959408.mkv
 http://filex.me:8080/movie/shafiq02/1234/959405.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Sidh Neety Hasy _ Chiriya Queen _ New Dance Show Fsd _ Shaheen Studio" tvg-logo="" group-title="✯MUJRA✯ CHIRYA QUEEN",Sidh Neety Hasy _ Chiriya Queen _ New Dance Show Fsd _ Shaheen Studio
 http://filex.me:8080/movie/shafiq02/1234/959404.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sarhda Shareek Shala Sarhda Rahvy _ Chiriya Queen _ Wedding Dance Performance 20" tvg-logo="" group-title="✯MUJRA✯ CHIRYA QUEEN",Sarhda Shareek Shala Sarhda Rahvy _ Chiriya Queen _ Wedding Dance Performance 20
-http://filex.me:8080/movie/shafiq02/1234/959396.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Sanu Tan Sada Yar Kafi Hay _ Chiriya Queen _ Super Hit Dance 2022" tvg-logo="" group-title="✯MUJRA✯ CHIRYA QUEEN",Sanu Tan Sada Yar Kafi Hay _ Chiriya Queen _ Super Hit Dance 2022
 http://filex.me:8080/movie/shafiq02/1234/959395.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Hik Dien Hosi Mera Dawa Hai _ Chiriya Queen _ Latest Punjabi & Saraiki (1)" tvg-logo="" group-title="✯MUJRA✯ CHIRYA QUEEN",Hik Dien Hosi Mera Dawa Hai _ Chiriya Queen _ Latest Punjabi & Saraiki (1)
@@ -49767,6 +49779,12 @@ http://filex.me:8080/movie/shafiq02/1234/859713.mkv
 http://filex.me:8080/movie/shafiq02/1234/859712.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Chhota Bheem - Crazy Cards World _ Videos for Kids in Hindi _ Fun Kids Videos" tvg-logo="" group-title="✯CHOTA BHEEM✯",Chhota Bheem - Crazy Cards World _ Videos for Kids in Hindi _ Fun Kids Videos
 http://filex.me:8080/movie/shafiq02/1234/859711.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Madam Sengupta (2025) Hindi + Bengali" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rBrcnPw6vuTE0jNAOKnDxuVSdkk.jpg" group-title="✯SOUTH✯ INDIA 2025",Madam Sengupta (2025) Hindi + Bengali
+http://filex.me:8080/movie/shafiq02/1234/968472.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lockdown (2026) Hindi + Tamil " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/upUB6qQVrAQ3jUUSUkDFOfGFdQn.jpg" group-title="✯SOUTH✯ INDIA 2026",Lockdown (2026) Hindi + Tamil 
+http://filex.me:8080/movie/shafiq02/1234/968419.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Paanch Minar (2025) Hindi + Telugu " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iq7WEDY0iBTf6UglfmvGXycxp9L.jpg" group-title="✯SOUTH✯ INDIA 2025",Paanch Minar (2025) Hindi + Telugu 
+http://filex.me:8080/movie/shafiq02/1234/968410.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Jack & Dil (2026)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQifPid8XwaGwT5WtCPuB12QJMv8kphEksBRy5D9emJvw&s=10" group-title="✯SOUTH✯ INDIA 2026",Jack & Dil (2026)
 http://filex.me:8080/movie/shafiq02/1234/968175.mp4
 #EXTINF:-1 tvg-id="" tvg-name="With Love (2026) Hindi + Tamil " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/84rCbRiY7cXwDO8lAXp5MIxuok5.jpg" group-title="✯SOUTH✯ INDIA 2026",With Love (2026) Hindi + Tamil 
@@ -49980,21 +49998,3 @@ http://filex.me:8080/movie/shafiq02/1234/888365.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Pathu Thala (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rNI3Y4mfsOUpQidwBtZj9EjwImb.jpg" group-title="✯SOUTH INDIA✯ 4K ✯MULTI✯",Pathu Thala (2023)
 http://filex.me:8080/movie/shafiq02/1234/888364.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Oxygen (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dwqZxJTxfW4VcxxwJdnUf8AaUCp.jpg" group-title="✯SOUTH INDIA✯ 4K ✯MULTI✯",Oxygen (2017)
-http://filex.me:8080/movie/shafiq02/1234/888363.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Shyam Singha Roy (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i3uBXI05iqvqKXBO0Hv3unU7krP.jpg" group-title="✯SOUTH INDIA✯ 4K ✯MULTI✯",Shyam Singha Roy (2021)
-http://filex.me:8080/movie/shafiq02/1234/888362.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Tantiram (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vTvQXnK2U3vtTMhHOVGteOud3av.jpg" group-title="✯SOUTH INDIA✯ 4K ✯MULTI✯",Tantiram (2023)
-http://filex.me:8080/movie/shafiq02/1234/888361.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Satyabhama (2024) [Multi-Audio]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7I0VTzrqJ4erQHNjrwwhAA5rOTv.jpg" group-title="✯SOUTH INDIA✯ 4K ✯MULTI✯",Satyabhama (2024) [Multi-Audio]
-http://filex.me:8080/movie/shafiq02/1234/888360.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mangalavaaram (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zZxBWGqdoQ3lX7oPjtI41Yby59j.jpg" group-title="✯SOUTH INDIA✯ 4K ✯MULTI✯",Mangalavaaram (2023)
-http://filex.me:8080/movie/shafiq02/1234/888359.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Gully Rowdy (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1wOBT6Jvb72eD14CZl7K7sPfd4S.jpg" group-title="✯SOUTH INDIA✯ 4K ✯MULTI✯",Gully Rowdy (2021)
-http://filex.me:8080/movie/shafiq02/1234/888358.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Indian 2: Zero Tolerance (2024) (MULTI-LANG)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fPoiIfqmVfNYZRVUtfTSyuAj8Tw.jpg" group-title="✯SOUTH INDIA✯ 4K ✯MULTI✯",Indian 2: Zero Tolerance (2024) (MULTI-LANG)
-http://filex.me:8080/movie/shafiq02/1234/888357.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Grrr.. (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f4GpEsQAc9LslfEmBlOwlChxpyx.jpg" group-title="✯SOUTH INDIA✯ 4K ✯MULTI✯",Grrr.. (2024)
-http://filex.me:8080/movie/shafiq02/1234/888356.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Varshangalkku Shesham (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dVLqE9aEszo8yrc8TDk3bloYHHS.jpg" group-title="✯SOUTH INDIA✯ 4K ✯MULTI✯",Varshangalkku Shesham (2024)
-http://filex.me:8080/movie/shafiq02/1234/888355.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Premalu (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uPpmBjY3znUqGY8kYwI5xvOrSc0.jpg" group-title="✯SOUTH INDIA✯ 4K ✯MULTI✯",Premalu (2024)
