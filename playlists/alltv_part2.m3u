@@ -1,3 +1,5 @@
+http://filex.me:8080/movie/shafiq02/1234/888364.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Oxygen (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dwqZxJTxfW4VcxxwJdnUf8AaUCp.jpg" group-title="✯SOUTH INDIA✯ 4K ✯MULTI✯",Oxygen (2017)
 http://filex.me:8080/movie/shafiq02/1234/888363.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Shyam Singha Roy (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i3uBXI05iqvqKXBO0Hv3unU7krP.jpg" group-title="✯SOUTH INDIA✯ 4K ✯MULTI✯",Shyam Singha Roy (2021)
 http://filex.me:8080/movie/shafiq02/1234/888362.mkv
@@ -22871,8 +22873,6 @@ http://filex.me:8080/movie/shafiq02/1234/885384.mp4
 http://filex.me:8080/movie/shafiq02/1234/885383.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Deep Cover (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1vXTHTbSQJs9r2hp4Uk08XzKwPp.jpg" group-title="✯ENGLISH✯ 2025",Deep Cover (2025)
 http://filex.me:8080/movie/shafiq02/1234/885382.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Good Fortune (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r83HIGA0mUiy7I9qVr17pF7SCDP.jpg" group-title="✯ENGLISH✯ 2025",Good Fortune (2025)
-http://filex.me:8080/movie/shafiq02/1234/885381.mp4
 #EXTINF:-1 tvg-id="" tvg-name="No One Believed Me (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oEGKS42sVUjb5HRK1JuxCrUgmfe.jpg" group-title="✯ENGLISH✯ 2025",No One Believed Me (2025)
 http://filex.me:8080/movie/shafiq02/1234/885380.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Correspondent (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5VRL6v2mUGM3VNJk96ssa8aJ09d.jpg" group-title="✯ENGLISH✯ 2025",The Correspondent (2025)
@@ -39905,6 +39905,20 @@ http://filex.me:8080/movie/shafiq02/1234/876336.mp4
 http://filex.me:8080/movie/shafiq02/1234/876335.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Sex Tape (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pFdS7SIdjcrYXtf141dabWVly9B.jpg" group-title="✯ENGLISH✯ 2014-2015",Sex Tape (2014)
 http://filex.me:8080/movie/shafiq02/1234/876334.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bhartha Mahasayulaku Wignyapthi (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3QoTnvsbIAAWVXpfHzQKeEQhUi7.jpg" group-title="✯MALAYALAM✯ MIX",Bhartha Mahasayulaku Wignyapthi (2026)
+http://filex.me:8080/movie/shafiq02/1234/968658.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sukran (2026) Malayalam Audio " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4C2XqtbOE72nRM9icxzztLxHNoM.jpg" group-title="✯MALAYALAM✯ MIX",Sukran (2026) Malayalam Audio 
+http://filex.me:8080/movie/shafiq02/1234/968655.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Yogida (2026) Tamil Audio " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ccfprLLGJfkwcVkrie3PYdyCd2v.jpg" group-title="✯TAMIL✯ MIX",Yogida (2026) Tamil Audio 
+http://filex.me:8080/movie/shafiq02/1234/968652.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Couple Friendly (2026) Telugu Audio " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vyMF9P2iRXyMq49uKQUGMYXHsxi.jpg" group-title="✯TELUGU✯",Couple Friendly (2026) Telugu Audio 
+http://filex.me:8080/movie/shafiq02/1234/968646.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pookie (2026) Telugu Audio " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6b03JRKA8rSmSq8VTh3ssXSpBfr.jpg" group-title="✯TELUGU✯",Pookie (2026) Telugu Audio 
+http://filex.me:8080/movie/shafiq02/1234/968643.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nankhatai (2025) Gujrati Audio " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6VjpEgG4umBcvm6O0vYP3YGflTSvvTXuuBKxoLizM-P7X0kWfsqUQtHqm&s=10" group-title="✯GUJRATI✯ MIX",Nankhatai (2025) Gujrati Audio 
+http://filex.me:8080/movie/shafiq02/1234/968636.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guardian (2026) Malayalam Audio " tvg-logo="https://m.media-amazon.com/images/M/MV5BNzRhYTg5ZDQtMzQ3Ny00ZTU1LWJjNDUtOTkwZmQ4NjkxYjRkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="✯MALAYALAM✯ MIX",Guardian (2026) Malayalam Audio 
+http://filex.me:8080/movie/shafiq02/1234/968626.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Turbulence (2025) TAM+HIN+TEL+ENG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jRuiKL4S9UpLma2ZlM47xIu2gbe.jpg" group-title="✯MULTI-LANGUAGE✯",Turbulence (2025) TAM+HIN+TEL+ENG
 http://filex.me:8080/movie/shafiq02/1234/968572.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Pennum Porattum (2026) Malayalam + Hindi " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3DNAh3pwPiBBD8FHwzLPUXqs45e.jpg" group-title="✯MALAYALAM✯ MIX",Pennum Porattum (2026) Malayalam + Hindi 
@@ -49984,17 +49998,3 @@ http://filex.me:8080/movie/shafiq02/1234/902566.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Rubb Rakha (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zw6Em6RkzEaIKxr859WH1983JVu.jpg" group-title="✯PUNJABI✯ MIX",Rubb Rakha (2018)
 http://filex.me:8080/movie/shafiq02/1234/902565.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Vich Bolunga Tere (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jS8Tb7zDKUK3eto2d7pH7Fx8FL9.jpg" group-title="✯PUNJABI✯ MIX",Vich Bolunga Tere (2022)
-http://filex.me:8080/movie/shafiq02/1234/902564.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Chal Mera Putt 3 (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bfWoizkLad2nrFSmqNr3eFcbPi5.jpg" group-title="✯PUNJABI✯ MIX",Chal Mera Putt 3 (2021)
-http://filex.me:8080/movie/shafiq02/1234/902563.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lucky Scheme (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fG8NGEb8EcSzJXa5lCmT42eDJQR.jpg" group-title="✯PUNJABI✯ MIX",Lucky Scheme (2024)
-http://filex.me:8080/movie/shafiq02/1234/902562.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Aape Pein Siyappe (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3k5y93ZYz8B7A0FzvfoV3vL8bjq.jpg" group-title="✯PUNJABI✯ MIX",Aape Pein Siyappe (2021)
-http://filex.me:8080/movie/shafiq02/1234/902561.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Guru Nanak Jahaz (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aB3Rvx7S25HBog1TZuuGoqBYXoJ.jpg" group-title="✯PUNJABI✯ MIX",Guru Nanak Jahaz (2025)
-http://filex.me:8080/movie/shafiq02/1234/902560.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Jamraud (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Mqdi5H9hVjklPMMA9t9U06hrKQ.jpg" group-title="✯PUNJABI✯ MIX",Jamraud (2021)
-http://filex.me:8080/movie/shafiq02/1234/902559.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lag Gaye (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2rBUm6kiWkTWJeK2R6CHAcrLNRg.jpg" group-title="✯PUNJABI✯ MIX",Lag Gaye (2024)
-http://filex.me:8080/movie/shafiq02/1234/902558.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Aar Paar (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qo12I3aTn8gr8afuLPgQ4gmAwDt.jpg" group-title="✯PUNJABI✯ MIX",Aar Paar (2023)

@@ -8295,8 +8295,6 @@ http://filex.me:8080//live/shafiq02/1234/957597.ts
 http://filex.me:8080//live/shafiq02/1234/957599.ts
 #EXTINF:-1 tvg-id="" tvg-name="CRICKET (15) ADD FREE 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRadZGKLZnbBLJsD_4TdKBtkZQB8zATNtcEWuNLvPy2yg&s=10" group-title="T20 |✯WORLDCUP ✯2026✯",CRICKET (15) ADD FREE 1
 http://filex.me:8080//live/shafiq02/1234/959204.ts
-#EXTINF:-1 tvg-id="" tvg-name="CRICKET (16) ADD FREE 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRadZGKLZnbBLJsD_4TdKBtkZQB8zATNtcEWuNLvPy2yg&s=10" group-title="T20 |✯WORLDCUP ✯2026✯",CRICKET (16) ADD FREE 2
-http://filex.me:8080//live/shafiq02/1234/966756.ts
 #EXTINF:-1 tvg-id="" tvg-name="Dubai Racing (1080p)" tvg-logo="https://i.imgur.com/CJ1dagP.png" group-title="✯RACING Tv✯",Dubai Racing (1080p)
 http://filex.me:8080//live/shafiq02/1234/834751.ts
 #EXTINF:-1 tvg-id="" tvg-name="Dubai Racing 2 (1080p)" tvg-logo="https://i.imgur.com/H2TTn7t.png" group-title="✯RACING Tv✯",Dubai Racing 2 (1080p)
@@ -9469,7 +9467,7 @@ http://filex.me:8080//live/shafiq02/1234/495593.ts
 http://filex.me:8080//live/shafiq02/1234/495578.ts
 #EXTINF:-1 tvg-id="" tvg-name="UK: PICK HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/4ce6b75f4449f75e43a733c05820c997.png" group-title="✯UK✯ MOVIES",UK: PICK HD
 http://filex.me:8080//live/shafiq02/1234/495572.ts
-#EXTINF:-1 tvg-id="9196" tvg-name="UK: AL Jazeera HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-05/337ad0655095ee92a47b0c1c939862f2.png" group-title="✯UK✯ NEWS",UK: AL Jazeera HD
+#EXTINF:-1 tvg-id="9249" tvg-name="UK: AL Jazeera HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-05/337ad0655095ee92a47b0c1c939862f2.png" group-title="✯UK✯ NEWS",UK: AL Jazeera HD
 http://filex.me:8080//live/shafiq02/1234/495458.ts
 #EXTINF:-1 tvg-id="" tvg-name="UK: Aljazeera English HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/400ea32d496aa897658c7f1bc0fd3ef5.png" group-title="✯UK✯ NEWS",UK: Aljazeera English HD
 http://filex.me:8080//live/shafiq02/1234/495459.ts
@@ -28859,6 +28857,8 @@ http://filex.me:8080//live/shafiq02/1234/908780.ts
 http://filex.me:8080//live/shafiq02/1234/908774.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR: WANASAH HD" tvg-logo="" group-title="✯MUSIC✯اغاني",AR: WANASAH HD
 http://filex.me:8080//live/shafiq02/1234/908783.ts
+#EXTINF:-1 tvg-id="" tvg-name="Made in Korea (2026) Hindi + Tamil " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/foEObhyAMM3dxYeBEr242EdQDB7.jpg" group-title="✯NETFLIX HINDI✯",Made in Korea (2026) Hindi + Tamil 
+http://filex.me:8080/movie/shafiq02/1234/968629.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Taj Story (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6oMIAvdPWFbwowAq7Zn8unbREAY.jpg" group-title="✯BOLLYWOOD✯ 2025",The Taj Story (2025)
 http://filex.me:8080/movie/shafiq02/1234/968566.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Monday Night RAW ●9.3.2026●" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3NgDkPd7XirD3Ajeyrw28v9-eWebsELaGTuLGFLK7rEJdfpLtPV61_Go3&s=10" group-title="✯WWE✯",Monday Night RAW ●9.3.2026●
@@ -32571,6 +32571,8 @@ http://filex.me:8080/movie/shafiq02/1234/851462.mp4
 http://filex.me:8080/movie/shafiq02/1234/851461.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Mohra (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nWAptaCNiTIJtv9cYqfF5E7qm0I.jpg" group-title="✯BOLLYWOOD✯ 90s",Mohra (1994)
 http://filex.me:8080/movie/shafiq02/1234/685811.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Good Fortune (2025) Hindi Audio " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rywxUbd4zvHiRP7nOHeDzuQSLIZ.jpg" group-title="✯HINDI✯DUB HOLLYWOOD 2025",Good Fortune (2025) Hindi Audio 
+http://filex.me:8080/movie/shafiq02/1234/968649.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Ticket to Paradise (2022) Hindi + English " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1tzERH50P5c2mFWtLbgixzLZS1L.jpg" group-title="✯HINDI✯DUB HOLLYWOOD 2025",Ticket to Paradise (2022) Hindi + English 
 http://filex.me:8080/movie/shafiq02/1234/968481.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Turbulence (2025) Hindi + English " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jRuiKL4S9UpLma2ZlM47xIu2gbe.jpg" group-title="✯HINDI✯DUB HOLLYWOOD 2025",Turbulence (2025) Hindi + English 
@@ -49996,5 +49998,3 @@ http://filex.me:8080/movie/shafiq02/1234/888366.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Head Bush: Vol 1 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k87QaS5L4BGUPRrFVoiaegcqbOQ.jpg" group-title="✯SOUTH INDIA✯ 4K ✯MULTI✯",Head Bush: Vol 1 (2022)
 http://filex.me:8080/movie/shafiq02/1234/888365.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Pathu Thala (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rNI3Y4mfsOUpQidwBtZj9EjwImb.jpg" group-title="✯SOUTH INDIA✯ 4K ✯MULTI✯",Pathu Thala (2023)
-http://filex.me:8080/movie/shafiq02/1234/888364.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Oxygen (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dwqZxJTxfW4VcxxwJdnUf8AaUCp.jpg" group-title="✯SOUTH INDIA✯ 4K ✯MULTI✯",Oxygen (2017)
