@@ -24057,8 +24057,6 @@ http://filex.me:8080//live/shafiq02/1234/303291.ts
 http://filex.me:8080//live/shafiq02/1234/303292.ts
 #EXTINF:-1 tvg-id="eentertainment.de" tvg-name="LA: DHE HD" tvg-logo="" group-title="Latino",LA: DHE HD
 http://filex.me:8080//live/shafiq02/1234/303293.ts
-#EXTINF:-1 tvg-id="" tvg-name="LA: DirecTV Sports HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/be2180be71921c8ec968979aaeda69d5.png" group-title="Latino",LA: DirecTV Sports HD
-http://filex.me:8080//live/shafiq02/1234/303294.ts
 #EXTINF:-1 tvg-id="discoverychannel.it" tvg-name="LA: Discovery Channel HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/170f470424e5b9c40404492047bcab2d.png" group-title="Latino",LA: Discovery Channel HD
 http://filex.me:8080//live/shafiq02/1234/303295.ts
 #EXTINF:-1 tvg-id="" tvg-name="LA: Discovery Civilization HD" tvg-logo="" group-title="Latino",LA: Discovery Civilization HD
@@ -49781,6 +49779,10 @@ http://filex.me:8080/movie/shafiq02/1234/859713.mkv
 http://filex.me:8080/movie/shafiq02/1234/859712.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Chhota Bheem - Crazy Cards World _ Videos for Kids in Hindi _ Fun Kids Videos" tvg-logo="" group-title="✯CHOTA BHEEM✯",Chhota Bheem - Crazy Cards World _ Videos for Kids in Hindi _ Fun Kids Videos
 http://filex.me:8080/movie/shafiq02/1234/859711.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Parasakthi (2026) Hindi " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cpKJGYU8Z1iSXzkgDl8vhazk5EQ.jpg" group-title="✯SOUTH✯ INDIA 2026",Parasakthi (2026) Hindi 
+http://filex.me:8080/movie/shafiq02/1234/968782.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pennum Porattum ♥︎2026♥︎ Hindi + Malayalam " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3DNAh3pwPiBBD8FHwzLPUXqs45e.jpg" group-title="✯SOUTH✯ INDIA 2025",Pennum Porattum ♥︎2026♥︎ Hindi + Malayalam 
+http://filex.me:8080/movie/shafiq02/1234/968711.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Madam Sengupta (2025) Hindi + Bengali" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rBrcnPw6vuTE0jNAOKnDxuVSdkk.jpg" group-title="✯SOUTH✯ INDIA 2025",Madam Sengupta (2025) Hindi + Bengali
 http://filex.me:8080/movie/shafiq02/1234/968472.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Lockdown (2026) Hindi + Tamil " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/upUB6qQVrAQ3jUUSUkDFOfGFdQn.jpg" group-title="✯SOUTH✯ INDIA 2026",Lockdown (2026) Hindi + Tamil 
@@ -49996,5 +49998,3 @@ http://filex.me:8080/movie/shafiq02/1234/888367.mkv
 #EXTINF:-1 tvg-id="" tvg-name="My Name Is Shruthi (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8mJ83rDp2wbuUkLK2L6nHMc3McK.jpg" group-title="✯SOUTH INDIA✯ 4K ✯MULTI✯",My Name Is Shruthi (2023)
 http://filex.me:8080/movie/shafiq02/1234/888366.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Head Bush: Vol 1 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k87QaS5L4BGUPRrFVoiaegcqbOQ.jpg" group-title="✯SOUTH INDIA✯ 4K ✯MULTI✯",Head Bush: Vol 1 (2022)
-http://filex.me:8080/movie/shafiq02/1234/888365.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Pathu Thala (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rNI3Y4mfsOUpQidwBtZj9EjwImb.jpg" group-title="✯SOUTH INDIA✯ 4K ✯MULTI✯",Pathu Thala (2023)
