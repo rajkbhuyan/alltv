@@ -28851,6 +28851,8 @@ http://filex.me:8080//live/shafiq02/1234/908780.ts
 http://filex.me:8080//live/shafiq02/1234/908774.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR: WANASAH HD" tvg-logo="" group-title="✯MUSIC✯اغاني",AR: WANASAH HD
 http://filex.me:8080//live/shafiq02/1234/908783.ts
+#EXTINF:-1 tvg-id="" tvg-name="Durlabh Prasad Ki Dusri Shadi (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ukUnE8AJvt5qnYPsGwzChhFK9Ca.jpg" group-title="✯BOLLYWOOD✯ 2025",Durlabh Prasad Ki Dusri Shadi (2025)
+http://filex.me:8080/movie/shafiq02/1234/969911.mp4
 #EXTINF:-1 tvg-id="" tvg-name="• 60 FPS • Baramulla (2025) •MULTI•" tvg-logo="https://i.postimg.cc/Xvf13QST/file-0000000047847208add8283e9f22c8f2.png" group-title="60 FPS UHD  HINDI",• 60 FPS • Baramulla (2025) •MULTI•
 http://filex.me:8080/movie/shafiq02/1234/969779.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Peaky Blinders: The Immortal Man (2026) •4K• MULTI" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gRMalasZEzsZi4w2VFuYusfSfqf.jpg" group-title="✯BOLLYWOOD✯4K",Peaky Blinders: The Immortal Man (2026) •4K• MULTI
@@ -29145,8 +29147,6 @@ http://filex.me:8080/movie/shafiq02/1234/910093.mp4
 http://filex.me:8080/movie/shafiq02/1234/910084.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Ek Deewane Ki Deewaniyat (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g3R6Jugx1qetUnuoIbyKav4npZd.jpg" group-title="✯BOLLYWOOD✯ 2025",Ek Deewane Ki Deewaniyat (2025)
 http://filex.me:8080/movie/shafiq02/1234/910071.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Durlabh Prasad Ki Dusri Shadi (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ukUnE8AJvt5qnYPsGwzChhFK9Ca.jpg" group-title="✯BOLLYWOOD✯ 2025",Durlabh Prasad Ki Dusri Shadi (2025)
-http://filex.me:8080/movie/shafiq02/1234/908554.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Raat Akeli Hai: The Bansal Murders (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8EpDSwnjMBc9dmTPEYBF4Bixmwf.jpg" group-title="✯BOLLYWOOD✯ 2025",Raat Akeli Hai: The Bansal Murders (2025)
 http://filex.me:8080/movie/shafiq02/1234/905379.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Gustaakh Ishq (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/38XNajwMSbPq0NXUSwaxunMMBWd.jpg" group-title="✯BOLLYWOOD✯ 2025",Gustaakh Ishq (2025)
@@ -49811,6 +49811,10 @@ http://filex.me:8080/movie/shafiq02/1234/859713.mkv
 http://filex.me:8080/movie/shafiq02/1234/859712.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Chhota Bheem - Crazy Cards World _ Videos for Kids in Hindi _ Fun Kids Videos" tvg-logo="" group-title="✯CHOTA BHEEM✯",Chhota Bheem - Crazy Cards World _ Videos for Kids in Hindi _ Fun Kids Videos
 http://filex.me:8080/movie/shafiq02/1234/859711.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kaliyugam (2025) Multi Audio " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hRKMtcIFzJyi59PtULiKQT4vPoA.jpg" group-title="✯SOUTH INDIA✯ 4K ✯MULTI✯",Kaliyugam (2025) Multi Audio 
+http://filex.me:8080/movie/shafiq02/1234/969959.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vishnu Vinyasam (2026) Multi Audio " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ACLnlafSgtE8mlylhnWLLHfoZJ.jpg" group-title="✯SOUTH INDIA✯ 4K ✯MULTI✯",Vishnu Vinyasam (2026) Multi Audio 
+http://filex.me:8080/movie/shafiq02/1234/969956.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Diés Iraé (2025) Hindi+Malayalam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/123DlTiiezgLaJruVe7RiSi0RFf.jpg" group-title="✯SOUTH✯ INDIA 2025",Diés Iraé (2025) Hindi+Malayalam
 http://filex.me:8080/movie/shafiq02/1234/969761.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Kho Kho (2021) Hindi + Malayalam " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zyr51Gnzf2gKD84Uan8Q8SfTsWx.jpg" group-title="✯SOUTH✯ INDIA 2021-2022",Kho Kho (2021) Hindi + Malayalam 
@@ -49994,7 +49998,3 @@ http://filex.me:8080/movie/shafiq02/1234/888388.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Sankranthiki Vasthunam (2025) 4K [Multio-Audio]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gFa07KuR3tWFI6YFTeGz930zeMo.jpg" group-title="✯SOUTH INDIA✯ 4K ✯MULTI✯",Sankranthiki Vasthunam (2025) 4K [Multio-Audio]
 http://filex.me:8080/movie/shafiq02/1234/888387.mkv
 #EXTINF:-1 tvg-id="" tvg-name="MAX (2024)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzI4M2I5YzAtYmUxMy00MDg1LTljYTgtNGM0ZTkwYmI3MGQxXkEyXkFqcGc@._V1_.jpg" group-title="✯SOUTH INDIA✯ 4K ✯MULTI✯",MAX (2024)
-http://filex.me:8080/movie/shafiq02/1234/888386.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Thiru.Manickam (2024) [Multi-Audio] 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/84UUyVmkF1GZm878YthNBxaVaIy.jpg" group-title="✯SOUTH INDIA✯ 4K ✯MULTI✯",Thiru.Manickam (2024) [Multi-Audio] 4K
-http://filex.me:8080/movie/shafiq02/1234/888385.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mukundan Unni Associates™ (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7aEuV7eLbc0KXVBbtRZr1avWjSL.jpg" group-title="✯SOUTH INDIA✯ 4K ✯MULTI✯",Mukundan Unni Associates™ (2022)
