@@ -15621,6 +15621,44 @@ http://filex.me:8080//live/shafiq02/1234/301878.ts
 http://filex.me:8080//live/shafiq02/1234/301879.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR: Berbere TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/817151df42bfff63adebfc7885dd0189.png" group-title="France ➾ Food",FR: Berbere TV HD
 http://filex.me:8080//live/shafiq02/1234/301880.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ Foot" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-01/d49d78f77d93aa02508cbc68083a7be2.png" group-title="France ➾ Football",CANAL+ Foot
+http://filex.me:8080//live/shafiq02/1234/970130.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Live 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-12/cff40ccb0aa8e1203a097fc5637d28cf.png" group-title="France ➾ Football",Canal+ Live 1
+http://filex.me:8080//live/shafiq02/1234/970131.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Live 10" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-12/f753c8ad5ba8e42ca4615da5b91eb83d.png" group-title="France ➾ Football",Canal+ Live 10
+http://filex.me:8080//live/shafiq02/1234/970132.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Live 11" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="France ➾ Football",Canal+ Live 11
+http://filex.me:8080//live/shafiq02/1234/970133.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Live 12" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="France ➾ Football",Canal+ Live 12
+http://filex.me:8080//live/shafiq02/1234/970134.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Live 13" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="France ➾ Football",Canal+ Live 13
+http://filex.me:8080//live/shafiq02/1234/970135.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Live 14" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="France ➾ Football",Canal+ Live 14
+http://filex.me:8080//live/shafiq02/1234/970136.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Live 15" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="France ➾ Football",Canal+ Live 15
+http://filex.me:8080//live/shafiq02/1234/970137.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Live 16" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="France ➾ Football",Canal+ Live 16
+http://filex.me:8080//live/shafiq02/1234/970138.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Live 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-12/d2cf864d90c352428340c255874710d2.png" group-title="France ➾ Football",Canal+ Live 2
+http://filex.me:8080//live/shafiq02/1234/970139.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Live 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-12/b459e6c6efb500f19533a9d78805188f.png" group-title="France ➾ Football",Canal+ Live 3
+http://filex.me:8080//live/shafiq02/1234/970140.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Live 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-12/f17307b554087ad2f3424ad7b1b6bb5d.png" group-title="France ➾ Football",Canal+ Live 4
+http://filex.me:8080//live/shafiq02/1234/970141.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Live 5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-12/afc72039859fc189cfa02455ff230669.png" group-title="France ➾ Football",Canal+ Live 5
+http://filex.me:8080//live/shafiq02/1234/970142.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Live 6" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-12/72163089a27950c03fa8cd513c998b6a.png" group-title="France ➾ Football",Canal+ Live 6
+http://filex.me:8080//live/shafiq02/1234/970143.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Live 7" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-12/895feef3f5488bc24efe899d8a252ec4.png" group-title="France ➾ Football",Canal+ Live 7
+http://filex.me:8080//live/shafiq02/1234/970144.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Live 8" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-12/af031e693cbe459766c1776388994e86.png" group-title="France ➾ Football",Canal+ Live 8
+http://filex.me:8080//live/shafiq02/1234/970145.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Live 9" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-12/b84c28fef29a883446fb98c4fd63b310.png" group-title="France ➾ Football",Canal+ Live 9
+http://filex.me:8080//live/shafiq02/1234/970146.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ Premier League" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/7818fcb393391e3a63a512f8a92f0b7e.png" group-title="France ➾ Football",CANAL+ Premier League
+http://filex.me:8080//live/shafiq02/1234/970147.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-08/7aefbb0cf5cf2dd8bfc55516e278cb6f.png" group-title="France ➾ Football",DAZN 1
+http://filex.me:8080//live/shafiq02/1234/970148.ts
 #EXTINF:-1 tvg-id="" tvg-name="IT: 111 TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/1a28cd4aaf23f9982cd9a949e152adeb.png" group-title="Italy",IT: 111 TV HD
 http://filex.me:8080//live/shafiq02/1234/293009.ts
 #EXTINF:-1 tvg-id="" tvg-name="IT: ALTO Adige TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/73b685f41f7acfe7753a7c3b64c53063.png" group-title="Italy",IT: ALTO Adige TV HD
@@ -28853,12 +28891,12 @@ http://filex.me:8080//live/shafiq02/1234/908780.ts
 http://filex.me:8080//live/shafiq02/1234/908774.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR: WANASAH HD" tvg-logo="" group-title="✯MUSIC✯اغاني",AR: WANASAH HD
 http://filex.me:8080//live/shafiq02/1234/908783.ts
+#EXTINF:-1 tvg-id="" tvg-name="Monday Night RAW 23.3.2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREIbgz-Xfs7cJGFCSVSnpGk7y_zUgztXS_VfRrFqbMpLWLPrXsZ_Th3LA&s=10" group-title="✯WWE✯",Monday Night RAW 23.3.2026
+http://filex.me:8080/movie/shafiq02/1234/970125.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Durlabh Prasad Ki Dusri Shadi (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ukUnE8AJvt5qnYPsGwzChhFK9Ca.jpg" group-title="✯BOLLYWOOD✯ 2025",Durlabh Prasad Ki Dusri Shadi (2025)
 http://filex.me:8080/movie/shafiq02/1234/969911.mp4
 #EXTINF:-1 tvg-id="" tvg-name="• 60 FPS • Baramulla (2025) •MULTI•" tvg-logo="https://i.postimg.cc/Xvf13QST/file-0000000047847208add8283e9f22c8f2.png" group-title="60 FPS UHD  HINDI",• 60 FPS • Baramulla (2025) •MULTI•
 http://filex.me:8080/movie/shafiq02/1234/969779.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Peaky Blinders: The Immortal Man (2026) •4K• MULTI" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gRMalasZEzsZi4w2VFuYusfSfqf.jpg" group-title="✯BOLLYWOOD✯4K",Peaky Blinders: The Immortal Man (2026) •4K• MULTI
-http://filex.me:8080/movie/shafiq02/1234/969740.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Peaky Blinders: The Immortal Man (2026) HIN+ENG ( NR)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gRMalasZEzsZi4w2VFuYusfSfqf.jpg" group-title="✯NETFLIX HINDI✯",Peaky Blinders: The Immortal Man (2026) HIN+ENG ( NR)
 http://filex.me:8080/movie/shafiq02/1234/969734.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Border 2 (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AmrCgmDPEJ6QxllS1rhjYwgO9Wb.jpg" group-title="✯BOLLYWOOD✯ 2026",Border 2 (2026)
@@ -32581,6 +32619,10 @@ http://filex.me:8080/movie/shafiq02/1234/851462.mp4
 http://filex.me:8080/movie/shafiq02/1234/851461.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Mohra (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nWAptaCNiTIJtv9cYqfF5E7qm0I.jpg" group-title="✯BOLLYWOOD✯ 90s",Mohra (1994)
 http://filex.me:8080/movie/shafiq02/1234/685811.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Rise of the Red Hot Chili Peppers: Our Brother, Hillel (2025) Hindi Audio " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y9hHoO3eB7l3ZjYUZoJUJpZW22V.jpg" group-title="✯HINDI✯DUB HOLLYWOOD 2025",The Rise of the Red Hot Chili Peppers: Our Brother, Hillel (2025) Hindi Audio 
+http://filex.me:8080/movie/shafiq02/1234/970437.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pretty Lethal (2026) HIN + ENG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/znTPnXCK3lEQJgqXCvP7e5FUz6f.jpg" group-title="✯HINDI✯DUB HOLLYWOOD 2026",Pretty Lethal (2026) HIN + ENG
+http://filex.me:8080/movie/shafiq02/1234/970363.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Agent Zeta (2026) HIN+ENG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1cKLG9KMoCjsgFB8Nw1EuglteVi.jpg" group-title="✯HINDI✯DUB HOLLYWOOD 2026",Agent Zeta (2026) HIN+ENG
 http://filex.me:8080/movie/shafiq02/1234/969737.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Preschool (2026) Hindi + English " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o6JYj1sZDdLgKb6GW39AfGfrGhw.jpg" group-title="✯HINDI✯DUB HOLLYWOOD 2026",Preschool (2026) Hindi + English 
@@ -44915,6 +44957,8 @@ http://filex.me:8080/movie/shafiq02/1234/959384.mkv
 http://filex.me:8080/movie/shafiq02/1234/959376.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Kune Dil Dene AA _ Chiriya Queen _ New Dance 2021 _ Shaheen Studio Pak" tvg-logo="" group-title="✯MUJRA✯ CHIRYA QUEEN",Kune Dil Dene AA _ Chiriya Queen _ New Dance 2021 _ Shaheen Studio Pak
 http://filex.me:8080/movie/shafiq02/1234/959367.mkv
+#EXTINF:-1 tvg-id="" tvg-name="GOAT (2026) Hindi + English " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg" group-title="✯KID HINDI✯",GOAT (2026) Hindi + English 
+http://filex.me:8080/movie/shafiq02/1234/970128.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Boonie Bears: Homeward Journey (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p6a5bA8rDA6g2da60jfDO4vAFjB.jpg" group-title="✯KID HINDI✯",Boonie Bears: Homeward Journey (2013)
 http://filex.me:8080/movie/shafiq02/1234/959265.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Pets on a Train (2025) Hindi Audio " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b10qy1KwrfmH0MGS2rBUJ0BxgYB.jpg" group-title="✯KID HINDI✯",Pets on a Train (2025) Hindi Audio 
@@ -49954,47 +49998,3 @@ http://filex.me:8080/movie/shafiq02/1234/910739.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Not All Movies Are the Same: Dual (2025)  [Multi Audio]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wgun5MR55pkNyN90cux7czWGw5e.jpg" group-title="✯SOUTH✯ INDIA 2025",Not All Movies Are the Same: Dual (2025)  [Multi Audio]
 http://filex.me:8080/movie/shafiq02/1234/910738.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Elaichi Ek Prem Katha (2026)  [Hindi Audio] 18+" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uaHRJYzURYiNyZmF0p0bTiQMpOK.jpg" group-title="✯SOUTH✯ INDIA 2026",Elaichi Ek Prem Katha (2026)  [Hindi Audio] 18+
-http://filex.me:8080/movie/shafiq02/1234/910731.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mukkam Post Devach Ghar (2025) [Multi Audio]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7sBQwuyel1EaJCVcexh5xWEOiWv.jpg" group-title="✯SOUTH✯ INDIA 2025",Mukkam Post Devach Ghar (2025) [Multi Audio]
-http://filex.me:8080/movie/shafiq02/1234/910569.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Am Ah (2025) Hindi Audio " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lsaplzFtU6dADWG9Sj2aneh2Ymx.jpg" group-title="✯SOUTH✯ INDIA 2025",Am Ah (2025) Hindi Audio 
-http://filex.me:8080/movie/shafiq02/1234/910385.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Nalla Nilavulla Rathri (2023) Hindi Audio " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jGKnyNgzcq5o6W7hkBj1VJto2y9.jpg" group-title="✯SOUTH✯ INDIA 2023-2024",Nalla Nilavulla Rathri (2023) Hindi Audio 
-http://filex.me:8080/movie/shafiq02/1234/910351.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mandali (2023) Hindi Audio " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gWrufWfHj4iFehZzefbvBlO34Pw.jpg" group-title="✯SOUTH✯ INDIA 2023-2024",Mandali (2023) Hindi Audio 
-http://filex.me:8080/movie/shafiq02/1234/910339.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Vrusshabha (2025) Hindi Audio " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hRKxGHeQBdwKswKgkmDrrMCDqoQ.jpg" group-title="✯SOUTH✯ INDIA 2025",Vrusshabha (2025) Hindi Audio 
-http://filex.me:8080/movie/shafiq02/1234/910304.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Love U Muddu (2025) Hindi " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1c400UHZu3aqRPqOZlcHm7crliB.jpg" group-title="✯SOUTH✯ INDIA 2025",Love U Muddu (2025) Hindi 
-http://filex.me:8080/movie/shafiq02/1234/910114.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Vritta (2025) Hindi Audio " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oNPao9volH0jAA1jULlQ6hCOmAe.jpg" group-title="✯SOUTH✯ INDIA 2025",Vritta (2025) Hindi Audio 
-http://filex.me:8080/movie/shafiq02/1234/910111.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Andhra King Taluka (2025) Hindi Audio " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e1lNI9dZKar0JN9iNuDeUhCZcwL.jpg" group-title="✯SOUTH✯ INDIA 2025",Andhra King Taluka (2025) Hindi Audio 
-http://filex.me:8080/movie/shafiq02/1234/910105.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rehna Nahi Bin Tere (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ySousuB9vIjAhSNVd0KKjAXWww.jpg" group-title="✯SOUTH✯ INDIA 2025",Rehna Nahi Bin Tere (2025)
-http://filex.me:8080/movie/shafiq02/1234/908999.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Date with Saie (2025) Hindi Audio " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x9VjMlxYcBEdzKHkYggH2GbZBR.jpg" group-title="✯SOUTH✯ INDIA 2025",Date with Saie (2025) Hindi Audio 
-http://filex.me:8080/movie/shafiq02/1234/908967.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mass Jathara (2025) Hindi Audio" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjA5ZTZmNDctMzFlNi00ZjE1LTkzMDgtOTkzMGQ3NDcwZDU4XkEyXkFqcGc@._V1_.jpg" group-title="✯SOUTH✯ INDIA 2025",Mass Jathara (2025) Hindi Audio
-http://filex.me:8080/movie/shafiq02/1234/908961.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mamta Child Factory (2025) Hindi Audio" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Jt0Phg221heM8DJtWYyBYPZTr8.jpg" group-title="✯SOUTH✯ INDIA 2025",Mamta Child Factory (2025) Hindi Audio
-http://filex.me:8080/movie/shafiq02/1234/905367.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ekō (2025) Hindi Audio" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wwTRcagd2QZ36JuFQnWBbXs40YM.jpg" group-title="✯SOUTH✯ INDIA 2025",Ekō (2025) Hindi Audio
-http://filex.me:8080/movie/shafiq02/1234/905295.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rudra Thandavam (2021) Hindi Audio" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/laGleOgbZxESGGzbWD70xnDgRul.jpg" group-title="✯SOUTH✯ INDIA 2021-2022",Rudra Thandavam (2021) Hindi Audio
-http://filex.me:8080/movie/shafiq02/1234/905292.mp4
-#EXTINF:-1 tvg-id="" tvg-name="K-Ramp (2025) [Multi Audio]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vgnjJdGLY2TIxZsG6s8LCVELh8T.jpg" group-title="✯SOUTH✯ INDIA 2025",K-Ramp (2025) [Multi Audio]
-http://filex.me:8080/movie/shafiq02/1234/905222.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Kaantha (2025) Hindi " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a6A0CvOMUUbQNfgkRSPqf5JMpsU.jpg" group-title="✯SOUTH✯ INDIA 2025",Kaantha (2025) Hindi 
-http://filex.me:8080/movie/shafiq02/1234/905199.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Aaryan (2025) [Multi Audio]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rRjh3zumdW89fNMe4tdjmALB1xG.jpg" group-title="✯SOUTH✯ INDIA 2025",Aaryan (2025) [Multi Audio]
-http://filex.me:8080/movie/shafiq02/1234/904640.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Maaman (2025) [Multi Audio]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a0BsRj9qQu8L2arBAHcbbfrVrB7.jpg" group-title="✯SOUTH✯ INDIA 2025",Maaman (2025) [Multi Audio]
-http://filex.me:8080/movie/shafiq02/1234/904639.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jatadhara (2025)  [Multi Audio]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/91aJa79gHiTUWh86XFRMaD2MGjj.jpg" group-title="✯SOUTH✯ INDIA 2025",Jatadhara (2025)  [Multi Audio]
-http://filex.me:8080/movie/shafiq02/1234/904638.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Girlfriend (2025)  [Multi Audio]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vcGeERDrMBVihLaxbFbj5pK3kgL.jpg" group-title="✯SOUTH✯ INDIA 2025",The Girlfriend (2025)  [Multi Audio]
-http://filex.me:8080/movie/shafiq02/1234/904637.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Prince and Family (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bsFg2yv4zeOSbch0K3xxObrvux1.jpg" group-title="✯SOUTH INDIA✯MULTI AUDIO✯",Prince and Family (2025)
-http://filex.me:8080/movie/shafiq02/1234/888391.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Alappuzha Gymkhana (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q4OwzcY6r2L1M1S6uYzmtzjwAqX.jpg" group-title="✯SOUTH INDIA✯MULTI AUDIO✯",Alappuzha Gymkhana (2025)
