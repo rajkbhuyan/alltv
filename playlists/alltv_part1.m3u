@@ -28891,6 +28891,10 @@ http://filex.me:8080//live/shafiq02/1234/908780.ts
 http://filex.me:8080//live/shafiq02/1234/908774.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR: WANASAH HD" tvg-logo="" group-title="✯MUSIC✯اغاني",AR: WANASAH HD
 http://filex.me:8080//live/shafiq02/1234/908783.ts
+#EXTINF:-1 tvg-id="" tvg-name="WWE NXT 4.3.2026" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/NXT_Vengeance_Day_2026_Poster.jpeg" group-title="✯WWE✯",WWE NXT 4.3.2026
+http://filex.me:8080/movie/shafiq02/1234/970676.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O' Romeo (2026) FHD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aTnIGrfVv03FIDsNDuabNsp9yFM.jpg" group-title="✯BOLLYWOOD✯ 2026",O' Romeo (2026) FHD
+http://filex.me:8080/movie/shafiq02/1234/970673.mp4
 #EXTINF:-1 tvg-id="" tvg-name="O Romeo (2026) HD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aTnIGrfVv03FIDsNDuabNsp9yFM.jpg" group-title="✯BOLLYWOOD✯ 2026",O Romeo (2026) HD
 http://filex.me:8080/movie/shafiq02/1234/970502.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Mardaani 3 (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jLo8qcDOw9CD1COzMLBouOqHtqX.jpg" group-title="✯BOLLYWOOD✯ 2026",Mardaani 3 (2026)
@@ -49994,7 +49998,3 @@ http://filex.me:8080/movie/shafiq02/1234/910783.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Others (2025) [Multi Audio]" tvg-logo="https://pbs.twimg.com/media/G5IxITpbIAM6UpV?format=jpg&name=900x900" group-title="✯SOUTH✯ INDIA 2025",Others (2025) [Multi Audio]
 http://filex.me:8080/movie/shafiq02/1234/910739.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Not All Movies Are the Same: Dual (2025)  [Multi Audio]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wgun5MR55pkNyN90cux7czWGw5e.jpg" group-title="✯SOUTH✯ INDIA 2025",Not All Movies Are the Same: Dual (2025)  [Multi Audio]
-http://filex.me:8080/movie/shafiq02/1234/910738.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Elaichi Ek Prem Katha (2026)  [Hindi Audio] 18+" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uaHRJYzURYiNyZmF0p0bTiQMpOK.jpg" group-title="✯SOUTH✯ INDIA 2026",Elaichi Ek Prem Katha (2026)  [Hindi Audio] 18+
-http://filex.me:8080/movie/shafiq02/1234/910731.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mukkam Post Devach Ghar (2025) [Multi Audio]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7sBQwuyel1EaJCVcexh5xWEOiWv.jpg" group-title="✯SOUTH✯ INDIA 2025",Mukkam Post Devach Ghar (2025) [Multi Audio]
