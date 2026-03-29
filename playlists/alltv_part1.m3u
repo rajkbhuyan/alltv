@@ -313,20 +313,6 @@ http://filex.me:8080//live/shafiq02/1234/303596.ts
 http://filex.me:8080//live/shafiq02/1234/303597.ts
 #EXTINF:-1 tvg-id="" tvg-name="NL: XITE HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/08e0f3fc7bb2f2dd60a0fc1c4de69b21.png" group-title="Netherlands ➾ Music",NL: XITE HD
 http://filex.me:8080//live/shafiq02/1234/303598.ts
-#EXTINF:-1 tvg-id="" tvg-name="✯CHOTA BHEEM✯8" tvg-logo="https://i.ibb.co/k2fw0nL7/IMG-0155.jpg" group-title="✯CARTOON NETWORK✯ 24/7",✯CHOTA BHEEM✯8
-http://filex.me:8080//live/shafiq02/1234/966960.ts
-#EXTINF:-1 tvg-id="" tvg-name="✯CHOTA BHEEM✯7" tvg-logo="https://i.ibb.co/k2fw0nL7/IMG-0155.jpg" group-title="✯CARTOON NETWORK✯ 24/7",✯CHOTA BHEEM✯7
-http://filex.me:8080//live/shafiq02/1234/966959.ts
-#EXTINF:-1 tvg-id="" tvg-name="✯CHOTA BHEEM✯9" tvg-logo="https://i.ibb.co/k2fw0nL7/IMG-0155.jpg" group-title="✯CARTOON NETWORK✯ 24/7",✯CHOTA BHEEM✯9
-http://filex.me:8080//live/shafiq02/1234/966961.ts
-#EXTINF:-1 tvg-id="" tvg-name="✯CHOTA BHEEM✯10" tvg-logo="https://i.ibb.co/k2fw0nL7/IMG-0155.jpg" group-title="✯CARTOON NETWORK✯ 24/7",✯CHOTA BHEEM✯10
-http://filex.me:8080//live/shafiq02/1234/966962.ts
-#EXTINF:-1 tvg-id="" tvg-name="✯CHOTA BHEEM✯6" tvg-logo="https://i.ibb.co/k2fw0nL7/IMG-0155.jpg" group-title="✯CARTOON NETWORK✯ 24/7",✯CHOTA BHEEM✯6
-http://filex.me:8080//live/shafiq02/1234/966958.ts
-#EXTINF:-1 tvg-id="" tvg-name="✯CHOTA BHEEM✯5" tvg-logo="https://i.ibb.co/k2fw0nL7/IMG-0155.jpg" group-title="✯CARTOON NETWORK✯ 24/7",✯CHOTA BHEEM✯5
-http://filex.me:8080//live/shafiq02/1234/966957.ts
-#EXTINF:-1 tvg-id="" tvg-name="✯CHOTA BHEEM✯4" tvg-logo="https://i.ibb.co/k2fw0nL7/IMG-0155.jpg" group-title="✯CARTOON NETWORK✯ 24/7",✯CHOTA BHEEM✯4
-http://filex.me:8080//live/shafiq02/1234/966956.ts
 #EXTINF:-1 tvg-id="" tvg-name="CInemania Malayalam 1 FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="✯IND✯ MALAYALAM 24/7",CInemania Malayalam 1 FHD
 http://filex.me:8080//live/shafiq02/1234/507277.ts
 #EXTINF:-1 tvg-id="" tvg-name="CInemania Malayalam 2 FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="✯IND✯ MALAYALAM 24/7",CInemania Malayalam 2 FHD
@@ -1513,6 +1499,20 @@ http://filex.me:8080//live/shafiq02/1234/507593.ts
 http://filex.me:8080//live/shafiq02/1234/507594.ts
 #EXTINF:-1 tvg-id="" tvg-name="AZ: Thriller Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="✯AMAZONE✯ 24/7",AZ: Thriller Movies HD
 http://filex.me:8080//live/shafiq02/1234/507595.ts
+#EXTINF:-1 tvg-id="" tvg-name="✯CHOTA BHEEM✯4" tvg-logo="https://i.ibb.co/k2fw0nL7/IMG-0155.jpg" group-title="✯CARTOON NETWORK✯ 24/7",✯CHOTA BHEEM✯4
+http://filex.me:8080//live/shafiq02/1234/966956.ts
+#EXTINF:-1 tvg-id="" tvg-name="✯CHOTA BHEEM✯5" tvg-logo="https://i.ibb.co/k2fw0nL7/IMG-0155.jpg" group-title="✯CARTOON NETWORK✯ 24/7",✯CHOTA BHEEM✯5
+http://filex.me:8080//live/shafiq02/1234/966957.ts
+#EXTINF:-1 tvg-id="" tvg-name="✯CHOTA BHEEM✯6" tvg-logo="https://i.ibb.co/k2fw0nL7/IMG-0155.jpg" group-title="✯CARTOON NETWORK✯ 24/7",✯CHOTA BHEEM✯6
+http://filex.me:8080//live/shafiq02/1234/966958.ts
+#EXTINF:-1 tvg-id="" tvg-name="✯CHOTA BHEEM✯7" tvg-logo="https://i.ibb.co/k2fw0nL7/IMG-0155.jpg" group-title="✯CARTOON NETWORK✯ 24/7",✯CHOTA BHEEM✯7
+http://filex.me:8080//live/shafiq02/1234/966959.ts
+#EXTINF:-1 tvg-id="" tvg-name="✯CHOTA BHEEM✯8" tvg-logo="https://i.ibb.co/k2fw0nL7/IMG-0155.jpg" group-title="✯CARTOON NETWORK✯ 24/7",✯CHOTA BHEEM✯8
+http://filex.me:8080//live/shafiq02/1234/966960.ts
+#EXTINF:-1 tvg-id="" tvg-name="✯CHOTA BHEEM✯9" tvg-logo="https://i.ibb.co/k2fw0nL7/IMG-0155.jpg" group-title="✯CARTOON NETWORK✯ 24/7",✯CHOTA BHEEM✯9
+http://filex.me:8080//live/shafiq02/1234/966961.ts
+#EXTINF:-1 tvg-id="" tvg-name="✯CHOTA BHEEM✯10" tvg-logo="https://i.ibb.co/k2fw0nL7/IMG-0155.jpg" group-title="✯CARTOON NETWORK✯ 24/7",✯CHOTA BHEEM✯10
+http://filex.me:8080//live/shafiq02/1234/966962.ts
 #EXTINF:-1 tvg-id="" tvg-name="✯CHOTA BHEEM✯1" tvg-logo="https://i.ibb.co/k2fw0nL7/IMG-0155.jpg" group-title="✯CARTOON NETWORK✯ 24/7",✯CHOTA BHEEM✯1
 http://filex.me:8080//live/shafiq02/1234/966953.ts
 #EXTINF:-1 tvg-id="" tvg-name="✯CHOTA BHEEM✯2" tvg-logo="https://i.ibb.co/k2fw0nL7/IMG-0155.jpg" group-title="✯CARTOON NETWORK✯ 24/7",✯CHOTA BHEEM✯2
@@ -8175,8 +8175,6 @@ http://filex.me:8080//live/shafiq02/1234/956841.ts
 http://filex.me:8080//live/shafiq02/1234/956842.ts
 #EXTINF:-1 tvg-id="" tvg-name="4K | TNT Sports Ultimate" tvg-logo="https://i.ibb.co/bFsVvq4/TNTSports4-K.png" group-title="SPORTS | ALL",4K | TNT Sports Ultimate
 http://filex.me:8080//live/shafiq02/1234/956843.ts
-#EXTINF:-1 tvg-id="" tvg-name="IN | WILLOW EXTRA" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2BVjsBNkxdiMiGIpQMA6V%2Fz%2FPQvrkDCzssXwhkug62NpVSuVWgZr3mn" group-title="✯CRICKET✯",IN | WILLOW EXTRA
-http://filex.me:8080//live/shafiq02/1234/970119.ts
 #EXTINF:-1 tvg-id="DD.Sports.in" tvg-name="PK | PTV Sports SD" tvg-logo="https://www.lyngsat.com/logo/tv/pp/ptv_sports_pk.png" group-title="✯CRICKET✯",PK | PTV Sports SD
 http://filex.me:8080//live/shafiq02/1234/250211.ts
 #EXTINF:-1 tvg-id="DD.Sports.in" tvg-name="PK | PTV Sports HD" tvg-logo="https://www.lyngsat.com/logo/tv/pp/ptv_sports_pk.png" group-title="✯CRICKET✯",PK | PTV Sports HD
@@ -8223,6 +8221,8 @@ http://filex.me:8080//live/shafiq02/1234/453435.ts
 http://filex.me:8080//live/shafiq02/1234/451415.ts
 #EXTINF:-1 tvg-id="" tvg-name="IN | Willow Cricket HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/b8b56a633aad6900e1565ed87811f342.png" group-title="✯CRICKET✯",IN | Willow Cricket HD
 http://filex.me:8080//live/shafiq02/1234/52109.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN | WILLOW EXTRA" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2BVjsBNkxdiMiGIpQMA6V%2Fz%2FPQvrkDCzssXwhkug62NpVSuVWgZr3mn" group-title="✯CRICKET✯",IN | WILLOW EXTRA
+http://filex.me:8080//live/shafiq02/1234/970119.ts
 #EXTINF:-1 tvg-id="" tvg-name="AF | Super Sports Cricket  HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/5b9d9ddbf95526d59c2fdd6725253646.png" group-title="✯CRICKET✯",AF | Super Sports Cricket  HD
 http://filex.me:8080//live/shafiq02/1234/53044.ts
 #EXTINF:-1 tvg-id="" tvg-name="NZ | SKY Sports Cricket FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGblnHUtV4s3-_Xsa4X3AUO3pKnjfoFoZRxA&usqp=CAU" group-title="✯CRICKET✯",NZ | SKY Sports Cricket FHD
@@ -8263,15 +8263,15 @@ http://filex.me:8080//live/shafiq02/1234/957587.ts
 http://filex.me:8080//live/shafiq02/1234/957585.ts
 #EXTINF:-1 tvg-id="" tvg-name="Star Sports 2 Tamil" tvg-logo="http://vplay.site:2052/images/GD0DlYEWdxuSDJvaq2JMW_aIwFEED3aCuhEk7U-L01T1MXrXqWxOsCq8Kmtddz5M.png" group-title="✯CRICKET✯",Star Sports 2 Tamil
 http://filex.me:8080//live/shafiq02/1234/957584.ts
-#EXTINF:-1 tvg-id="" tvg-name="CRICKET (1)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStx7da_qa94FyoeuOHp7jhGWruG_Xw4KO8pEXlHLQgNT5Q8Jjtke-0mX8&s=10" group-title="PSL |✯ CHAMPION LEAGUE ✯2026✯",CRICKET (1)
+#EXTINF:-1 tvg-id="" tvg-name="CRICKET (1)English1Ads Free ( Match Time Only )" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStx7da_qa94FyoeuOHp7jhGWruG_Xw4KO8pEXlHLQgNT5Q8Jjtke-0mX8&s=10" group-title="PSL |✯ CHAMPION LEAGUE ✯2026✯",CRICKET (1)English1Ads Free ( Match Time Only )
 http://filex.me:8080//live/shafiq02/1234/905187.ts
-#EXTINF:-1 tvg-id="" tvg-name="CRICKET (2)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStx7da_qa94FyoeuOHp7jhGWruG_Xw4KO8pEXlHLQgNT5Q8Jjtke-0mX8&s=10" group-title="PSL |✯ CHAMPION LEAGUE ✯2026✯",CRICKET (2)
+#EXTINF:-1 tvg-id="" tvg-name="CRICKET (2) Urdu 1 Ads Free ( Match Time Only) " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStx7da_qa94FyoeuOHp7jhGWruG_Xw4KO8pEXlHLQgNT5Q8Jjtke-0mX8&s=10" group-title="PSL |✯ CHAMPION LEAGUE ✯2026✯",CRICKET (2) Urdu 1 Ads Free ( Match Time Only) 
 http://filex.me:8080//live/shafiq02/1234/905190.ts
 #EXTINF:-1 tvg-id="" tvg-name="CRICKET (3)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStx7da_qa94FyoeuOHp7jhGWruG_Xw4KO8pEXlHLQgNT5Q8Jjtke-0mX8&s=10" group-title="PSL |✯ CHAMPION LEAGUE ✯2026✯",CRICKET (3)
 http://filex.me:8080//live/shafiq02/1234/905193.ts
-#EXTINF:-1 tvg-id="" tvg-name="CRICKET (4)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStx7da_qa94FyoeuOHp7jhGWruG_Xw4KO8pEXlHLQgNT5Q8Jjtke-0mX8&s=10" group-title="PSL |✯ CHAMPION LEAGUE ✯2026✯",CRICKET (4)
+#EXTINF:-1 tvg-id="" tvg-name="CRICKET (4) Urdu 2  ( Match Time Only)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStx7da_qa94FyoeuOHp7jhGWruG_Xw4KO8pEXlHLQgNT5Q8Jjtke-0mX8&s=10" group-title="PSL |✯ CHAMPION LEAGUE ✯2026✯",CRICKET (4) Urdu 2  ( Match Time Only)
 http://filex.me:8080//live/shafiq02/1234/911332.ts
-#EXTINF:-1 tvg-id="" tvg-name="CIRCKET (5) ADD FREE URDU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStx7da_qa94FyoeuOHp7jhGWruG_Xw4KO8pEXlHLQgNT5Q8Jjtke-0mX8&s=10" group-title="PSL |✯ CHAMPION LEAGUE ✯2026✯",CIRCKET (5) ADD FREE URDU
+#EXTINF:-1 tvg-id="" tvg-name="CIRCKET (5) English 2 Ads Free ( Match Time Only )" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStx7da_qa94FyoeuOHp7jhGWruG_Xw4KO8pEXlHLQgNT5Q8Jjtke-0mX8&s=10" group-title="PSL |✯ CHAMPION LEAGUE ✯2026✯",CIRCKET (5) English 2 Ads Free ( Match Time Only )
 http://filex.me:8080//live/shafiq02/1234/911334.ts
 #EXTINF:-1 tvg-id="" tvg-name="CIRCKET (6)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStx7da_qa94FyoeuOHp7jhGWruG_Xw4KO8pEXlHLQgNT5Q8Jjtke-0mX8&s=10" group-title="PSL |✯ CHAMPION LEAGUE ✯2026✯",CIRCKET (6)
 http://filex.me:8080//live/shafiq02/1234/957575.ts
@@ -8279,19 +8279,19 @@ http://filex.me:8080//live/shafiq02/1234/957575.ts
 http://filex.me:8080//live/shafiq02/1234/957576.ts
 #EXTINF:-1 tvg-id="" tvg-name="CIRCKET (8)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStx7da_qa94FyoeuOHp7jhGWruG_Xw4KO8pEXlHLQgNT5Q8Jjtke-0mX8&s=10" group-title="PSL |✯ CHAMPION LEAGUE ✯2026✯",CIRCKET (8)
 http://filex.me:8080//live/shafiq02/1234/957577.ts
-#EXTINF:-1 tvg-id="" tvg-name="CRICKET (9)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRadZGKLZnbBLJsD_4TdKBtkZQB8zATNtcEWuNLvPy2yg&s=10" group-title="PSL |✯ CHAMPION LEAGUE ✯2026✯",CRICKET (9)
+#EXTINF:-1 tvg-id="" tvg-name="CRICKET (9)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStx7da_qa94FyoeuOHp7jhGWruG_Xw4KO8pEXlHLQgNT5Q8Jjtke-0mX8&s=10" group-title="PSL |✯ CHAMPION LEAGUE ✯2026✯",CRICKET (9)
 http://filex.me:8080//live/shafiq02/1234/957578.ts
-#EXTINF:-1 tvg-id="" tvg-name="CRICKET (10)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRadZGKLZnbBLJsD_4TdKBtkZQB8zATNtcEWuNLvPy2yg&s=10" group-title="PSL |✯ CHAMPION LEAGUE ✯2026✯",CRICKET (10)
+#EXTINF:-1 tvg-id="" tvg-name="CRICKET (10)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStx7da_qa94FyoeuOHp7jhGWruG_Xw4KO8pEXlHLQgNT5Q8Jjtke-0mX8&s=10" group-title="PSL |✯ CHAMPION LEAGUE ✯2026✯",CRICKET (10)
 http://filex.me:8080//live/shafiq02/1234/957592.ts
-#EXTINF:-1 tvg-id="" tvg-name="CRICKET (11)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRadZGKLZnbBLJsD_4TdKBtkZQB8zATNtcEWuNLvPy2yg&s=10" group-title="PSL |✯ CHAMPION LEAGUE ✯2026✯",CRICKET (11)
+#EXTINF:-1 tvg-id="" tvg-name="CRICKET (11)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStx7da_qa94FyoeuOHp7jhGWruG_Xw4KO8pEXlHLQgNT5Q8Jjtke-0mX8&s=10" group-title="PSL |✯ CHAMPION LEAGUE ✯2026✯",CRICKET (11)
 http://filex.me:8080//live/shafiq02/1234/957593.ts
-#EXTINF:-1 tvg-id="" tvg-name="CRICKET (12)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRadZGKLZnbBLJsD_4TdKBtkZQB8zATNtcEWuNLvPy2yg&s=10" group-title="PSL |✯ CHAMPION LEAGUE ✯2026✯",CRICKET (12)
+#EXTINF:-1 tvg-id="" tvg-name="CRICKET (12)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStx7da_qa94FyoeuOHp7jhGWruG_Xw4KO8pEXlHLQgNT5Q8Jjtke-0mX8&s=10" group-title="PSL |✯ CHAMPION LEAGUE ✯2026✯",CRICKET (12)
 http://filex.me:8080//live/shafiq02/1234/957594.ts
-#EXTINF:-1 tvg-id="" tvg-name="CRICKET (13)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRadZGKLZnbBLJsD_4TdKBtkZQB8zATNtcEWuNLvPy2yg&s=10" group-title="PSL |✯ CHAMPION LEAGUE ✯2026✯",CRICKET (13)
+#EXTINF:-1 tvg-id="" tvg-name="CRICKET (13)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStx7da_qa94FyoeuOHp7jhGWruG_Xw4KO8pEXlHLQgNT5Q8Jjtke-0mX8&s=10" group-title="PSL |✯ CHAMPION LEAGUE ✯2026✯",CRICKET (13)
 http://filex.me:8080//live/shafiq02/1234/957597.ts
-#EXTINF:-1 tvg-id="" tvg-name="CIRCKET (14)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRadZGKLZnbBLJsD_4TdKBtkZQB8zATNtcEWuNLvPy2yg&s=10" group-title="PSL |✯ CHAMPION LEAGUE ✯2026✯",CIRCKET (14)
+#EXTINF:-1 tvg-id="" tvg-name="CIRCKET (14)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStx7da_qa94FyoeuOHp7jhGWruG_Xw4KO8pEXlHLQgNT5Q8Jjtke-0mX8&s=10" group-title="PSL |✯ CHAMPION LEAGUE ✯2026✯",CIRCKET (14)
 http://filex.me:8080//live/shafiq02/1234/957599.ts
-#EXTINF:-1 tvg-id="" tvg-name="CRICKET (15) ADD FREE 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRadZGKLZnbBLJsD_4TdKBtkZQB8zATNtcEWuNLvPy2yg&s=10" group-title="PSL |✯ CHAMPION LEAGUE ✯2026✯",CRICKET (15) ADD FREE 1
+#EXTINF:-1 tvg-id="" tvg-name="CRICKET (15) English1Ads Free (Match Time Only)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStx7da_qa94FyoeuOHp7jhGWruG_Xw4KO8pEXlHLQgNT5Q8Jjtke-0mX8&s=10" group-title="PSL |✯ CHAMPION LEAGUE ✯2026✯",CRICKET (15) English1Ads Free (Match Time Only)
 http://filex.me:8080//live/shafiq02/1234/959204.ts
 #EXTINF:-1 tvg-id="" tvg-name="Dubai Racing (1080p)" tvg-logo="https://i.imgur.com/CJ1dagP.png" group-title="✯RACING Tv✯",Dubai Racing (1080p)
 http://filex.me:8080//live/shafiq02/1234/834751.ts
@@ -8309,6 +8309,18 @@ http://filex.me:8080//live/shafiq02/1234/834876.ts
 http://filex.me:8080//live/shafiq02/1234/834928.ts
 #EXTINF:-1 tvg-id="" tvg-name="VITAL Tennis [Not 24/7]" tvg-logo="https://i.imgur.com/RoCOuhJ.png" group-title="✯TENNIS✯",VITAL Tennis [Not 24/7]
 http://filex.me:8080//live/shafiq02/1234/834965.ts
+#EXTINF:-1 tvg-id="" tvg-name="CRicket 06 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/2025_IPL_logo.png" group-title="IPL |✯ CHAMPION LEAGUE ✯2026✯",CRicket 06 HD
+http://filex.me:8080//live/shafiq02/1234/191819.ts
+#EXTINF:-1 tvg-id="" tvg-name="CRicket 03 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/2025_IPL_logo.png" group-title="IPL |✯ CHAMPION LEAGUE ✯2026✯",CRicket 03 HD
+http://filex.me:8080//live/shafiq02/1234/178637.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cricket 01 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/2025_IPL_logo.png" group-title="IPL |✯ CHAMPION LEAGUE ✯2026✯",Cricket 01 HD
+http://filex.me:8080//live/shafiq02/1234/141872.ts
+#EXTINF:-1 tvg-id="" tvg-name="CRicket 05 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/2025_IPL_logo.png" group-title="IPL |✯ CHAMPION LEAGUE ✯2026✯",CRicket 05 HD
+http://filex.me:8080//live/shafiq02/1234/141723.ts
+#EXTINF:-1 tvg-id="" tvg-name="CRicket 02 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/2025_IPL_logo.png" group-title="IPL |✯ CHAMPION LEAGUE ✯2026✯",CRicket 02 HD
+http://filex.me:8080//live/shafiq02/1234/191878.ts
+#EXTINF:-1 tvg-id="" tvg-name="CRicket 04 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/2025_IPL_logo.png" group-title="IPL |✯ CHAMPION LEAGUE ✯2026✯",CRicket 04 HD
+http://filex.me:8080//live/shafiq02/1234/191879.ts
 #EXTINF:-1 tvg-id="" tvg-name="CRIME PATROL" tvg-logo="" group-title="✯IND✯TV SHOW 24/7",CRIME PATROL
 http://filex.me:8080//live/shafiq02/1234/955039.ts
 #EXTINF:-1 tvg-id="" tvg-name="KAPIL SHARMA SHOW 24/7" tvg-logo="" group-title="✯IND✯TV SHOW 24/7",KAPIL SHARMA SHOW 24/7
@@ -8577,46 +8589,6 @@ http://filex.me:8080//live/shafiq02/1234/957303.ts
 http://filex.me:8080//live/shafiq02/1234/957304.ts
 #EXTINF:-1 tvg-id="" tvg-name="US-Music | Concert Channel" tvg-logo="https://i.ibb.co/C7Gwzp1/Concert-HD.png" group-title="MUSIC INTERNATIONAL",US-Music | Concert Channel
 http://filex.me:8080//live/shafiq02/1234/957337.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: LFC TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/eab43347e741baa1fc960207198c8e6b.png" group-title="✯SOCCER✯ FOOTBALL",UK: LFC TV HD
-http://filex.me:8080//live/shafiq02/1234/290373.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: Multideporte HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/308b6b52210eb1295948261672554da2.png" group-title="✯SOCCER✯ FOOTBALL",ES: Multideporte HD
-http://filex.me:8080//live/shafiq02/1234/293006.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY Sports Football HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/860b7e2f2ed148c938115c734f31ef62.png" group-title="✯SOCCER✯ FOOTBALL",UK: SKY Sports Football HD
-http://filex.me:8080//live/shafiq02/1234/290377.ts
-#EXTINF:-1 tvg-id="" tvg-name="DK: V Sport GOLF HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/845f246ff9105ba49eec3b6d1c00c427.png" group-title="✯GOLF✯",DK: V Sport GOLF HD
-http://filex.me:8080//live/shafiq02/1234/333168.ts
-#EXTINF:-1 tvg-id="" tvg-name="SE: V Sport GOLF HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/0de9b5c2e3ed2fc0346a675d5bfde849.png" group-title="✯GOLF✯",SE: V Sport GOLF HD
-http://filex.me:8080//live/shafiq02/1234/333100.ts
-#EXTINF:-1 tvg-id="" tvg-name="CZ: GOLF Channel HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/5aa846ad8e3b339954183db98908c80a.png" group-title="✯GOLF✯",CZ: GOLF Channel HD
-http://filex.me:8080//live/shafiq02/1234/332957.ts
-#EXTINF:-1 tvg-id="" tvg-name="NL: Ziggo Sport GOLF HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/afe050374551a2767019f331cf74dc05.png" group-title="✯GOLF✯",NL: Ziggo Sport GOLF HD
-http://filex.me:8080//live/shafiq02/1234/303691.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: GOLF Channel HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/5901f5d9b6bb1640c6e7e8a1b44e138e.png" group-title="✯GOLF✯",PL: GOLF Channel HD
-http://filex.me:8080//live/shafiq02/1234/316237.ts
-#EXTINF:-1 tvg-id="" tvg-name="LA: GOLF Channel HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2f7cf34df9b0ceec221e79a887171cf9.png" group-title="✯GOLF✯",LA: GOLF Channel HD
-http://filex.me:8080//live/shafiq02/1234/303346.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Sport KLUB GOLF HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/913be3dd5506bb664db6b276ae3131be.png" group-title="✯GOLF✯",EX-YU: Sport KLUB GOLF HD
-http://filex.me:8080//live/shafiq02/1234/303042.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: Golf+ HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/3d5b56071d971d8a599b10a1899d5d3a.png" group-title="✯GOLF✯",FR: Golf+ HD
-http://filex.me:8080//live/shafiq02/1234/301901.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: GOLF Channel HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/004c3db0072c16475396c8bc5757637e.png" group-title="✯GOLF✯",FR: GOLF Channel HD
-http://filex.me:8080//live/shafiq02/1234/301900.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY Sport GOLF HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/4563870d73aeb6a4e7dc80094393537e.png" group-title="✯GOLF✯",DE: SKY Sport GOLF HD
-http://filex.me:8080//live/shafiq02/1234/293494.ts
-#EXTINF:-1 tvg-id="" tvg-name="US: GOLF Kingdom HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="✯GOLF✯",US: GOLF Kingdom HD
-http://filex.me:8080//live/shafiq02/1234/291057.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY Sport GOLF HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/c261a5ce9a1cba8b6aaea018f04dcf84.png" group-title="✯GOLF✯",IT: SKY Sport GOLF HD
-http://filex.me:8080//live/shafiq02/1234/293283.ts
-#EXTINF:-1 tvg-id="" tvg-name="US: GOLF Channel / NBC GOLF HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/5164471a041a09ae2a58dbfc5978f766.png" group-title="✯GOLF✯",US: GOLF Channel / NBC GOLF HD
-http://filex.me:8080//live/shafiq02/1234/291617.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY Sports GOLF HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/5acb0ff26afa4f347663d42261af36bf.png" group-title="✯GOLF✯",UK: SKY Sports GOLF HD
-http://filex.me:8080//live/shafiq02/1234/290420.ts
-#EXTINF:-1 tvg-id="" tvg-name="NL | Ziggo Sport GOLF HD" tvg-logo="https://i.imgur.com/VJy6Mjs.png" group-title="✯GOLF✯",NL | Ziggo Sport GOLF HD
-http://filex.me:8080//live/shafiq02/1234/187438.ts
-#EXTINF:-1 tvg-id="" tvg-name="30A Golf Kingdom" tvg-logo="https://golfkingdom.net/wp-content/uploads/2022/04/golf-kingdom-st.jpg" group-title="✯GOLF✯",30A Golf Kingdom
-http://filex.me:8080//live/shafiq02/1234/834694.ts
-#EXTINF:-1 tvg-id="" tvg-name="Golf Channel" tvg-logo="https://i.imgur.com/Lgux6Ik.png" group-title="✯GOLF✯",Golf Channel
-http://filex.me:8080//live/shafiq02/1234/834797.ts
 #EXTINF:-1 tvg-id="" tvg-name="Sky Comedy HD (1080p H264)" tvg-logo="http://plexflix.to/plexflix.to/picons/entertainment/entertainment-universalchannelhd.jpg" group-title="✯UK✯1",Sky Comedy HD (1080p H264)
 http://filex.me:8080//live/shafiq02/1234/957696.ts
 #EXTINF:-1 tvg-id="" tvg-name="Channel 5 +1 (SD H264)" tvg-logo="s:1:/images/Clolc7yhhL5yWQ8UIkwttSycy4xXQOSnY52qxV7zKAbuz3Ya_TxiuF0VGcc8oPSzX1Fig--hkcjfjqHvX7BIos2tgby3v83b84h0h6w-_OGm17JsX6aap5CEhlLxjUKZ.png" group-title="✯UK✯1",Channel 5 +1 (SD H264)
@@ -9741,6 +9713,46 @@ http://filex.me:8080//live/shafiq02/1234/495332.ts
 http://filex.me:8080//live/shafiq02/1234/495333.ts
 #EXTINF:-1 tvg-id="" tvg-name="UK: Zoomoo HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-04/07d619fcb6d4bacfa375dcd224e7f1e9.png" group-title="✯UK✯ KIDS",UK: Zoomoo HD
 http://filex.me:8080//live/shafiq02/1234/495334.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: LFC TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/eab43347e741baa1fc960207198c8e6b.png" group-title="✯SOCCER✯ FOOTBALL",UK: LFC TV HD
+http://filex.me:8080//live/shafiq02/1234/290373.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Multideporte HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/308b6b52210eb1295948261672554da2.png" group-title="✯SOCCER✯ FOOTBALL",ES: Multideporte HD
+http://filex.me:8080//live/shafiq02/1234/293006.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY Sports Football HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/860b7e2f2ed148c938115c734f31ef62.png" group-title="✯SOCCER✯ FOOTBALL",UK: SKY Sports Football HD
+http://filex.me:8080//live/shafiq02/1234/290377.ts
+#EXTINF:-1 tvg-id="" tvg-name="DK: V Sport GOLF HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/845f246ff9105ba49eec3b6d1c00c427.png" group-title="✯GOLF✯",DK: V Sport GOLF HD
+http://filex.me:8080//live/shafiq02/1234/333168.ts
+#EXTINF:-1 tvg-id="" tvg-name="SE: V Sport GOLF HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/0de9b5c2e3ed2fc0346a675d5bfde849.png" group-title="✯GOLF✯",SE: V Sport GOLF HD
+http://filex.me:8080//live/shafiq02/1234/333100.ts
+#EXTINF:-1 tvg-id="" tvg-name="CZ: GOLF Channel HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/5aa846ad8e3b339954183db98908c80a.png" group-title="✯GOLF✯",CZ: GOLF Channel HD
+http://filex.me:8080//live/shafiq02/1234/332957.ts
+#EXTINF:-1 tvg-id="" tvg-name="NL: Ziggo Sport GOLF HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/afe050374551a2767019f331cf74dc05.png" group-title="✯GOLF✯",NL: Ziggo Sport GOLF HD
+http://filex.me:8080//live/shafiq02/1234/303691.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: GOLF Channel HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/5901f5d9b6bb1640c6e7e8a1b44e138e.png" group-title="✯GOLF✯",PL: GOLF Channel HD
+http://filex.me:8080//live/shafiq02/1234/316237.ts
+#EXTINF:-1 tvg-id="" tvg-name="LA: GOLF Channel HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2f7cf34df9b0ceec221e79a887171cf9.png" group-title="✯GOLF✯",LA: GOLF Channel HD
+http://filex.me:8080//live/shafiq02/1234/303346.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Sport KLUB GOLF HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/913be3dd5506bb664db6b276ae3131be.png" group-title="✯GOLF✯",EX-YU: Sport KLUB GOLF HD
+http://filex.me:8080//live/shafiq02/1234/303042.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: Golf+ HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/3d5b56071d971d8a599b10a1899d5d3a.png" group-title="✯GOLF✯",FR: Golf+ HD
+http://filex.me:8080//live/shafiq02/1234/301901.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: GOLF Channel HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/004c3db0072c16475396c8bc5757637e.png" group-title="✯GOLF✯",FR: GOLF Channel HD
+http://filex.me:8080//live/shafiq02/1234/301900.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY Sport GOLF HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/4563870d73aeb6a4e7dc80094393537e.png" group-title="✯GOLF✯",DE: SKY Sport GOLF HD
+http://filex.me:8080//live/shafiq02/1234/293494.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: GOLF Kingdom HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="✯GOLF✯",US: GOLF Kingdom HD
+http://filex.me:8080//live/shafiq02/1234/291057.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: SKY Sport GOLF HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/c261a5ce9a1cba8b6aaea018f04dcf84.png" group-title="✯GOLF✯",IT: SKY Sport GOLF HD
+http://filex.me:8080//live/shafiq02/1234/293283.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: GOLF Channel / NBC GOLF HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/5164471a041a09ae2a58dbfc5978f766.png" group-title="✯GOLF✯",US: GOLF Channel / NBC GOLF HD
+http://filex.me:8080//live/shafiq02/1234/291617.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY Sports GOLF HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/5acb0ff26afa4f347663d42261af36bf.png" group-title="✯GOLF✯",UK: SKY Sports GOLF HD
+http://filex.me:8080//live/shafiq02/1234/290420.ts
+#EXTINF:-1 tvg-id="" tvg-name="NL | Ziggo Sport GOLF HD" tvg-logo="https://i.imgur.com/VJy6Mjs.png" group-title="✯GOLF✯",NL | Ziggo Sport GOLF HD
+http://filex.me:8080//live/shafiq02/1234/187438.ts
+#EXTINF:-1 tvg-id="" tvg-name="30A Golf Kingdom" tvg-logo="https://golfkingdom.net/wp-content/uploads/2022/04/golf-kingdom-st.jpg" group-title="✯GOLF✯",30A Golf Kingdom
+http://filex.me:8080//live/shafiq02/1234/834694.ts
+#EXTINF:-1 tvg-id="" tvg-name="Golf Channel" tvg-logo="https://i.imgur.com/Lgux6Ik.png" group-title="✯GOLF✯",Golf Channel
+http://filex.me:8080//live/shafiq02/1234/834797.ts
 #EXTINF:-1 tvg-id="" tvg-name="SPFL | Aberdeen FC (Reds TV)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/08/AberdeenTV.png" group-title="✯SPFL✯ HUB",SPFL | Aberdeen FC (Reds TV)
 http://filex.me:8080//live/shafiq02/1234/817378.ts
 #EXTINF:-1 tvg-id="" tvg-name="SPFL 03 (Live Event Only)" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/SPFL.png" group-title="✯SPFL✯ HUB",SPFL 03 (Live Event Only)
@@ -15223,6 +15235,44 @@ http://filex.me:8080//live/shafiq02/1234/301959.ts
 http://filex.me:8080//live/shafiq02/1234/301960.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR: Canal+ Premier League HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/7818fcb393391e3a63a512f8a92f0b7e.png" group-title="France ➾ Football",FR: Canal+ Premier League HD
 http://filex.me:8080//live/shafiq02/1234/301961.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ Foot" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-01/d49d78f77d93aa02508cbc68083a7be2.png" group-title="France ➾ Football",CANAL+ Foot
+http://filex.me:8080//live/shafiq02/1234/970130.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Live 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-12/cff40ccb0aa8e1203a097fc5637d28cf.png" group-title="France ➾ Football",Canal+ Live 1
+http://filex.me:8080//live/shafiq02/1234/970131.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Live 10" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-12/f753c8ad5ba8e42ca4615da5b91eb83d.png" group-title="France ➾ Football",Canal+ Live 10
+http://filex.me:8080//live/shafiq02/1234/970132.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Live 11" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="France ➾ Football",Canal+ Live 11
+http://filex.me:8080//live/shafiq02/1234/970133.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Live 12" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="France ➾ Football",Canal+ Live 12
+http://filex.me:8080//live/shafiq02/1234/970134.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Live 13" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="France ➾ Football",Canal+ Live 13
+http://filex.me:8080//live/shafiq02/1234/970135.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Live 14" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="France ➾ Football",Canal+ Live 14
+http://filex.me:8080//live/shafiq02/1234/970136.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Live 15" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="France ➾ Football",Canal+ Live 15
+http://filex.me:8080//live/shafiq02/1234/970137.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Live 16" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="France ➾ Football",Canal+ Live 16
+http://filex.me:8080//live/shafiq02/1234/970138.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Live 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-12/d2cf864d90c352428340c255874710d2.png" group-title="France ➾ Football",Canal+ Live 2
+http://filex.me:8080//live/shafiq02/1234/970139.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Live 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-12/b459e6c6efb500f19533a9d78805188f.png" group-title="France ➾ Football",Canal+ Live 3
+http://filex.me:8080//live/shafiq02/1234/970140.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Live 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-12/f17307b554087ad2f3424ad7b1b6bb5d.png" group-title="France ➾ Football",Canal+ Live 4
+http://filex.me:8080//live/shafiq02/1234/970141.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Live 5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-12/afc72039859fc189cfa02455ff230669.png" group-title="France ➾ Football",Canal+ Live 5
+http://filex.me:8080//live/shafiq02/1234/970142.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Live 6" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-12/72163089a27950c03fa8cd513c998b6a.png" group-title="France ➾ Football",Canal+ Live 6
+http://filex.me:8080//live/shafiq02/1234/970143.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Live 7" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-12/895feef3f5488bc24efe899d8a252ec4.png" group-title="France ➾ Football",Canal+ Live 7
+http://filex.me:8080//live/shafiq02/1234/970144.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Live 8" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-12/af031e693cbe459766c1776388994e86.png" group-title="France ➾ Football",Canal+ Live 8
+http://filex.me:8080//live/shafiq02/1234/970145.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Live 9" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-12/b84c28fef29a883446fb98c4fd63b310.png" group-title="France ➾ Football",Canal+ Live 9
+http://filex.me:8080//live/shafiq02/1234/970146.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ Premier League" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/7818fcb393391e3a63a512f8a92f0b7e.png" group-title="France ➾ Football",CANAL+ Premier League
+http://filex.me:8080//live/shafiq02/1234/970147.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-08/7aefbb0cf5cf2dd8bfc55516e278cb6f.png" group-title="France ➾ Football",DAZN 1
+http://filex.me:8080//live/shafiq02/1234/970148.ts
 #EXTINF:-1 tvg-id="bein6max.fr" tvg-name="FR: BEIN Sports MAX 6 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/6250ce9aa48d84200378db8e1c293ecb.png" group-title="France ➾ Sports",FR: BEIN Sports MAX 6 HD
 http://filex.me:8080//live/shafiq02/1234/301881.ts
 #EXTINF:-1 tvg-id="bein7max.fr" tvg-name="FR: BEIN Sports MAX 7 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/b2834f48777b3cd3bd463f5f88a80a2d.png" group-title="France ➾ Sports",FR: BEIN Sports MAX 7 HD
@@ -15621,44 +15671,6 @@ http://filex.me:8080//live/shafiq02/1234/301878.ts
 http://filex.me:8080//live/shafiq02/1234/301879.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR: Berbere TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/817151df42bfff63adebfc7885dd0189.png" group-title="France ➾ Food",FR: Berbere TV HD
 http://filex.me:8080//live/shafiq02/1234/301880.ts
-#EXTINF:-1 tvg-id="" tvg-name="CANAL+ Foot" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-01/d49d78f77d93aa02508cbc68083a7be2.png" group-title="France ➾ Football",CANAL+ Foot
-http://filex.me:8080//live/shafiq02/1234/970130.ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ Live 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-12/cff40ccb0aa8e1203a097fc5637d28cf.png" group-title="France ➾ Football",Canal+ Live 1
-http://filex.me:8080//live/shafiq02/1234/970131.ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ Live 10" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-12/f753c8ad5ba8e42ca4615da5b91eb83d.png" group-title="France ➾ Football",Canal+ Live 10
-http://filex.me:8080//live/shafiq02/1234/970132.ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ Live 11" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="France ➾ Football",Canal+ Live 11
-http://filex.me:8080//live/shafiq02/1234/970133.ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ Live 12" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="France ➾ Football",Canal+ Live 12
-http://filex.me:8080//live/shafiq02/1234/970134.ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ Live 13" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="France ➾ Football",Canal+ Live 13
-http://filex.me:8080//live/shafiq02/1234/970135.ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ Live 14" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="France ➾ Football",Canal+ Live 14
-http://filex.me:8080//live/shafiq02/1234/970136.ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ Live 15" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="France ➾ Football",Canal+ Live 15
-http://filex.me:8080//live/shafiq02/1234/970137.ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ Live 16" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="France ➾ Football",Canal+ Live 16
-http://filex.me:8080//live/shafiq02/1234/970138.ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ Live 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-12/d2cf864d90c352428340c255874710d2.png" group-title="France ➾ Football",Canal+ Live 2
-http://filex.me:8080//live/shafiq02/1234/970139.ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ Live 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-12/b459e6c6efb500f19533a9d78805188f.png" group-title="France ➾ Football",Canal+ Live 3
-http://filex.me:8080//live/shafiq02/1234/970140.ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ Live 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-12/f17307b554087ad2f3424ad7b1b6bb5d.png" group-title="France ➾ Football",Canal+ Live 4
-http://filex.me:8080//live/shafiq02/1234/970141.ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ Live 5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-12/afc72039859fc189cfa02455ff230669.png" group-title="France ➾ Football",Canal+ Live 5
-http://filex.me:8080//live/shafiq02/1234/970142.ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ Live 6" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-12/72163089a27950c03fa8cd513c998b6a.png" group-title="France ➾ Football",Canal+ Live 6
-http://filex.me:8080//live/shafiq02/1234/970143.ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ Live 7" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-12/895feef3f5488bc24efe899d8a252ec4.png" group-title="France ➾ Football",Canal+ Live 7
-http://filex.me:8080//live/shafiq02/1234/970144.ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ Live 8" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-12/af031e693cbe459766c1776388994e86.png" group-title="France ➾ Football",Canal+ Live 8
-http://filex.me:8080//live/shafiq02/1234/970145.ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ Live 9" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-12/b84c28fef29a883446fb98c4fd63b310.png" group-title="France ➾ Football",Canal+ Live 9
-http://filex.me:8080//live/shafiq02/1234/970146.ts
-#EXTINF:-1 tvg-id="" tvg-name="CANAL+ Premier League" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/7818fcb393391e3a63a512f8a92f0b7e.png" group-title="France ➾ Football",CANAL+ Premier League
-http://filex.me:8080//live/shafiq02/1234/970147.ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-08/7aefbb0cf5cf2dd8bfc55516e278cb6f.png" group-title="France ➾ Football",DAZN 1
-http://filex.me:8080//live/shafiq02/1234/970148.ts
 #EXTINF:-1 tvg-id="" tvg-name="IT: 111 TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/1a28cd4aaf23f9982cd9a949e152adeb.png" group-title="Italy",IT: 111 TV HD
 http://filex.me:8080//live/shafiq02/1234/293009.ts
 #EXTINF:-1 tvg-id="" tvg-name="IT: ALTO Adige TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/73b685f41f7acfe7753a7c3b64c53063.png" group-title="Italy",IT: ALTO Adige TV HD
@@ -28189,44 +28201,6 @@ http://filex.me:8080//live/shafiq02/1234/908602.ts
 http://filex.me:8080//live/shafiq02/1234/908603.ts
 #EXTINF:-1 tvg-id="" tvg-name="BeIN Sport French SD2" tvg-logo="http://137.74.40.152/Categories.Logo/beinsports.png" group-title="✯BEIN SPORTS✯ SD",BeIN Sport French SD2
 http://filex.me:8080//live/shafiq02/1234/908604.ts
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Global HD" tvg-logo="http://137.74.40.152/Categories.Logo/beinsports.png" group-title="✯BEIN SPORTS✯ HD",BeIN Global HD
-http://filex.me:8080//live/shafiq02/1234/908572.ts
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sport 1 HD" tvg-logo="http://137.74.40.152/Categories.Logo/beinsports.png" group-title="✯BEIN SPORTS✯ HD",BeIN Sport 1 HD
-http://filex.me:8080//live/shafiq02/1234/908574.ts
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sport 2 HD" tvg-logo="http://137.74.40.152/Categories.Logo/beinsports.png" group-title="✯BEIN SPORTS✯ HD",BeIN Sport 2 HD
-http://filex.me:8080//live/shafiq02/1234/908575.ts
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sport 3 HD" tvg-logo="http://137.74.40.152/Categories.Logo/beinsports.png" group-title="✯BEIN SPORTS✯ HD",BeIN Sport 3 HD
-http://filex.me:8080//live/shafiq02/1234/908576.ts
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sport 4 HD" tvg-logo="http://137.74.40.152/Categories.Logo/beinsports.png" group-title="✯BEIN SPORTS✯ HD",BeIN Sport 4 HD
-http://filex.me:8080//live/shafiq02/1234/908577.ts
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sport 5 HD" tvg-logo="http://137.74.40.152/Categories.Logo/beinsports.png" group-title="✯BEIN SPORTS✯ HD",BeIN Sport 5 HD
-http://filex.me:8080//live/shafiq02/1234/908578.ts
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sport 6 HD" tvg-logo="http://137.74.40.152/Categories.Logo/beinsports.png" group-title="✯BEIN SPORTS✯ HD",BeIN Sport 6 HD
-http://filex.me:8080//live/shafiq02/1234/908579.ts
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sport 7 HD" tvg-logo="http://137.74.40.152/Categories.Logo/beinsports.png" group-title="✯BEIN SPORTS✯ HD",BeIN Sport 7 HD
-http://filex.me:8080//live/shafiq02/1234/908580.ts
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sport 8 HD" tvg-logo="http://137.74.40.152/Categories.Logo/beinsports.png" group-title="✯BEIN SPORTS✯ HD",BeIN Sport 8 HD
-http://filex.me:8080//live/shafiq02/1234/908581.ts
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sport 9 HD" tvg-logo="http://137.74.40.152/Categories.Logo/beinsports.png" group-title="✯BEIN SPORTS✯ HD",BeIN Sport 9 HD
-http://filex.me:8080//live/shafiq02/1234/908582.ts
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sport English 1 HD" tvg-logo="http://137.74.40.152/Categories.Logo/beinsports.png" group-title="✯BEIN SPORTS✯ HD",BeIN Sport English 1 HD
-http://filex.me:8080//live/shafiq02/1234/908583.ts
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sport English 2 HD" tvg-logo="http://137.74.40.152/Categories.Logo/beinsports.png" group-title="✯BEIN SPORTS✯ HD",BeIN Sport English 2 HD
-http://filex.me:8080//live/shafiq02/1234/908584.ts
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sport French 1 HD" tvg-logo="http://137.74.40.152/Categories.Logo/beinsports.png" group-title="✯BEIN SPORTS✯ HD",BeIN Sport French 1 HD
-http://filex.me:8080//live/shafiq02/1234/908585.ts
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sport French 2 HD" tvg-logo="http://137.74.40.152/Categories.Logo/beinsports.png" group-title="✯BEIN SPORTS✯ HD",BeIN Sport French 2 HD
-http://filex.me:8080//live/shafiq02/1234/908586.ts
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sport NBA HD" tvg-logo="http://137.74.40.152/Categories.Logo/beinsports.png" group-title="✯BEIN SPORTS✯ HD",BeIN Sport NBA HD
-http://filex.me:8080//live/shafiq02/1234/908587.ts
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sport News HD" tvg-logo="http://137.74.40.152/Categories.Logo/beinsports.png" group-title="✯BEIN SPORTS✯ HD",BeIN Sport News HD
-http://filex.me:8080//live/shafiq02/1234/908573.ts
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sport Xtra 1 HD" tvg-logo="http://137.74.40.152/Categories.Logo/beinsports.png" group-title="✯BEIN SPORTS✯ HD",BeIN Sport Xtra 1 HD
-http://filex.me:8080//live/shafiq02/1234/908588.ts
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sport Xtra 2 HD" tvg-logo="http://137.74.40.152/Categories.Logo/beinsports.png" group-title="✯BEIN SPORTS✯ HD",BeIN Sport Xtra 2 HD
-http://filex.me:8080//live/shafiq02/1234/908589.ts
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sport Xtra 3 HD" tvg-logo="http://137.74.40.152/Categories.Logo/beinsports.png" group-title="✯BEIN SPORTS✯ HD",BeIN Sport Xtra 3 HD
-http://filex.me:8080//live/shafiq02/1234/908590.ts
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 4K" tvg-logo="https://logo.m3uassets.com/beinsports1.png" group-title="✯BEIN SPORTS✯ 4K",BEIN SPORTS 1 4K
 http://filex.me:8080//live/shafiq02/1234/956905.ts
 #EXTINF:-1 tvg-id="" tvg-name="BEIN XTRA 3 4K" tvg-logo="" group-title="✯BEIN SPORTS✯ 4K",BEIN XTRA 3 4K
@@ -28295,6 +28269,44 @@ http://filex.me:8080//live/shafiq02/1234/908622.ts
 http://filex.me:8080//live/shafiq02/1234/908618.ts
 #EXTINF:-1 tvg-id="" tvg-name="BeIN Sports News 4K" tvg-logo="http://137.74.40.152/Categories.Logo/beinsports.png" group-title="✯BEIN SPORTS✯ 4K",BeIN Sports News 4K
 http://filex.me:8080//live/shafiq02/1234/908608.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Global HD" tvg-logo="http://137.74.40.152/Categories.Logo/beinsports.png" group-title="✯BEIN SPORTS✯ HD",BeIN Global HD
+http://filex.me:8080//live/shafiq02/1234/908572.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sport 1 HD" tvg-logo="http://137.74.40.152/Categories.Logo/beinsports.png" group-title="✯BEIN SPORTS✯ HD",BeIN Sport 1 HD
+http://filex.me:8080//live/shafiq02/1234/908574.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sport 2 HD" tvg-logo="http://137.74.40.152/Categories.Logo/beinsports.png" group-title="✯BEIN SPORTS✯ HD",BeIN Sport 2 HD
+http://filex.me:8080//live/shafiq02/1234/908575.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sport 3 HD" tvg-logo="http://137.74.40.152/Categories.Logo/beinsports.png" group-title="✯BEIN SPORTS✯ HD",BeIN Sport 3 HD
+http://filex.me:8080//live/shafiq02/1234/908576.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sport 4 HD" tvg-logo="http://137.74.40.152/Categories.Logo/beinsports.png" group-title="✯BEIN SPORTS✯ HD",BeIN Sport 4 HD
+http://filex.me:8080//live/shafiq02/1234/908577.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sport 5 HD" tvg-logo="http://137.74.40.152/Categories.Logo/beinsports.png" group-title="✯BEIN SPORTS✯ HD",BeIN Sport 5 HD
+http://filex.me:8080//live/shafiq02/1234/908578.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sport 6 HD" tvg-logo="http://137.74.40.152/Categories.Logo/beinsports.png" group-title="✯BEIN SPORTS✯ HD",BeIN Sport 6 HD
+http://filex.me:8080//live/shafiq02/1234/908579.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sport 7 HD" tvg-logo="http://137.74.40.152/Categories.Logo/beinsports.png" group-title="✯BEIN SPORTS✯ HD",BeIN Sport 7 HD
+http://filex.me:8080//live/shafiq02/1234/908580.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sport 8 HD" tvg-logo="http://137.74.40.152/Categories.Logo/beinsports.png" group-title="✯BEIN SPORTS✯ HD",BeIN Sport 8 HD
+http://filex.me:8080//live/shafiq02/1234/908581.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sport 9 HD" tvg-logo="http://137.74.40.152/Categories.Logo/beinsports.png" group-title="✯BEIN SPORTS✯ HD",BeIN Sport 9 HD
+http://filex.me:8080//live/shafiq02/1234/908582.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sport English 1 HD" tvg-logo="http://137.74.40.152/Categories.Logo/beinsports.png" group-title="✯BEIN SPORTS✯ HD",BeIN Sport English 1 HD
+http://filex.me:8080//live/shafiq02/1234/908583.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sport English 2 HD" tvg-logo="http://137.74.40.152/Categories.Logo/beinsports.png" group-title="✯BEIN SPORTS✯ HD",BeIN Sport English 2 HD
+http://filex.me:8080//live/shafiq02/1234/908584.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sport French 1 HD" tvg-logo="http://137.74.40.152/Categories.Logo/beinsports.png" group-title="✯BEIN SPORTS✯ HD",BeIN Sport French 1 HD
+http://filex.me:8080//live/shafiq02/1234/908585.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sport French 2 HD" tvg-logo="http://137.74.40.152/Categories.Logo/beinsports.png" group-title="✯BEIN SPORTS✯ HD",BeIN Sport French 2 HD
+http://filex.me:8080//live/shafiq02/1234/908586.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sport NBA HD" tvg-logo="http://137.74.40.152/Categories.Logo/beinsports.png" group-title="✯BEIN SPORTS✯ HD",BeIN Sport NBA HD
+http://filex.me:8080//live/shafiq02/1234/908587.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sport News HD" tvg-logo="http://137.74.40.152/Categories.Logo/beinsports.png" group-title="✯BEIN SPORTS✯ HD",BeIN Sport News HD
+http://filex.me:8080//live/shafiq02/1234/908573.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sport Xtra 1 HD" tvg-logo="http://137.74.40.152/Categories.Logo/beinsports.png" group-title="✯BEIN SPORTS✯ HD",BeIN Sport Xtra 1 HD
+http://filex.me:8080//live/shafiq02/1234/908588.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sport Xtra 2 HD" tvg-logo="http://137.74.40.152/Categories.Logo/beinsports.png" group-title="✯BEIN SPORTS✯ HD",BeIN Sport Xtra 2 HD
+http://filex.me:8080//live/shafiq02/1234/908589.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sport Xtra 3 HD" tvg-logo="http://137.74.40.152/Categories.Logo/beinsports.png" group-title="✯BEIN SPORTS✯ HD",BeIN Sport Xtra 3 HD
+http://filex.me:8080//live/shafiq02/1234/908590.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR: ABU DHABI SPORT 1 HD" tvg-logo="" group-title="✯AR✯ SPORTS الرياضية ",AR: ABU DHABI SPORT 1 HD
 http://filex.me:8080//live/shafiq02/1234/908655.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR: ABU DHABI SPORT 2 HD" tvg-logo="" group-title="✯AR✯ SPORTS الرياضية ",AR: ABU DHABI SPORT 2 HD
@@ -28891,6 +28903,8 @@ http://filex.me:8080//live/shafiq02/1234/908780.ts
 http://filex.me:8080//live/shafiq02/1234/908774.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR: WANASAH HD" tvg-logo="" group-title="✯MUSIC✯اغاني",AR: WANASAH HD
 http://filex.me:8080//live/shafiq02/1234/908783.ts
+#EXTINF:-1 tvg-id="" tvg-name="Friday Night SmackDown 27.3.2026" tvg-logo="https://cdn.moviefone.com/image-assets/1549/bMVJAnEqBs7AScz4kJSnCTkhHdN.jpg?d=360x540&q=60" group-title="✯WWE✯",Friday Night SmackDown 27.3.2026
+http://filex.me:8080/movie/shafiq02/1234/983489.mp4
 #EXTINF:-1 tvg-id="" tvg-name="WWE NXT 4.3.2026" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/NXT_Vengeance_Day_2026_Poster.jpeg" group-title="✯WWE✯",WWE NXT 4.3.2026
 http://filex.me:8080/movie/shafiq02/1234/970676.mp4
 #EXTINF:-1 tvg-id="" tvg-name="O' Romeo (2026) FHD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aTnIGrfVv03FIDsNDuabNsp9yFM.jpg" group-title="✯BOLLYWOOD✯ 2026",O' Romeo (2026) FHD
@@ -28903,7 +28917,7 @@ http://filex.me:8080/movie/shafiq02/1234/970499.mp4
 http://filex.me:8080/movie/shafiq02/1234/970125.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Durlabh Prasad Ki Dusri Shadi (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ukUnE8AJvt5qnYPsGwzChhFK9Ca.jpg" group-title="✯BOLLYWOOD✯ 2025",Durlabh Prasad Ki Dusri Shadi (2025)
 http://filex.me:8080/movie/shafiq02/1234/969911.mp4
-#EXTINF:-1 tvg-id="" tvg-name="• 60 FPS • Baramulla (2025) •MULTI•" tvg-logo="https://i.postimg.cc/Xvf13QST/file-0000000047847208add8283e9f22c8f2.png" group-title="60 FPS UHD  HINDI",• 60 FPS • Baramulla (2025) •MULTI•
+#EXTINF:-1 tvg-id="" tvg-name="• 60 FPS • Baramulla (2025) •MULTI•" tvg-logo="https://i.postimg.cc/Xvf13QST/file-0000000047847208add8283e9f22c8f2.png" group-title="✯60 FPS✯INDIAN✯",• 60 FPS • Baramulla (2025) •MULTI•
 http://filex.me:8080/movie/shafiq02/1234/969779.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Peaky Blinders: The Immortal Man (2026) HIN+ENG ( NR)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gRMalasZEzsZi4w2VFuYusfSfqf.jpg" group-title="✯NETFLIX HINDI✯",Peaky Blinders: The Immortal Man (2026) HIN+ENG ( NR)
 http://filex.me:8080/movie/shafiq02/1234/969734.mp4
@@ -28925,8 +28939,6 @@ http://filex.me:8080/movie/shafiq02/1234/968629.mp4
 http://filex.me:8080/movie/shafiq02/1234/968566.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Monday Night RAW ●9.3.2026●" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3NgDkPd7XirD3Ajeyrw28v9-eWebsELaGTuLGFLK7rEJdfpLtPV61_Go3&s=10" group-title="✯WWE✯",Monday Night RAW ●9.3.2026●
 http://filex.me:8080/movie/shafiq02/1234/968413.mp4
-#EXTINF:-1 tvg-id="" tvg-name="• 60 FPS • Diés Iraé (2025) Multi Lang" tvg-logo="https://lh3.googleusercontent.com/gg/AMW1TPp_V_R2UdclOhDdcltgAxQQwrHoHAMRi18HDhw8BJboC5v1qhM2-BLW1YrxEIUA0YYjTUeVSMhxLk01OmvObaISubGV9yFbwPfqZ9JPAKP87qy4bufeHnZaTDa7XQ7kFKf9dJEYPMiLJaSE4wmfv3jPuvTY2BjaSjqFcO5ocMkXrjQjA-g=s1024-rj-mp2" group-title="60 FPS UHD  HINDI",• 60 FPS • Diés Iraé (2025) Multi Lang
-http://filex.me:8080/movie/shafiq02/1234/968156.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Subedaar (2026) 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gKn63ZWEVK66OaC1svlI7g6r9ah.jpg" group-title="✯BOLLYWOOD✯4K",Subedaar (2026) 4K
 http://filex.me:8080/movie/shafiq02/1234/968140.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Friday Night SmackDown 6.3.2026" tvg-logo="https://s1.dmcdn.net/v/aBvrS1fg_v-oT0lDc/x1080" group-title="✯WWE✯",Friday Night SmackDown 6.3.2026
@@ -28945,9 +28957,9 @@ http://filex.me:8080/movie/shafiq02/1234/967731.mp4
 http://filex.me:8080/movie/shafiq02/1234/967647.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Monday Night RAW 2.3.2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAOAk5Zudw77GAIfucK3CAeSd9ouCSTwbF52tGZgkF056ItbFuLaRklPV&s=10" group-title="✯WWE✯",Monday Night RAW 2.3.2026
 http://filex.me:8080/movie/shafiq02/1234/967604.mp4
-#EXTINF:-1 tvg-id="" tvg-name="• 60 FPS • Marco (2024) Multi Audio " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/il3ao5gcF6fZNqo1o9o7lusmEyU.jpg" group-title="60 FPS UHD  HINDI",• 60 FPS • Marco (2024) Multi Audio 
+#EXTINF:-1 tvg-id="" tvg-name="• 60 FPS • Marco (2024) Multi Audio " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/il3ao5gcF6fZNqo1o9o7lusmEyU.jpg" group-title="✯60 FPS✯INDIAN✯",• 60 FPS • Marco (2024) Multi Audio 
 http://filex.me:8080/movie/shafiq02/1234/967523.mp4
-#EXTINF:-1 tvg-id="" tvg-name="• 60 FPS • Marco (2024) Multi Audio " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/il3ao5gcF6fZNqo1o9o7lusmEyU.jpg" group-title="60 FPS UHD  HINDI",• 60 FPS • Marco (2024) Multi Audio 
+#EXTINF:-1 tvg-id="" tvg-name="• 60 FPS • Marco (2024) Multi Audio " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/il3ao5gcF6fZNqo1o9o7lusmEyU.jpg" group-title="✯60 FPS✯INDIAN✯",• 60 FPS • Marco (2024) Multi Audio 
 http://filex.me:8080/movie/shafiq02/1234/967520.mp4
 #EXTINF:-1 tvg-id="" tvg-name="WWE 28.02.2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEgH1LrLXmoo8UXrKKWNqyevwOTiqyvGY3Ua7hmH_uK8rQ8BVkxHni9f40&s=10" group-title="✯WWE✯",WWE 28.02.2026
 http://filex.me:8080/movie/shafiq02/1234/967505.mp4
@@ -28965,61 +28977,61 @@ http://filex.me:8080/movie/shafiq02/1234/967378.mp4
 http://filex.me:8080/movie/shafiq02/1234/967372.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Accused (2026) Hindi Audio " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eeP55mdqj4KpWtEPBvZJoxmnkXI.jpg" group-title="✯NETFLIX HINDI✯",Accused (2026) Hindi Audio 
 http://filex.me:8080/movie/shafiq02/1234/967366.mp4
-#EXTINF:-1 tvg-id="" tvg-name="• 60 FPS • Bhediya (2022) UHD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iZtq44ZmxBW0E3tAeLG6UdJe9aj.jpg" group-title="60 FPS UHD  HINDI",• 60 FPS • Bhediya (2022) UHD
+#EXTINF:-1 tvg-id="" tvg-name="• 60 FPS • Bhediya (2022) UHD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iZtq44ZmxBW0E3tAeLG6UdJe9aj.jpg" group-title="✯60 FPS✯INDIAN✯",• 60 FPS • Bhediya (2022) UHD
 http://filex.me:8080/movie/shafiq02/1234/967275.mp4
-#EXTINF:-1 tvg-id="" tvg-name="• 60 FPS • Baby John (2024) UHD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Oqsh17dq0cIRFPynPNy5elmyxW.jpg" group-title="60 FPS UHD  HINDI",• 60 FPS • Baby John (2024) UHD
+#EXTINF:-1 tvg-id="" tvg-name="• 60 FPS • Baby John (2024) UHD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Oqsh17dq0cIRFPynPNy5elmyxW.jpg" group-title="✯60 FPS✯INDIAN✯",• 60 FPS • Baby John (2024) UHD
 http://filex.me:8080/movie/shafiq02/1234/967272.mp4
-#EXTINF:-1 tvg-id="" tvg-name="• 60 FPS • Bachchhan Paandey (2022) UHD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nuUtbT376pIhgTxJuEVGFx9sBvz.jpg" group-title="60 FPS UHD  HINDI",• 60 FPS • Bachchhan Paandey (2022) UHD
+#EXTINF:-1 tvg-id="" tvg-name="• 60 FPS • Bachchhan Paandey (2022) UHD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nuUtbT376pIhgTxJuEVGFx9sBvz.jpg" group-title="✯60 FPS✯INDIAN✯",• 60 FPS • Bachchhan Paandey (2022) UHD
 http://filex.me:8080/movie/shafiq02/1234/967263.mp4
-#EXTINF:-1 tvg-id="" tvg-name="• 60 FPS • Radhe Shyam (2022) UHD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/szAa23SWNIgJHsvSRyQrvyFT8ef.jpg" group-title="60 FPS UHD  HINDI",• 60 FPS • Radhe Shyam (2022) UHD
+#EXTINF:-1 tvg-id="" tvg-name="• 60 FPS • Radhe Shyam (2022) UHD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/szAa23SWNIgJHsvSRyQrvyFT8ef.jpg" group-title="✯60 FPS✯INDIAN✯",• 60 FPS • Radhe Shyam (2022) UHD
 http://filex.me:8080/movie/shafiq02/1234/967259.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Sanak (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cg1Zd1HsK2YCZ5NFvWOiMocitos.jpg" group-title="✯BOLLYWOOD✯ 2021",Sanak (2021)
 http://filex.me:8080/movie/shafiq02/1234/967255.mp4
-#EXTINF:-1 tvg-id="" tvg-name="• 60 FPS • Sanak (2021) UHD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cg1Zd1HsK2YCZ5NFvWOiMocitos.jpg" group-title="60 FPS UHD  HINDI",• 60 FPS • Sanak (2021) UHD
+#EXTINF:-1 tvg-id="" tvg-name="• 60 FPS • Sanak (2021) UHD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cg1Zd1HsK2YCZ5NFvWOiMocitos.jpg" group-title="✯60 FPS✯INDIAN✯",• 60 FPS • Sanak (2021) UHD
 http://filex.me:8080/movie/shafiq02/1234/967251.mp4
-#EXTINF:-1 tvg-id="" tvg-name="• 60 FPS • Bhool Bhulaiyaa 2 (2022) UHD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fw0oMHiMt9qOuKEJEmzFiCNAnXc.jpg" group-title="60 FPS UHD  HINDI",• 60 FPS • Bhool Bhulaiyaa 2 (2022) UHD
+#EXTINF:-1 tvg-id="" tvg-name="• 60 FPS • Bhool Bhulaiyaa 2 (2022) UHD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fw0oMHiMt9qOuKEJEmzFiCNAnXc.jpg" group-title="✯60 FPS✯INDIAN✯",• 60 FPS • Bhool Bhulaiyaa 2 (2022) UHD
 http://filex.me:8080/movie/shafiq02/1234/967248.mp4
-#EXTINF:-1 tvg-id="" tvg-name="• 60 FPS • Vikram (2022) UHD ( Multi Language)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/774UV1aCURb4s4JfEFg3IEMu5Zj.jpg" group-title="60 FPS UHD  HINDI",• 60 FPS • Vikram (2022) UHD ( Multi Language)
+#EXTINF:-1 tvg-id="" tvg-name="• 60 FPS • Vikram (2022) UHD ( Multi Language)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/774UV1aCURb4s4JfEFg3IEMu5Zj.jpg" group-title="✯60 FPS✯INDIAN✯",• 60 FPS • Vikram (2022) UHD ( Multi Language)
 http://filex.me:8080/movie/shafiq02/1234/967236.mp4
-#EXTINF:-1 tvg-id="" tvg-name="• 60 FPS • Saaho (2019) UHD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/abjWQwUakmBUecf73jiZDx5iex0.jpg" group-title="60 FPS UHD  HINDI",• 60 FPS • Saaho (2019) UHD
+#EXTINF:-1 tvg-id="" tvg-name="• 60 FPS • Saaho (2019) UHD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/abjWQwUakmBUecf73jiZDx5iex0.jpg" group-title="✯60 FPS✯INDIAN✯",• 60 FPS • Saaho (2019) UHD
 http://filex.me:8080/movie/shafiq02/1234/967233.mp4
-#EXTINF:-1 tvg-id="" tvg-name="• 60 FPS • Beast (2022) UHD ( HIN + TAM )" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yE8bsjy9hvuSY5JdtFlJGXyaTeH.jpg" group-title="60 FPS UHD  HINDI",• 60 FPS • Beast (2022) UHD ( HIN + TAM )
+#EXTINF:-1 tvg-id="" tvg-name="• 60 FPS • Beast (2022) UHD ( HIN + TAM )" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yE8bsjy9hvuSY5JdtFlJGXyaTeH.jpg" group-title="✯60 FPS✯INDIAN✯",• 60 FPS • Beast (2022) UHD ( HIN + TAM )
 http://filex.me:8080/movie/shafiq02/1234/967230.mp4
-#EXTINF:-1 tvg-id="" tvg-name="• 60 FPS • HIT: The First Case (2022) UHD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sKcbVK6QgxUjiHOE2xooRXTH0mz.jpg" group-title="60 FPS UHD  HINDI",• 60 FPS • HIT: The First Case (2022) UHD
+#EXTINF:-1 tvg-id="" tvg-name="• 60 FPS • HIT: The First Case (2022) UHD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sKcbVK6QgxUjiHOE2xooRXTH0mz.jpg" group-title="✯60 FPS✯INDIAN✯",• 60 FPS • HIT: The First Case (2022) UHD
 http://filex.me:8080/movie/shafiq02/1234/967227.mp4
-#EXTINF:-1 tvg-id="" tvg-name="• 60 FPS • Shamshera (2022) UHD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rryN6GhaoovO3sM8IEqGyKgCmXf.jpg" group-title="60 FPS UHD  HINDI",• 60 FPS • Shamshera (2022) UHD
+#EXTINF:-1 tvg-id="" tvg-name="• 60 FPS • Shamshera (2022) UHD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rryN6GhaoovO3sM8IEqGyKgCmXf.jpg" group-title="✯60 FPS✯INDIAN✯",• 60 FPS • Shamshera (2022) UHD
 http://filex.me:8080/movie/shafiq02/1234/967224.mp4
-#EXTINF:-1 tvg-id="" tvg-name="• 60 FPS • Ek Villain Returns (2022) UHD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4BqMeSSPaC7spmj4Zl7htiigCkV.jpg" group-title="60 FPS UHD  HINDI",• 60 FPS • Ek Villain Returns (2022) UHD
+#EXTINF:-1 tvg-id="" tvg-name="• 60 FPS • Ek Villain Returns (2022) UHD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4BqMeSSPaC7spmj4Zl7htiigCkV.jpg" group-title="✯60 FPS✯INDIAN✯",• 60 FPS • Ek Villain Returns (2022) UHD
 http://filex.me:8080/movie/shafiq02/1234/967221.mp4
-#EXTINF:-1 tvg-id="" tvg-name="• 60 FPS • K.G.F: Chapter 1 (2018) UHD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ltHlJwvxKv7d0ooCiKSAvfwV9tX.jpg" group-title="60 FPS UHD  HINDI",• 60 FPS • K.G.F: Chapter 1 (2018) UHD
+#EXTINF:-1 tvg-id="" tvg-name="• 60 FPS • K.G.F: Chapter 1 (2018) UHD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ltHlJwvxKv7d0ooCiKSAvfwV9tX.jpg" group-title="✯60 FPS✯INDIAN✯",• 60 FPS • K.G.F: Chapter 1 (2018) UHD
 http://filex.me:8080/movie/shafiq02/1234/967218.mp4
-#EXTINF:-1 tvg-id="" tvg-name="• 60 FPS • K.G.F: Chapter 2 (2022) UHD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/khNVygolU0TxLIDWff5tQlAhZ23.jpg" group-title="60 FPS UHD  HINDI",• 60 FPS • K.G.F: Chapter 2 (2022) UHD
+#EXTINF:-1 tvg-id="" tvg-name="• 60 FPS • K.G.F: Chapter 2 (2022) UHD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/khNVygolU0TxLIDWff5tQlAhZ23.jpg" group-title="✯60 FPS✯INDIAN✯",• 60 FPS • K.G.F: Chapter 2 (2022) UHD
 http://filex.me:8080/movie/shafiq02/1234/967215.mp4
-#EXTINF:-1 tvg-id="" tvg-name="• 60 FPS • Vikrant Rona (2022) UHD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rQ9yw7IFrDB1V8jwC48KSaAf5h3.jpg" group-title="60 FPS UHD  HINDI",• 60 FPS • Vikrant Rona (2022) UHD
+#EXTINF:-1 tvg-id="" tvg-name="• 60 FPS • Vikrant Rona (2022) UHD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rQ9yw7IFrDB1V8jwC48KSaAf5h3.jpg" group-title="✯60 FPS✯INDIAN✯",• 60 FPS • Vikrant Rona (2022) UHD
 http://filex.me:8080/movie/shafiq02/1234/967212.mp4
-#EXTINF:-1 tvg-id="" tvg-name="• 60 FPS • Dhamaka (2021) UHD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/KowKEuyWziUtnCYicv6zhzTQIv.jpg" group-title="60 FPS UHD  HINDI",• 60 FPS • Dhamaka (2021) UHD
+#EXTINF:-1 tvg-id="" tvg-name="• 60 FPS • Dhamaka (2021) UHD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/KowKEuyWziUtnCYicv6zhzTQIv.jpg" group-title="✯60 FPS✯INDIAN✯",• 60 FPS • Dhamaka (2021) UHD
 http://filex.me:8080/movie/shafiq02/1234/967209.mp4
-#EXTINF:-1 tvg-id="" tvg-name="• 60 FPS • Tu Jhoothi Main Makkaar (2023) UHD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zHLtNP4KP0GMi6p1ACf2QvVnBvI.jpg" group-title="60 FPS UHD  HINDI",• 60 FPS • Tu Jhoothi Main Makkaar (2023) UHD
+#EXTINF:-1 tvg-id="" tvg-name="• 60 FPS • Tu Jhoothi Main Makkaar (2023) UHD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zHLtNP4KP0GMi6p1ACf2QvVnBvI.jpg" group-title="✯60 FPS✯INDIAN✯",• 60 FPS • Tu Jhoothi Main Makkaar (2023) UHD
 http://filex.me:8080/movie/shafiq02/1234/967206.mp4
-#EXTINF:-1 tvg-id="" tvg-name="• 60 FPS • Tiger 3 (2023) UHD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2hsZrii8zXsk765YKKActVhIjTE.jpg" group-title="60 FPS UHD  HINDI",• 60 FPS • Tiger 3 (2023) UHD
+#EXTINF:-1 tvg-id="" tvg-name="• 60 FPS • Tiger 3 (2023) UHD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2hsZrii8zXsk765YKKActVhIjTE.jpg" group-title="✯60 FPS✯INDIAN✯",• 60 FPS • Tiger 3 (2023) UHD
 http://filex.me:8080/movie/shafiq02/1234/967203.mp4
-#EXTINF:-1 tvg-id="" tvg-name="• 60 FPS • Animal (2023) UHD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hr9rjR3J0xBBKmlJ4n3gHId9ccx.jpg" group-title="60 FPS UHD  HINDI",• 60 FPS • Animal (2023) UHD
+#EXTINF:-1 tvg-id="" tvg-name="• 60 FPS • Animal (2023) UHD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hr9rjR3J0xBBKmlJ4n3gHId9ccx.jpg" group-title="✯60 FPS✯INDIAN✯",• 60 FPS • Animal (2023) UHD
 http://filex.me:8080/movie/shafiq02/1234/967200.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Sooryavanshi 4K (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zgEc1Tn4iKvttPUzkMOUB4BNoXK.jpg" group-title="✯BOLLYWOOD✯4K",Sooryavanshi 4K (2021)
 http://filex.me:8080/movie/shafiq02/1234/967197.mp4
-#EXTINF:-1 tvg-id="" tvg-name="• 60 FPS • Sooryavanshi (2021) UHD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zgEc1Tn4iKvttPUzkMOUB4BNoXK.jpg" group-title="60 FPS UHD  HINDI",• 60 FPS • Sooryavanshi (2021) UHD
+#EXTINF:-1 tvg-id="" tvg-name="• 60 FPS • Sooryavanshi (2021) UHD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zgEc1Tn4iKvttPUzkMOUB4BNoXK.jpg" group-title="✯60 FPS✯INDIAN✯",• 60 FPS • Sooryavanshi (2021) UHD
 http://filex.me:8080/movie/shafiq02/1234/967194.mp4
-#EXTINF:-1 tvg-id="" tvg-name="• 60 FPS • Pushpa: The Rise (2021) UHD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h6Pd89ngvl9quPVsx3KoJlQsvk9.jpg" group-title="60 FPS UHD  HINDI",• 60 FPS • Pushpa: The Rise (2021) UHD
+#EXTINF:-1 tvg-id="" tvg-name="• 60 FPS • Pushpa: The Rise (2021) UHD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h6Pd89ngvl9quPVsx3KoJlQsvk9.jpg" group-title="✯60 FPS✯INDIAN✯",• 60 FPS • Pushpa: The Rise (2021) UHD
 http://filex.me:8080/movie/shafiq02/1234/967191.mp4
-#EXTINF:-1 tvg-id="" tvg-name="• 60 FPS • Bahubali 2: The Conclusion (2017) UHD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/21sC2assImQIYCEDA84Qh9d1RsK.jpg" group-title="60 FPS UHD  HINDI",• 60 FPS • Bahubali 2: The Conclusion (2017) UHD
+#EXTINF:-1 tvg-id="" tvg-name="• 60 FPS • Bahubali 2: The Conclusion (2017) UHD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/21sC2assImQIYCEDA84Qh9d1RsK.jpg" group-title="✯60 FPS✯INDIAN✯",• 60 FPS • Bahubali 2: The Conclusion (2017) UHD
 http://filex.me:8080/movie/shafiq02/1234/967185.mp4
-#EXTINF:-1 tvg-id="" tvg-name="• 60 FPS • Fighter (2024) UHD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqFuriKJ6pYDvf72kXNLONnuE8k.jpg" group-title="60 FPS UHD  HINDI",• 60 FPS • Fighter (2024) UHD
+#EXTINF:-1 tvg-id="" tvg-name="• 60 FPS • Fighter (2024) UHD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqFuriKJ6pYDvf72kXNLONnuE8k.jpg" group-title="✯60 FPS✯INDIAN✯",• 60 FPS • Fighter (2024) UHD
 http://filex.me:8080/movie/shafiq02/1234/967182.mp4
-#EXTINF:-1 tvg-id="" tvg-name="• 60 FPS • Teri Baaton Mein Aisa Uljha Jiya (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vwsBpnwmMO0xtIgxvCrViJgZhVj.jpg" group-title="60 FPS UHD  HINDI",• 60 FPS • Teri Baaton Mein Aisa Uljha Jiya (2024)
+#EXTINF:-1 tvg-id="" tvg-name="• 60 FPS • Teri Baaton Mein Aisa Uljha Jiya (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vwsBpnwmMO0xtIgxvCrViJgZhVj.jpg" group-title="✯60 FPS✯INDIAN✯",• 60 FPS • Teri Baaton Mein Aisa Uljha Jiya (2024)
 http://filex.me:8080/movie/shafiq02/1234/967179.mp4
-#EXTINF:-1 tvg-id="" tvg-name="• 60 FPS •  Dhurandhar (2025) UHD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8FHOtUpNIk5ZPEay2N2EY5lrxkv.jpg" group-title="60 FPS UHD  HINDI",• 60 FPS •  Dhurandhar (2025) UHD
+#EXTINF:-1 tvg-id="" tvg-name="• 60 FPS •  Dhurandhar (2025) UHD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8FHOtUpNIk5ZPEay2N2EY5lrxkv.jpg" group-title="✯60 FPS✯INDIAN✯",• 60 FPS •  Dhurandhar (2025) UHD
 http://filex.me:8080/movie/shafiq02/1234/967176.mp4
-#EXTINF:-1 tvg-id="" tvg-name="* 60 FPS * Minnal Murali (2021) UHD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/efetKFDyptrRpoHBb103Tg3Auw5.jpg" group-title="60 FPS UHD  HINDI",* 60 FPS * Minnal Murali (2021) UHD
+#EXTINF:-1 tvg-id="" tvg-name="* 60 FPS * Minnal Murali (2021) UHD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/efetKFDyptrRpoHBb103Tg3Auw5.jpg" group-title="✯60 FPS✯INDIAN✯",* 60 FPS * Minnal Murali (2021) UHD
 http://filex.me:8080/movie/shafiq02/1234/967173.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Me No Pause Me Play (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nMItbnyJaH6mkxxCOpKIcOm18gS.jpg" group-title="✯BOLLYWOOD✯ 2025",Me No Pause Me Play (2025)
 http://filex.me:8080/movie/shafiq02/1234/967097.mp4
@@ -29075,8 +29087,6 @@ http://filex.me:8080/movie/shafiq02/1234/957819.mp4
 http://filex.me:8080/movie/shafiq02/1234/957572.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Hashtag Star (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qta6Zgj4J1SY2GwyhGDNrIac1Kr.jpg" group-title="✯BOLLYWOOD✯ 2026",Hashtag Star (2026)
 http://filex.me:8080/movie/shafiq02/1234/957494.mp4
-#EXTINF:-1 tvg-id="" tvg-name="WWE ROYAL RUMBLE (31-1-2026)" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2QzYjNjMzctNWY4Zi00YTAxLWI2M2ItYmIyMDQyMDI4NDk0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="✯WWE✯",WWE ROYAL RUMBLE (31-1-2026)
-http://filex.me:8080/movie/shafiq02/1234/957471.mp4
 #EXTINF:-1 tvg-id="" tvg-name="WWE FRIDAY NIGHT NETFLIX 30-01-2026" tvg-logo="https://images.ctfassets.net/vy53kjqs34an/z1RQK3E3OGUKcCD2m4EHZ/849560939a60992450f7fd7bbefa9f73/055287_GEA_Banner_SD_1280x1280_NL.jpg" group-title="✯WWE✯",WWE FRIDAY NIGHT NETFLIX 30-01-2026
 http://filex.me:8080/movie/shafiq02/1234/957425.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Gandhi Talks (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p4iQT3s97T3gQOLhTj0UplzYMOj.jpg" group-title="✯BOLLYWOOD✯ 2026",Gandhi Talks (2026)
@@ -32621,6 +32631,10 @@ http://filex.me:8080/movie/shafiq02/1234/851462.mp4
 http://filex.me:8080/movie/shafiq02/1234/851461.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Mohra (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nWAptaCNiTIJtv9cYqfF5E7qm0I.jpg" group-title="✯BOLLYWOOD✯ 90s",Mohra (1994)
 http://filex.me:8080/movie/shafiq02/1234/685811.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BTS: THE RETURN (2026) Hindi + Korean " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9CNUWleZWN9EGMZjvaSTcxmAAGg.jpg" group-title="✯HINDI✯DUBB✯2026",BTS: THE RETURN (2026) Hindi + Korean 
+http://filex.me:8080/movie/shafiq02/1234/983492.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Project Hail Mary (2026) Hindi •CAM•" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yihdXomYb5kTeSivtFndMy5iDmf.jpg" group-title="✯HINDI✯DUBB✯2026",Project Hail Mary (2026) Hindi •CAM•
+http://filex.me:8080/movie/shafiq02/1234/971412.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Rise of the Red Hot Chili Peppers: Our Brother, Hillel (2025) Hindi Audio " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y9hHoO3eB7l3ZjYUZoJUJpZW22V.jpg" group-title="✯HINDI✯DUBB✯2025",The Rise of the Red Hot Chili Peppers: Our Brother, Hillel (2025) Hindi Audio 
 http://filex.me:8080/movie/shafiq02/1234/970437.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Pretty Lethal (2026) HIN + ENG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/znTPnXCK3lEQJgqXCvP7e5FUz6f.jpg" group-title="✯HINDI✯DUBB✯2026",Pretty Lethal (2026) HIN + ENG
@@ -32807,8 +32821,6 @@ http://filex.me:8080/movie/shafiq02/1234/954965.mp4
 http://filex.me:8080/movie/shafiq02/1234/911398.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Wild Blade of Strangers (2024) Hindi " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DZOU5qibB8WeXtzQ00Nl6tiqfw.jpg" group-title="✯HINDI✯DUBB✯2023-2024",The Wild Blade of Strangers (2024) Hindi 
 http://filex.me:8080/movie/shafiq02/1234/911385.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Internship (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYqSOkix4rbDiZW0ACNnvZCpT6X.jpg" group-title="✯HINDI✯DUBB✯2026",The Internship (2026)
-http://filex.me:8080/movie/shafiq02/1234/911061.mp4
 #EXTINF:-1 tvg-id="" tvg-name="One Last Adventure: The Making of Stranger Things 5 (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZhrAx5CevLfjXcGIG3wBXxDiAL.jpg" group-title="✯HINDI✯DUBB✯2026",One Last Adventure: The Making of Stranger Things 5 (2026)
 http://filex.me:8080/movie/shafiq02/1234/910925.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Irishman (2019) Hindi Audio " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mbm8k3GFhXS0ROd9AD1gqYbIFbM.jpg" group-title="✯HINDI✯DUBB✯2019-2020",The Irishman (2019) Hindi Audio 
@@ -32841,8 +32853,6 @@ http://filex.me:8080/movie/shafiq02/1234/910250.mp4
 http://filex.me:8080/movie/shafiq02/1234/910169.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Crown of Shadows (2025) Hindi Audio " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oK8Po4rbIWnZ5cNmBuutOvRrhcz.jpg" group-title="✯HINDI✯DUBB✯2025",Crown of Shadows (2025) Hindi Audio 
 http://filex.me:8080/movie/shafiq02/1234/910166.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Osiris (2025) Hindi Audio " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3YtZHtXPNG5AleisgEatEfZOT2w.jpg" group-title="✯HINDI✯DUBB✯2025",Osiris (2025) Hindi Audio 
-http://filex.me:8080/movie/shafiq02/1234/908996.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Time for Bravery (2025) Hindi Audio" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qKKG22O5pFxqglG0oMjWTjQWCNl.jpg" group-title="✯HINDI✯DUBB✯2025",A Time for Bravery (2025) Hindi Audio
 http://filex.me:8080/movie/shafiq02/1234/908557.mp4
 #EXTINF:-1 tvg-id="" tvg-name="To Live Through Death (2024) Hindi Audio " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uXw9aAAlMdAIwJKZsxFeFTPJUQq.jpg" group-title="✯HINDI✯DUBB✯2025",To Live Through Death (2024) Hindi Audio 
@@ -38249,7 +38259,7 @@ http://filex.me:8080/movie/shafiq02/1234/873610.mkv
 http://filex.me:8080/movie/shafiq02/1234/873609.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Foolproof (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gudhSz8sDzRXxHY5XchllQKxw77.jpg" group-title="✯HINDI✯DUBB✯2000-2010",Foolproof (2003)
 http://filex.me:8080/movie/shafiq02/1234/873608.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Fast & Furious (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lUtVoRukW7WNtUySwd8hWlByBds.jpg" group-title="✯HINDI✯DUBB✯2000-2010",Fast & Furious (2009)
+#EXTINF:-1 tvg-id="" tvg-name="Fast & Furious (2009) Hindi + English " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lUtVoRukW7WNtUySwd8hWlByBds.jpg" group-title="✯HINDI✯DUBB✯2000-2010",Fast & Furious (2009) Hindi + English 
 http://filex.me:8080/movie/shafiq02/1234/873607.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Green Zone (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/czFIaeukSxNEccysQeys1PCkuOG.jpg" group-title="✯HINDI✯DUBB✯2000-2010",Green Zone (2010)
 http://filex.me:8080/movie/shafiq02/1234/873606.mkv
@@ -41225,7 +41235,7 @@ http://filex.me:8080/movie/shafiq02/1234/872118.mkv
 http://filex.me:8080/movie/shafiq02/1234/872117.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Journey 2: The Mysterious Island (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uFm2vnp9LhHx5MNo1Ego6O3vUhl.jpg" group-title="✯HINDI✯DUBB✯2011-2015",Journey 2: The Mysterious Island (2012)
 http://filex.me:8080/movie/shafiq02/1234/872116.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Fast & Furious 6 (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/thSmnRdrzPBBospIOJjLZBReqzo.jpg" group-title="✯HINDI✯DUBB✯2011-2015",Fast & Furious 6 (2013)
+#EXTINF:-1 tvg-id="" tvg-name="Fast & Furious 6 (2013) Hindi + English " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/thSmnRdrzPBBospIOJjLZBReqzo.jpg" group-title="✯HINDI✯DUBB✯2011-2015",Fast & Furious 6 (2013) Hindi + English 
 http://filex.me:8080/movie/shafiq02/1234/872115.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Pain & Gain (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9WqA0Ry9wmTzFvom8mNbcyKZQgP.jpg" group-title="✯HINDI✯DUBB✯2011-2015",Pain & Gain (2013)
 http://filex.me:8080/movie/shafiq02/1234/872114.mkv
@@ -44991,10 +45001,6 @@ http://filex.me:8080/movie/shafiq02/1234/910160.mp4
 http://filex.me:8080/movie/shafiq02/1234/910157.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The SpongeBob Movie: Search for SquarePants (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iJnJ6o7tcUpSD0DqdeFC79qt41c.jpg" group-title="✯KID ENGLISH✯",The SpongeBob Movie: Search for SquarePants (2025)
 http://filex.me:8080/movie/shafiq02/1234/910029.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Loud House Christmas Movie: Naughty or Nice (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x8etkE8pdopoHx8B8PJrinU01Wz.jpg" group-title="✯KID ENGLISH✯",A Loud House Christmas Movie: Naughty or Nice (2025)
-http://filex.me:8080/movie/shafiq02/1234/908569.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Grand Prix of Europe (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jGGEqRaHAJ1pKJBj35WVxDyQBNw.jpg" group-title="✯KID ENGLISH✯",Grand Prix of Europe (2025)
-http://filex.me:8080/movie/shafiq02/1234/908566.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Kung Fu Panda 4 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kDp1vUBnMpe8ak4rjgl3cLELqjU.jpg" group-title="✯KID HINDI✯",Kung Fu Panda 4 (2024)
 http://filex.me:8080/movie/shafiq02/1234/886173.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Kung Fu Panda 4 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kDp1vUBnMpe8ak4rjgl3cLELqjU.jpg" group-title="✯KID ENGLISH✯",Kung Fu Panda 4 (2024)
@@ -49943,8 +49949,6 @@ http://filex.me:8080/movie/shafiq02/1234/957848.mp4
 http://filex.me:8080/movie/shafiq02/1234/957825.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Thank You Dear (2025) Hindi + Telugu " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kgFwTGoEAUJEwSQTJ2cMgLflPta.jpg" group-title="✯SOUTH✯ INDIA 2025",Thank You Dear (2025) Hindi + Telugu 
 http://filex.me:8080/movie/shafiq02/1234/957810.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Nari Nari Naduma Murari (2026) Hindi + Telugu " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jFBu7tS0mlEZwYTkjJcKH48bV4m.jpg" group-title="✯SOUTH✯ INDIA 2026",Nari Nari Naduma Murari (2026) Hindi + Telugu 
-http://filex.me:8080/movie/shafiq02/1234/957807.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Gatha Vaibhava (2025) Hindi + Kannada " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aacJ77PR6wx1KE6MQN9IUeytg2J.jpg" group-title="✯SOUTH✯ INDIA 2025",Gatha Vaibhava (2025) Hindi + Kannada 
 http://filex.me:8080/movie/shafiq02/1234/957804.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Jholachhap ●2025● Hindi Audio " tvg-logo="https://m.media-amazon.com/images/M/MV5BNjAzYTJiNDktMmUzMi00OWNmLWI0ZDUtMmMyOGU5ZTQ4ODJiXkEyXkFqcGc@._V1_.jpg" group-title="✯SOUTH✯ INDIA 2025",Jholachhap ●2025● Hindi Audio 
@@ -49963,8 +49967,6 @@ http://filex.me:8080/movie/shafiq02/1234/955020.mp4
 http://filex.me:8080/movie/shafiq02/1234/955015.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Asambhav (2025) Hindi Audio " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oloiEBjvfkiDGCykDVJjxEQcHoJ.jpg" group-title="✯SOUTH✯ INDIA 2025",Asambhav (2025) Hindi Audio 
 http://filex.me:8080/movie/shafiq02/1234/954851.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dominic and the Ladies' Purse (2025) [Multi Audio] [Cam]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kbydhHW7IYMcdvn9jO9BdW4eUwk.jpg" group-title="✯SOUTH✯ INDIA 2025",Dominic and the Ladies' Purse (2025) [Multi Audio] [Cam]
-http://filex.me:8080/movie/shafiq02/1234/934316.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Bihu Attack (2026) cam" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTgzMjMwMWYtMzUzMC00ZWQ1LWE1YmYtYjRjYTMzMTY0YTk5XkEyXkFqcGc@._V1_.jpg" group-title="✯SOUTH✯ INDIA 2025",Bihu Attack (2026) cam
 http://filex.me:8080/movie/shafiq02/1234/911696.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Bank Of Bhagyalakshmi (2025) Hindi + Kannada " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k3ZkowkAPpfLwhD8eV3OhFooYgo.jpg" group-title="✯SOUTH✯ INDIA 2025",Bank Of Bhagyalakshmi (2025) Hindi + Kannada 
@@ -49996,5 +49998,3 @@ http://filex.me:8080/movie/shafiq02/1234/910916.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Shambhala (2025) [Multi Audio]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qFkdN02Ypxxflh92iySnEbTl7NH.jpg" group-title="✯SOUTH✯ INDIA 2026",Shambhala (2025) [Multi Audio]
 http://filex.me:8080/movie/shafiq02/1234/910783.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Others (2025) [Multi Audio]" tvg-logo="https://pbs.twimg.com/media/G5IxITpbIAM6UpV?format=jpg&name=900x900" group-title="✯SOUTH✯ INDIA 2025",Others (2025) [Multi Audio]
-http://filex.me:8080/movie/shafiq02/1234/910739.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Not All Movies Are the Same: Dual (2025)  [Multi Audio]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wgun5MR55pkNyN90cux7czWGw5e.jpg" group-title="✯SOUTH✯ INDIA 2025",Not All Movies Are the Same: Dual (2025)  [Multi Audio]
