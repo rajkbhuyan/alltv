@@ -5861,8 +5861,10 @@ http://filex.me:8080//live/shafiq02/1234/956841.ts
 http://filex.me:8080//live/shafiq02/1234/956842.ts
 #EXTINF:-1 tvg-id="" tvg-name="4K | TNT Sports Ultimate" tvg-logo="https://i.ibb.co/bFsVvq4/TNTSports4-K.png" group-title="SPORTS | ALL",4K | TNT Sports Ultimate
 http://filex.me:8080//live/shafiq02/1234/956843.ts
-#EXTINF:-1 tvg-id="" tvg-name="Hotstar Hindi ( Match Time)" tvg-logo="https://i.postimg.cc/vBD79StP/Picsart-26-04-02-17-29-19-438.jpg" group-title="IPL |✯ CHAMPION LEAGUE ✯2026✯",Hotstar Hindi ( Match Time)
+#EXTINF:-1 tvg-id="" tvg-name="IPL Hotstar Hindi ( Match Time)" tvg-logo="https://i.postimg.cc/vBD79StP/Picsart-26-04-02-17-29-19-438.jpg" group-title="IPL |✯ CHAMPION LEAGUE ✯2026✯",IPL Hotstar Hindi ( Match Time)
 http://filex.me:8080//live/shafiq02/1234/984278.ts
+#EXTINF:-1 tvg-id="" tvg-name="IPL Hotstar Punjabi" tvg-logo="https://i.postimg.cc/j5KNPQy7/Picsart-26-04-03-22-48-14-321.jpg" group-title="IPL |✯ CHAMPION LEAGUE ✯2026✯",IPL Hotstar Punjabi
+http://filex.me:8080//live/shafiq02/1234/986999.ts
 #EXTINF:-1 tvg-id="DD.Sports.in" tvg-name="PK | PTV Sports SD" tvg-logo="https://www.lyngsat.com/logo/tv/pp/ptv_sports_pk.png" group-title="✯CRICKET✯",PK | PTV Sports SD
 http://filex.me:8080//live/shafiq02/1234/250211.ts
 #EXTINF:-1 tvg-id="DD.Sports.in" tvg-name="PK | PTV Sports HD" tvg-logo="https://www.lyngsat.com/logo/tv/pp/ptv_sports_pk.png" group-title="✯CRICKET✯",PK | PTV Sports HD
@@ -26563,6 +26565,12 @@ http://filex.me:8080//live/shafiq02/1234/908780.ts
 http://filex.me:8080//live/shafiq02/1234/908774.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR: WANASAH HD" tvg-logo="" group-title="✯MUSIC✯اغاني",AR: WANASAH HD
 http://filex.me:8080//live/shafiq02/1234/908783.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bhabiji Ghar Par Hain! Fun on the Run (2026) •4K•" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iuVlVRoBL1fHhBlVjS58MpBES05.jpg" group-title="✯BOLLYWOOD✯4K",Bhabiji Ghar Par Hain! Fun on the Run (2026) •4K•
+http://filex.me:8080/movie/shafiq02/1234/987026.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bhabiji Ghar Par Hain! Fun on the Run (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iuVlVRoBL1fHhBlVjS58MpBES05.jpg" group-title="✯BOLLYWOOD✯ 2026",Bhabiji Ghar Par Hain! Fun on the Run (2026)
+http://filex.me:8080/movie/shafiq02/1234/987023.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vadh 2 (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pOJAaLMsc7T5rwVDTA7SRg9SAEU.jpg" group-title="✯BOLLYWOOD✯ 2026",Vadh 2 (2026)
+http://filex.me:8080/movie/shafiq02/1234/987020.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Monday Night RAW 30.3.2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfZq7fpNSLFr6o-IbIgijKdV_tsmKnIH-i9XnlyfEG5UQhjTHQ2uXlqtw&s=10" group-title="✯WWE✯",Monday Night RAW 30.3.2026
 http://filex.me:8080/movie/shafiq02/1234/984319.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Match Fixing - The Nation At Stake (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/szmEGYLFC7caihW0qrOoWgcMn5c.jpg" group-title="✯BOLLYWOOD✯ 2025",Match Fixing - The Nation At Stake (2025)
@@ -26747,8 +26755,6 @@ http://filex.me:8080/movie/shafiq02/1234/959256.mp4
 http://filex.me:8080/movie/shafiq02/1234/959213.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Bhabiji Ghar Par Hain! (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v8G1NudtXq7BP56TgmAfpDx10FQ.jpg" group-title="✯BOLLYWOOD✯ 2026",Bhabiji Ghar Par Hain! (2026)
 http://filex.me:8080/movie/shafiq02/1234/957941.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Vadh 2 (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pOJAaLMsc7T5rwVDTA7SRg9SAEU.jpg" group-title="✯BOLLYWOOD✯ 2026",Vadh 2 (2026)
-http://filex.me:8080/movie/shafiq02/1234/957940.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Rajasaab (2026) 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nvK6gYa4diCnQkDVN42uoYXPrdT.jpg" group-title="✯BOLLYWOOD✯4K",The Rajasaab (2026) 4K
 http://filex.me:8080/movie/shafiq02/1234/957862.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Kis Kisko Pyaar Karoon 2 (2025) 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yxCAHqkhDYmE9HEDgD6Ta9WJn1H.jpg" group-title="✯BOLLYWOOD✯4K",Kis Kisko Pyaar Karoon 2 (2025) 4K
@@ -30305,6 +30311,16 @@ http://filex.me:8080/movie/shafiq02/1234/851462.mp4
 http://filex.me:8080/movie/shafiq02/1234/851461.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Mohra (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nWAptaCNiTIJtv9cYqfF5E7qm0I.jpg" group-title="✯BOLLYWOOD✯ 90s",Mohra (1994)
 http://filex.me:8080/movie/shafiq02/1234/685811.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Carpenter's Son (2025) Hindi+Tamil+Telugu " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tXEtdZjoaHqjDjSxZJWwDVjIfx9.jpg" group-title="✯HINDI✯DUBB✯2025",The Carpenter's Son (2025) Hindi+Tamil+Telugu 
+http://filex.me:8080/movie/shafiq02/1234/987071.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Super Mario Galaxy Movie (2026) Hindi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg" group-title="✯HINDI✯DUBB✯2026",The Super Mario Galaxy Movie (2026) Hindi
+http://filex.me:8080/movie/shafiq02/1234/987017.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Feel My Voice (2026) Hindi+English+Italian" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Tf0qTA73XLhBnfP6YgvqtLZBnt.jpg" group-title="✯HINDI✯DUBB✯2026",Feel My Voice (2026) Hindi+English+Italian
+http://filex.me:8080/movie/shafiq02/1234/987014.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Truce (2025) Hindi+English+Spanish" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gk3VVTTRWVhuAVpuxJrGKCKBat5.jpg" group-title="✯HINDI✯DUBB✯2025",The Truce (2025) Hindi+English+Spanish
+http://filex.me:8080/movie/shafiq02/1234/987011.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Water Mafia (2024) Hindi + English " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wR2oWrSnflFdMX4SwwcnpE4UfP5.jpg" group-title="✯HINDI✯DUBB✯2025",Water Mafia (2024) Hindi + English 
+http://filex.me:8080/movie/shafiq02/1234/986277.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Killer Whale (2026) Hindi + English " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xC6zdIoIHjhOIFmjNyGgtzhuhiF.jpg" group-title="✯HINDI✯DUBB✯2026",Killer Whale (2026) Hindi + English 
 http://filex.me:8080/movie/shafiq02/1234/984311.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Scream 7 (2026) [Hindi Audio]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg" group-title="✯HINDI✯DUBB✯2026",Scream 7 (2026) [Hindi Audio]
@@ -45471,6 +45487,18 @@ http://filex.me:8080/movie/shafiq02/1234/859713.mkv
 http://filex.me:8080/movie/shafiq02/1234/859712.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Chhota Bheem - Crazy Cards World _ Videos for Kids in Hindi _ Fun Kids Videos" tvg-logo="" group-title="✯CHOTA BHEEM✯",Chhota Bheem - Crazy Cards World _ Videos for Kids in Hindi _ Fun Kids Videos
 http://filex.me:8080/movie/shafiq02/1234/859711.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Love Mouli (2024) Hindi Audio " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wIVY7CZJsUJhq9zWfuvSQ3Of6kG.jpg" group-title="✯SOUTH✯ INDIA 2023-2024",Love Mouli (2024) Hindi Audio 
+http://filex.me:8080/movie/shafiq02/1234/987080.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Velleppam (2026) Malayalam Audio " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yGhCgaMkyoR8Ja7B1AurNni844x.jpg" group-title=" ✯MALAYALAM✯ 2025 - 2026",Velleppam (2026) Malayalam Audio 
+http://filex.me:8080/movie/shafiq02/1234/987062.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vaazha II (2026) Malayalam |CAM " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1yLZ7kExd0UGGbaZW4LxmYD4OIf.jpg" group-title=" ✯MALAYALAM✯ 2025 - 2026",Vaazha II (2026) Malayalam |CAM 
+http://filex.me:8080/movie/shafiq02/1234/987059.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sampradayini Suppini Suddapoosani (2026) • 5 LANG •" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5NaXPthSsxJHo5Br0IIiLYz0z3w.jpg" group-title="✯SOUTH INDIA✯MULTI AUDIO✯",Sampradayini Suppini Suddapoosani (2026) • 5 LANG •
+http://filex.me:8080/movie/shafiq02/1234/987038.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mrithyunjay (2026) • 5 Languages •" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ugmlp0nM1CUHlnobFKO93aRbOu0.jpg" group-title="✯SOUTH INDIA✯MULTI AUDIO✯",Mrithyunjay (2026) • 5 Languages •
+http://filex.me:8080/movie/shafiq02/1234/987035.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Eesha (2025) HIN+TAM+TEL+ML" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/87MhKILHPwcForDY0HxzII4tPvA.jpg" group-title="✯SOUTH INDIA✯MULTI AUDIO✯",Eesha (2025) HIN+TAM+TEL+ML
+http://filex.me:8080/movie/shafiq02/1234/987029.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Eesha (2025) Hindi + Tamil " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/87MhKILHPwcForDY0HxzII4tPvA.jpg" group-title="✯SOUTH✯ INDIA 2025",Eesha (2025) Hindi + Tamil 
 http://filex.me:8080/movie/shafiq02/1234/984308.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Tortoise: The Tale of Murders (2025) Hindi Audio " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/llAejc0j8CKQbO8t0VzSqqDSWMj.jpg" group-title="✯SOUTH✯ INDIA 2025",Tortoise: The Tale of Murders (2025) Hindi Audio 
@@ -49970,31 +49998,3 @@ http://filex.me:8080/movie/shafiq02/1234/886397.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Hawa (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/39YFYnyfgDGy492T7GMBvEemT55.jpg" group-title="✯SOUTH✯ INDIA 2023-2024",Hawa (2023)
 http://filex.me:8080/movie/shafiq02/1234/886396.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Das Ka Dhamki (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nJThBpohKIw6EAJmsOjazyR41KJ.jpg" group-title="✯SOUTH✯ INDIA 2023-2024",Das Ka Dhamki (2023)
-http://filex.me:8080/movie/shafiq02/1234/886395.mkv
-#EXTINF:-1 tvg-id="" tvg-name="OMG: O Manchi Ghost (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eeMhCwSQm5hMOdCPhhJ6afIljDO.jpg" group-title="✯SOUTH✯ INDIA 2023-2024",OMG: O Manchi Ghost (2024)
-http://filex.me:8080/movie/shafiq02/1234/886394.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Manjummel Boys (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bswrtewwthpsh6nABiqKevU4UBI.jpg" group-title="✯SOUTH✯ INDIA 2023-2024",Manjummel Boys (2024)
-http://filex.me:8080/movie/shafiq02/1234/886393.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Pulikkuthi Pandi (2023)" tvg-logo="" group-title="✯SOUTH✯ INDIA 2023-2024",Pulikkuthi Pandi (2023)
-http://filex.me:8080/movie/shafiq02/1234/886392.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mangalavaaram (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zZxBWGqdoQ3lX7oPjtI41Yby59j.jpg" group-title="✯SOUTH✯ INDIA 2023-2024",Mangalavaaram (2023)
-http://filex.me:8080/movie/shafiq02/1234/886391.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Guntur Kaaram (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4WvxzCSHmjbxqc3wethZoBZ5hmA.jpg" group-title="✯SOUTH✯ INDIA 2023-2024",Guntur Kaaram (2024)
-http://filex.me:8080/movie/shafiq02/1234/886390.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Chilli Chicken (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Aa0A7pN7IuKqen0nYuD7pIKzqf.jpg" group-title="✯SOUTH✯ INDIA 2023-2024",Chilli Chicken (2024)
-http://filex.me:8080/movie/shafiq02/1234/886389.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mathu Vadalara 2 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nvXcq5eI2pGDDDEGPH7vZvij7sU.jpg" group-title="✯SOUTH✯ INDIA 2023-2024",Mathu Vadalara 2 (2024)
-http://filex.me:8080/movie/shafiq02/1234/886388.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Anuragam (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n0TvQh5meQJaUwGXayG7A8EjYPT.jpg" group-title="✯SOUTH✯ INDIA 2023-2024",Anuragam (2023)
-http://filex.me:8080/movie/shafiq02/1234/886387.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Maa Nanna Super Hero (2024)_" tvg-logo="" group-title="✯SOUTH✯ INDIA 2023-2024",Maa Nanna Super Hero (2024)_
-http://filex.me:8080/movie/shafiq02/1234/886386.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Intinti Ramayanam (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/me4Ie36Y6pKD2y7BkDhTrMW3gcw.jpg" group-title="✯SOUTH✯ INDIA 2023-2024",Intinti Ramayanam (2023)
-http://filex.me:8080/movie/shafiq02/1234/886385.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Rathnam (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j35uUmrMgWNQHrs0Obi8ll0OVfe.jpg" group-title="✯SOUTH✯ INDIA 2023-2024",Rathnam (2024)
-http://filex.me:8080/movie/shafiq02/1234/886384.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Haunted Raasta Nite Road (2024)" tvg-logo="" group-title="✯SOUTH✯ INDIA 2023-2024",Haunted Raasta Nite Road (2024)
-http://filex.me:8080/movie/shafiq02/1234/886383.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Name Is Shruthi (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8mJ83rDp2wbuUkLK2L6nHMc3McK.jpg" group-title="✯SOUTH✯ INDIA 2023-2024",My Name Is Shruthi (2023)
-http://filex.me:8080/movie/shafiq02/1234/886382.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Magic Mike's Last Dance (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9a9pyJZRhUWUSBT8BQqWihtqbI8.jpg" group-title="✯SOUTH✯ INDIA 2023-2024",Magic Mike's Last Dance (2023)
