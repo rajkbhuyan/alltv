@@ -1729,6 +1729,10 @@ http://filex.me:8080/movie/shafiq02/1234/885980.mkv
 http://filex.me:8080/movie/shafiq02/1234/885979.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Mission 007 (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oQufNu6Aw3Emze7bxvYNAXzaZNi.jpg" group-title="✯SOUTH✯ INDIA 2025",Mission 007 (2025)
 http://filex.me:8080/movie/shafiq02/1234/885978.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Infiltrate (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Cw8GF9wG63kF8pRRXwOx2kXGt.jpg" group-title="✯ENGLISH✯ 2026",Infiltrate (2026)
+http://filex.me:8080/movie/shafiq02/1234/1144720.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Outcome (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kSzcpfbTy2pXHGvrVU2WhQTo6oU.jpg" group-title="✯ENGLISH✯ 2026",Outcome (2026)
+http://filex.me:8080/movie/shafiq02/1234/1144717.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Timur (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eD2pLCLMvbw06ITaHipGAYU0MiI.jpg" group-title="✯ENGLISH✯ 2025",Timur (2025)
 http://filex.me:8080/movie/shafiq02/1234/1142408.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Strand 45 (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7bjTOBRGgfI1eRlkJEvICWDQzAB.jpg" group-title="✯ENGLISH✯ 2026",Strand 45 (2026)
@@ -37641,7 +37645,7 @@ http://filex.me:8080/movie/shafiq02/1234/1142350.mp4
 http://filex.me:8080/movie/shafiq02/1234/1142344.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Bhootan Wala Khooh (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2QSBXVrduSGCHDdH04mwKZkoFh.jpg" group-title="✯PUNJABI✯ MIX",Bhootan Wala Khooh (2026)
 http://filex.me:8080/movie/shafiq02/1234/1122507.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dark Night (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fgE9wVdrImP2bCXsom4wgPEdlNZ.jpg" group-title="✯TELUGU✯",Dark Night (2026)
+#EXTINF:-1 tvg-id="" tvg-name="Dark Night (2026) Telugu Audio " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fgE9wVdrImP2bCXsom4wgPEdlNZ.jpg" group-title="✯TELUGU✯",Dark Night (2026) Telugu Audio 
 http://filex.me:8080/movie/shafiq02/1234/1122501.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Toh Ti Ani Fuji (2026) " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1JGkVOvJZEwVOHzmdRvkc7dPI6r.jpg" group-title="✯MARATHI✯ MIX",Toh Ti Ani Fuji (2026) 
 http://filex.me:8080/movie/shafiq02/1234/1103252.mp4
@@ -49994,7 +49998,3 @@ http://filex.me:8080/movie/shafiq02/1234/941064.mkv
 #EXTINF:-1 tvg-id="" tvg-name="NO: Halvdan Viking" tvg-logo="https://image.tmdb.org/t/p/original/eKGvGpaQa0vzf9L9DG7dbY8sxFs.jpg" group-title="✯NORWAY✯MOVIES",NO: Halvdan Viking
 http://filex.me:8080/movie/shafiq02/1234/941063.mkv
 #EXTINF:-1 tvg-id="" tvg-name="NO: Deep" tvg-logo="https://image.tmdb.org/t/p/original/bKthjUmxjHjvJK8FktFfQdmwP12.jpg" group-title="✯NORWAY✯MOVIES",NO: Deep
-http://filex.me:8080/movie/shafiq02/1234/941062.mkv
-#EXTINF:-1 tvg-id="" tvg-name="NO: Vuk" tvg-logo="https://image.tmdb.org/t/p/original/sgZFOXE0Chi4NcfsmxZ3E6fjAOF.jpg" group-title="✯NORWAY✯MOVIES",NO: Vuk
-http://filex.me:8080/movie/shafiq02/1234/941061.mkv
-#EXTINF:-1 tvg-id="" tvg-name="NO: Woody Woodpecker" tvg-logo="https://image.tmdb.org/t/p/original/vFGUsJTa8z0OfDTbjdyppAireeB.jpg" group-title="✯NORWAY✯MOVIES",NO: Woody Woodpecker

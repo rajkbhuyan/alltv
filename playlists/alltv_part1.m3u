@@ -3815,8 +3815,6 @@ http://filex.me:8080//live/shafiq02/1234/911274.ts
 http://filex.me:8080//live/shafiq02/1234/911252.ts
 #EXTINF:-1 tvg-id="" tvg-name="IND_SONY WAH" tvg-logo="" group-title="IND | INTERTAINMENT 4K",IND_SONY WAH
 http://filex.me:8080//live/shafiq02/1234/911271.ts
-#EXTINF:-1 tvg-id="" tvg-name="IND_SONY YAY!" tvg-logo="" group-title="IND | INTERTAINMENT 4K",IND_SONY YAY!
-http://filex.me:8080//live/shafiq02/1234/911302.ts
 #EXTINF:-1 tvg-id="463965" tvg-name="ZEE CAFE FHD" tvg-logo="" group-title="IND | INTERTAINMENT 4K",ZEE CAFE FHD
 http://filex.me:8080//live/shafiq02/1234/911322.ts
 #EXTINF:-1 tvg-id="464096" tvg-name="IN | ZEE Bollywood 4K" tvg-logo="" group-title="IND | INTERTAINMENT 4K",IN | ZEE Bollywood 4K
@@ -4319,6 +4317,8 @@ http://filex.me:8080//live/shafiq02/1234/911594.ts
 http://filex.me:8080//live/shafiq02/1234/911595.ts
 #EXTINF:-1 tvg-id="464128" tvg-name="IN | SHEMAROO TV HD" tvg-logo="" group-title="IND | ENTERTAINMENT HD",IN | SHEMAROO TV HD
 http://filex.me:8080//live/shafiq02/1234/957569.ts
+#EXTINF:-1 tvg-id="" tvg-name="IND_SONY YAY!" tvg-logo="" group-title="IND | ENTERTAINMENT HD",IND_SONY YAY!
+http://filex.me:8080//live/shafiq02/1234/911302.ts
 #EXTINF:-1 tvg-id="441259" tvg-name="IN|uk | ZEE TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/zz/zee-tv-in.png" group-title="IND | UK",IN|uk | ZEE TV HD
 http://filex.me:8080//live/shafiq02/1234/276650.ts
 #EXTINF:-1 tvg-id="" tvg-name="IN | SONY TV ASIA HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/set_in.png" group-title="IND | UK",IN | SONY TV ASIA HD
