@@ -3701,7 +3701,7 @@ http://filex.me:8080//live/shafiq02/1234/350121.ts
 http://filex.me:8080//live/shafiq02/1234/350105.ts
 #EXTINF:-1 tvg-id="PTV.News.pk" tvg-name="PK | 92 NEWS 4K HD" tvg-logo="https://www.lyngsat.com/logo/tv/num/92-news-pk.png" group-title="PAK | NEWS 4K",PK | 92 NEWS 4K HD
 http://filex.me:8080//live/shafiq02/1234/246995.ts
-#EXTINF:-1 tvg-id="" tvg-name="PK | ARY NEWS 4K HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/ary_news_asia.png" group-title="PAK | NEWS 4K",PK | ARY NEWS 4K HD
+#EXTINF:-1 tvg-id="" tvg-name="PK | ARY NEWS 4K" tvg-logo="https://www.lyngsat.com/logo/tv/aa/ary_news_asia.png" group-title="PAK | NEWS 4K",PK | ARY NEWS 4K
 http://filex.me:8080//live/shafiq02/1234/246972.ts
 #EXTINF:-1 tvg-id="" tvg-name="PK | GEO NEWS 4K HD" tvg-logo="https://www.lyngsat.com/logo/tv/gg/geo_news_international.png" group-title="PAK | NEWS 4K",PK | GEO NEWS 4K HD
 http://filex.me:8080//live/shafiq02/1234/246976.ts
@@ -3821,7 +3821,7 @@ http://filex.me:8080//live/shafiq02/1234/911271.ts
 http://filex.me:8080//live/shafiq02/1234/911322.ts
 #EXTINF:-1 tvg-id="464096" tvg-name="IN | ZEE Bollywood 4K" tvg-logo="" group-title="IND | INTERTAINMENT 4K",IN | ZEE Bollywood 4K
 http://filex.me:8080//live/shafiq02/1234/275059.ts
-#EXTINF:-1 tvg-id="463828" tvg-name="IN | ZEE Classic 4K HD" tvg-logo="" group-title="IND | INTERTAINMENT 4K",IN | ZEE Classic 4K HD
+#EXTINF:-1 tvg-id="463828" tvg-name="IN | ZEE Classic 4K" tvg-logo="" group-title="IND | INTERTAINMENT 4K",IN | ZEE Classic 4K
 http://filex.me:8080//live/shafiq02/1234/275061.ts
 #EXTINF:-1 tvg-id="" tvg-name="IND_ZEE ACTION" tvg-logo="" group-title="IND | INTERTAINMENT 4K",IND_ZEE ACTION
 http://filex.me:8080//live/shafiq02/1234/911228.ts
@@ -25327,6 +25327,8 @@ http://filex.me:8080//live/shafiq02/1234/908780.ts
 http://filex.me:8080//live/shafiq02/1234/908774.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR: WANASAH HD" tvg-logo="" group-title="✯MUSIC✯اغاني",AR: WANASAH HD
 http://filex.me:8080//live/shafiq02/1234/908783.ts
+#EXTINF:-1 tvg-id="" tvg-name="Noah Kahan: Out of Body (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8VtZAonOgK8hae7FwOZCSg7XmCu.jpg" group-title="BOLLYWOOD | 2026",Noah Kahan: Out of Body (2026)
+http://filex.me:8080/movie/shafiq02/1234/1148712.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Noah Kahan: Out of Body (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8VtZAonOgK8hae7FwOZCSg7XmCu.jpg" group-title="✯DOCUMENTARIES✯",Noah Kahan: Out of Body (2026)
 http://filex.me:8080/movie/shafiq02/1234/1145181.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Phobia (2026)" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2ViYzU5MjMtNGE0Ni00ZDMzLTgwN2EtYjQyM2I5NGQ4NTUxXkEyXkFqcGc@._V1_.jpg" group-title="BOLLYWOOD | 2026",Phobia (2026)
@@ -28323,6 +28325,8 @@ http://filex.me:8080/movie/shafiq02/1234/851462.mp4
 http://filex.me:8080/movie/shafiq02/1234/851461.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Mohra (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nWAptaCNiTIJtv9cYqfF5E7qm0I.jpg" group-title="BOLLYWOOD | 90s",Mohra (1994)
 http://filex.me:8080/movie/shafiq02/1234/685811.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Untold (2026) Hindi + English + Tamil " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6oJSSHqiBbngLSUveYVDObjrMyCSMDq6MtQd085VgjBn4dwY-PDmKtlc&s=10" group-title="HINDI DUB | 2026",Untold (2026) Hindi + English + Tamil 
+http://filex.me:8080/movie/shafiq02/1234/1148718.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Big Picture (1989) Hindi + English + Tamil " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/olQw61BotSq74LgpwQTn4qPYAk1.jpg" group-title="HINDI DUB | 1950-1999",The Big Picture (1989) Hindi + English + Tamil 
 http://filex.me:8080/movie/shafiq02/1234/1145172.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Psycho Killer (2026) Hindi Audio " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5xgxxmLivJXL8aF0HdZfpx8aAIo.jpg" group-title="HINDI DUB | 2026",Psycho Killer (2026) Hindi Audio 
@@ -45053,6 +45057,8 @@ http://filex.me:8080//live/shafiq02/1234/522602.ts
 http://filex.me:8080//live/shafiq02/1234/522603.ts
 #EXTINF:-1 tvg-id="464083" tvg-name="COlors Super HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/300/-/2025-04-08/250408785000.jpg" group-title="IND | KANNADA",COlors Super HD
 http://filex.me:8080//live/shafiq02/1234/522604.ts
+#EXTINF:-1 tvg-id="" tvg-name="Guest (2026) Tamil Audio " tvg-logo="https://static.moviecrow.com/gallery/20260409/255937-Guest%20Sakshi%20Agarwal%20Vidhu%20Balaji%20Director%20Ranga%20Bhuvaneswar%20Chapter%202%20Music%20AK%20Tariq.jpg" group-title="TAMIL | 2025 - 2026",Guest (2026) Tamil Audio 
+http://filex.me:8080/movie/shafiq02/1234/1148715.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Dacoit (2026) HINDI • CAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lbrnJY7E0a9xxgj2cotNp6YI4dz.jpg" group-title="SOUTH INDIA | 2026",Dacoit (2026) HINDI • CAM
 http://filex.me:8080/movie/shafiq02/1234/1145175.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Kadhal Kadhai Sollava (2026) Tamil Audio " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5bnBIP6brIVCOgQ6D4lIQ6CbUvs.jpg" group-title="TAMIL | 2025 - 2026",Kadhal Kadhai Sollava (2026) Tamil Audio 
@@ -49992,9 +49998,3 @@ http://filex.me:8080/movie/shafiq02/1234/887383.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Maniyaar Kudumbam (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hpzqDs7MY3yzKe0erd7G0N103pw.jpg" group-title="SOUTH INDIA | 1990-2020",Maniyaar Kudumbam (2018)
 http://filex.me:8080/movie/shafiq02/1234/887382.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Ethir Neechal (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i8ZM9Z8EOFb6sQknTuhsvklDXe6.jpg" group-title="SOUTH INDIA | 1990-2020",Ethir Neechal (2013)
-http://filex.me:8080/movie/shafiq02/1234/887380.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sabse Bada Zero 2 (Kedi Billa Killadi Ranga) (2020)" tvg-logo="" group-title="SOUTH INDIA | 1990-2020",Sabse Bada Zero 2 (Kedi Billa Killadi Ranga) (2020)
-http://filex.me:8080/movie/shafiq02/1234/887379.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Pailwaan (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/umWoSbujUE3iyrBjDxstuNapu0m.jpg" group-title="SOUTH INDIA | 1990-2020",Pailwaan (2019)
-http://filex.me:8080/movie/shafiq02/1234/887377.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Seetharama Kalyana (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vf1RQLn1rOknH67g1iL9cBvCCyD.jpg" group-title="SOUTH INDIA | 1990-2020",Seetharama Kalyana (2019)
