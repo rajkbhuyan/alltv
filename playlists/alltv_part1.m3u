@@ -3377,7 +3377,7 @@ http://filex.me:8080//live/shafiq02/1234/110043.ts
 http://filex.me:8080//live/shafiq02/1234/110044.ts
 #EXTINF:-1 tvg-id="" tvg-name="PK | Green TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/gg/green-entertainment-pk.png" group-title="PAK | ENTERTAINMENT HD",PK | Green TV HD
 http://filex.me:8080//live/shafiq02/1234/110094.ts
-#EXTINF:-1 tvg-id="" tvg-name="PK | GREE TV FHD" tvg-logo="https://www.lyngsat.com/logo/tv/gg/green-entertainment-pk.png" group-title="PAK | ENTERTAINMENT HD",PK | GREE TV FHD
+#EXTINF:-1 tvg-id="" tvg-name="PK | GREEN TV FHD" tvg-logo="https://www.lyngsat.com/logo/tv/gg/green-entertainment-pk.png" group-title="PAK | ENTERTAINMENT HD",PK | GREEN TV FHD
 http://filex.me:8080//live/shafiq02/1234/955641.ts
 #EXTINF:-1 tvg-id="" tvg-name="PK | AAN TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/aan-tv-pk.png" group-title="PAK | ENTERTAINMENT HD",PK | AAN TV HD
 http://filex.me:8080//live/shafiq02/1234/110076.ts
@@ -25215,6 +25215,8 @@ http://filex.me:8080//live/shafiq02/1234/908780.ts
 http://filex.me:8080//live/shafiq02/1234/908774.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR: WANASAH HD" tvg-logo="" group-title="✯MUSIC✯اغاني",AR: WANASAH HD
 http://filex.me:8080//live/shafiq02/1234/908783.ts
+#EXTINF:-1 tvg-id="" tvg-name="Friday Night SmackDown (24.4.2026)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbkwYbsoJE6BETIiLjxSGIVY5Cysw4PFUgh9IFZCLMrQ&s=10" group-title="✯WWE✯",Friday Night SmackDown (24.4.2026)
+http://filex.me:8080/movie/shafiq02/1234/1342473.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Nukkad Naatak (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ouT4jOENHVyQ1tvrVK78CP9CBoq.jpg" group-title="BOLLYWOOD | 2026",Nukkad Naatak (2026)
 http://filex.me:8080/movie/shafiq02/1234/1341831.mp4
 #EXTINF:-1 tvg-id="" tvg-name="WWE WrestleMania 42 - Saturday (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ZqaqAmOusw3f2bN164niCFWqgx.jpg" group-title="✯WWE✯",WWE WrestleMania 42 - Saturday (2026)
@@ -28255,6 +28257,8 @@ http://filex.me:8080/movie/shafiq02/1234/851462.mp4
 http://filex.me:8080/movie/shafiq02/1234/851461.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Mohra (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nWAptaCNiTIJtv9cYqfF5E7qm0I.jpg" group-title="BOLLYWOOD | 90s",Mohra (1994)
 http://filex.me:8080/movie/shafiq02/1234/685811.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Inception (2010) Hindi + English " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg" group-title="HINDI DUB | 2000-2010",Inception (2010) Hindi + English 
+http://filex.me:8080/movie/shafiq02/1234/1342435.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Venom: The Last Dance (2024) Hindi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vGXptEdgZIhPg3cGlc7e8sNPC2e.jpg" group-title="HINDI DUB | 2023-2024",Venom: The Last Dance (2024) Hindi
 http://filex.me:8080/movie/shafiq02/1234/1341828.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Apex (2026) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9iuGBLJBRuGKR6nRL4SxUV1tIdt.jpg" group-title="HINDI DUB | 2026",Apex (2026) (Hindi)
@@ -45033,6 +45037,18 @@ http://filex.me:8080//live/shafiq02/1234/522602.ts
 http://filex.me:8080//live/shafiq02/1234/522603.ts
 #EXTINF:-1 tvg-id="464083" tvg-name="COlors Super HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/300/-/2025-04-08/250408785000.jpg" group-title="IND | KANNADA",COlors Super HD
 http://filex.me:8080//live/shafiq02/1234/522604.ts
+#EXTINF:-1 tvg-id="" tvg-name="Galatta Family (2025) (Tamil)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wuXE99zta3rMrsrLSZ5yQ785zsa.jpg" group-title="TAMIL | 2025 - 2026",Galatta Family (2025) (Tamil)
+http://filex.me:8080/movie/shafiq02/1234/1342463.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Dresser (1983) (Tamil)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kPIeNAwdN2Ds77Bf7bfZAmDrzoh.jpg" group-title="TAMIL | 2025 - 2026",The Dresser (1983) (Tamil)
+http://filex.me:8080/movie/shafiq02/1234/1342462.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kidilam Paru (2026) (Malayalam)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4DYxdg22ZKi05ZgQLSekcwnL8IQ.jpg" group-title=" MALAYALAM | 2025 - 2026",Kidilam Paru (2026) (Malayalam)
+http://filex.me:8080/movie/shafiq02/1234/1342461.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iruniram (2026) (Malayalam)" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mmtv/960/540/content/common/1920x1080_coverposter/movie/images/movie-1920x1080-coverposter-yfmlvbfotm.jpeg" group-title=" MALAYALAM | 2025 - 2026",Iruniram (2026) (Malayalam)
+http://filex.me:8080/movie/shafiq02/1234/1342460.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Happy Raj (2026) (Malayalam)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8hmB6KNUFFzChYJxngIp063H2YR.jpg" group-title=" MALAYALAM | 2025 - 2026",Happy Raj (2026) (Malayalam)
+http://filex.me:8080/movie/shafiq02/1234/1342459.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Happy Raj (2026) (Kannada)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8hmB6KNUFFzChYJxngIp063H2YR.jpg" group-title="KANNADA | 2025 - 2026",Happy Raj (2026) (Kannada)
+http://filex.me:8080/movie/shafiq02/1234/1342458.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Nee Forever (2026) Tamil" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qEYp2LgileilGofZVVLL8Juuh2G.jpg" group-title="TAMIL | 2025 - 2026",Nee Forever (2026) Tamil
 http://filex.me:8080/movie/shafiq02/1234/1341840.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Happy Raj (2026) Tamil" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8hmB6KNUFFzChYJxngIp063H2YR.jpg" group-title="TAMIL | 2025 - 2026",Happy Raj (2026) Tamil
@@ -49982,19 +49998,3 @@ http://filex.me:8080/movie/shafiq02/1234/1174082.mp4
 #EXTINF:-1 tvg-id="" tvg-name="AR_ As for the Weather (2022)" tvg-logo="" group-title="AR | 2020-2025",AR_ As for the Weather (2022)
 http://filex.me:8080/movie/shafiq02/1234/1174080.mp4
 #EXTINF:-1 tvg-id="" tvg-name="AR_ Inside Man (2023)" tvg-logo="" group-title="AR | 2020-2025",AR_ Inside Man (2023)
-http://filex.me:8080/movie/shafiq02/1234/1174078.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ (2022) فيلم نسل الأغراب" tvg-logo="" group-title="AR | 2020-2025",AR_ (2022) فيلم نسل الأغراب
-http://filex.me:8080/movie/shafiq02/1234/1174076.mkv
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Atlas (2024)" tvg-logo="" group-title="AR | 2020-2025",AR_ Atlas (2024)
-http://filex.me:8080/movie/shafiq02/1234/1174074.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Downton Abbey_ A New Era (2022)" tvg-logo="" group-title="AR | 2020-2025",AR_ Downton Abbey_ A New Era (2022)
-http://filex.me:8080/movie/shafiq02/1234/1174072.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Maid for Revenge" tvg-logo="" group-title="AR | 2020-2025",AR_ Maid for Revenge
-http://filex.me:8080/movie/shafiq02/1234/1174069.mkv
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Earworm (2024)" tvg-logo="" group-title="AR | 2020-2025",AR_ Earworm (2024)
-http://filex.me:8080/movie/shafiq02/1234/1174068.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ We Live in Time (2024)" tvg-logo="" group-title="AR | 2020-2025",AR_ We Live in Time (2024)
-http://filex.me:8080/movie/shafiq02/1234/1174065.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ The Tomorrow Job (2023)" tvg-logo="" group-title="AR | 2020-2025",AR_ The Tomorrow Job (2023)
-http://filex.me:8080/movie/shafiq02/1234/1174063.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Attack on Finland (2021)" tvg-logo="" group-title="AR | 2020-2025",AR_ Attack on Finland (2021)
