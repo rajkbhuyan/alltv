@@ -4821,6 +4821,12 @@ http://filex.me:8080//live/shafiq02/1234/957587.ts
 http://filex.me:8080//live/shafiq02/1234/957585.ts
 #EXTINF:-1 tvg-id="" tvg-name="Star Sports 2 Tamil" tvg-logo="http://vplay.site:2052/images/GD0DlYEWdxuSDJvaq2JMW_aIwFEED3aCuhEk7U-L01T1MXrXqWxOsCq8Kmtddz5M.png" group-title="IND | CRICKET HD",Star Sports 2 Tamil
 http://filex.me:8080//live/shafiq02/1234/957584.ts
+#EXTINF:-1 tvg-id="" tvg-name="CRICKET | CRICLIFE 1 FHD" tvg-logo="https://www.ooredoo.qa/web/wp-content/uploads/2023/08/10-CricLife1-Logo_02_Web-site-logo-150x120pxl_.png" group-title="IND | CRICKET HD",CRICKET | CRICLIFE 1 FHD
+http://filex.me:8080//live/shafiq02/1234/1342651.ts
+#EXTINF:-1 tvg-id="" tvg-name="CRICKET | CRICBUZZ 1 FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXjgojAGT94RlJJHFtVw3LBJXMgk0m9dYyLTF4laNtmDKpdj3rCRaWqx_9WtgRtAAVPt4&usqp=CAU" group-title="IND | CRICKET HD",CRICKET | CRICBUZZ 1 FHD
+http://filex.me:8080//live/shafiq02/1234/1342652.ts
+#EXTINF:-1 tvg-id="" tvg-name="CRICKET | CRICBUZZ 2 FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXjgojAGT94RlJJHFtVw3LBJXMgk0m9dYyLTF4laNtmDKpdj3rCRaWqx_9WtgRtAAVPt4&usqp=CAU" group-title="IND | CRICKET HD",CRICKET | CRICBUZZ 2 FHD
+http://filex.me:8080//live/shafiq02/1234/1342653.ts
 #EXTINF:-1 tvg-id="" tvg-name="CRICKET (1)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStx7da_qa94FyoeuOHp7jhGWruG_Xw4KO8pEXlHLQgNT5Q8Jjtke-0mX8&s=10" group-title="PSL | CHAMPION LEAGUE (2026)",CRICKET (1)
 http://filex.me:8080//live/shafiq02/1234/905187.ts
 #EXTINF:-1 tvg-id="" tvg-name="CRICKET (2) " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStx7da_qa94FyoeuOHp7jhGWruG_Xw4KO8pEXlHLQgNT5Q8Jjtke-0mX8&s=10" group-title="PSL | CHAMPION LEAGUE (2026)",CRICKET (2) 
@@ -4831,26 +4837,6 @@ http://filex.me:8080//live/shafiq02/1234/905193.ts
 http://filex.me:8080//live/shafiq02/1234/911332.ts
 #EXTINF:-1 tvg-id="" tvg-name="CIRCKET (5)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStx7da_qa94FyoeuOHp7jhGWruG_Xw4KO8pEXlHLQgNT5Q8Jjtke-0mX8&s=10" group-title="PSL | CHAMPION LEAGUE (2026)",CIRCKET (5)
 http://filex.me:8080//live/shafiq02/1234/911334.ts
-#EXTINF:-1 tvg-id="" tvg-name="CIRCKET (6)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/2025_IPL_logo.png" group-title="IPL | CHAMPION LEAGUE (2026)",CIRCKET (6)
-http://filex.me:8080//live/shafiq02/1234/957575.ts
-#EXTINF:-1 tvg-id="" tvg-name="CIRCKET (7)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/2025_IPL_logo.png" group-title="IPL | CHAMPION LEAGUE (2026)",CIRCKET (7)
-http://filex.me:8080//live/shafiq02/1234/957576.ts
-#EXTINF:-1 tvg-id="" tvg-name="CIRCKET (8)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/2025_IPL_logo.png" group-title="IPL | CHAMPION LEAGUE (2026)",CIRCKET (8)
-http://filex.me:8080//live/shafiq02/1234/957577.ts
-#EXTINF:-1 tvg-id="" tvg-name="CRICKET (9)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/2025_IPL_logo.png" group-title="IPL | CHAMPION LEAGUE (2026)",CRICKET (9)
-http://filex.me:8080//live/shafiq02/1234/957578.ts
-#EXTINF:-1 tvg-id="" tvg-name="CRICKET (10)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/2025_IPL_logo.png" group-title="IPL | CHAMPION LEAGUE (2026)",CRICKET (10)
-http://filex.me:8080//live/shafiq02/1234/957592.ts
-#EXTINF:-1 tvg-id="" tvg-name="CRICKET (11)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/2025_IPL_logo.png" group-title="IPL | CHAMPION LEAGUE (2026)",CRICKET (11)
-http://filex.me:8080//live/shafiq02/1234/957593.ts
-#EXTINF:-1 tvg-id="" tvg-name="CRICKET (12)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/2025_IPL_logo.png" group-title="IPL | CHAMPION LEAGUE (2026)",CRICKET (12)
-http://filex.me:8080//live/shafiq02/1234/957594.ts
-#EXTINF:-1 tvg-id="" tvg-name="CRICKET (13)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/2025_IPL_logo.png" group-title="IPL | CHAMPION LEAGUE (2026)",CRICKET (13)
-http://filex.me:8080//live/shafiq02/1234/957597.ts
-#EXTINF:-1 tvg-id="" tvg-name="CIRCKET (14)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/2025_IPL_logo.png" group-title="IPL | CHAMPION LEAGUE (2026)",CIRCKET (14)
-http://filex.me:8080//live/shafiq02/1234/957599.ts
-#EXTINF:-1 tvg-id="" tvg-name="IPL Hotstar Hindi ( Match Time)" tvg-logo="https://i.postimg.cc/vBD79StP/Picsart-26-04-02-17-29-19-438.jpg" group-title="IPL | CHAMPION LEAGUE (2026)",IPL Hotstar Hindi ( Match Time)
-http://filex.me:8080//live/shafiq02/1234/984278.ts
 #EXTINF:-1 tvg-id="" tvg-name="CRicket 01 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/2025_IPL_logo.png" group-title="IPL | CHAMPION LEAGUE (2026)",CRicket 01 HD
 http://filex.me:8080//live/shafiq02/1234/141872.ts
 #EXTINF:-1 tvg-id="" tvg-name="CRicket 02 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/2025_IPL_logo.png" group-title="IPL | CHAMPION LEAGUE (2026)",CRicket 02 HD
@@ -4863,6 +4849,26 @@ http://filex.me:8080//live/shafiq02/1234/191879.ts
 http://filex.me:8080//live/shafiq02/1234/141723.ts
 #EXTINF:-1 tvg-id="" tvg-name="CRicket 06 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/2025_IPL_logo.png" group-title="IPL | CHAMPION LEAGUE (2026)",CRicket 06 HD
 http://filex.me:8080//live/shafiq02/1234/191819.ts
+#EXTINF:-1 tvg-id="" tvg-name="IPL Hotstar Punjabi" tvg-logo="https://i.postimg.cc/j5KNPQy7/Picsart-26-04-03-22-48-14-321.jpg" group-title="IPL | CHAMPION LEAGUE (2026)",IPL Hotstar Punjabi
+http://filex.me:8080//live/shafiq02/1234/957592.ts
+#EXTINF:-1 tvg-id="" tvg-name="IPL Hotstar Hindi ( Match Time)" tvg-logo="https://i.postimg.cc/vBD79StP/Picsart-26-04-02-17-29-19-438.jpg" group-title="IPL | CHAMPION LEAGUE (2026)",IPL Hotstar Hindi ( Match Time)
+http://filex.me:8080//live/shafiq02/1234/984278.ts
+#EXTINF:-1 tvg-id="" tvg-name="CIRCKET (6)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/2025_IPL_logo.png" group-title="IPL | CHAMPION LEAGUE (2026)",CIRCKET (6)
+http://filex.me:8080//live/shafiq02/1234/957575.ts
+#EXTINF:-1 tvg-id="" tvg-name="CIRCKET (7)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/2025_IPL_logo.png" group-title="IPL | CHAMPION LEAGUE (2026)",CIRCKET (7)
+http://filex.me:8080//live/shafiq02/1234/957576.ts
+#EXTINF:-1 tvg-id="" tvg-name="CIRCKET (8)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/2025_IPL_logo.png" group-title="IPL | CHAMPION LEAGUE (2026)",CIRCKET (8)
+http://filex.me:8080//live/shafiq02/1234/957577.ts
+#EXTINF:-1 tvg-id="" tvg-name="CRICKET (9)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/2025_IPL_logo.png" group-title="IPL | CHAMPION LEAGUE (2026)",CRICKET (9)
+http://filex.me:8080//live/shafiq02/1234/957578.ts
+#EXTINF:-1 tvg-id="" tvg-name="CRICKET (10)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/2025_IPL_logo.png" group-title="IPL | CHAMPION LEAGUE (2026)",CRICKET (10)
+http://filex.me:8080//live/shafiq02/1234/957593.ts
+#EXTINF:-1 tvg-id="" tvg-name="CRICKET (11)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/2025_IPL_logo.png" group-title="IPL | CHAMPION LEAGUE (2026)",CRICKET (11)
+http://filex.me:8080//live/shafiq02/1234/957594.ts
+#EXTINF:-1 tvg-id="" tvg-name="CRICKET (12)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/2025_IPL_logo.png" group-title="IPL | CHAMPION LEAGUE (2026)",CRICKET (12)
+http://filex.me:8080//live/shafiq02/1234/957597.ts
+#EXTINF:-1 tvg-id="" tvg-name="CIRCKET (13)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/2025_IPL_logo.png" group-title="IPL | CHAMPION LEAGUE (2026)",CIRCKET (13)
+http://filex.me:8080//live/shafiq02/1234/957599.ts
 #EXTINF:-1 tvg-id="" tvg-name="Dubai Racing (1080p)" tvg-logo="https://i.imgur.com/CJ1dagP.png" group-title="✯RACING Tv✯",Dubai Racing (1080p)
 http://filex.me:8080//live/shafiq02/1234/834751.ts
 #EXTINF:-1 tvg-id="" tvg-name="Dubai Racing 2 (1080p)" tvg-logo="https://i.imgur.com/H2TTn7t.png" group-title="✯RACING Tv✯",Dubai Racing 2 (1080p)
@@ -25215,6 +25221,12 @@ http://filex.me:8080//live/shafiq02/1234/908780.ts
 http://filex.me:8080//live/shafiq02/1234/908774.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR: WANASAH HD" tvg-logo="" group-title="✯MUSIC✯اغاني",AR: WANASAH HD
 http://filex.me:8080//live/shafiq02/1234/908783.ts
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night 274: Sterling vs. Zalal (2026) (Prelims)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j2yDJZ5RfN9XSgtlIuv17rwbVMG.jpg" group-title="✯UFC FIGHT✯",UFC Fight Night 274: Sterling vs. Zalal (2026) (Prelims)
+http://filex.me:8080/movie/shafiq02/1234/1342650.mp4
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night 274: Sterling vs. Zalal (2026) (Main Card)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j2yDJZ5RfN9XSgtlIuv17rwbVMG.jpg" group-title="✯UFC FIGHT✯",UFC Fight Night 274: Sterling vs. Zalal (2026) (Main Card)
+http://filex.me:8080/movie/shafiq02/1234/1342649.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ginny Wedss Sunny 2 (2026) (CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8lovlbsow4B5KbznLYDNky8usgc.jpg" group-title="BOLLYWOOD | 2026",Ginny Wedss Sunny 2 (2026) (CAM)
+http://filex.me:8080/movie/shafiq02/1234/1342611.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Friday Night SmackDown (24.4.2026)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbkwYbsoJE6BETIiLjxSGIVY5Cysw4PFUgh9IFZCLMrQ&s=10" group-title="✯WWE✯",Friday Night SmackDown (24.4.2026)
 http://filex.me:8080/movie/shafiq02/1234/1342473.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Nukkad Naatak (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ouT4jOENHVyQ1tvrVK78CP9CBoq.jpg" group-title="BOLLYWOOD | 2026",Nukkad Naatak (2026)
@@ -28257,6 +28269,8 @@ http://filex.me:8080/movie/shafiq02/1234/851462.mp4
 http://filex.me:8080/movie/shafiq02/1234/851461.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Mohra (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nWAptaCNiTIJtv9cYqfF5E7qm0I.jpg" group-title="BOLLYWOOD | 90s",Mohra (1994)
 http://filex.me:8080/movie/shafiq02/1234/685811.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cult Hero (2022) Hindi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fyuR5flaWBWWGYcnYOOrHbIDnHj.jpg" group-title="HINDI DUB | 2022",Cult Hero (2022) Hindi
+http://filex.me:8080/movie/shafiq02/1234/1342658.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Inception (2010) Hindi + English " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg" group-title="HINDI DUB | 2000-2010",Inception (2010) Hindi + English 
 http://filex.me:8080/movie/shafiq02/1234/1342435.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Venom: The Last Dance (2024) Hindi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vGXptEdgZIhPg3cGlc7e8sNPC2e.jpg" group-title="HINDI DUB | 2023-2024",Venom: The Last Dance (2024) Hindi
@@ -44787,8 +44801,6 @@ http://filex.me:8080/movie/shafiq02/1234/859711.mkv
 http://filex.me:8080//live/shafiq02/1234/519916.ts
 #EXTINF:-1 tvg-id="463850" tvg-name="IN-tam | News18 Tamil NADU HD" tvg-logo="https://rolextv.one:443/images/5c1992c1c9cd68ab2ab32e9816d02ad3.jpg" group-title="IND | TAMIL",IN-tam | News18 Tamil NADU HD
 http://filex.me:8080//live/shafiq02/1234/519940.ts
-#EXTINF:-1 tvg-id="463988" tvg-name="IN-tam | TS Hungama TV HD" tvg-logo="https://rolextv.one:443/images/HjUNyHDk1GXCeTnp_TSKC9KWdMoHmeouKa0VTvsbFK42RDgLpI-AXZr6cuSVD3Ch.jpg" group-title="IND | TAMIL",IN-tam | TS Hungama TV HD
-http://filex.me:8080//live/shafiq02/1234/519941.ts
 #EXTINF:-1 tvg-id="463837" tvg-name="IN-tam | Vijay Takkar HD" tvg-logo="https://rolextv.one:443/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dS-li5rejs9J1ExoVVrFiEvxtpAl34D1E95txDfctJy5Q.png" group-title="IND | TAMIL",IN-tam | Vijay Takkar HD
 http://filex.me:8080//live/shafiq02/1234/519952.ts
 #EXTINF:-1 tvg-id="463936" tvg-name="FD | DD Tamil HD" tvg-logo="https://rolextv.one:443/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTTlJz_QB8NgJnosqiYL3u4HhBtFYaMDdZD6oIyhQzwjA.png" group-title="IND | TAMIL",FD | DD Tamil HD
@@ -44831,12 +44843,8 @@ http://filex.me:8080//live/shafiq02/1234/520306.ts
 http://filex.me:8080//live/shafiq02/1234/520307.ts
 #EXTINF:-1 tvg-id="" tvg-name="IN-tm | D2H Murasu TV HD" tvg-logo="https://rolextv.one:443/images/UXtkyGhDugBYWGJv-P51osDDA_GvRfWm19gSBVwU4js5QS9DdrZj06DxEGRz1ZNic5u1GDh89u1r-lhsERpeng.png" group-title="IND | TAMIL",IN-tm | D2H Murasu TV HD
 http://filex.me:8080//live/shafiq02/1234/520308.ts
-#EXTINF:-1 tvg-id="463936" tvg-name="IN-tm | 3 Tamil TV HD" tvg-logo="https://rolextv.one:443/images/VaGeFcRltr1Dqq0LL4h_xbvTdmX-UqSHqVoR1VPQyh7IVzVmZI8oETSY85vLmKmeY_oACtJBCzo7bhifSSLiW4w8LAztELxnF7TVI6R0i6Y.png" group-title="IND | TAMIL",IN-tm | 3 Tamil TV HD
-http://filex.me:8080//live/shafiq02/1234/520309.ts
 #EXTINF:-1 tvg-id="464036" tvg-name="IN-tm | D2H SUN Music FHD" tvg-logo="https://i.imgur.com/j8qxtZZ.png" group-title="IND | TAMIL",IN-tm | D2H SUN Music FHD
 http://filex.me:8080//live/shafiq02/1234/520310.ts
-#EXTINF:-1 tvg-id="" tvg-name="IN-tm | D2H 7S Music HD" tvg-logo="https://rolextv.one:443/images/6V5xLHhnyAOLE46BPlgdfUYWIDVFRJi0XS-TlwV0UpWoxfpr8FT4_o-3LNNtrAMGjyePRs05yk7QILP6cSNaTQ.png" group-title="IND | TAMIL",IN-tm | D2H 7S Music HD
-http://filex.me:8080//live/shafiq02/1234/520312.ts
 #EXTINF:-1 tvg-id="464064" tvg-name="IN-tm | D2H MEGA Musiq HD" tvg-logo="https://rolextv.one:443/images/6V5xLHhnyAOLE46BPlgdfUYWIDVFRJi0XS-TlwV0UpWoxfpr8FT4_o-3LNNtrAMGheAZDrJKTQLWQILT3XpolyLXwxyKFiofHzyL8-DMB3I.png" group-title="IND | TAMIL",IN-tm | D2H MEGA Musiq HD
 http://filex.me:8080//live/shafiq02/1234/520313.ts
 #EXTINF:-1 tvg-id="" tvg-name="IN-tm | D2H Sirippoli HD" tvg-logo="https://rolextv.one:443/images/6V5xLHhnyAOLE46BPlgdfUYWIDVFRJi0XS-TlwV0UpWoxfpr8FT4_o-3LNNtrAMGj8-ImUAEAUb1Utcj-qwch9czMWCY0td-iwslTvuKSxI.png" group-title="IND | TAMIL",IN-tm | D2H Sirippoli HD
@@ -44887,20 +44895,12 @@ http://filex.me:8080//live/shafiq02/1234/520337.ts
 http://filex.me:8080//live/shafiq02/1234/520339.ts
 #EXTINF:-1 tvg-id="464173" tvg-name="MAdha TV HD" tvg-logo="https://rolextv.one:443/images/mg9e4VnU5MiobcDarwnBsYpqMQNj05aREoW1WQHSi_M.png" group-title="IND | TAMIL",MAdha TV HD
 http://filex.me:8080//live/shafiq02/1234/520340.ts
-#EXTINF:-1 tvg-id="464255" tvg-name="MEGA TV HD" tvg-logo="https://rolextv.one:443/images/mg9e4VnU5MiobcDarwnBsUoh1kXUpAxQR1zSQHDk5HI.png" group-title="IND | TAMIL",MEGA TV HD
-http://filex.me:8080//live/shafiq02/1234/520341.ts
 #EXTINF:-1 tvg-id="464293" tvg-name="MNTV HD" tvg-logo="https://rolextv.one:443/images/mg9e4VnU5MiobcDarwnBsTl1v8UtyHldrs542MhLlJI.png" group-title="IND | TAMIL",MNTV HD
 http://filex.me:8080//live/shafiq02/1234/520342.ts
-#EXTINF:-1 tvg-id="" tvg-name="MOON TV HD" tvg-logo="https://rolextv.one:443/images/mg9e4VnU5MiobcDarwnBsVHn29tFkk8D4r5QL-QPC68.png" group-title="IND | TAMIL",MOON TV HD
-http://filex.me:8080//live/shafiq02/1234/520343.ts
 #EXTINF:-1 tvg-id="" tvg-name="MTA6 ASIA HD" tvg-logo="https://rolextv.one:443/images/mg9e4VnU5MiobcDarwnBsYHmCFI04E8pSu7L2usDfMs.png" group-title="IND | TAMIL",MTA6 ASIA HD
 http://filex.me:8080//live/shafiq02/1234/520344.ts
-#EXTINF:-1 tvg-id="463966" tvg-name="NLM TV HD" tvg-logo="https://rolextv.one:443/images/mg9e4VnU5MiobcDarwnBseJJ5DF_e-ZIK16MasaAK4U.png" group-title="IND | TAMIL",NLM TV HD
-http://filex.me:8080//live/shafiq02/1234/520345.ts
 #EXTINF:-1 tvg-id="" tvg-name="SIvan TV HD" tvg-logo="https://rolextv.one:443/images/dsAt8cMDBjbP3mVNdeYR4WgcBKZ9K7D8icqTUtaan6Zlv4hmbJK9AAKNIRdXif2W.png" group-title="IND | TAMIL",SIvan TV HD
 http://filex.me:8080//live/shafiq02/1234/520346.ts
-#EXTINF:-1 tvg-id="" tvg-name="SOoriyan TV HD" tvg-logo="https://rolextv.one:443/images/dsAt8cMDBjbP3mVNdeYR4QU5qTOSY3E1-V5FFVBmMWM-uo4o9rbZW7RwBknnmRKc.jpg" group-title="IND | TAMIL",SOoriyan TV HD
-http://filex.me:8080//live/shafiq02/1234/520347.ts
 #EXTINF:-1 tvg-id="464005" tvg-name="SVBC 2 HD" tvg-logo="https://rolextv.one:443/images/mg9e4VnU5MiobcDarwnBsfYAyEn_9X5ekpnsdihWbWE.png" group-title="IND | TAMIL",SVBC 2 HD
 http://filex.me:8080//live/shafiq02/1234/520348.ts
 #EXTINF:-1 tvg-id="" tvg-name="TAmil Vision TV HD" tvg-logo="https://rolextv.one:443/images/mg9e4VnU5MiobcDarwnBsT9blG8hfndvtciS385Ubx4.png" group-title="IND | TAMIL",TAmil Vision TV HD
@@ -45037,6 +45037,24 @@ http://filex.me:8080//live/shafiq02/1234/522602.ts
 http://filex.me:8080//live/shafiq02/1234/522603.ts
 #EXTINF:-1 tvg-id="464083" tvg-name="COlors Super HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/300/-/2025-04-08/250408785000.jpg" group-title="IND | KANNADA",COlors Super HD
 http://filex.me:8080//live/shafiq02/1234/522604.ts
+#EXTINF:-1 tvg-id="" tvg-name="The Larva Island Movie (2020) (Tamil)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uHdxICUIRGoJjK67aOp3ykvL8ZW.jpg" group-title="TAMIL | 2020 - 2022",The Larva Island Movie (2020) (Tamil)
+http://filex.me:8080/movie/shafiq02/1234/1342631.mp4
+#EXTINF:-1 tvg-id="" tvg-name="28 Years Later: The Bone Temple (2026) (Tamil)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kK1BGkG3KAvWB0WMV1DfOx9yTMZ.jpg" group-title="TAMIL | 2025 - 2026",28 Years Later: The Bone Temple (2026) (Tamil)
+http://filex.me:8080/movie/shafiq02/1234/1342630.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agnyathavasi (2025) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ephTFUQNYhBmYjKqMoMazzHpVqu.jpg" group-title="SOUTH INDIA | 2025",Agnyathavasi (2025) (Hindi)
+http://filex.me:8080/movie/shafiq02/1234/1342629.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Super Jimni (2026) (Malayalam)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tj8gmXXWCWCZm61zOW3gmxHHZws.jpg" group-title=" MALAYALAM | 2025 - 2026",Super Jimni (2026) (Malayalam)
+http://filex.me:8080/movie/shafiq02/1234/1342627.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Larva Island Movie (2020) (Malayalam)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uHdxICUIRGoJjK67aOp3ykvL8ZW.jpg" group-title=" MALAYALAM | 2020 - 2022",The Larva Island Movie (2020) (Malayalam)
+http://filex.me:8080/movie/shafiq02/1234/1342626.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Larva Island Movie (2020) (Kannada)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uHdxICUIRGoJjK67aOp3ykvL8ZW.jpg" group-title="KANNADA | 2020 - 2022",The Larva Island Movie (2020) (Kannada)
+http://filex.me:8080/movie/shafiq02/1234/1342625.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Viraaji (2024) (Tamil)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/djqzmdCGaBsyXvbGq0uhG6EeXnN.jpg" group-title="TAMIL | 2023 - 2024",Viraaji (2024) (Tamil)
+http://filex.me:8080/movie/shafiq02/1234/1342614.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Daud (1997) (Tamil)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ssiQGO414xFBmelUoNWX6lTZl0.jpg" group-title="✯TAMIL✯ MIX",Daud (1997) (Tamil)
+http://filex.me:8080/movie/shafiq02/1234/1342613.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Usiru (2025) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wGFn6qJWI4VsJQhrVQsNtTESGZj.jpg" group-title="SOUTH INDIA | 2025",Usiru (2025) (Hindi)
+http://filex.me:8080/movie/shafiq02/1234/1342612.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Galatta Family (2025) (Tamil)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wuXE99zta3rMrsrLSZ5yQ785zsa.jpg" group-title="TAMIL | 2025 - 2026",Galatta Family (2025) (Tamil)
 http://filex.me:8080/movie/shafiq02/1234/1342463.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Dresser (1983) (Tamil)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kPIeNAwdN2Ds77Bf7bfZAmDrzoh.jpg" group-title="TAMIL | 2025 - 2026",The Dresser (1983) (Tamil)
@@ -49980,21 +49998,3 @@ http://filex.me:8080/movie/shafiq02/1234/1174107.mp4
 #EXTINF:-1 tvg-id="" tvg-name="AR_ الباب الأخضر (2022)" tvg-logo="" group-title="AR | 2020-2025",AR_ الباب الأخضر (2022)
 http://filex.me:8080/movie/shafiq02/1234/1174104.mp4
 #EXTINF:-1 tvg-id="" tvg-name="AR_ 1976 (2023)" tvg-logo="" group-title="AR | 2020-2025",AR_ 1976 (2023)
-http://filex.me:8080/movie/shafiq02/1234/1174101.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Manu Charitra" tvg-logo="" group-title="AR | 2020-2025",AR_ Manu Charitra
-http://filex.me:8080/movie/shafiq02/1234/1174098.mkv
-#EXTINF:-1 tvg-id="" tvg-name="AR_ The Story of My Wife (2021)" tvg-logo="" group-title="AR | 2020-2025",AR_ The Story of My Wife (2021)
-http://filex.me:8080/movie/shafiq02/1234/1174095.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Father Stu (2022)" tvg-logo="" group-title="AR | 2020-2025",AR_ Father Stu (2022)
-http://filex.me:8080/movie/shafiq02/1234/1174092.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ The Killer (2024)" tvg-logo="" group-title="AR | 2020-2025",AR_ The Killer (2024)
-http://filex.me:8080/movie/shafiq02/1234/1174090.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ The Free Fall (2022)" tvg-logo="" group-title="AR | 2020-2025",AR_ The Free Fall (2022)
-http://filex.me:8080/movie/shafiq02/1234/1174087.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Disappearance in Yellowstone (2022)" tvg-logo="" group-title="AR | 2020-2025",AR_ Disappearance in Yellowstone (2022)
-http://filex.me:8080/movie/shafiq02/1234/1174085.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ 8 Days to Hell (2022)" tvg-logo="" group-title="AR | 2020-2025",AR_ 8 Days to Hell (2022)
-http://filex.me:8080/movie/shafiq02/1234/1174082.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ As for the Weather (2022)" tvg-logo="" group-title="AR | 2020-2025",AR_ As for the Weather (2022)
-http://filex.me:8080/movie/shafiq02/1234/1174080.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Inside Man (2023)" tvg-logo="" group-title="AR | 2020-2025",AR_ Inside Man (2023)
