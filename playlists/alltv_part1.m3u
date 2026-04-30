@@ -28269,6 +28269,8 @@ http://filex.me:8080/movie/shafiq02/1234/851462.mp4
 http://filex.me:8080/movie/shafiq02/1234/851461.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Mohra (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nWAptaCNiTIJtv9cYqfF5E7qm0I.jpg" group-title="BOLLYWOOD | 90s",Mohra (1994)
 http://filex.me:8080/movie/shafiq02/1234/685811.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Eye for an Eye (2025) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lpepbfVziHJLhVoxTEKs8ok00iu.jpg" group-title="HINDI DUB | 2025",Eye for an Eye (2025) (Hindi)
+http://filex.me:8080/movie/shafiq02/1234/1342713.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Cult Hero (2022) Hindi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fyuR5flaWBWWGYcnYOOrHbIDnHj.jpg" group-title="HINDI DUB | 2022",Cult Hero (2022) Hindi
 http://filex.me:8080/movie/shafiq02/1234/1342658.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Inception (2010) Hindi + English " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg" group-title="HINDI DUB | 2000-2010",Inception (2010) Hindi + English 
@@ -44887,8 +44889,6 @@ http://filex.me:8080//live/shafiq02/1234/520331.ts
 http://filex.me:8080//live/shafiq02/1234/520332.ts
 #EXTINF:-1 tvg-id="463964" tvg-name="IN-tm | TS Disney Junior HD" tvg-logo="https://rolextv.one:443/images/6V5xLHhnyAOLE46BPlgdfUYWIDVFRJi0XS-TlwV0UpWoxfpr8FT4_o-3LNNtrAMGY7pjxvY859TNyv8nRZtk_r29ncH2sw9hR9mfABqEAB8.png" group-title="IND | TAMIL",IN-tm | TS Disney Junior HD
 http://filex.me:8080//live/shafiq02/1234/520333.ts
-#EXTINF:-1 tvg-id="" tvg-name="BLessing TV HD" tvg-logo="https://rolextv.one:443/images/mg9e4VnU5MiobcDarwnBsX2ygLhUQ2oY9orwhRWsy4k.png" group-title="IND | TAMIL",BLessing TV HD
-http://filex.me:8080//live/shafiq02/1234/520336.ts
 #EXTINF:-1 tvg-id="464050" tvg-name="EET TV HD" tvg-logo="https://rolextv.one:443/images/mg9e4VnU5MiobcDarwnBsTD_bSMU-Lk2ZXWYAp93FHc.png" group-title="IND | TAMIL",EET TV HD
 http://filex.me:8080//live/shafiq02/1234/520337.ts
 #EXTINF:-1 tvg-id="463976" tvg-name="ISAI Aruvi HD" tvg-logo="https://rolextv.one:443/images/mg9e4VnU5MiobcDarwnBsfDAsGW-Dj4GktrAj8Utuqk.png" group-title="IND | TAMIL",ISAI Aruvi HD
@@ -44915,8 +44915,6 @@ http://filex.me:8080//live/shafiq02/1234/520352.ts
 http://filex.me:8080//live/shafiq02/1234/520353.ts
 #EXTINF:-1 tvg-id="464271" tvg-name="IN-tam | TS ETV Abhiruchi HD" tvg-logo="https://rolextv.one:443/images/6V5xLHhnyAOLE46BPlgdfUYWIDVFRJi0XS-TlwV0UpWoxfpr8FT4_o-3LNNtrAMGWzJMIx4p-dj6Ig1IjBD7mz5saRCInVUrS_n5L7MHIgY.png" group-title="IND | TAMIL",IN-tam | TS ETV Abhiruchi HD
 http://filex.me:8080//live/shafiq02/1234/520387.ts
-#EXTINF:-1 tvg-id="" tvg-name="IN-tm| D2H RAJ Musix HD" tvg-logo="https://rolextv.one:443/images/6V5xLHhnyAOLE46BPlgdfUYWIDVFRJi0XS-TlwV0UpWoxfpr8FT4_o-3LNNtrAMG-ED7_I6sJzUWavdY59F6-A.png" group-title="IND | TAMIL",IN-tm| D2H RAJ Musix HD
-http://filex.me:8080//live/shafiq02/1234/520392.ts
 #EXTINF:-1 tvg-id="463992" tvg-name="IN-tm| TS RAJ NEWS HD" tvg-logo="https://rolextv.one:443/images/6V5xLHhnyAOLE46BPlgdfUYWIDVFRJi0XS-TlwV0UpWoxfpr8FT4_o-3LNNtrAMGw83OMKyn2humj7ri6hVQOQ.png" group-title="IND | TAMIL",IN-tm| TS RAJ NEWS HD
 http://filex.me:8080//live/shafiq02/1234/520393.ts
 #EXTINF:-1 tvg-id="" tvg-name="IN-tm | TS Sonic HD" tvg-logo="https://rolextv.one:443/images/6V5xLHhnyAOLE46BPlgdfUYWIDVFRJi0XS-TlwV0UpWoxfpr8FT4_o-3LNNtrAMGbVgBHD7fpFlWKdt0WQUfeQ.png" group-title="IND | TAMIL",IN-tm | TS Sonic HD
@@ -44925,10 +44923,6 @@ http://filex.me:8080//live/shafiq02/1234/520399.ts
 http://filex.me:8080//live/shafiq02/1234/520421.ts
 #EXTINF:-1 tvg-id="464177" tvg-name="KAlaignar Chithiram HD" tvg-logo="https://rolextv.one:443/images/Y_iLp5zM1z0Hv5o0voAY43gZWms8T5YIsuMWOBrHoUMfLtHSj6fyBafrhwTXWw52-J8ESvDrwzxP_Gbq19mYsQ.png" group-title="IND | TAMIL",KAlaignar Chithiram HD
 http://filex.me:8080//live/shafiq02/1234/522578.ts
-#EXTINF:-1 tvg-id="464099" tvg-name="IN-tam | Colors Tamil HD" tvg-logo="https://www.lyngsat.com/logo/tv/cc/colors-tamil-in-uk.png" group-title="IND | TAMIL",IN-tam | Colors Tamil HD
-http://filex.me:8080//live/shafiq02/1234/522579.ts
-#EXTINF:-1 tvg-id="464139" tvg-name="SIrippoli TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/Sirippoli_tv.jpg" group-title="IND | TAMIL",SIrippoli TV HD
-http://filex.me:8080//live/shafiq02/1234/522580.ts
 #EXTINF:-1 tvg-id="464135" tvg-name="IN-tam | Polimer NEWS HD" tvg-logo="https://www.lyngsat.com/logo/tv/pp/polimer_in_news.png" group-title="IND | TAMIL",IN-tam | Polimer NEWS HD
 http://filex.me:8080//live/shafiq02/1234/522581.ts
 #EXTINF:-1 tvg-id="464266" tvg-name="POlimer TV HD" tvg-logo="https://i.imgur.com/BTYagXd.png" group-title="IND | TAMIL",POlimer TV HD
@@ -44957,8 +44951,6 @@ http://filex.me:8080//live/shafiq02/1234/955404.ts
 http://filex.me:8080//live/shafiq02/1234/955405.ts
 #EXTINF:-1 tvg-id="" tvg-name="Sooriyan FM" tvg-logo="http://vplay.site:2052/images/GD0DlYEWdxuSDJvaq2JMW1w9hOA1mR2WQmQMNwIuVrT5sOgd-sACSBSh-cfT-HF_.png" group-title="IND | TAMIL",Sooriyan FM
 http://filex.me:8080//live/shafiq02/1234/955406.ts
-#EXTINF:-1 tvg-id="" tvg-name="ETR FM" tvg-logo="http://vplay.site:2052/images/GD0DlYEWdxuSDJvaq2JMWwKRYX6VLorBIwdcpY_3mySlW6zkk47HqLZcmw-48n_4.png" group-title="IND | TAMIL",ETR FM
-http://filex.me:8080//live/shafiq02/1234/955407.ts
 #EXTINF:-1 tvg-id="" tvg-name="Radio city chennai" tvg-logo="http://vplay.site:2052/images/GD0DlYEWdxuSDJvaq2JMW5e8Ey3QlAtn7EkuMdXmuSEHakOtjQOs33Jve38CtFxJ.png" group-title="IND | TAMIL",Radio city chennai
 http://filex.me:8080//live/shafiq02/1234/955408.ts
 #EXTINF:-1 tvg-id="" tvg-name="Namathu FM" tvg-logo="http://vplay.site:2052/images/GD0DlYEWdxuSDJvaq2JMW1R2fkQqtfjN_9UZ8VM_Om4MwWXrjSN6lVqajUxW5aAn.png" group-title="IND | TAMIL",Namathu FM
@@ -45037,6 +45029,10 @@ http://filex.me:8080//live/shafiq02/1234/522602.ts
 http://filex.me:8080//live/shafiq02/1234/522603.ts
 #EXTINF:-1 tvg-id="464083" tvg-name="COlors Super HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/300/-/2025-04-08/250408785000.jpg" group-title="IND | KANNADA",COlors Super HD
 http://filex.me:8080//live/shafiq02/1234/522604.ts
+#EXTINF:-1 tvg-id="" tvg-name="The Imitation Game (2014) (Tamil)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zSqJ1qFq8NXFfi7JeIYMlzyR0dx.jpg" group-title="✯TAMIL✯ MIX",The Imitation Game (2014) (Tamil)
+http://filex.me:8080/movie/shafiq02/1234/1342715.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Madhuvidhu (2026) (Malayalam) (CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jVSnpXklfxi3FchGqweRMvrC8Gd.jpg" group-title=" MALAYALAM | 2025 - 2026",Madhuvidhu (2026) (Malayalam) (CAM)
+http://filex.me:8080/movie/shafiq02/1234/1342714.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Larva Island Movie (2020) (Tamil)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uHdxICUIRGoJjK67aOp3ykvL8ZW.jpg" group-title="TAMIL | 2020 - 2022",The Larva Island Movie (2020) (Tamil)
 http://filex.me:8080/movie/shafiq02/1234/1342631.mp4
 #EXTINF:-1 tvg-id="" tvg-name="28 Years Later: The Bone Temple (2026) (Tamil)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kK1BGkG3KAvWB0WMV1DfOx9yTMZ.jpg" group-title="TAMIL | 2025 - 2026",28 Years Later: The Bone Temple (2026) (Tamil)
@@ -49998,3 +49994,7 @@ http://filex.me:8080/movie/shafiq02/1234/1174107.mp4
 #EXTINF:-1 tvg-id="" tvg-name="AR_ الباب الأخضر (2022)" tvg-logo="" group-title="AR | 2020-2025",AR_ الباب الأخضر (2022)
 http://filex.me:8080/movie/shafiq02/1234/1174104.mp4
 #EXTINF:-1 tvg-id="" tvg-name="AR_ 1976 (2023)" tvg-logo="" group-title="AR | 2020-2025",AR_ 1976 (2023)
+http://filex.me:8080/movie/shafiq02/1234/1174101.mp4
+#EXTINF:-1 tvg-id="" tvg-name="AR_ Manu Charitra" tvg-logo="" group-title="AR | 2020-2025",AR_ Manu Charitra
+http://filex.me:8080/movie/shafiq02/1234/1174098.mkv
+#EXTINF:-1 tvg-id="" tvg-name="AR_ The Story of My Wife (2021)" tvg-logo="" group-title="AR | 2020-2025",AR_ The Story of My Wife (2021)
