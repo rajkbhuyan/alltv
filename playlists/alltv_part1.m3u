@@ -26865,8 +26865,6 @@ http://filex.me:8080/movie/shafiq02/1234/853932.mp4
 http://filex.me:8080/movie/shafiq02/1234/853929.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Lamhe (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aw9xd5GhQkyaAsTblNi3XydvEcK.jpg" group-title="BOLLYWOOD | 90s",Lamhe (1991)
 http://filex.me:8080/movie/shafiq02/1234/853926.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Kareeb (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYqmdzDH0tLZZx6HEIWCP9acKPN.jpg" group-title="BOLLYWOOD | 90s",Kareeb (1998)
-http://filex.me:8080/movie/shafiq02/1234/853925.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Khamoshi: The Musical (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lhOkmrXgbk3U8vZkd5bkynmvdyT.jpg" group-title="BOLLYWOOD | 90s",Khamoshi: The Musical (1996)
 http://filex.me:8080/movie/shafiq02/1234/853924.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Aashiqui (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4we2et0iMkYGYCV3xS6bhTHI55.jpg" group-title="BOLLYWOOD | 90s",Aashiqui (1990)
@@ -28269,6 +28267,10 @@ http://filex.me:8080/movie/shafiq02/1234/851462.mp4
 http://filex.me:8080/movie/shafiq02/1234/851461.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Mohra (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nWAptaCNiTIJtv9cYqfF5E7qm0I.jpg" group-title="BOLLYWOOD | 90s",Mohra (1994)
 http://filex.me:8080/movie/shafiq02/1234/685811.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Strange Harvest (2025) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYe0FNJNy0EIb8q4JUMLbbSmCth.jpg" group-title="HINDI DUB | 2025",Strange Harvest (2025) (Hindi)
+http://filex.me:8080/movie/shafiq02/1234/1342946.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Anecdotes of Ape Mountain (2026) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhk4xNejRdGKr9b7XXAOX77MLkq.jpg" group-title="HINDI DUB | 2026",Anecdotes of Ape Mountain (2026) (Hindi)
+http://filex.me:8080/movie/shafiq02/1234/1342944.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Eye for an Eye (2025) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lpepbfVziHJLhVoxTEKs8ok00iu.jpg" group-title="HINDI DUB | 2025",Eye for an Eye (2025) (Hindi)
 http://filex.me:8080/movie/shafiq02/1234/1342713.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Cult Hero (2022) Hindi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fyuR5flaWBWWGYcnYOOrHbIDnHj.jpg" group-title="HINDI DUB | 2022",Cult Hero (2022) Hindi
@@ -45029,6 +45031,12 @@ http://filex.me:8080//live/shafiq02/1234/522602.ts
 http://filex.me:8080//live/shafiq02/1234/522603.ts
 #EXTINF:-1 tvg-id="464083" tvg-name="COlors Super HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/300/-/2025-04-08/250408785000.jpg" group-title="IND | KANNADA",COlors Super HD
 http://filex.me:8080//live/shafiq02/1234/522604.ts
+#EXTINF:-1 tvg-id="" tvg-name="Strange Harvest (2025) (Tamil)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYe0FNJNy0EIb8q4JUMLbbSmCth.jpg" group-title="TAMIL | 2025 - 2026",Strange Harvest (2025) (Tamil)
+http://filex.me:8080/movie/shafiq02/1234/1342948.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Anecdotes of Ape Mountain (2026) (Tamil)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhk4xNejRdGKr9b7XXAOX77MLkq.jpg" group-title="TAMIL | 2025 - 2026",Anecdotes of Ape Mountain (2026) (Tamil)
+http://filex.me:8080/movie/shafiq02/1234/1342947.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Punha Ekda Sade Made 3 (2026) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sGVkRvxF2vAHu6Y0JnVQLwRh7XD.jpg" group-title="SOUTH INDIA | 2026",Punha Ekda Sade Made 3 (2026) (Hindi)
+http://filex.me:8080/movie/shafiq02/1234/1342942.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Imitation Game (2014) (Tamil)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zSqJ1qFq8NXFfi7JeIYMlzyR0dx.jpg" group-title="✯TAMIL✯ MIX",The Imitation Game (2014) (Tamil)
 http://filex.me:8080/movie/shafiq02/1234/1342715.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Madhuvidhu (2026) (Malayalam) (CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jVSnpXklfxi3FchGqweRMvrC8Gd.jpg" group-title=" MALAYALAM | 2025 - 2026",Madhuvidhu (2026) (Malayalam) (CAM)
@@ -49990,11 +49998,3 @@ http://filex.me:8080/movie/shafiq02/1234/1174112.mp4
 #EXTINF:-1 tvg-id="" tvg-name="AR_ William Tell (2025)" tvg-logo="" group-title="AR | 2020-2025",AR_ William Tell (2025)
 http://filex.me:8080/movie/shafiq02/1234/1174109.mp4
 #EXTINF:-1 tvg-id="" tvg-name="AR_ We Burn Like This (2021)" tvg-logo="" group-title="AR | 2020-2025",AR_ We Burn Like This (2021)
-http://filex.me:8080/movie/shafiq02/1234/1174107.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ الباب الأخضر (2022)" tvg-logo="" group-title="AR | 2020-2025",AR_ الباب الأخضر (2022)
-http://filex.me:8080/movie/shafiq02/1234/1174104.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ 1976 (2023)" tvg-logo="" group-title="AR | 2020-2025",AR_ 1976 (2023)
-http://filex.me:8080/movie/shafiq02/1234/1174101.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Manu Charitra" tvg-logo="" group-title="AR | 2020-2025",AR_ Manu Charitra
-http://filex.me:8080/movie/shafiq02/1234/1174098.mkv
-#EXTINF:-1 tvg-id="" tvg-name="AR_ The Story of My Wife (2021)" tvg-logo="" group-title="AR | 2020-2025",AR_ The Story of My Wife (2021)
