@@ -1525,18 +1525,12 @@ http://filex.me:8080//live/shafiq02/1234/507335.ts
 http://filex.me:8080//live/shafiq02/1234/507336.ts
 #EXTINF:-1 tvg-id="" tvg-name="SAtinder Sartaaj HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="24/7 | IND PUNJABI",SAtinder Sartaaj HD
 http://filex.me:8080//live/shafiq02/1234/507337.ts
-#EXTINF:-1 tvg-id="" tvg-name="SHeera Jasvie HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="24/7 | IND PUNJABI",SHeera Jasvie HD
-http://filex.me:8080//live/shafiq02/1234/507338.ts
-#EXTINF:-1 tvg-id="" tvg-name="SUkhwinder Singh HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="24/7 | IND PUNJABI",SUkhwinder Singh HD
-http://filex.me:8080//live/shafiq02/1234/507339.ts
 #EXTINF:-1 tvg-id="" tvg-name="SUrjit Bindrakhik HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="24/7 | IND PUNJABI",SUrjit Bindrakhik HD
 http://filex.me:8080//live/shafiq02/1234/507340.ts
 #EXTINF:-1 tvg-id="" tvg-name="SUrjit KHAN HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="24/7 | IND PUNJABI",SUrjit KHAN HD
 http://filex.me:8080//live/shafiq02/1234/507341.ts
 #EXTINF:-1 tvg-id="" tvg-name="TArsem Jassar D HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="24/7 | IND PUNJABI",TArsem Jassar D HD
 http://filex.me:8080//live/shafiq02/1234/507342.ts
-#EXTINF:-1 tvg-id="" tvg-name="YUvraj HANS HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="24/7 | IND PUNJABI",YUvraj HANS HD
-http://filex.me:8080//live/shafiq02/1234/507343.ts
 #EXTINF:-1 tvg-id="" tvg-name="CInemania Punjabi 1 FHD" tvg-logo="" group-title="24/7 | IND PUNJABI",CInemania Punjabi 1 FHD
 http://filex.me:8080//live/shafiq02/1234/513993.ts
 #EXTINF:-1 tvg-id="" tvg-name="CInemania Punjabi 2 FHD" tvg-logo="" group-title="24/7 | IND PUNJABI",CInemania Punjabi 2 FHD
@@ -25217,6 +25211,14 @@ http://filex.me:8080//live/shafiq02/1234/908780.ts
 http://filex.me:8080//live/shafiq02/1234/908774.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR: WANASAH HD" tvg-logo="" group-title="✯MUSIC✯اغاني",AR: WANASAH HD
 http://filex.me:8080//live/shafiq02/1234/908783.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kuchh Bheege Alfaaz (2018) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/25cv2bdc4IIIcMWdFiHC0uEy0eI.jpg" group-title="BOLLYWOOD | 2010-2019",Kuchh Bheege Alfaaz (2018) (Hindi)
+http://filex.me:8080/movie/shafiq02/1234/1344723.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rishton Ki Aakhari Baazi (2026)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS79uiq4q3dIMQkgbYSeZMa3NWF9ovjXD29_p9AYK_okhMYItjYweqO-NY&s=10" group-title="BOLLYWOOD | 2026",Rishton Ki Aakhari Baazi (2026)
+http://filex.me:8080/movie/shafiq02/1234/1344556.mkv
+#EXTINF:-1 tvg-id="" tvg-name="WWE NXT (28.4.2026)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWTbFyppCguYmy-lNdeQQhgzF6MwdsCG5QR9oSNfIwpw&s=10" group-title="✯WWE✯",WWE NXT (28.4.2026)
+http://filex.me:8080/movie/shafiq02/1234/1344447.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monday Night RAW (27.4.2026)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn59HRAZ1uq8JrwRpkMINC38x5BeQmSZwsSflaHC3mHMH0OL3P-HY3RhE9&s=10" group-title="✯WWE✯",Monday Night RAW (27.4.2026)
+http://filex.me:8080/movie/shafiq02/1234/1344444.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Biker (2026) (Tamil)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uNN0DqB7fwGeX3uNhTfQzzKhgTP.jpg" group-title="BOLLYWOOD | 2026",Biker (2026) (Tamil)
 http://filex.me:8080/movie/shafiq02/1234/1344378.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Biker (2026) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uNN0DqB7fwGeX3uNhTfQzzKhgTP.jpg" group-title="BOLLYWOOD | 2026",Biker (2026) (Hindi)
@@ -28271,6 +28273,16 @@ http://filex.me:8080/movie/shafiq02/1234/851462.mp4
 http://filex.me:8080/movie/shafiq02/1234/851461.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Mohra (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nWAptaCNiTIJtv9cYqfF5E7qm0I.jpg" group-title="BOLLYWOOD | 90s",Mohra (1994)
 http://filex.me:8080/movie/shafiq02/1234/685811.mp4
+#EXTINF:-1 tvg-id="" tvg-name="My Dearest Señorita (2026) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cTcJs2bEsJDhQEpeYSOZD3yayZI.jpg" group-title="HINDI DUB | 2026",My Dearest Señorita (2026) (Hindi)
+http://filex.me:8080/movie/shafiq02/1234/1344721.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Swapped (2026) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg" group-title="HINDI DUB | 2026",Swapped (2026) (Hindi)
+http://filex.me:8080/movie/shafiq02/1234/1344720.mp4
+#EXTINF:-1 tvg-id="" tvg-name="My Dearest Señorita (2026) Hindi + English " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cTcJs2bEsJDhQEpeYSOZD3yayZI.jpg" group-title="HINDI DUB | 2026",My Dearest Señorita (2026) Hindi + English 
+http://filex.me:8080/movie/shafiq02/1234/1344557.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Swapped (2026) Hindi + English " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lHsRhN60jdr6Mcbww2MuO1WskOd.jpg" group-title="HINDI DUB | 2026",Swapped (2026) Hindi + English 
+http://filex.me:8080/movie/shafiq02/1234/1344555.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sarah's Oil (2025) Hindi Audio" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Av1CK61z33v2OBFLD1yF5rdRxQ1.jpg" group-title="HINDI DUB | 2026",Sarah's Oil (2025) Hindi Audio
+http://filex.me:8080/movie/shafiq02/1234/1344441.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Project Y (2026) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1KMG1inDAnKaGZ1W8Ac3wn6bdXu.jpg" group-title="HINDI DUB | 2026",Project Y (2026) (Hindi)
 http://filex.me:8080/movie/shafiq02/1234/1344390.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Strange Harvest (2025) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYe0FNJNy0EIb8q4JUMLbbSmCth.jpg" group-title="HINDI DUB | 2025",Strange Harvest (2025) (Hindi)
@@ -45037,6 +45049,44 @@ http://filex.me:8080//live/shafiq02/1234/522602.ts
 http://filex.me:8080//live/shafiq02/1234/522603.ts
 #EXTINF:-1 tvg-id="464083" tvg-name="COlors Super HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/300/-/2025-04-08/250408785000.jpg" group-title="IND | KANNADA",COlors Super HD
 http://filex.me:8080//live/shafiq02/1234/522604.ts
+#EXTINF:-1 tvg-id="" tvg-name="The Kerala Story 2 Goes Beyond (2026) (Kannada)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/97jAFQcAnspd416cupbAbGMNT9z.jpg" group-title="KANNADA | 2025 - 2026",The Kerala Story 2 Goes Beyond (2026) (Kannada)
+http://filex.me:8080/movie/shafiq02/1234/1344719.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Kerala Story 2 Goes Beyond (2026) (Malayalam)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/97jAFQcAnspd416cupbAbGMNT9z.jpg" group-title=" MALAYALAM | 2025 - 2026",The Kerala Story 2 Goes Beyond (2026) (Malayalam)
+http://filex.me:8080/movie/shafiq02/1234/1344718.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aval (2026) (Malayalam)" tvg-logo="https://m.media-amazon.com/images/M/MV5BODU2ODczZmMtMTZkZi00MjJlLWEzYTYtYTg1MDE0NGMwYWExXkEyXkFqcGc@._V1_QL75_UY281_CR5,0,190,281_.jpg" group-title=" MALAYALAM | 2025 - 2026",Aval (2026) (Malayalam)
+http://filex.me:8080/movie/shafiq02/1234/1344717.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Happy Raj (2026) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hHJlk5VABzAyxUijIAeo8CzkfLa.jpg" group-title="SOUTH INDIA | 2026",Happy Raj (2026) (Hindi)
+http://filex.me:8080/movie/shafiq02/1234/1344716.mp4
+#EXTINF:-1 tvg-id="" tvg-name="My Dearest Señorita (2026) (Tamil)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cTcJs2bEsJDhQEpeYSOZD3yayZI.jpg" group-title="TAMIL | 2025 - 2026",My Dearest Señorita (2026) (Tamil)
+http://filex.me:8080/movie/shafiq02/1234/1344715.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Swapped (2026) (Tamil)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg" group-title="TAMIL | 2025 - 2026",Swapped (2026) (Tamil)
+http://filex.me:8080/movie/shafiq02/1234/1344714.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kara (2026) (Tamil) (CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uGJgRLhutpqoY05VIXYl4vejIYo.jpg" group-title="TAMIL | 2025 - 2026",Kara (2026) (Tamil) (CAM)
+http://filex.me:8080/movie/shafiq02/1234/1344713.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Oh Butterfly! (2026) (Tamil)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c0kJfVsO1u3ksiLqeVZl3ybnqoH.jpg" group-title="TAMIL | 2025 - 2026",Oh Butterfly! (2026) (Tamil)
+http://filex.me:8080/movie/shafiq02/1234/1344712.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kara (2026) (Telugu) (CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uGJgRLhutpqoY05VIXYl4vejIYo.jpg" group-title="TAMIL | 2025 - 2026",Kara (2026) (Telugu) (CAM)
+http://filex.me:8080/movie/shafiq02/1234/1344711.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chakranta (2026) Odia Audio" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5mcLwZQSTFV3EUCcpEg4JGJ8EOL.jpg" group-title="IN | ODIA",Chakranta (2026) Odia Audio
+http://filex.me:8080/movie/shafiq02/1234/1344435.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Delivery Boy 2 (2025) Odia Audio" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pJwQFmVXNGSLWrvh1qnHwK2q4Db.jpg" group-title="IN | ODIA",Delivery Boy 2 (2025) Odia Audio
+http://filex.me:8080/movie/shafiq02/1234/1344432.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gurubar (2025) Odia Audio" tvg-logo="https://i.ytimg.com/vi/IpJVVIAeOqA/maxresdefault.jpg" group-title="IN | ODIA",Gurubar (2025) Odia Audio
+http://filex.me:8080/movie/shafiq02/1234/1344431.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ghamaghot (2025) Odia Audio" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cn2Q2wbsfUlLR267nlfYsWNOETt.jpg" group-title="IN | ODIA",Ghamaghot (2025) Odia Audio
+http://filex.me:8080/movie/shafiq02/1234/1344430.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pade Akasha (2025) Odia Audio" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yYENjtLOgLJewlmne8DNrH2lgm7.jpg" group-title="IN | ODIA",Pade Akasha (2025) Odia Audio
+http://filex.me:8080/movie/shafiq02/1234/1344429.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bou Buttu Bhuta (2025) Odia Audio" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g8wFbBlKcngQnSJFUK2d5JrAWaT.jpg" group-title="IN | ODIA",Bou Buttu Bhuta (2025) Odia Audio
+http://filex.me:8080/movie/shafiq02/1234/1344428.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Manaska (2023) Odia Audio" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p6CiFLHeokOGbYiPCo0czUrZy8h.jpg" group-title="IN | ODIA",Manaska (2023) Odia Audio
+http://filex.me:8080/movie/shafiq02/1234/1344427.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Motorcycle (2025) Odia Audio" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iiqWb6WkTyfEfjyDIDTYEQXcill.jpg" group-title="IN | ODIA",Motorcycle (2025) Odia Audio
+http://filex.me:8080/movie/shafiq02/1234/1344426.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ladhei (2025) Odia Audio" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wQMcJ8tJFFYNBKbWzITa9A61PeB.jpg" group-title="IN | ODIA",Ladhei (2025) Odia Audio
+http://filex.me:8080/movie/shafiq02/1234/1344425.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chardham: A Journey Within (2025)" tvg-logo="https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/chardham--a-journey-within-et00451408-1755581783.jpg" group-title="IN | ODIA",Chardham: A Journey Within (2025)
+http://filex.me:8080/movie/shafiq02/1234/1344424.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Lee Cronin's The Mummy (2026) (Tamil) (CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8L8efNkz8rUmwR7sV0g3vnC9yjn.jpg" group-title="TAMIL | 2025 - 2026",Lee Cronin's The Mummy (2026) (Tamil) (CAM)
 http://filex.me:8080/movie/shafiq02/1234/1344389.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Project Y (2026) (Tamil)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1KMG1inDAnKaGZ1W8Ac3wn6bdXu.jpg" group-title="TAMIL | 2025 - 2026",Project Y (2026) (Tamil)
@@ -49948,53 +49998,3 @@ http://filex.me:8080/movie/shafiq02/1234/1174206.mp4
 #EXTINF:-1 tvg-id="" tvg-name="AR_ Astérix" tvg-logo="" group-title="AR | 2020-2025",AR_ Astérix
 http://filex.me:8080/movie/shafiq02/1234/1174205.mp4
 #EXTINF:-1 tvg-id="" tvg-name="AR_ Kathal" tvg-logo="" group-title="AR | 2020-2025",AR_ Kathal
-http://filex.me:8080/movie/shafiq02/1234/1174202.mkv
-#EXTINF:-1 tvg-id="" tvg-name="AR_ The Stoic (2024)" tvg-logo="" group-title="AR | 2020-2025",AR_ The Stoic (2024)
-http://filex.me:8080/movie/shafiq02/1234/1174200.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ The Consultant (2022)" tvg-logo="" group-title="AR | 2020-2025",AR_ The Consultant (2022)
-http://filex.me:8080/movie/shafiq02/1234/1174197.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Legend of the Forest (2025)" tvg-logo="" group-title="AR | 2020-2025",AR_ Legend of the Forest (2025)
-http://filex.me:8080/movie/shafiq02/1234/1174195.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ High Rollers (2025)" tvg-logo="" group-title="AR | 2020-2025",AR_ High Rollers (2025)
-http://filex.me:8080/movie/shafiq02/1234/1174192.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Mid-Century (2022)" tvg-logo="" group-title="AR | 2020-2025",AR_ Mid-Century (2022)
-http://filex.me:8080/movie/shafiq02/1234/1174190.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Missed Connections" tvg-logo="" group-title="AR | 2020-2025",AR_ Missed Connections
-http://filex.me:8080/movie/shafiq02/1234/1174188.mkv
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Father And Soldier" tvg-logo="" group-title="AR | 2020-2025",AR_ Father And Soldier
-http://filex.me:8080/movie/shafiq02/1234/1174186.mkv
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Summer Camp (2024)" tvg-logo="" group-title="AR | 2020-2025",AR_ Summer Camp (2024)
-http://filex.me:8080/movie/shafiq02/1234/1174183.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Reign of Chaos (2022)" tvg-logo="" group-title="AR | 2020-2025",AR_ Reign of Chaos (2022)
-http://filex.me:8080/movie/shafiq02/1234/1174181.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Bring Them Down (2025)" tvg-logo="" group-title="AR | 2020-2025",AR_ Bring Them Down (2025)
-http://filex.me:8080/movie/shafiq02/1234/1174179.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Darby and the Dead (2022)" tvg-logo="" group-title="AR | 2020-2025",AR_ Darby and the Dead (2022)
-http://filex.me:8080/movie/shafiq02/1234/1174176.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ M3GAN (2022)" tvg-logo="" group-title="AR | 2020-2025",AR_ M3GAN (2022)
-http://filex.me:8080/movie/shafiq02/1234/1174174.mkv
-#EXTINF:-1 tvg-id="" tvg-name="AR_ The Gates (2023)" tvg-logo="" group-title="AR | 2020-2025",AR_ The Gates (2023)
-http://filex.me:8080/movie/shafiq02/1234/1174173.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ The Magician's Raincoat (2024)" tvg-logo="" group-title="AR | 2020-2025",AR_ The Magician's Raincoat (2024)
-http://filex.me:8080/movie/shafiq02/1234/1174171.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Cyrano (2021)" tvg-logo="" group-title="AR | 2020-2025",AR_ Cyrano (2021)
-http://filex.me:8080/movie/shafiq02/1234/1174169.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ What Comes Around (2005)" tvg-logo="" group-title="AR | 2020-2025",AR_ What Comes Around (2005)
-http://filex.me:8080/movie/shafiq02/1234/1174167.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ World War III (2023)" tvg-logo="" group-title="AR | 2020-2025",AR_ World War III (2023)
-http://filex.me:8080/movie/shafiq02/1234/1174165.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ The Cult of Humpty Dumpty (2022)" tvg-logo="" group-title="AR | 2020-2025",AR_ The Cult of Humpty Dumpty (2022)
-http://filex.me:8080/movie/shafiq02/1234/1174163.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Brother (2023)" tvg-logo="" group-title="AR | 2020-2025",AR_ Brother (2023)
-http://filex.me:8080/movie/shafiq02/1234/1174160.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Tales from Black Manor (2025)" tvg-logo="" group-title="AR | 2020-2025",AR_ Tales from Black Manor (2025)
-http://filex.me:8080/movie/shafiq02/1234/1174157.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Alone with You (2022)" tvg-logo="" group-title="AR | 2020-2025",AR_ Alone with You (2022)
-http://filex.me:8080/movie/shafiq02/1234/1174155.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Guardians of the Galaxy Vol. 3" tvg-logo="" group-title="AR | 2020-2025",AR_ Guardians of the Galaxy Vol. 3
-http://filex.me:8080/movie/shafiq02/1234/1174153.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ I'm Charlie Walker (2022)" tvg-logo="" group-title="AR | 2020-2025",AR_ I'm Charlie Walker (2022)
-http://filex.me:8080/movie/shafiq02/1234/1174152.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Rob Peace (2024)" tvg-logo="" group-title="AR | 2020-2025",AR_ Rob Peace (2024)
-http://filex.me:8080/movie/shafiq02/1234/1174150.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Survivre (2024)" tvg-logo="" group-title="AR | 2020-2025",AR_ Survivre (2024)
