@@ -45049,6 +45049,8 @@ http://filex.me:8080//live/shafiq02/1234/522602.ts
 http://filex.me:8080//live/shafiq02/1234/522603.ts
 #EXTINF:-1 tvg-id="464083" tvg-name="COlors Super HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/300/-/2025-04-08/250408785000.jpg" group-title="IND | KANNADA",COlors Super HD
 http://filex.me:8080//live/shafiq02/1234/522604.ts
+#EXTINF:-1 tvg-id="" tvg-name="Devara: Part 1 (2024) Hindi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lQfuaXjANoTsdx5iS0gCXlK9D2L.jpg" group-title="SOUTH INDIA | 2023-2024",Devara: Part 1 (2024) Hindi
+http://filex.me:8080/movie/shafiq02/1234/1344864.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Kerala Story 2 Goes Beyond (2026) (Kannada)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/97jAFQcAnspd416cupbAbGMNT9z.jpg" group-title="KANNADA | 2025 - 2026",The Kerala Story 2 Goes Beyond (2026) (Kannada)
 http://filex.me:8080/movie/shafiq02/1234/1344719.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Kerala Story 2 Goes Beyond (2026) (Malayalam)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/97jAFQcAnspd416cupbAbGMNT9z.jpg" group-title=" MALAYALAM | 2025 - 2026",The Kerala Story 2 Goes Beyond (2026) (Malayalam)
@@ -49996,5 +49998,3 @@ http://filex.me:8080/movie/shafiq02/1234/1174209.mkv
 #EXTINF:-1 tvg-id="" tvg-name="AR_ Mercy (2023)" tvg-logo="" group-title="AR | 2020-2025",AR_ Mercy (2023)
 http://filex.me:8080/movie/shafiq02/1234/1174206.mp4
 #EXTINF:-1 tvg-id="" tvg-name="AR_ Astérix" tvg-logo="" group-title="AR | 2020-2025",AR_ Astérix
-http://filex.me:8080/movie/shafiq02/1234/1174205.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Kathal" tvg-logo="" group-title="AR | 2020-2025",AR_ Kathal
