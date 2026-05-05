@@ -1011,16 +1011,6 @@ http://filex.me:8080//live/shafiq02/1234/533478.ts
 http://filex.me:8080//live/shafiq02/1234/533479.ts
 #EXTINF:-1 tvg-id="" tvg-name="CInemania Hollywood Premier 9 FHD" tvg-logo="" group-title="24/7 | CINEMANIA HOLLYWOOD",CInemania Hollywood Premier 9 FHD
 http://filex.me:8080//live/shafiq02/1234/533541.ts
-#EXTINF:-1 tvg-id="" tvg-name="CInemania Punjabi 1 FHD" tvg-logo="" group-title="24/7 | CINEMANIA PUNJABI",CInemania Punjabi 1 FHD
-http://filex.me:8080//live/shafiq02/1234/532698.ts
-#EXTINF:-1 tvg-id="" tvg-name="CInemania Punjabi 2 FHD" tvg-logo="" group-title="24/7 | CINEMANIA PUNJABI",CInemania Punjabi 2 FHD
-http://filex.me:8080//live/shafiq02/1234/532699.ts
-#EXTINF:-1 tvg-id="" tvg-name="CInemania Punjabi 3 FHD" tvg-logo="" group-title="24/7 | CINEMANIA PUNJABI",CInemania Punjabi 3 FHD
-http://filex.me:8080//live/shafiq02/1234/532700.ts
-#EXTINF:-1 tvg-id="" tvg-name="CInemania Punjabi 4 FHD" tvg-logo="" group-title="24/7 | CINEMANIA PUNJABI",CInemania Punjabi 4 FHD
-http://filex.me:8080//live/shafiq02/1234/532701.ts
-#EXTINF:-1 tvg-id="" tvg-name="CInemania Punjabi 5 FHD" tvg-logo="" group-title="24/7 | CINEMANIA PUNJABI",CInemania Punjabi 5 FHD
-http://filex.me:8080//live/shafiq02/1234/532702.ts
 #EXTINF:-1 tvg-id="" tvg-name="CInemania Goldmines Dubbed 1 FHD" tvg-logo="" group-title="24/7 | CINEMANIA DUB",CInemania Goldmines Dubbed 1 FHD
 http://filex.me:8080//live/shafiq02/1234/532831.ts
 #EXTINF:-1 tvg-id="" tvg-name="CInemania Goldmines Dubbed 2 FHD" tvg-logo="" group-title="24/7 | CINEMANIA DUB",CInemania Goldmines Dubbed 2 FHD
@@ -1451,96 +1441,86 @@ http://filex.me:8080//live/shafiq02/1234/507649.ts
 http://filex.me:8080//live/shafiq02/1234/507650.ts
 #EXTINF:-1 tvg-id="" tvg-name="PK: URDU Cinema 1 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="24/7 | PAK MOVIES",PK: URDU Cinema 1 HD
 http://filex.me:8080//live/shafiq02/1234/507651.ts
-#EXTINF:-1 tvg-id="" tvg-name="CInemania Punjabi 1 FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="24/7 | IND PUNJABI",CInemania Punjabi 1 FHD
+#EXTINF:-1 tvg-id="" tvg-name="CInemania Punjabi 1 FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="24/7 | CINEMANIA PUNJABI",CInemania Punjabi 1 FHD
 http://filex.me:8080//live/shafiq02/1234/507301.ts
-#EXTINF:-1 tvg-id="" tvg-name="CInemania Punjabi 2 FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="24/7 | IND PUNJABI",CInemania Punjabi 2 FHD
+#EXTINF:-1 tvg-id="" tvg-name="CInemania Punjabi 2 FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="24/7 | CINEMANIA PUNJABI",CInemania Punjabi 2 FHD
 http://filex.me:8080//live/shafiq02/1234/507302.ts
-#EXTINF:-1 tvg-id="" tvg-name="CInemania Punjabi 3 FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="24/7 | IND PUNJABI",CInemania Punjabi 3 FHD
+#EXTINF:-1 tvg-id="" tvg-name="CInemania Punjabi 3 FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="24/7 | CINEMANIA PUNJABI",CInemania Punjabi 3 FHD
 http://filex.me:8080//live/shafiq02/1234/507303.ts
-#EXTINF:-1 tvg-id="" tvg-name="CInemania Punjabi 4 FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="24/7 | IND PUNJABI",CInemania Punjabi 4 FHD
+#EXTINF:-1 tvg-id="" tvg-name="CInemania Punjabi 4 FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="24/7 | CINEMANIA PUNJABI",CInemania Punjabi 4 FHD
 http://filex.me:8080//live/shafiq02/1234/507304.ts
-#EXTINF:-1 tvg-id="" tvg-name="CInemania Punjabi 5 FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="24/7 | IND PUNJABI",CInemania Punjabi 5 FHD
+#EXTINF:-1 tvg-id="" tvg-name="CInemania Punjabi 5 FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="24/7 | CINEMANIA PUNJABI",CInemania Punjabi 5 FHD
 http://filex.me:8080//live/shafiq02/1234/507305.ts
-#EXTINF:-1 tvg-id="" tvg-name="CM: Punjabi 4K HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="24/7 | IND PUNJABI",CM: Punjabi 4K HD
+#EXTINF:-1 tvg-id="" tvg-name="CM: Punjabi 4K HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="24/7 | CINEMANIA PUNJABI",CM: Punjabi 4K HD
 http://filex.me:8080//live/shafiq02/1234/507306.ts
-#EXTINF:-1 tvg-id="" tvg-name="PUnjabi Blockbuster 2022 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="24/7 | IND PUNJABI",PUnjabi Blockbuster 2022 HD
+#EXTINF:-1 tvg-id="" tvg-name="PUnjabi Blockbuster 2022 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="24/7 | CINEMANIA PUNJABI",PUnjabi Blockbuster 2022 HD
 http://filex.me:8080//live/shafiq02/1234/507307.ts
-#EXTINF:-1 tvg-id="" tvg-name="PUnjabi Comedy Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="24/7 | IND PUNJABI",PUnjabi Comedy Movies HD
+#EXTINF:-1 tvg-id="" tvg-name="PUnjabi Comedy Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="24/7 | CINEMANIA PUNJABI",PUnjabi Comedy Movies HD
 http://filex.me:8080//live/shafiq02/1234/507308.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMAR HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="24/7 | IND PUNJABI",AMAR HD
+#EXTINF:-1 tvg-id="" tvg-name="AMAR HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="24/7 | CINEMANIA PUNJABI",AMAR HD
 http://filex.me:8080//live/shafiq02/1234/507309.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMAR Noorie HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="24/7 | IND PUNJABI",AMAR Noorie HD
+#EXTINF:-1 tvg-id="" tvg-name="AMAR Noorie HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="24/7 | CINEMANIA PUNJABI",AMAR Noorie HD
 http://filex.me:8080//live/shafiq02/1234/507310.ts
-#EXTINF:-1 tvg-id="" tvg-name="ANgrej ALI HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="24/7 | IND PUNJABI",ANgrej ALI HD
+#EXTINF:-1 tvg-id="" tvg-name="ANgrej ALI HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="24/7 | CINEMANIA PUNJABI",ANgrej ALI HD
 http://filex.me:8080//live/shafiq02/1234/507311.ts
-#EXTINF:-1 tvg-id="" tvg-name="BAbbal RAI HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="24/7 | IND PUNJABI",BAbbal RAI HD
+#EXTINF:-1 tvg-id="" tvg-name="BAbbal RAI HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="24/7 | CINEMANIA PUNJABI",BAbbal RAI HD
 http://filex.me:8080//live/shafiq02/1234/507312.ts
-#EXTINF:-1 tvg-id="" tvg-name="BAljit Malwa HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="24/7 | IND PUNJABI",BAljit Malwa HD
+#EXTINF:-1 tvg-id="" tvg-name="BAljit Malwa HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="24/7 | CINEMANIA PUNJABI",BAljit Malwa HD
 http://filex.me:8080//live/shafiq02/1234/507313.ts
-#EXTINF:-1 tvg-id="" tvg-name="BAlkar Sidhu HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="24/7 | IND PUNJABI",BAlkar Sidhu HD
+#EXTINF:-1 tvg-id="" tvg-name="BAlkar Sidhu HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="24/7 | CINEMANIA PUNJABI",BAlkar Sidhu HD
 http://filex.me:8080//live/shafiq02/1234/507314.ts
-#EXTINF:-1 tvg-id="" tvg-name="BIkram Singh HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="24/7 | IND PUNJABI",BIkram Singh HD
+#EXTINF:-1 tvg-id="" tvg-name="BIkram Singh HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="24/7 | CINEMANIA PUNJABI",BIkram Singh HD
 http://filex.me:8080//live/shafiq02/1234/507315.ts
-#EXTINF:-1 tvg-id="" tvg-name="DEV Dhillon HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="24/7 | IND PUNJABI",DEV Dhillon HD
+#EXTINF:-1 tvg-id="" tvg-name="DEV Dhillon HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="24/7 | CINEMANIA PUNJABI",DEV Dhillon HD
 http://filex.me:8080//live/shafiq02/1234/507316.ts
-#EXTINF:-1 tvg-id="" tvg-name="DHarmpreet HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="24/7 | IND PUNJABI",DHarmpreet HD
+#EXTINF:-1 tvg-id="" tvg-name="DHarmpreet HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="24/7 | CINEMANIA PUNJABI",DHarmpreet HD
 http://filex.me:8080//live/shafiq02/1234/507317.ts
-#EXTINF:-1 tvg-id="" tvg-name="DUrga Rangila HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="24/7 | IND PUNJABI",DUrga Rangila HD
+#EXTINF:-1 tvg-id="" tvg-name="DUrga Rangila HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="24/7 | CINEMANIA PUNJABI",DUrga Rangila HD
 http://filex.me:8080//live/shafiq02/1234/507318.ts
-#EXTINF:-1 tvg-id="" tvg-name="H Dhami HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="24/7 | IND PUNJABI",H Dhami HD
+#EXTINF:-1 tvg-id="" tvg-name="H Dhami HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="24/7 | CINEMANIA PUNJABI",H Dhami HD
 http://filex.me:8080//live/shafiq02/1234/507319.ts
-#EXTINF:-1 tvg-id="" tvg-name="HArjit Harman HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="24/7 | IND PUNJABI",HArjit Harman HD
+#EXTINF:-1 tvg-id="" tvg-name="HArjit Harman HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="24/7 | CINEMANIA PUNJABI",HArjit Harman HD
 http://filex.me:8080//live/shafiq02/1234/507320.ts
-#EXTINF:-1 tvg-id="" tvg-name="JAgjid Singh HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="24/7 | IND PUNJABI",JAgjid Singh HD
+#EXTINF:-1 tvg-id="" tvg-name="JAgjid Singh HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="24/7 | CINEMANIA PUNJABI",JAgjid Singh HD
 http://filex.me:8080//live/shafiq02/1234/507321.ts
-#EXTINF:-1 tvg-id="" tvg-name="JAZ Dhami HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="24/7 | IND PUNJABI",JAZ Dhami HD
+#EXTINF:-1 tvg-id="" tvg-name="JAZ Dhami HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="24/7 | CINEMANIA PUNJABI",JAZ Dhami HD
 http://filex.me:8080//live/shafiq02/1234/507322.ts
-#EXTINF:-1 tvg-id="" tvg-name="LABH Janjua HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="24/7 | IND PUNJABI",LABH Janjua HD
+#EXTINF:-1 tvg-id="" tvg-name="LABH Janjua HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="24/7 | CINEMANIA PUNJABI",LABH Janjua HD
 http://filex.me:8080//live/shafiq02/1234/507323.ts
-#EXTINF:-1 tvg-id="" tvg-name="LAkhwinder Singh HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="24/7 | IND PUNJABI",LAkhwinder Singh HD
+#EXTINF:-1 tvg-id="" tvg-name="LAkhwinder Singh HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="24/7 | CINEMANIA PUNJABI",LAkhwinder Singh HD
 http://filex.me:8080//live/shafiq02/1234/507324.ts
-#EXTINF:-1 tvg-id="" tvg-name="LEhmber Hussain Puria HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="24/7 | IND PUNJABI",LEhmber Hussain Puria HD
+#EXTINF:-1 tvg-id="" tvg-name="LEhmber Hussain Puria HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="24/7 | CINEMANIA PUNJABI",LEhmber Hussain Puria HD
 http://filex.me:8080//live/shafiq02/1234/507325.ts
-#EXTINF:-1 tvg-id="" tvg-name="MAkit Singh HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="24/7 | IND PUNJABI",MAkit Singh HD
+#EXTINF:-1 tvg-id="" tvg-name="MAkit Singh HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="24/7 | CINEMANIA PUNJABI",MAkit Singh HD
 http://filex.me:8080//live/shafiq02/1234/507326.ts
-#EXTINF:-1 tvg-id="" tvg-name="MAnmohan Waris HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="24/7 | IND PUNJABI",MAnmohan Waris HD
+#EXTINF:-1 tvg-id="" tvg-name="MAnmohan Waris HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="24/7 | CINEMANIA PUNJABI",MAnmohan Waris HD
 http://filex.me:8080//live/shafiq02/1234/507327.ts
-#EXTINF:-1 tvg-id="" tvg-name="PAmmi BAI HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="24/7 | IND PUNJABI",PAmmi BAI HD
+#EXTINF:-1 tvg-id="" tvg-name="PAmmi BAI HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="24/7 | CINEMANIA PUNJABI",PAmmi BAI HD
 http://filex.me:8080//live/shafiq02/1234/507328.ts
-#EXTINF:-1 tvg-id="" tvg-name="PReet Harpal HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="24/7 | IND PUNJABI",PReet Harpal HD
+#EXTINF:-1 tvg-id="" tvg-name="PReet Harpal HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="24/7 | CINEMANIA PUNJABI",PReet Harpal HD
 http://filex.me:8080//live/shafiq02/1234/507329.ts
-#EXTINF:-1 tvg-id="" tvg-name="PREM Dhillon HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="24/7 | IND PUNJABI",PREM Dhillon HD
+#EXTINF:-1 tvg-id="" tvg-name="PREM Dhillon HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="24/7 | CINEMANIA PUNJABI",PREM Dhillon HD
 http://filex.me:8080//live/shafiq02/1234/507330.ts
-#EXTINF:-1 tvg-id="" tvg-name="RAJ BRAR HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="24/7 | IND PUNJABI",RAJ BRAR HD
+#EXTINF:-1 tvg-id="" tvg-name="RAJ BRAR HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="24/7 | CINEMANIA PUNJABI",RAJ BRAR HD
 http://filex.me:8080//live/shafiq02/1234/507331.ts
-#EXTINF:-1 tvg-id="" tvg-name="RAnjet BAEA HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="24/7 | IND PUNJABI",RAnjet BAEA HD
+#EXTINF:-1 tvg-id="" tvg-name="RAnjet BAEA HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="24/7 | CINEMANIA PUNJABI",RAnjet BAEA HD
 http://filex.me:8080//live/shafiq02/1234/507332.ts
-#EXTINF:-1 tvg-id="" tvg-name="RAvinder Grwal HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="24/7 | IND PUNJABI",RAvinder Grwal HD
+#EXTINF:-1 tvg-id="" tvg-name="RAvinder Grwal HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="24/7 | CINEMANIA PUNJABI",RAvinder Grwal HD
 http://filex.me:8080//live/shafiq02/1234/507333.ts
-#EXTINF:-1 tvg-id="" tvg-name="SArbjit Cheema HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="24/7 | IND PUNJABI",SArbjit Cheema HD
+#EXTINF:-1 tvg-id="" tvg-name="SArbjit Cheema HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="24/7 | CINEMANIA PUNJABI",SArbjit Cheema HD
 http://filex.me:8080//live/shafiq02/1234/507334.ts
-#EXTINF:-1 tvg-id="" tvg-name="SArdool Sikandr HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="24/7 | IND PUNJABI",SArdool Sikandr HD
+#EXTINF:-1 tvg-id="" tvg-name="SArdool Sikandr HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="24/7 | CINEMANIA PUNJABI",SArdool Sikandr HD
 http://filex.me:8080//live/shafiq02/1234/507335.ts
-#EXTINF:-1 tvg-id="" tvg-name="SAthwinder Bitti HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="24/7 | IND PUNJABI",SAthwinder Bitti HD
+#EXTINF:-1 tvg-id="" tvg-name="SAthwinder Bitti HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="24/7 | CINEMANIA PUNJABI",SAthwinder Bitti HD
 http://filex.me:8080//live/shafiq02/1234/507336.ts
-#EXTINF:-1 tvg-id="" tvg-name="SAtinder Sartaaj HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="24/7 | IND PUNJABI",SAtinder Sartaaj HD
+#EXTINF:-1 tvg-id="" tvg-name="SAtinder Sartaaj HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="24/7 | CINEMANIA PUNJABI",SAtinder Sartaaj HD
 http://filex.me:8080//live/shafiq02/1234/507337.ts
-#EXTINF:-1 tvg-id="" tvg-name="SUrjit Bindrakhik HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="24/7 | IND PUNJABI",SUrjit Bindrakhik HD
+#EXTINF:-1 tvg-id="" tvg-name="SUrjit Bindrakhik HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="24/7 | CINEMANIA PUNJABI",SUrjit Bindrakhik HD
 http://filex.me:8080//live/shafiq02/1234/507340.ts
-#EXTINF:-1 tvg-id="" tvg-name="SUrjit KHAN HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="24/7 | IND PUNJABI",SUrjit KHAN HD
+#EXTINF:-1 tvg-id="" tvg-name="SUrjit KHAN HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="24/7 | CINEMANIA PUNJABI",SUrjit KHAN HD
 http://filex.me:8080//live/shafiq02/1234/507341.ts
-#EXTINF:-1 tvg-id="" tvg-name="TArsem Jassar D HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="24/7 | IND PUNJABI",TArsem Jassar D HD
+#EXTINF:-1 tvg-id="" tvg-name="TArsem Jassar D HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="24/7 | CINEMANIA PUNJABI",TArsem Jassar D HD
 http://filex.me:8080//live/shafiq02/1234/507342.ts
-#EXTINF:-1 tvg-id="" tvg-name="CInemania Punjabi 1 FHD" tvg-logo="" group-title="24/7 | IND PUNJABI",CInemania Punjabi 1 FHD
-http://filex.me:8080//live/shafiq02/1234/513993.ts
-#EXTINF:-1 tvg-id="" tvg-name="CInemania Punjabi 2 FHD" tvg-logo="" group-title="24/7 | IND PUNJABI",CInemania Punjabi 2 FHD
-http://filex.me:8080//live/shafiq02/1234/513994.ts
-#EXTINF:-1 tvg-id="" tvg-name="CInemania Punjabi 3 FHD" tvg-logo="" group-title="24/7 | IND PUNJABI",CInemania Punjabi 3 FHD
-http://filex.me:8080//live/shafiq02/1234/513995.ts
-#EXTINF:-1 tvg-id="" tvg-name="CInemania Punjabi 4 FHD" tvg-logo="" group-title="24/7 | IND PUNJABI",CInemania Punjabi 4 FHD
-http://filex.me:8080//live/shafiq02/1234/513996.ts
-#EXTINF:-1 tvg-id="" tvg-name="CInemania Punjabi 5 FHD" tvg-logo="" group-title="24/7 | IND PUNJABI",CInemania Punjabi 5 FHD
-http://filex.me:8080//live/shafiq02/1234/513997.ts
 #EXTINF:-1 tvg-id="" tvg-name="CInemania Malayalam 1 FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="24/7 | IND MALAYALAM",CInemania Malayalam 1 FHD
 http://filex.me:8080//live/shafiq02/1234/507277.ts
 #EXTINF:-1 tvg-id="" tvg-name="CInemania Malayalam 2 FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="24/7 | IND MALAYALAM",CInemania Malayalam 2 FHD
@@ -4871,8 +4851,6 @@ http://filex.me:8080//live/shafiq02/1234/834771.ts
 http://filex.me:8080//live/shafiq02/1234/834875.ts
 #EXTINF:-1 tvg-id="" tvg-name="Racing America (720p)" tvg-logo="https://i.imgur.com/Eufk8rl.png" group-title="✯RACING Tv✯",Racing America (720p)
 http://filex.me:8080//live/shafiq02/1234/834876.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Crime Patrol 1" tvg-logo="" group-title="IND | TV SHOW 24/7",24/7 Crime Patrol 1
-http://filex.me:8080//live/shafiq02/1234/1321249.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 C I D 1" tvg-logo="" group-title="IND | TV SHOW 24/7",24/7 C I D 1
 http://filex.me:8080//live/shafiq02/1234/1321194.ts
 #EXTINF:-1 tvg-id="" tvg-name="CRIME PATROL" tvg-logo="" group-title="IND | TV SHOW 24/7",CRIME PATROL
@@ -25211,6 +25189,12 @@ http://filex.me:8080//live/shafiq02/1234/908780.ts
 http://filex.me:8080//live/shafiq02/1234/908774.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR: WANASAH HD" tvg-logo="" group-title="✯MUSIC✯اغاني",AR: WANASAH HD
 http://filex.me:8080//live/shafiq02/1234/908783.ts
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night 275: Della Maddalena vs. Prates (2026) (Prelims)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5WkSmkStpbOLpWukt1reuJJqZDj.jpg" group-title="✯UFC FIGHT✯",UFC Fight Night 275: Della Maddalena vs. Prates (2026) (Prelims)
+http://filex.me:8080/movie/shafiq02/1234/1344877.mp4
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night 275: Della Maddalena vs. Prates (2026) (Main Card)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5WkSmkStpbOLpWukt1reuJJqZDj.jpg" group-title="✯UFC FIGHT✯",UFC Fight Night 275: Della Maddalena vs. Prates (2026) (Main Card)
+http://filex.me:8080/movie/shafiq02/1234/1344876.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Hero of Heroic Bloodshed: A John Woo Documentary (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nQRiB5KEYWTQlDnocvLJhRQ1ldb.jpg" group-title="✯DOCUMENTARIES✯",The Hero of Heroic Bloodshed: A John Woo Documentary (2025)
+http://filex.me:8080/movie/shafiq02/1234/1344797.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Kuchh Bheege Alfaaz (2018) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/25cv2bdc4IIIcMWdFiHC0uEy0eI.jpg" group-title="BOLLYWOOD | 2010-2019",Kuchh Bheege Alfaaz (2018) (Hindi)
 http://filex.me:8080/movie/shafiq02/1234/1344723.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Rishton Ki Aakhari Baazi (2026)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS79uiq4q3dIMQkgbYSeZMa3NWF9ovjXD29_p9AYK_okhMYItjYweqO-NY&s=10" group-title="BOLLYWOOD | 2026",Rishton Ki Aakhari Baazi (2026)
@@ -28271,7 +28255,7 @@ http://filex.me:8080/movie/shafiq02/1234/851463.mp4
 http://filex.me:8080/movie/shafiq02/1234/851462.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Jhansi Ki Rani (1953)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6a31Mi5aUNCNvHIWSoCy5p348ki.jpg" group-title="BOLLYWOOD | CLASSIC ",Jhansi Ki Rani (1953)
 http://filex.me:8080/movie/shafiq02/1234/851461.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mohra (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nWAptaCNiTIJtv9cYqfF5E7qm0I.jpg" group-title="BOLLYWOOD | 90s",Mohra (1994)
+#EXTINF:-1 tvg-id="" tvg-name="Mohra (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nWAptaCNiTIJtv9cYqfF5E7qm0I.jpg" group-title="BOLLYWOOD | CLASSIC ",Mohra (1994)
 http://filex.me:8080/movie/shafiq02/1234/685811.mp4
 #EXTINF:-1 tvg-id="" tvg-name="My Dearest Señorita (2026) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cTcJs2bEsJDhQEpeYSOZD3yayZI.jpg" group-title="HINDI DUB | 2026",My Dearest Señorita (2026) (Hindi)
 http://filex.me:8080/movie/shafiq02/1234/1344721.mp4
@@ -45049,8 +45033,22 @@ http://filex.me:8080//live/shafiq02/1234/522602.ts
 http://filex.me:8080//live/shafiq02/1234/522603.ts
 #EXTINF:-1 tvg-id="464083" tvg-name="COlors Super HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/300/-/2025-04-08/250408785000.jpg" group-title="IND | KANNADA",COlors Super HD
 http://filex.me:8080//live/shafiq02/1234/522604.ts
+#EXTINF:-1 tvg-id="" tvg-name="Clika (2026) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/82Vh8PSzWtBi0CLWrnJdRhGYxEr.jpg" group-title="SOUTH INDIA | 2026",Clika (2026) (Hindi)
+http://filex.me:8080/movie/shafiq02/1234/1344873.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jana Nayagan (2026) (Hindi) (CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jt8pfSIdi47YpFMMWVRr8w5u2S0.jpg" group-title="SOUTH INDIA | 2026",Jana Nayagan (2026) (Hindi) (CAM)
+http://filex.me:8080/movie/shafiq02/1234/1344872.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Raja Shivaji (2026) (Hindi) (CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9e2Wc6sbeU1YdBWLJIDyMcEWrN2.jpg" group-title="SOUTH INDIA | 2026",Raja Shivaji (2026) (Hindi) (CAM)
+http://filex.me:8080/movie/shafiq02/1234/1344871.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Clika (2026) (Tamil)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/82Vh8PSzWtBi0CLWrnJdRhGYxEr.jpg" group-title="TAMIL | 2025 - 2026",Clika (2026) (Tamil)
+http://filex.me:8080/movie/shafiq02/1234/1344870.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Devara: Part 1 (2024) Hindi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lQfuaXjANoTsdx5iS0gCXlK9D2L.jpg" group-title="SOUTH INDIA | 2023-2024",Devara: Part 1 (2024) Hindi
 http://filex.me:8080/movie/shafiq02/1234/1344864.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Good Neighbor Sam (1964) (Tamil)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dLyFlaMOZ998xitLiOEMur2FyrD.jpg" group-title="✯TAMIL✯ MIX",Good Neighbor Sam (1964) (Tamil)
+http://filex.me:8080/movie/shafiq02/1234/1344800.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Munna Michael (2017) (Tamil)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p1tdHXmGGLc8o8kTImZi5iPXcu3.jpg" group-title="✯TAMIL✯ MIX",Munna Michael (2017) (Tamil)
+http://filex.me:8080/movie/shafiq02/1234/1344799.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nadhi (2022) (Tamil)" tvg-logo="" group-title="TAMIL | 2020 - 2022",Nadhi (2022) (Tamil)
+http://filex.me:8080/movie/shafiq02/1234/1344798.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Kerala Story 2 Goes Beyond (2026) (Kannada)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/97jAFQcAnspd416cupbAbGMNT9z.jpg" group-title="KANNADA | 2025 - 2026",The Kerala Story 2 Goes Beyond (2026) (Kannada)
 http://filex.me:8080/movie/shafiq02/1234/1344719.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Kerala Story 2 Goes Beyond (2026) (Malayalam)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/97jAFQcAnspd416cupbAbGMNT9z.jpg" group-title=" MALAYALAM | 2025 - 2026",The Kerala Story 2 Goes Beyond (2026) (Malayalam)
@@ -49998,3 +49996,5 @@ http://filex.me:8080/movie/shafiq02/1234/1174209.mkv
 #EXTINF:-1 tvg-id="" tvg-name="AR_ Mercy (2023)" tvg-logo="" group-title="AR | 2020-2025",AR_ Mercy (2023)
 http://filex.me:8080/movie/shafiq02/1234/1174206.mp4
 #EXTINF:-1 tvg-id="" tvg-name="AR_ Astérix" tvg-logo="" group-title="AR | 2020-2025",AR_ Astérix
+http://filex.me:8080/movie/shafiq02/1234/1174205.mp4
+#EXTINF:-1 tvg-id="" tvg-name="AR_ Kathal" tvg-logo="" group-title="AR | 2020-2025",AR_ Kathal
