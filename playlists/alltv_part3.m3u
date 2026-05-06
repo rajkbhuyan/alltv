@@ -1,3 +1,13 @@
+http://filex.me:8080/movie/shafiq02/1234/915462.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT: Gun Shy - Eroe Per Caso" tvg-logo="https://image.tmdb.org/t/p/original/8aD62oEGW6QMrT5peNJWas1QNKx.jpg" group-title="✯ITALIAN✯MOVIES",IT: Gun Shy - Eroe Per Caso
+http://filex.me:8080/movie/shafiq02/1234/915461.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT: Gun City" tvg-logo="https://image.tmdb.org/t/p/original/1oC6UwQQm79VxHJUoSi8vcE6Jsm.jpg" group-title="✯ITALIAN✯MOVIES",IT: Gun City
+http://filex.me:8080/movie/shafiq02/1234/915460.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT: Guernica - Cronaca Di Una Strage" tvg-logo="https://image.tmdb.org/t/p/original/xngfVEXUvtWHzYbrARHNTi51JeK.jpg" group-title="✯ITALIAN✯MOVIES",IT: Guernica - Cronaca Di Una Strage
+http://filex.me:8080/movie/shafiq02/1234/915459.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT: Guardians Of The Tomb" tvg-logo="https://image.tmdb.org/t/p/original/q6wRbkRJDelSeSH9yMowgP8RElT.jpg" group-title="✯ITALIAN✯MOVIES",IT: Guardians Of The Tomb
+http://filex.me:8080/movie/shafiq02/1234/915458.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT: Guardians Of The Night - I Guardiani Della Notte" tvg-logo="https://image.tmdb.org/t/p/original/l5kYxDguKwPvprihe9sVc1p5jSZ.jpg" group-title="✯ITALIAN✯MOVIES",IT: Guardians Of The Night - I Guardiani Della Notte
 http://filex.me:8080/movie/shafiq02/1234/915457.mp4
 #EXTINF:-1 tvg-id="" tvg-name="IT: Guardians - Il Risveglio Dei Guardiani" tvg-logo="https://image.tmdb.org/t/p/original/fFnzDcZeHDlXEJQNGWwQmyvQwx7.jpg" group-title="✯ITALIAN✯MOVIES",IT: Guardians - Il Risveglio Dei Guardiani
 http://filex.me:8080/movie/shafiq02/1234/915456.mp4
@@ -8199,6 +8209,14 @@ http://filex.me:8080/movie/shafiq02/1234/899365.mp4
 http://filex.me:8080/movie/shafiq02/1234/899364.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Frankenstein and the Monster from Hell (1974)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lKcAIHSOHquRgit3F59Z81vdMdl.jpg" group-title="✯HORROR✯ MIX",Frankenstein and the Monster from Hell (1974)
 http://filex.me:8080/movie/shafiq02/1234/899363.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amrum (2026) (Turkish)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z87OLGYXojP3bJjp0EpbutpvGTy.jpg" group-title="✯TURK✯ MOVIES",Amrum (2026) (Turkish)
+http://filex.me:8080/movie/shafiq02/1234/1345099.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Buen Camino (2025) (Turkish)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4buulRVfRJcqgkR3AF6ln23TqR6.jpg" group-title="✯TURK✯ MOVIES",Buen Camino (2025) (Turkish)
+http://filex.me:8080/movie/shafiq02/1234/1345098.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Giant (2026) (Turkish)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h5RRYPVVuHzd7QOJyP5Dsi8J9XZ.jpg" group-title="✯TURK✯ MOVIES",Giant (2026) (Turkish)
+http://filex.me:8080/movie/shafiq02/1234/1345097.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Son-in-Law (2026) (Turkish)" tvg-logo="" group-title="✯TURK✯ MOVIES",Son-in-Law (2026) (Turkish)
+http://filex.me:8080/movie/shafiq02/1234/1345096.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Reflection in a Dead Diamond (2025) (Turkish)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5CdRxBu7jRDHjthkAL8vE0GdKUD.jpg" group-title="✯TURK✯ MOVIES",Reflection in a Dead Diamond (2025) (Turkish)
 http://filex.me:8080/movie/shafiq02/1234/1344802.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Yaren Leylek (2024) (Turkish)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6QA7GYzwbraD5oYQcrlNRrEW5Qm.jpg" group-title="✯TURK✯ MOVIES",Yaren Leylek (2024) (Turkish)
@@ -49980,21 +49998,3 @@ http://filex.me:8080/movie/shafiq02/1234/920786.mkv
 #EXTINF:-1 tvg-id="" tvg-name="FR: El Gerente" tvg-logo="https://image.tmdb.org/t/p/original/cDZRy7uNFZFlTWPgoA9q1TBDdHI.jpg" group-title="✯FRANCE✯ MOVIES",FR: El Gerente
 http://filex.me:8080/movie/shafiq02/1234/920785.mkv
 #EXTINF:-1 tvg-id="" tvg-name="FR: Entre Les Vagues" tvg-logo="https://image.tmdb.org/t/p/original/8ojKJUxvBdfVA9yAFdS7hXTDZ75.jpg" group-title="✯FRANCE✯ MOVIES",FR: Entre Les Vagues
-http://filex.me:8080/movie/shafiq02/1234/920784.mkv
-#EXTINF:-1 tvg-id="" tvg-name="FR: Fumer Fait Tousser" tvg-logo="" group-title="✯FRANCE✯ MOVIES",FR: Fumer Fait Tousser
-http://filex.me:8080/movie/shafiq02/1234/920783.mkv
-#EXTINF:-1 tvg-id="" tvg-name="FR: Ghoster" tvg-logo="https://image.tmdb.org/t/p/original/yWZuwxOsGyiqJy3j4YB1sFWpFxW.jpg" group-title="✯FRANCE✯ MOVIES",FR: Ghoster
-http://filex.me:8080/movie/shafiq02/1234/920782.mkv
-#EXTINF:-1 tvg-id="" tvg-name="FR: L Ecole Est A Nous" tvg-logo="https://image.tmdb.org/t/p/original/6f29PNchQVMjvyG3wFZeLkZtRi.jpg" group-title="✯FRANCE✯ MOVIES",FR: L Ecole Est A Nous
-http://filex.me:8080/movie/shafiq02/1234/920781.mkv
-#EXTINF:-1 tvg-id="" tvg-name="FR: La Derive Des Continents" tvg-logo="https://image.tmdb.org/t/p/original/hp5uXNLgD03IOzZq16lwaJqQtpf.jpg" group-title="✯FRANCE✯ MOVIES",FR: La Derive Des Continents
-http://filex.me:8080/movie/shafiq02/1234/920780.mkv
-#EXTINF:-1 tvg-id="" tvg-name="FR: La Maison" tvg-logo="https://image.tmdb.org/t/p/original/zz6h2hfQ692jeeEkzfgFceyd50Y.jpg" group-title="✯FRANCE✯ MOVIES",FR: La Maison
-http://filex.me:8080/movie/shafiq02/1234/920779.mkv
-#EXTINF:-1 tvg-id="" tvg-name="FR: La Tres Tres Grande Classe" tvg-logo="https://image.tmdb.org/t/p/original/fWkVki2dyjBZruFXdovtvOvCLEk.jpg" group-title="✯FRANCE✯ MOVIES",FR: La Tres Tres Grande Classe
-http://filex.me:8080/movie/shafiq02/1234/920778.mkv
-#EXTINF:-1 tvg-id="" tvg-name="FR: Le Lyceen" tvg-logo="https://image.tmdb.org/t/p/original/qHRlWadU9QFZNP5TZcyEJVwYP2B.jpg" group-title="✯FRANCE✯ MOVIES",FR: Le Lyceen
-http://filex.me:8080/movie/shafiq02/1234/920777.mkv
-#EXTINF:-1 tvg-id="" tvg-name="FR: Le Torrent" tvg-logo="https://image.tmdb.org/t/p/original/xMm51WzScpaqAIRAfat6WGKPMYx.jpg" group-title="✯FRANCE✯ MOVIES",FR: Le Torrent
-http://filex.me:8080/movie/shafiq02/1234/920776.mkv
-#EXTINF:-1 tvg-id="" tvg-name="FR: Leila Et Ses Freres" tvg-logo="https://image.tmdb.org/t/p/original/onQUSikPNXVvoT3wCLzHgiOPrHT.jpg" group-title="✯FRANCE✯ MOVIES",FR: Leila Et Ses Freres
