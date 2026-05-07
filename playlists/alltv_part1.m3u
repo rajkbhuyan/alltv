@@ -3655,85 +3655,85 @@ http://filex.me:8080//live/shafiq02/1234/350116.ts
 http://filex.me:8080//live/shafiq02/1234/350121.ts
 #EXTINF:-1 tvg-id="" tvg-name="PK | Barkat TV 4K" tvg-logo="https://www.lyngsat.com/logo/tv/bb/barkat-tv-pk.png" group-title="PAK | ENTERTAINMENT 4K",PK | Barkat TV 4K
 http://filex.me:8080//live/shafiq02/1234/350105.ts
-#EXTINF:-1 tvg-id="PTV.News.pk" tvg-name="PK | 92 NEWS 4K HD" tvg-logo="https://www.lyngsat.com/logo/tv/num/92-news-pk.png" group-title="PAK | NEWS 4K",PK | 92 NEWS 4K HD
+#EXTINF:-1 tvg-id="PTV.News.pk" tvg-name="PK | 92 NEWS 4K" tvg-logo="https://www.lyngsat.com/logo/tv/num/92-news-pk.png" group-title="PAK | NEWS 4K",PK | 92 NEWS 4K
 http://filex.me:8080//live/shafiq02/1234/246995.ts
 #EXTINF:-1 tvg-id="" tvg-name="PK | ARY NEWS 4K" tvg-logo="https://www.lyngsat.com/logo/tv/aa/ary_news_asia.png" group-title="PAK | NEWS 4K",PK | ARY NEWS 4K
 http://filex.me:8080//live/shafiq02/1234/246972.ts
-#EXTINF:-1 tvg-id="" tvg-name="PK | GEO NEWS 4K HD" tvg-logo="https://www.lyngsat.com/logo/tv/gg/geo_news_international.png" group-title="PAK | NEWS 4K",PK | GEO NEWS 4K HD
+#EXTINF:-1 tvg-id="" tvg-name="PK | GEO NEWS 4K" tvg-logo="https://www.lyngsat.com/logo/tv/gg/geo_news_international.png" group-title="PAK | NEWS 4K",PK | GEO NEWS 4K
 http://filex.me:8080//live/shafiq02/1234/246976.ts
-#EXTINF:-1 tvg-id="" tvg-name="PK | BOL NEWS 4K HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bol_news_pk.png" group-title="PAK | NEWS 4K",PK | BOL NEWS 4K HD
+#EXTINF:-1 tvg-id="" tvg-name="PK | BOL NEWS 4K" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bol_news_pk.png" group-title="PAK | NEWS 4K",PK | BOL NEWS 4K
 http://filex.me:8080//live/shafiq02/1234/246974.ts
-#EXTINF:-1 tvg-id="" tvg-name="PK | DAWN NEWS 4K HD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dawn_news_pk.png" group-title="PAK | NEWS 4K",PK | DAWN NEWS 4K HD
+#EXTINF:-1 tvg-id="" tvg-name="PK | DAWN NEWS 4K" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dawn_news_pk.png" group-title="PAK | NEWS 4K",PK | DAWN NEWS 4K
 http://filex.me:8080//live/shafiq02/1234/246993.ts
-#EXTINF:-1 tvg-id="PTV.News.pk" tvg-name="PK | 24 NEWS 4K HD" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel_24_pk.png" group-title="PAK | NEWS 4K",PK | 24 NEWS 4K HD
+#EXTINF:-1 tvg-id="PTV.News.pk" tvg-name="PK | 24 NEWS 4K" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel_24_pk.png" group-title="PAK | NEWS 4K",PK | 24 NEWS 4K
 http://filex.me:8080//live/shafiq02/1234/246990.ts
-#EXTINF:-1 tvg-id="" tvg-name="PK | Dunya NEWS 4K HD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dunya_news_tv_pk.png" group-title="PAK | NEWS 4K",PK | Dunya NEWS 4K HD
+#EXTINF:-1 tvg-id="" tvg-name="PK | Dunya NEWS 4K" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dunya_news_tv_pk.png" group-title="PAK | NEWS 4K",PK | Dunya NEWS 4K
 http://filex.me:8080//live/shafiq02/1234/246973.ts
-#EXTINF:-1 tvg-id="" tvg-name="PK | Express NEWS 4K HD" tvg-logo="https://www.lyngsat.com/logo/tv/ee/express-news-pk.png" group-title="PAK | NEWS 4K",PK | Express NEWS 4K HD
+#EXTINF:-1 tvg-id="" tvg-name="PK | Express NEWS 4K" tvg-logo="https://www.lyngsat.com/logo/tv/ee/express-news-pk.png" group-title="PAK | NEWS 4K",PK | Express NEWS 4K
 http://filex.me:8080//live/shafiq02/1234/246975.ts
-#EXTINF:-1 tvg-id="" tvg-name="PK | Lahore RANG 4K HD" tvg-logo="https://www.lyngsat.com/logo/tv/ll/lahore-rang-pk.png" group-title="PAK | NEWS 4K",PK | Lahore RANG 4K HD
+#EXTINF:-1 tvg-id="" tvg-name="PK | Lahore RANG 4K" tvg-logo="https://www.lyngsat.com/logo/tv/ll/lahore-rang-pk.png" group-title="PAK | NEWS 4K",PK | Lahore RANG 4K
 http://filex.me:8080//live/shafiq02/1234/283903.ts
 #EXTINF:-1 tvg-id="" tvg-name="PK | AIK NEWS 4K" tvg-logo="https://www.lyngsat.com/logo/tv/aa/aik-news-pk.png" group-title="PAK | NEWS 4K",PK | AIK NEWS 4K
 http://filex.me:8080//live/shafiq02/1234/846956.ts
-#EXTINF:-1 tvg-id="" tvg-name="PK | GNN NEWS 4K HD" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gourmet-news-network-pk.png" group-title="PAK | NEWS 4K",PK | GNN NEWS 4K HD
+#EXTINF:-1 tvg-id="" tvg-name="PK | GNN NEWS 4K" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gourmet-news-network-pk.png" group-title="PAK | NEWS 4K",PK | GNN NEWS 4K
 http://filex.me:8080//live/shafiq02/1234/246977.ts
-#EXTINF:-1 tvg-id="PTV.News.pk" tvg-name="PK | GTV NEWS 4K HD" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gtv-network-pk.png" group-title="PAK | NEWS 4K",PK | GTV NEWS 4K HD
+#EXTINF:-1 tvg-id="PTV.News.pk" tvg-name="PK | GTV NEWS 4K" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gtv-network-pk.png" group-title="PAK | NEWS 4K",PK | GTV NEWS 4K
 http://filex.me:8080//live/shafiq02/1234/246979.ts
-#EXTINF:-1 tvg-id="" tvg-name="PK | Lahore NEWS 4K HD" tvg-logo="https://www.lyngsat.com/logo/tv/ll/lahore_news_pk.png" group-title="PAK | NEWS 4K",PK | Lahore NEWS 4K HD
+#EXTINF:-1 tvg-id="" tvg-name="PK | Lahore NEWS 4K" tvg-logo="https://www.lyngsat.com/logo/tv/ll/lahore_news_pk.png" group-title="PAK | NEWS 4K",PK | Lahore NEWS 4K
 http://filex.me:8080//live/shafiq02/1234/247001.ts
-#EXTINF:-1 tvg-id="" tvg-name="PK | Samaa NEWS 4K HD" tvg-logo="https://www.dthsat.com/images/Samaa-News-Logo.png" group-title="PAK | NEWS 4K",PK | Samaa NEWS 4K HD
+#EXTINF:-1 tvg-id="" tvg-name="PK | Samaa NEWS 4K" tvg-logo="https://www.dthsat.com/images/Samaa-News-Logo.png" group-title="PAK | NEWS 4K",PK | Samaa NEWS 4K
 http://filex.me:8080//live/shafiq02/1234/246986.ts
-#EXTINF:-1 tvg-id="" tvg-name="PK | AAJ NEWS 4K HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/aaj_tv_news.png" group-title="PAK | NEWS 4K",PK | AAJ NEWS 4K HD
+#EXTINF:-1 tvg-id="" tvg-name="PK | AAJ NEWS 4K" tvg-logo="https://www.lyngsat.com/logo/tv/aa/aaj_tv_news.png" group-title="PAK | NEWS 4K",PK | AAJ NEWS 4K
 http://filex.me:8080//live/shafiq02/1234/247011.ts
-#EXTINF:-1 tvg-id="" tvg-name="PK | Capital NEWS 4K HD" tvg-logo="https://www.lyngsat.com/logo/tv/cc/capital_tv_pk.png" group-title="PAK | NEWS 4K",PK | Capital NEWS 4K HD
+#EXTINF:-1 tvg-id="" tvg-name="PK | Capital NEWS 4K" tvg-logo="https://www.lyngsat.com/logo/tv/cc/capital_tv_pk.png" group-title="PAK | NEWS 4K",PK | Capital NEWS 4K
 http://filex.me:8080//live/shafiq02/1234/247000.ts
-#EXTINF:-1 tvg-id="" tvg-name="PK | Public NEWS 4K HD" tvg-logo="https://www.lyngsat.com/logo/tv/pp/public-news-pk.png" group-title="PAK | NEWS 4K",PK | Public NEWS 4K HD
+#EXTINF:-1 tvg-id="" tvg-name="PK | Public NEWS 4K" tvg-logo="https://www.lyngsat.com/logo/tv/pp/public-news-pk.png" group-title="PAK | NEWS 4K",PK | Public NEWS 4K
 http://filex.me:8080//live/shafiq02/1234/246998.ts
-#EXTINF:-1 tvg-id="" tvg-name="PK | ABN NEWS 4K HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/abn-news-pk.png" group-title="PAK | NEWS 4K",PK | ABN NEWS 4K HD
+#EXTINF:-1 tvg-id="" tvg-name="PK | ABN NEWS 4K" tvg-logo="https://www.lyngsat.com/logo/tv/aa/abn-news-pk.png" group-title="PAK | NEWS 4K",PK | ABN NEWS 4K
 http://filex.me:8080//live/shafiq02/1234/350099.ts
-#EXTINF:-1 tvg-id="" tvg-name="PK | ABB TAK NEWS 4K HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/abb_takk_pk.png" group-title="PAK | NEWS 4K",PK | ABB TAK NEWS 4K HD
+#EXTINF:-1 tvg-id="" tvg-name="PK | ABB TAK NEWS 4K" tvg-logo="https://www.lyngsat.com/logo/tv/aa/abb_takk_pk.png" group-title="PAK | NEWS 4K",PK | ABB TAK NEWS 4K
 http://filex.me:8080//live/shafiq02/1234/247012.ts
-#EXTINF:-1 tvg-id="" tvg-name="PK | HUM NEWS 4K HD" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hum-news-pk.png" group-title="PAK | NEWS 4K",PK | HUM NEWS 4K HD
+#EXTINF:-1 tvg-id="" tvg-name="PK | HUM NEWS 4K" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hum-news-pk.png" group-title="PAK | NEWS 4K",PK | HUM NEWS 4K
 http://filex.me:8080//live/shafiq02/1234/246980.ts
-#EXTINF:-1 tvg-id="" tvg-name="PK | CITY 21 NEWS 4K HD" tvg-logo="https://www.lyngsat.com/logo/tv/cc/city-21-pk.png" group-title="PAK | NEWS 4K",PK | CITY 21 NEWS 4K HD
+#EXTINF:-1 tvg-id="" tvg-name="PK | CITY 21 NEWS 4K" tvg-logo="https://www.lyngsat.com/logo/tv/cc/city-21-pk.png" group-title="PAK | NEWS 4K",PK | CITY 21 NEWS 4K
 http://filex.me:8080//live/shafiq02/1234/247006.ts
-#EXTINF:-1 tvg-id="" tvg-name="PK | CITY 41 NEWS 4K HD" tvg-logo="https://www.lyngsat.com/logo/tv/cc/city_41_tv.png" group-title="PAK | NEWS 4K",PK | CITY 41 NEWS 4K HD
+#EXTINF:-1 tvg-id="" tvg-name="PK | CITY 41 NEWS 4K" tvg-logo="https://www.lyngsat.com/logo/tv/cc/city_41_tv.png" group-title="PAK | NEWS 4K",PK | CITY 41 NEWS 4K
 http://filex.me:8080//live/shafiq02/1234/247005.ts
-#EXTINF:-1 tvg-id="" tvg-name="PK | CITY 42 NEWS 4K HD" tvg-logo="https://www.lyngsat.com/logo/tv/cc/city_42_tv.png" group-title="PAK | NEWS 4K",PK | CITY 42 NEWS 4K HD
+#EXTINF:-1 tvg-id="" tvg-name="PK | CITY 42 NEWS 4K" tvg-logo="https://www.lyngsat.com/logo/tv/cc/city_42_tv.png" group-title="PAK | NEWS 4K",PK | CITY 42 NEWS 4K
 http://filex.me:8080//live/shafiq02/1234/246996.ts
-#EXTINF:-1 tvg-id="" tvg-name="PK | SUCH NEWS 4K HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/such-tv-pk.png" group-title="PAK | NEWS 4K",PK | SUCH NEWS 4K HD
+#EXTINF:-1 tvg-id="" tvg-name="PK | SUCH NEWS 4K" tvg-logo="https://www.lyngsat.com/logo/tv/ss/such-tv-pk.png" group-title="PAK | NEWS 4K",PK | SUCH NEWS 4K
 http://filex.me:8080//live/shafiq02/1234/246988.ts
-#EXTINF:-1 tvg-id="" tvg-name="PK | TV2day 4K HD" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-today-pk.png" group-title="PAK | NEWS 4K",PK | TV2day 4K HD
+#EXTINF:-1 tvg-id="" tvg-name="PK | TV2day 4K" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-today-pk.png" group-title="PAK | NEWS 4K",PK | TV2day 4K
 http://filex.me:8080//live/shafiq02/1234/246989.ts
-#EXTINF:-1 tvg-id="" tvg-name="PK | ROZE NEWS 4K HD" tvg-logo="https://www.lyngsat.com/logo/tv/rr/roze_news_pk.png" group-title="PAK | NEWS 4K",PK | ROZE NEWS 4K HD
+#EXTINF:-1 tvg-id="" tvg-name="PK | ROZE NEWS 4K" tvg-logo="https://www.lyngsat.com/logo/tv/rr/roze_news_pk.png" group-title="PAK | NEWS 4K",PK | ROZE NEWS 4K
 http://filex.me:8080//live/shafiq02/1234/247003.ts
-#EXTINF:-1 tvg-id="" tvg-name="PK | SUNO NEWS 4K HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/suno-news-hd-pk.png" group-title="PAK | NEWS 4K",PK | SUNO NEWS 4K HD
+#EXTINF:-1 tvg-id="" tvg-name="PK | SUNO NEWS 4K" tvg-logo="https://www.lyngsat.com/logo/tv/ss/suno-news-hd-pk.png" group-title="PAK | NEWS 4K",PK | SUNO NEWS 4K
 http://filex.me:8080//live/shafiq02/1234/246997.ts
-#EXTINF:-1 tvg-id="" tvg-name="PK | ROHI TV 4K HD" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rohi-tv-pk.png" group-title="PAK | NEWS 4K",PK | ROHI TV 4K HD
+#EXTINF:-1 tvg-id="" tvg-name="PK | ROHI TV 4K" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rohi-tv-pk.png" group-title="PAK | NEWS 4K",PK | ROHI TV 4K
 http://filex.me:8080//live/shafiq02/1234/246992.ts
-#EXTINF:-1 tvg-id="" tvg-name="PK | NEO NEWS 4K HD" tvg-logo="https://www.lyngsat.com/logo/tv/nn/neo-tv-pk.png" group-title="PAK | NEWS 4K",PK | NEO NEWS 4K HD
+#EXTINF:-1 tvg-id="" tvg-name="PK | NEO NEWS 4K" tvg-logo="https://www.lyngsat.com/logo/tv/nn/neo-tv-pk.png" group-title="PAK | NEWS 4K",PK | NEO NEWS 4K
 http://filex.me:8080//live/shafiq02/1234/246983.ts
 #EXTINF:-1 tvg-id="" tvg-name="PK | Khyber NEWS 4K" tvg-logo="https://www.lyngsat.com/logo/tv/kk/khyber-news-pk.png" group-title="PAK | NEWS 4K",PK | Khyber NEWS 4K
 http://filex.me:8080//live/shafiq02/1234/246981.ts
-#EXTINF:-1 tvg-id="" tvg-name="PK | GEO TEZ 4K HD" tvg-logo="https://www.lyngsat.com/logo/tv/gg/geo_tez_pk.png" group-title="PAK | NEWS 4K",PK | GEO TEZ 4K HD
+#EXTINF:-1 tvg-id="" tvg-name="PK | GEO TEZ 4K" tvg-logo="https://www.lyngsat.com/logo/tv/gg/geo_tez_pk.png" group-title="PAK | NEWS 4K",PK | GEO TEZ 4K
 http://filex.me:8080//live/shafiq02/1234/246978.ts
-#EXTINF:-1 tvg-id="" tvg-name="PK | Channel 5 4K HD" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel-five-pk.png" group-title="PAK | NEWS 4K",PK | Channel 5 4K HD
+#EXTINF:-1 tvg-id="" tvg-name="PK | Channel 5 4K" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel-five-pk.png" group-title="PAK | NEWS 4K",PK | Channel 5 4K
 http://filex.me:8080//live/shafiq02/1234/350107.ts
-#EXTINF:-1 tvg-id="" tvg-name="PK | Venus NEWS 4K HD" tvg-logo="https://www.lyngsat.com/logo/tv/vv/venus-hd-pk.png" group-title="PAK | NEWS 4K",PK | Venus NEWS 4K HD
+#EXTINF:-1 tvg-id="" tvg-name="PK | Venus NEWS 4K" tvg-logo="https://www.lyngsat.com/logo/tv/vv/venus-hd-pk.png" group-title="PAK | NEWS 4K",PK | Venus NEWS 4K
 http://filex.me:8080//live/shafiq02/1234/247009.ts
-#EXTINF:-1 tvg-id="" tvg-name="PK | Sindh NEWS 4K HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sindh_tv_news.png" group-title="PAK | NEWS 4K",PK | Sindh NEWS 4K HD
+#EXTINF:-1 tvg-id="" tvg-name="PK | Sindh NEWS 4K" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sindh_tv_news.png" group-title="PAK | NEWS 4K",PK | Sindh NEWS 4K
 http://filex.me:8080//live/shafiq02/1234/247004.ts
-#EXTINF:-1 tvg-id="" tvg-name="PK | 365 NEWS" tvg-logo="https://www.lyngsat.com/logo/tv/num/365-news-pk.png" group-title="PAK | NEWS 4K",PK | 365 NEWS
+#EXTINF:-1 tvg-id="" tvg-name="PK | 365 NEWS 4K" tvg-logo="https://www.lyngsat.com/logo/tv/num/365-news-pk.png" group-title="PAK | NEWS 4K",PK | 365 NEWS 4K
 http://filex.me:8080//live/shafiq02/1234/246994.ts
 #EXTINF:-1 tvg-id="" tvg-name="PK | CHAUPAAL 4k" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ33prRG8vnspobB_txEjxQ5NDCw_2ypmDnSothqkiL-QDagKAMtZ6fsTI&s=10" group-title="PAK | NEWS 4K",PK | CHAUPAAL 4k
 http://filex.me:8080//live/shafiq02/1234/954857.ts
-#EXTINF:-1 tvg-id="" tvg-name="PK | NEWS ONE 4K HD" tvg-logo="https://www.lyngsat.com/logo/tv/nn/news-one-pk.png" group-title="PAK | NEWS 4K",PK | NEWS ONE 4K HD
+#EXTINF:-1 tvg-id="" tvg-name="PK | NEWS ONE 4K" tvg-logo="https://www.lyngsat.com/logo/tv/nn/news-one-pk.png" group-title="PAK | NEWS 4K",PK | NEWS ONE 4K
 http://filex.me:8080//live/shafiq02/1234/246987.ts
-#EXTINF:-1 tvg-id="PTV.World.pk" tvg-name="PK | PTV GLOBAL 4K HD" tvg-logo="https://www.lyngsat.com/logo/tv/pp/ptv_world_pk.png" group-title="PAK | NEWS 4K",PK | PTV GLOBAL 4K HD
+#EXTINF:-1 tvg-id="PTV.World.pk" tvg-name="PK | PTV GLOBAL 4K" tvg-logo="https://www.lyngsat.com/logo/tv/pp/ptv_world_pk.png" group-title="PAK | NEWS 4K",PK | PTV GLOBAL 4K
 http://filex.me:8080//live/shafiq02/1234/246985.ts
-#EXTINF:-1 tvg-id="PTV.News.pk" tvg-name="PK | PTV NEWS 4K HD" tvg-logo="https://www.lyngsat.com/logo/tv/pp/ptv_news_pk.png" group-title="PAK | NEWS 4K",PK | PTV NEWS 4K HD
+#EXTINF:-1 tvg-id="PTV.News.pk" tvg-name="PK | PTV NEWS 4K" tvg-logo="https://www.lyngsat.com/logo/tv/pp/ptv_news_pk.png" group-title="PAK | NEWS 4K",PK | PTV NEWS 4K
 http://filex.me:8080//live/shafiq02/1234/246984.ts
-#EXTINF:-1 tvg-id="" tvg-name="PK | Metro 1 NEWS 4K HD" tvg-logo="https://www.lyngsat.com/logo/tv/mm/metro1_news_pk.png" group-title="PAK | NEWS 4K",PK | Metro 1 NEWS 4K HD
+#EXTINF:-1 tvg-id="" tvg-name="PK | Metro 1 NEWS 4K" tvg-logo="https://www.lyngsat.com/logo/tv/mm/metro1_news_pk.png" group-title="PAK | NEWS 4K",PK | Metro 1 NEWS 4K
 http://filex.me:8080//live/shafiq02/1234/246982.ts
 #EXTINF:-1 tvg-id="441259" tvg-name="IN | ZEE TV HD." tvg-logo="https://www.lyngsat.com/logo/tv/zz/zee-tv-in.png" group-title="IND | INTERTAINMENT 4K",IN | ZEE TV HD.
 http://filex.me:8080//live/shafiq02/1234/911280.ts
@@ -3773,10 +3773,14 @@ http://filex.me:8080//live/shafiq02/1234/911274.ts
 http://filex.me:8080//live/shafiq02/1234/911252.ts
 #EXTINF:-1 tvg-id="" tvg-name="IND_SONY WAH" tvg-logo="" group-title="IND | INTERTAINMENT 4K",IND_SONY WAH
 http://filex.me:8080//live/shafiq02/1234/911271.ts
-#EXTINF:-1 tvg-id="463965" tvg-name="ZEE CAFE FHD" tvg-logo="" group-title="IND | INTERTAINMENT 4K",ZEE CAFE FHD
+#EXTINF:-1 tvg-id="" tvg-name="IND | ZEE ZEST 4K" tvg-logo="https://www.lyngsat.com/logo/tv/zz/zee-zest-in.png" group-title="IND | INTERTAINMENT 4K",IND | ZEE ZEST 4K
+http://filex.me:8080//live/shafiq02/1234/1345166.ts
+#EXTINF:-1 tvg-id="404001" tvg-name="IN | ZEE CAFE FHD" tvg-logo="" group-title="IND | INTERTAINMENT 4K",IN | ZEE CAFE FHD
 http://filex.me:8080//live/shafiq02/1234/911322.ts
 #EXTINF:-1 tvg-id="464096" tvg-name="IN | ZEE Bollywood 4K" tvg-logo="" group-title="IND | INTERTAINMENT 4K",IN | ZEE Bollywood 4K
 http://filex.me:8080//live/shafiq02/1234/275059.ts
+#EXTINF:-1 tvg-id="" tvg-name="IND_ZEE CLASSIC" tvg-logo="" group-title="IND | INTERTAINMENT 4K",IND_ZEE CLASSIC
+http://filex.me:8080//live/shafiq02/1234/911311.ts
 #EXTINF:-1 tvg-id="463828" tvg-name="IN | ZEE Classic 4K" tvg-logo="" group-title="IND | INTERTAINMENT 4K",IN | ZEE Classic 4K
 http://filex.me:8080//live/shafiq02/1234/275061.ts
 #EXTINF:-1 tvg-id="" tvg-name="IND_ZEE ACTION" tvg-logo="" group-title="IND | INTERTAINMENT 4K",IND_ZEE ACTION
@@ -3823,8 +3827,6 @@ http://filex.me:8080//live/shafiq02/1234/911270.ts
 http://filex.me:8080//live/shafiq02/1234/911233.ts
 #EXTINF:-1 tvg-id="464181" tvg-name="IN |STAR UTSAV MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_utsav.png" group-title="IND | INTERTAINMENT 4K",IN |STAR UTSAV MOVIES
 http://filex.me:8080//live/shafiq02/1234/911263.ts
-#EXTINF:-1 tvg-id="" tvg-name="IND_ZEE CLASSIC" tvg-logo="" group-title="IND | INTERTAINMENT 4K",IND_ZEE CLASSIC
-http://filex.me:8080//live/shafiq02/1234/911311.ts
 #EXTINF:-1 tvg-id="" tvg-name="IN | & FLIX HD." tvg-logo="https://www.lyngsat.com/logo/tv/aa/and-flix-in.png" group-title="IND | MOVIES",IN | & FLIX HD.
 http://filex.me:8080//live/shafiq02/1234/911287.ts
 #EXTINF:-1 tvg-id="" tvg-name="IN | & FLIX TV 4K" tvg-logo="https://www.lyngsat.com/logo/tv/aa/and-flix-in.png" group-title="IND | MOVIES",IN | & FLIX TV 4K
@@ -3841,11 +3843,11 @@ http://filex.me:8080//live/shafiq02/1234/911323.ts
 http://filex.me:8080//live/shafiq02/1234/275045.ts
 #EXTINF:-1 tvg-id="464071" tvg-name="IN | SONY MAX HD." tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-max-in.png" group-title="IND | MOVIES",IN | SONY MAX HD.
 http://filex.me:8080//live/shafiq02/1234/911316.ts
-#EXTINF:-1 tvg-id="463999" tvg-name="IN | MNX 4K HD" tvg-logo="" group-title="IND | MOVIES",IN | MNX 4K HD
+#EXTINF:-1 tvg-id="404001" tvg-name="IN | MNX 4K" tvg-logo="" group-title="IND | MOVIES",IN | MNX 4K
 http://filex.me:8080//live/shafiq02/1234/530420.ts
 #EXTINF:-1 tvg-id="463999" tvg-name="IN | MnxHD 4K" tvg-logo="" group-title="IND | MOVIES",IN | MnxHD 4K
 http://filex.me:8080//live/shafiq02/1234/530421.ts
-#EXTINF:-1 tvg-id="464293" tvg-name="IN | MN PLUS 4K HD" tvg-logo="" group-title="IND | MOVIES",IN | MN PLUS 4K HD
+#EXTINF:-1 tvg-id="404001" tvg-name="IN | MN PLUS 4K" tvg-logo="" group-title="IND | MOVIES",IN | MN PLUS 4K
 http://filex.me:8080//live/shafiq02/1234/275057.ts
 #EXTINF:-1 tvg-id="464029" tvg-name="IN | SONY MAX 2 4K" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-max-2-in.png" group-title="IND | MOVIES",IN | SONY MAX 2 4K
 http://filex.me:8080//live/shafiq02/1234/275046.ts
@@ -3857,11 +3859,11 @@ http://filex.me:8080//live/shafiq02/1234/275050.ts
 http://filex.me:8080//live/shafiq02/1234/275049.ts
 #EXTINF:-1 tvg-id="463898" tvg-name="IN | STAR GOLD Select 4K" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_gold_in_select_hd.png" group-title="IND | MOVIES",IN | STAR GOLD Select 4K
 http://filex.me:8080//live/shafiq02/1234/275051.ts
-#EXTINF:-1 tvg-id="464294" tvg-name="IN | STAR GOLD Thrills 4K HD" tvg-logo="" group-title="IND | MOVIES",IN | STAR GOLD Thrills 4K HD
+#EXTINF:-1 tvg-id="404001" tvg-name="IN | STAR GOLD Thrills 4K" tvg-logo="" group-title="IND | MOVIES",IN | STAR GOLD Thrills 4K
 http://filex.me:8080//live/shafiq02/1234/275052.ts
-#EXTINF:-1 tvg-id="463984" tvg-name="IN | STAR Movies 4K HD" tvg-logo="" group-title="IND | MOVIES",IN | STAR Movies 4K HD
+#EXTINF:-1 tvg-id="404001" tvg-name="IN | STAR Movies 4K" tvg-logo="" group-title="IND | MOVIES",IN | STAR Movies 4K
 http://filex.me:8080//live/shafiq02/1234/275053.ts
-#EXTINF:-1 tvg-id="464114" tvg-name="IN | STAR Movies Select 4K HD" tvg-logo="" group-title="IND | MOVIES",IN | STAR Movies Select 4K HD
+#EXTINF:-1 tvg-id="404001" tvg-name="IN | STAR Movies Select 4K" tvg-logo="" group-title="IND | MOVIES",IN | STAR Movies Select 4K
 http://filex.me:8080//live/shafiq02/1234/275054.ts
 #EXTINF:-1 tvg-id="463907" tvg-name="IN | ZEE Cinema 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzcZtadM4RSjBp7JZF49VWdOzCL8rWejgLKZ1spZvGk2-xKhc7TziwEjVK&s=10" group-title="IND | MOVIES",IN | ZEE Cinema 4K
 http://filex.me:8080//live/shafiq02/1234/275058.ts
@@ -25189,6 +25191,14 @@ http://filex.me:8080//live/shafiq02/1234/908780.ts
 http://filex.me:8080//live/shafiq02/1234/908774.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR: WANASAH HD" tvg-logo="" group-title="✯MUSIC✯اغاني",AR: WANASAH HD
 http://filex.me:8080//live/shafiq02/1234/908783.ts
+#EXTINF:-1 tvg-id="" tvg-name="Monday Night RAW (04.05.2026)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUleyWCUsfTQi2JmgfzGCQYCGiPOQVVB-L9jS6NYljqjo9ShYyXMkis2k&s=10" group-title="✯WWE✯",Monday Night RAW (04.05.2026)
+http://filex.me:8080/movie/shafiq02/1234/1345151.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Friday Night SmackDown (1.5.2026)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3DPXdEdjKw-f3P6Ai8kq5GGAXtD_KM-J4quAXy6KFX30GBX7LS86bZ9k&s=10" group-title="✯WWE✯",Friday Night SmackDown (1.5.2026)
+http://filex.me:8080/movie/shafiq02/1234/1345148.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ek Din (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jpKXZyWh6WN55UJ3rqkwbzWeD5Q.jpg" group-title="BOLLYWOOD | 2026",Ek Din (2026)
+http://filex.me:8080/movie/shafiq02/1234/1345141.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tapak (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rKDlbvmbZOZRkrjAC12bwGjniSs.jpg" group-title="BOLLYWOOD | 2025",Tapak (2025)
+http://filex.me:8080/movie/shafiq02/1234/1345123.mp4
 #EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night 275: Della Maddalena vs. Prates (2026) (Prelims)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5WkSmkStpbOLpWukt1reuJJqZDj.jpg" group-title="✯UFC FIGHT✯",UFC Fight Night 275: Della Maddalena vs. Prates (2026) (Prelims)
 http://filex.me:8080/movie/shafiq02/1234/1344877.mp4
 #EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night 275: Della Maddalena vs. Prates (2026) (Main Card)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5WkSmkStpbOLpWukt1reuJJqZDj.jpg" group-title="✯UFC FIGHT✯",UFC Fight Night 275: Della Maddalena vs. Prates (2026) (Main Card)
@@ -28259,6 +28269,8 @@ http://filex.me:8080/movie/shafiq02/1234/851461.mp4
 http://filex.me:8080/movie/shafiq02/1234/685811.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Whisper (2026) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sanKujWA3g7StpK9y7NU78FAJ6O.jpg" group-title="HINDI DUB | 2026",The Whisper (2026) (Hindi)
 http://filex.me:8080/movie/shafiq02/1234/1345104.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Buen Camino (2025) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4buulRVfRJcqgkR3AF6ln23TqR6.jpg" group-title="HINDI DUB | 2025",Buen Camino (2025) (Hindi)
+http://filex.me:8080/movie/shafiq02/1234/1344722.mp4
 #EXTINF:-1 tvg-id="" tvg-name="My Dearest Señorita (2026) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cTcJs2bEsJDhQEpeYSOZD3yayZI.jpg" group-title="HINDI DUB | 2026",My Dearest Señorita (2026) (Hindi)
 http://filex.me:8080/movie/shafiq02/1234/1344721.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Swapped (2026) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg" group-title="HINDI DUB | 2026",Swapped (2026) (Hindi)
@@ -45035,6 +45047,10 @@ http://filex.me:8080//live/shafiq02/1234/522602.ts
 http://filex.me:8080//live/shafiq02/1234/522603.ts
 #EXTINF:-1 tvg-id="464083" tvg-name="COlors Super HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/300/-/2025-04-08/250408785000.jpg" group-title="IND | KANNADA",COlors Super HD
 http://filex.me:8080//live/shafiq02/1234/522604.ts
+#EXTINF:-1 tvg-id="" tvg-name="Love Insurance Kompany (2026) Hindi + Tamil " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dTaHHJ9enIvoKeUPKA2GkhFk3OC.jpg" group-title="SOUTH INDIA | 2026",Love Insurance Kompany (2026) Hindi + Tamil 
+http://filex.me:8080/movie/shafiq02/1234/1345145.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TN 2026 (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mAX1ujOROXtKsOuIg5MbJbotOyD.jpg" group-title="TAMIL | 2025 - 2026",TN 2026 (2026)
+http://filex.me:8080/movie/shafiq02/1234/1345126.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Patriot (2026) (Malayalam) (CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5LHrtudEt6Mh6VlfGHoYqqjVOHV.jpg" group-title=" MALAYALAM | 2025 - 2026",Patriot (2026) (Malayalam) (CAM)
 http://filex.me:8080/movie/shafiq02/1234/1345103.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Shift (2023) (Tamil)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/voLxg0emuu862JAgFwM4yTH3eGj.jpg" group-title="TAMIL | 2023 - 2024",The Shift (2023) (Tamil)
@@ -49982,19 +49998,3 @@ http://filex.me:8080/movie/shafiq02/1234/1174235.mp4
 #EXTINF:-1 tvg-id="" tvg-name="AR_ Raging Grace (2024)" tvg-logo="" group-title="AR | 2020-2025",AR_ Raging Grace (2024)
 http://filex.me:8080/movie/shafiq02/1234/1174233.mp4
 #EXTINF:-1 tvg-id="" tvg-name="AR_ A Jazzman's Blues (2022)" tvg-logo="" group-title="AR | 2020-2025",AR_ A Jazzman's Blues (2022)
-http://filex.me:8080/movie/shafiq02/1234/1174230.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Madame Web (2024)" tvg-logo="" group-title="AR | 2020-2025",AR_ Madame Web (2024)
-http://filex.me:8080/movie/shafiq02/1234/1174228.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ A Quiet Place_ Day One [HEVC] (2024)" tvg-logo="" group-title="AR | 2020-2025",AR_ A Quiet Place_ Day One [HEVC] (2024)
-http://filex.me:8080/movie/shafiq02/1234/1174226.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Robbing Mussolini (2022)" tvg-logo="" group-title="AR | 2020-2025",AR_ Robbing Mussolini (2022)
-http://filex.me:8080/movie/shafiq02/1234/1174224.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Diablo (2025)" tvg-logo="" group-title="AR | 2020-2025",AR_ Diablo (2025)
-http://filex.me:8080/movie/shafiq02/1234/1174222.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ From Embers (2024)" tvg-logo="" group-title="AR | 2020-2025",AR_ From Embers (2024)
-http://filex.me:8080/movie/shafiq02/1234/1174219.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Riff Raff (2025)" tvg-logo="" group-title="AR | 2020-2025",AR_ Riff Raff (2025)
-http://filex.me:8080/movie/shafiq02/1234/1174217.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ The Great Lillian Hall (2024)" tvg-logo="" group-title="AR | 2020-2025",AR_ The Great Lillian Hall (2024)
-http://filex.me:8080/movie/shafiq02/1234/1174214.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Ash & Dust (2022)" tvg-logo="" group-title="AR | 2020-2025",AR_ Ash & Dust (2022)
