@@ -4795,8 +4795,6 @@ http://filex.me:8080//live/shafiq02/1234/957585.ts
 http://filex.me:8080//live/shafiq02/1234/957584.ts
 #EXTINF:-1 tvg-id="" tvg-name="CRICKET | CRICLIFE 1 FHD" tvg-logo="https://www.ooredoo.qa/web/wp-content/uploads/2023/08/10-CricLife1-Logo_02_Web-site-logo-150x120pxl_.png" group-title="IND | CRICKET HD",CRICKET | CRICLIFE 1 FHD
 http://filex.me:8080//live/shafiq02/1234/1342651.ts
-#EXTINF:-1 tvg-id="" tvg-name="CRICKET | CRICBUZZ 1 FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXjgojAGT94RlJJHFtVw3LBJXMgk0m9dYyLTF4laNtmDKpdj3rCRaWqx_9WtgRtAAVPt4&usqp=CAU" group-title="IND | CRICKET HD",CRICKET | CRICBUZZ 1 FHD
-http://filex.me:8080//live/shafiq02/1234/1342652.ts
 #EXTINF:-1 tvg-id="" tvg-name="CRICKET | CRICBUZZ 2 FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXjgojAGT94RlJJHFtVw3LBJXMgk0m9dYyLTF4laNtmDKpdj3rCRaWqx_9WtgRtAAVPt4&usqp=CAU" group-title="IND | CRICKET HD",CRICKET | CRICBUZZ 2 FHD
 http://filex.me:8080//live/shafiq02/1234/1342653.ts
 #EXTINF:-1 tvg-id="" tvg-name="CRICKET (1)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStx7da_qa94FyoeuOHp7jhGWruG_Xw4KO8pEXlHLQgNT5Q8Jjtke-0mX8&s=10" group-title="PSL | CHAMPION LEAGUE (2026)",CRICKET (1)
@@ -25191,6 +25189,12 @@ http://filex.me:8080//live/shafiq02/1234/908780.ts
 http://filex.me:8080//live/shafiq02/1234/908774.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR: WANASAH HD" tvg-logo="" group-title="✯MUSIC✯اغاني",AR: WANASAH HD
 http://filex.me:8080//live/shafiq02/1234/908783.ts
+#EXTINF:-1 tvg-id="" tvg-name="Countdown: Rousey vs. Carano (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pVNvbDX9psQhmCvc37A3XKLZjEz.jpg" group-title="NETFLIX | ENGLISH",Countdown: Rousey vs. Carano (2026)
+http://filex.me:8080/movie/shafiq02/1234/1345196.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carrot Cake Murder: A Hannah Swensen Mystery (2023) (Turkish)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yLYAq5d6pk8mXKzigfwcBn543lf.jpg" group-title="NETFLIX | ENGLISH",Carrot Cake Murder: A Hannah Swensen Mystery (2023) (Turkish)
+http://filex.me:8080/movie/shafiq02/1234/1345193.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ek Din (2026) (Hindi) (CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jpKXZyWh6WN55UJ3rqkwbzWeD5Q.jpg" group-title="BOLLYWOOD | 2026",Ek Din (2026) (Hindi) (CAM)
+http://filex.me:8080/movie/shafiq02/1234/1345189.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Monday Night RAW (04.05.2026)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUleyWCUsfTQi2JmgfzGCQYCGiPOQVVB-L9jS6NYljqjo9ShYyXMkis2k&s=10" group-title="✯WWE✯",Monday Night RAW (04.05.2026)
 http://filex.me:8080/movie/shafiq02/1234/1345151.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Friday Night SmackDown (1.5.2026)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3DPXdEdjKw-f3P6Ai8kq5GGAXtD_KM-J4quAXy6KFX30GBX7LS86bZ9k&s=10" group-title="✯WWE✯",Friday Night SmackDown (1.5.2026)
@@ -45047,6 +45051,24 @@ http://filex.me:8080//live/shafiq02/1234/522602.ts
 http://filex.me:8080//live/shafiq02/1234/522603.ts
 #EXTINF:-1 tvg-id="464083" tvg-name="COlors Super HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/300/-/2025-04-08/250408785000.jpg" group-title="IND | KANNADA",COlors Super HD
 http://filex.me:8080//live/shafiq02/1234/522604.ts
+#EXTINF:-1 tvg-id="" tvg-name="Karikaada (2026) (Kannada)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tL0skwRWivuNZHQD89baWynksct.jpg" group-title="KANNADA | 2025 - 2026",Karikaada (2026) (Kannada)
+http://filex.me:8080/movie/shafiq02/1234/1345188.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Karikaada (2026) (Malayalam)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tL0skwRWivuNZHQD89baWynksct.jpg" group-title=" MALAYALAM | 2025 - 2026",Karikaada (2026) (Malayalam)
+http://filex.me:8080/movie/shafiq02/1234/1345187.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ek Din (2026) (Tamil) (CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jpKXZyWh6WN55UJ3rqkwbzWeD5Q.jpg" group-title="TAMIL | 2025 - 2026",Ek Din (2026) (Tamil) (CAM)
+http://filex.me:8080/movie/shafiq02/1234/1345184.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gun (2010) (Tamil)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n0YuM4f5lvGAP6MAW2kBIzugXnc.jpg" group-title="✯TAMIL✯ MIX",Gun (2010) (Tamil)
+http://filex.me:8080/movie/shafiq02/1234/1345183.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Karikaada (2026) (Tamil)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tL0skwRWivuNZHQD89baWynksct.jpg" group-title="TAMIL | 2025 - 2026",Karikaada (2026) (Tamil)
+http://filex.me:8080/movie/shafiq02/1234/1345182.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Love Insurance Kompany (2026) (Kannada)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dTaHHJ9enIvoKeUPKA2GkhFk3OC.jpg" group-title="KANNADA | 2025 - 2026",Love Insurance Kompany (2026) (Kannada)
+http://filex.me:8080/movie/shafiq02/1234/1345180.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Love Insurance Kompany (2026) (Malayalam)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dTaHHJ9enIvoKeUPKA2GkhFk3OC.jpg" group-title=" MALAYALAM | 2025 - 2026",Love Insurance Kompany (2026) (Malayalam)
+http://filex.me:8080/movie/shafiq02/1234/1345179.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Love Insurance Kompany (2026) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dTaHHJ9enIvoKeUPKA2GkhFk3OC.jpg" group-title="SOUTH INDIA | 2026",Love Insurance Kompany (2026) (Hindi)
+http://filex.me:8080/movie/shafiq02/1234/1345177.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Virus (1999) (Tamil)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Np88iigCfnXvMlMKmCcbPVIbYQ.jpg" group-title="✯TAMIL✯ MIX",Virus (1999) (Tamil)
+http://filex.me:8080/movie/shafiq02/1234/1345176.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Love Insurance Kompany (2026) Hindi + Tamil " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dTaHHJ9enIvoKeUPKA2GkhFk3OC.jpg" group-title="SOUTH INDIA | 2026",Love Insurance Kompany (2026) Hindi + Tamil 
 http://filex.me:8080/movie/shafiq02/1234/1345145.mp4
 #EXTINF:-1 tvg-id="" tvg-name="TN 2026 (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mAX1ujOROXtKsOuIg5MbJbotOyD.jpg" group-title="TAMIL | 2025 - 2026",TN 2026 (2026)
@@ -49976,25 +49998,3 @@ http://filex.me:8080/movie/shafiq02/1234/1174262.mp4
 #EXTINF:-1 tvg-id="" tvg-name="AR_ The Good Neighbor (2016)" tvg-logo="" group-title="AR | 2020-2025",AR_ The Good Neighbor (2016)
 http://filex.me:8080/movie/shafiq02/1234/1174259.mp4
 #EXTINF:-1 tvg-id="" tvg-name="AR_ Murder Mystery 2 (2023)" tvg-logo="" group-title="AR | 2020-2025",AR_ Murder Mystery 2 (2023)
-http://filex.me:8080/movie/shafiq02/1234/1174257.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ A Banquet (2022)" tvg-logo="" group-title="AR | 2020-2025",AR_ A Banquet (2022)
-http://filex.me:8080/movie/shafiq02/1234/1174254.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Venus (2022)" tvg-logo="" group-title="AR | 2020-2025",AR_ Venus (2022)
-http://filex.me:8080/movie/shafiq02/1234/1174251.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Hunting With Tigers (2024)" tvg-logo="" group-title="AR | 2020-2025",AR_ Hunting With Tigers (2024)
-http://filex.me:8080/movie/shafiq02/1234/1174250.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Mufasa_ The Lion King [FHD] (2024)" tvg-logo="" group-title="AR | 2020-2025",AR_ Mufasa_ The Lion King [FHD] (2024)
-http://filex.me:8080/movie/shafiq02/1234/1174247.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Marooned Awakening (2023)" tvg-logo="" group-title="AR | 2020-2025",AR_ Marooned Awakening (2023)
-http://filex.me:8080/movie/shafiq02/1234/1174246.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Somewhere in Queens (2023)" tvg-logo="" group-title="AR | 2020-2025",AR_ Somewhere in Queens (2023)
-http://filex.me:8080/movie/shafiq02/1234/1174243.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Fares (2022)" tvg-logo="" group-title="AR | 2020-2025",AR_ Fares (2022)
-http://filex.me:8080/movie/shafiq02/1234/1174241.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Paulie Go! (2022)" tvg-logo="" group-title="AR | 2020-2025",AR_ Paulie Go! (2022)
-http://filex.me:8080/movie/shafiq02/1234/1174238.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Hunting Grounds (2025)" tvg-logo="" group-title="AR | 2020-2025",AR_ Hunting Grounds (2025)
-http://filex.me:8080/movie/shafiq02/1234/1174235.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Raging Grace (2024)" tvg-logo="" group-title="AR | 2020-2025",AR_ Raging Grace (2024)
-http://filex.me:8080/movie/shafiq02/1234/1174233.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ A Jazzman's Blues (2022)" tvg-logo="" group-title="AR | 2020-2025",AR_ A Jazzman's Blues (2022)
