@@ -45051,6 +45051,12 @@ http://filex.me:8080//live/shafiq02/1234/522602.ts
 http://filex.me:8080//live/shafiq02/1234/522603.ts
 #EXTINF:-1 tvg-id="464083" tvg-name="COlors Super HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/300/-/2025-04-08/250408785000.jpg" group-title="IND | KANNADA",COlors Super HD
 http://filex.me:8080//live/shafiq02/1234/522604.ts
+#EXTINF:-1 tvg-id="" tvg-name="Love Insurance Kompany (2026)(Tamil)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dTaHHJ9enIvoKeUPKA2GkhFk3OC.jpg" group-title="TAMIL | 2025 - 2026",Love Insurance Kompany (2026)(Tamil)
+http://filex.me:8080/movie/shafiq02/1234/1345669.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Vaazha II (2026)[Tam,Tel,Hin,Mal,Kan]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1yLZ7kExd0UGGbaZW4LxmYD4OIf.jpg" group-title="SOUTH INDIA | MULTI AUDIO",Vaazha II (2026)[Tam,Tel,Hin,Mal,Kan]
+http://filex.me:8080/movie/shafiq02/1234/1345668.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Home (2021)[Hindi,Malayalam]" tvg-logo="https://static.toiimg.com/photo/msid-85437505/85437505.jpg?710636" group-title="SOUTH INDIA | MULTI AUDIO",Home (2021)[Hindi,Malayalam]
+http://filex.me:8080/movie/shafiq02/1234/1345667.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Karikaada (2026) (Kannada)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tL0skwRWivuNZHQD89baWynksct.jpg" group-title="KANNADA | 2025 - 2026",Karikaada (2026) (Kannada)
 http://filex.me:8080/movie/shafiq02/1234/1345188.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Karikaada (2026) (Malayalam)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tL0skwRWivuNZHQD89baWynksct.jpg" group-title=" MALAYALAM | 2025 - 2026",Karikaada (2026) (Malayalam)
@@ -49992,9 +49998,3 @@ http://filex.me:8080/movie/shafiq02/1234/1174270.mkv
 #EXTINF:-1 tvg-id="" tvg-name="AR_ Bill Russell_ Legend 2 (2023)" tvg-logo="" group-title="AR | 2020-2025",AR_ Bill Russell_ Legend 2 (2023)
 http://filex.me:8080/movie/shafiq02/1234/1174267.mp4
 #EXTINF:-1 tvg-id="" tvg-name="AR_ Firecracker (2024)" tvg-logo="" group-title="AR | 2020-2025",AR_ Firecracker (2024)
-http://filex.me:8080/movie/shafiq02/1234/1174265.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ The Perfect Family (2011)" tvg-logo="" group-title="AR | 2020-2025",AR_ The Perfect Family (2011)
-http://filex.me:8080/movie/shafiq02/1234/1174262.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ The Good Neighbor (2016)" tvg-logo="" group-title="AR | 2020-2025",AR_ The Good Neighbor (2016)
-http://filex.me:8080/movie/shafiq02/1234/1174259.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Murder Mystery 2 (2023)" tvg-logo="" group-title="AR | 2020-2025",AR_ Murder Mystery 2 (2023)
