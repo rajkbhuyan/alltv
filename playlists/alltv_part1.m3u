@@ -25189,6 +25189,8 @@ http://filex.me:8080//live/shafiq02/1234/908780.ts
 http://filex.me:8080//live/shafiq02/1234/908774.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR: WANASAH HD" tvg-logo="" group-title="✯MUSIC✯اغاني",AR: WANASAH HD
 http://filex.me:8080//live/shafiq02/1234/908783.ts
+#EXTINF:-1 tvg-id="" tvg-name="Daadi Ki Shaadi (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hKbQjE5ZcZUpuzApEjyoVCUWwdx.jpg" group-title="BOLLYWOOD | 2026",Daadi Ki Shaadi (2026)
+http://filex.me:8080/movie/shafiq02/1234/1346657.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Countdown: Rousey vs. Carano (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pVNvbDX9psQhmCvc37A3XKLZjEz.jpg" group-title="NETFLIX | ENGLISH",Countdown: Rousey vs. Carano (2026)
 http://filex.me:8080/movie/shafiq02/1234/1345196.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Carrot Cake Murder: A Hannah Swensen Mystery (2023) (Turkish)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yLYAq5d6pk8mXKzigfwcBn543lf.jpg" group-title="NETFLIX | ENGLISH",Carrot Cake Murder: A Hannah Swensen Mystery (2023) (Turkish)
@@ -28271,6 +28273,10 @@ http://filex.me:8080/movie/shafiq02/1234/851462.mp4
 http://filex.me:8080/movie/shafiq02/1234/851461.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Mohra (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nWAptaCNiTIJtv9cYqfF5E7qm0I.jpg" group-title="BOLLYWOOD | CLASSIC ",Mohra (1994)
 http://filex.me:8080/movie/shafiq02/1234/685811.mp4
+#EXTINF:-1 tvg-id="" tvg-name="I.T. (2016) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A5VrX0pzM2pnPNXwKO3jKTt35ux.jpg" group-title="HINDI DUB | 2016-2018",I.T. (2016) (Hindi)
+http://filex.me:8080/movie/shafiq02/1234/1346034.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lake George (2024) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7nqwvs1DORz65GtV7MeNBfqBxQW.jpg" group-title="HINDI DUB | 2023-2024",Lake George (2024) (Hindi)
+http://filex.me:8080/movie/shafiq02/1234/1346033.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Coyotes (2025) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fSzs9ZXYcrln0FRrjGIPCjuB6En.jpg" group-title="HINDI DUB | 2025",Coyotes (2025) (Hindi)
 http://filex.me:8080/movie/shafiq02/1234/1345959.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Fantasy Life (2025) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e0qtdCm7TJGRfMv0tmdP8DsOy3U.jpg" group-title="HINDI DUB | 2025",Fantasy Life (2025) (Hindi)
@@ -45061,6 +45067,12 @@ http://filex.me:8080//live/shafiq02/1234/522602.ts
 http://filex.me:8080//live/shafiq02/1234/522603.ts
 #EXTINF:-1 tvg-id="464083" tvg-name="COlors Super HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/300/-/2025-04-08/250408785000.jpg" group-title="IND | KANNADA",COlors Super HD
 http://filex.me:8080//live/shafiq02/1234/522604.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nadine (1987) (Tamil)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mim8TLLXmD3ui03f9jVmOXGACv8.jpg" group-title="✯TAMIL✯ MIX",Nadine (1987) (Tamil)
+http://filex.me:8080/movie/shafiq02/1234/1346032.mp4
+#EXTINF:-1 tvg-id="" tvg-name="I.T. (2016) (Tamil)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A5VrX0pzM2pnPNXwKO3jKTt35ux.jpg" group-title="✯TAMIL✯ MIX",I.T. (2016) (Tamil)
+http://filex.me:8080/movie/shafiq02/1234/1346031.mp4
+#EXTINF:-1 tvg-id="" tvg-name="29 (2026) (Tamil) (CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aQZ4OxzaYTN7cRN7fALi9BhPucp.jpg" group-title="TAMIL | 2025 - 2026",29 (2026) (Tamil) (CAM)
+http://filex.me:8080/movie/shafiq02/1234/1346030.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Bhartha Mahasayulaku Wignyapthi (2026) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3QoTnvsbIAAWVXpfHzQKeEQhUi7.jpg" group-title="SOUTH INDIA | 2026",Bhartha Mahasayulaku Wignyapthi (2026) (Hindi)
 http://filex.me:8080/movie/shafiq02/1234/1345958.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Coyotes (2025) (Tamil)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fSzs9ZXYcrln0FRrjGIPCjuB6En.jpg" group-title="TAMIL | 2025 - 2026",Coyotes (2025) (Tamil)
@@ -49986,15 +49998,3 @@ http://filex.me:8080/movie/shafiq02/1234/1174357.mp4
 #EXTINF:-1 tvg-id="" tvg-name="AR_ The Clean Up Crew (2024)" tvg-logo="" group-title="AR | 2020-2025",AR_ The Clean Up Crew (2024)
 http://filex.me:8080/movie/shafiq02/1234/1174354.mp4
 #EXTINF:-1 tvg-id="" tvg-name="AR_ Last Straw (2024)" tvg-logo="" group-title="AR | 2020-2025",AR_ Last Straw (2024)
-http://filex.me:8080/movie/shafiq02/1234/1174351.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Lilo Stitch [FHD] (2025)" tvg-logo="" group-title="AR | 2020-2025",AR_ Lilo Stitch [FHD] (2025)
-http://filex.me:8080/movie/shafiq02/1234/1174348.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ The Legend Of Oro Arrowhead" tvg-logo="" group-title="AR | 2020-2025",AR_ The Legend Of Oro Arrowhead
-http://filex.me:8080/movie/shafiq02/1234/1174346.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ الكاهن (2021)" tvg-logo="" group-title="AR | 2020-2025",AR_ الكاهن (2021)
-http://filex.me:8080/movie/shafiq02/1234/1174343.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Frank and Penelope (2022)" tvg-logo="" group-title="AR | 2020-2025",AR_ Frank and Penelope (2022)
-http://filex.me:8080/movie/shafiq02/1234/1174341.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ The Reading (2023)" tvg-logo="" group-title="AR | 2020-2025",AR_ The Reading (2023)
-http://filex.me:8080/movie/shafiq02/1234/1174338.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Almost Family (2025)" tvg-logo="" group-title="AR | 2020-2025",AR_ Almost Family (2025)
