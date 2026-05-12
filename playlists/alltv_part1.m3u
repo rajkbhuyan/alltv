@@ -17575,8 +17575,6 @@ http://filex.me:8080//live/shafiq02/1234/819535.ts
 http://filex.me:8080//live/shafiq02/1234/819526.ts
 #EXTINF:-1 tvg-id="" tvg-name="Peace TV Bangla" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-10/78db0a5b305c968f669d3db8ad3b4359.png" group-title="BD | BANGLADESH HD",Peace TV Bangla
 http://filex.me:8080//live/shafiq02/1234/819536.ts
-#EXTINF:-1 tvg-id="" tvg-name="Probashi" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="BD | BANGLADESH HD",Probashi
-http://filex.me:8080//live/shafiq02/1234/819537.ts
 #EXTINF:-1 tvg-id="" tvg-name="Ruposhi Bangla" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-08/997dd621c61fb7a909d845a1ba033860.png" group-title="BD | BANGLADESH HD",Ruposhi Bangla
 http://filex.me:8080//live/shafiq02/1234/819538.ts
 #EXTINF:-1 tvg-id="" tvg-name="Somoy News TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/10e7d79c8a56aae42fc9b79070edee68.png" group-title="BD | BANGLADESH HD",Somoy News TV
@@ -25189,6 +25187,14 @@ http://filex.me:8080//live/shafiq02/1234/908780.ts
 http://filex.me:8080//live/shafiq02/1234/908774.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR: WANASAH HD" tvg-logo="" group-title="✯MUSIC✯اغاني",AR: WANASAH HD
 http://filex.me:8080//live/shafiq02/1234/908783.ts
+#EXTINF:-1 tvg-id="" tvg-name="UFC 328: Chimaev vs Strickland (2026) (Prelims)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jH8UeGO8tJWUnsf6X7sIuN4lo3p.jpg" group-title="✯UFC FIGHT✯",UFC 328: Chimaev vs Strickland (2026) (Prelims)
+http://filex.me:8080/movie/shafiq02/1234/1346733.mp4
+#EXTINF:-1 tvg-id="" tvg-name="UFC 328: Chimaev vs Strickland (2026) (Early Prelims)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jH8UeGO8tJWUnsf6X7sIuN4lo3p.jpg" group-title="✯UFC FIGHT✯",UFC 328: Chimaev vs Strickland (2026) (Early Prelims)
+http://filex.me:8080/movie/shafiq02/1234/1346732.mp4
+#EXTINF:-1 tvg-id="" tvg-name="UFC 328: Chimaev vs Strickland (2026) (Main Card)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jH8UeGO8tJWUnsf6X7sIuN4lo3p.jpg" group-title="✯UFC FIGHT✯",UFC 328: Chimaev vs Strickland (2026) (Main Card)
+http://filex.me:8080/movie/shafiq02/1234/1346730.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Daadi Ki Shaadi (2026) (Hindi) (CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hKbQjE5ZcZUpuzApEjyoVCUWwdx.jpg" group-title="BOLLYWOOD | 2026",Daadi Ki Shaadi (2026) (Hindi) (CAM)
+http://filex.me:8080/movie/shafiq02/1234/1346729.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Daadi Ki Shaadi (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hKbQjE5ZcZUpuzApEjyoVCUWwdx.jpg" group-title="BOLLYWOOD | 2026",Daadi Ki Shaadi (2026)
 http://filex.me:8080/movie/shafiq02/1234/1346657.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Countdown: Rousey vs. Carano (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pVNvbDX9psQhmCvc37A3XKLZjEz.jpg" group-title="NETFLIX | ENGLISH",Countdown: Rousey vs. Carano (2026)
@@ -45067,6 +45073,14 @@ http://filex.me:8080//live/shafiq02/1234/522602.ts
 http://filex.me:8080//live/shafiq02/1234/522603.ts
 #EXTINF:-1 tvg-id="464083" tvg-name="COlors Super HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/300/-/2025-04-08/250408785000.jpg" group-title="IND | KANNADA",COlors Super HD
 http://filex.me:8080//live/shafiq02/1234/522604.ts
+#EXTINF:-1 tvg-id="" tvg-name="Project Hail Mary (2026) (Kannada)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yihdXomYb5kTeSivtFndMy5iDmf.jpg" group-title="KANNADA | 2025 - 2026",Project Hail Mary (2026) (Kannada)
+http://filex.me:8080/movie/shafiq02/1234/1346728.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Project Hail Mary (2026) (Malayalam)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yihdXomYb5kTeSivtFndMy5iDmf.jpg" group-title=" MALAYALAM | 2025 - 2026",Project Hail Mary (2026) (Malayalam)
+http://filex.me:8080/movie/shafiq02/1234/1346727.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arjun S/O Vyjayanthi (2025) (Tamil)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3AvCdsmYx6gZ83Bitd9n9ejDLyO.jpg" group-title="TAMIL | 2025 - 2026",Arjun S/O Vyjayanthi (2025) (Tamil)
+http://filex.me:8080/movie/shafiq02/1234/1346725.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Project Hail Mary (2026) (Tamil)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yihdXomYb5kTeSivtFndMy5iDmf.jpg" group-title="TAMIL | 2025 - 2026",Project Hail Mary (2026) (Tamil)
+http://filex.me:8080/movie/shafiq02/1234/1346724.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Nadine (1987) (Tamil)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mim8TLLXmD3ui03f9jVmOXGACv8.jpg" group-title="✯TAMIL✯ MIX",Nadine (1987) (Tamil)
 http://filex.me:8080/movie/shafiq02/1234/1346032.mp4
 #EXTINF:-1 tvg-id="" tvg-name="I.T. (2016) (Tamil)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A5VrX0pzM2pnPNXwKO3jKTt35ux.jpg" group-title="✯TAMIL✯ MIX",I.T. (2016) (Tamil)
@@ -49984,17 +49998,3 @@ http://filex.me:8080/movie/shafiq02/1234/1174380.mp4
 #EXTINF:-1 tvg-id="" tvg-name="AR_ حظك اليوم (2022)" tvg-logo="" group-title="AR | 2020-2025",AR_ حظك اليوم (2022)
 http://filex.me:8080/movie/shafiq02/1234/1174377.mp4
 #EXTINF:-1 tvg-id="" tvg-name="AR_ Stars at Noon (2022)" tvg-logo="" group-title="AR | 2020-2025",AR_ Stars at Noon (2022)
-http://filex.me:8080/movie/shafiq02/1234/1174376.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Finding Love in Sisters (2024)" tvg-logo="" group-title="AR | 2020-2025",AR_ Finding Love in Sisters (2024)
-http://filex.me:8080/movie/shafiq02/1234/1174373.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Guardians of Time (2023)" tvg-logo="" group-title="AR | 2020-2025",AR_ Guardians of Time (2023)
-http://filex.me:8080/movie/shafiq02/1234/1174371.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Wifelike (2022)" tvg-logo="" group-title="AR | 2020-2025",AR_ Wifelike (2022)
-http://filex.me:8080/movie/shafiq02/1234/1174363.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Exposure 36 (2021)" tvg-logo="" group-title="AR | 2020-2025",AR_ Exposure 36 (2021)
-http://filex.me:8080/movie/shafiq02/1234/1174360.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Silence of the Prey (2024)" tvg-logo="" group-title="AR | 2020-2025",AR_ Silence of the Prey (2024)
-http://filex.me:8080/movie/shafiq02/1234/1174357.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ The Clean Up Crew (2024)" tvg-logo="" group-title="AR | 2020-2025",AR_ The Clean Up Crew (2024)
-http://filex.me:8080/movie/shafiq02/1234/1174354.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Last Straw (2024)" tvg-logo="" group-title="AR | 2020-2025",AR_ Last Straw (2024)
