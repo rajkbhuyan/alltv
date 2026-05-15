@@ -25199,6 +25199,10 @@ http://filex.me:8080//live/shafiq02/1234/908780.ts
 http://filex.me:8080//live/shafiq02/1234/908774.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR: WANASAH HD" tvg-logo="" group-title="✯MUSIC✯اغاني",AR: WANASAH HD
 http://filex.me:8080//live/shafiq02/1234/908783.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dhurandhar: The Revenge (2026) HD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z1dGYCdc8imuQ6LFkd9moc0zaBe.jpg" group-title="BOLLYWOOD | 2026",Dhurandhar: The Revenge (2026) HD
+http://filex.me:8080/movie/shafiq02/1234/1348509.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dhurandhar: The Revenge (2026) •DS4K•" tvg-logo="https://i.postimg.cc/JhBx8PhC/Picsart-26-03-30-03-32-36-813.jpg" group-title="NETFLIX | HINDI",Dhurandhar: The Revenge (2026) •DS4K•
+http://filex.me:8080/movie/shafiq02/1234/1348477.mp4
 #EXTINF:-1 tvg-id="" tvg-name="UFC 328: Chimaev vs Strickland (2026) (Prelims)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jH8UeGO8tJWUnsf6X7sIuN4lo3p.jpg" group-title="✯UFC FIGHT✯",UFC 328: Chimaev vs Strickland (2026) (Prelims)
 http://filex.me:8080/movie/shafiq02/1234/1346733.mp4
 #EXTINF:-1 tvg-id="" tvg-name="UFC 328: Chimaev vs Strickland (2026) (Early Prelims)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jH8UeGO8tJWUnsf6X7sIuN4lo3p.jpg" group-title="✯UFC FIGHT✯",UFC 328: Chimaev vs Strickland (2026) (Early Prelims)
@@ -25379,8 +25383,6 @@ http://filex.me:8080/movie/shafiq02/1234/969734.mp4
 http://filex.me:8080/movie/shafiq02/1234/969695.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Monday Night RAW 16.3.2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwDyYNbwYLH7dRdC8iyQjYR-bm_B2dobv2TpxAPbOponwHORg6yWsyFfU&s=10" group-title="✯WWE✯",Monday Night RAW 16.3.2026
 http://filex.me:8080/movie/shafiq02/1234/969686.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dhurandhar: The Revenge (2026) ( CAM HD )" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ov8vrRLZGoXHpYjSY9Vpv1tHJX7.jpg" group-title="BOLLYWOOD | 2026",Dhurandhar: The Revenge (2026) ( CAM HD )
-http://filex.me:8080/movie/shafiq02/1234/969671.mp4
 #EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night 269: Emmett vs. Vallejos ♥︎2026♥︎" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gPrvMuWV3y4EW8X7ReT4mXgBKNW.jpg" group-title="✯UFC FIGHT✯",UFC Fight Night 269: Emmett vs. Vallejos ♥︎2026♥︎
 http://filex.me:8080/movie/shafiq02/1234/969598.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Kissa Court Kachahari Ka ♥︎2026♥︎" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rKDfO27XTTcuqKj9hfezCNt3bO2.jpg" group-title="BOLLYWOOD | 2026",Kissa Court Kachahari Ka ♥︎2026♥︎
@@ -28291,6 +28293,16 @@ http://filex.me:8080/movie/shafiq02/1234/851462.mp4
 http://filex.me:8080/movie/shafiq02/1234/851461.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Mohra (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nWAptaCNiTIJtv9cYqfF5E7qm0I.jpg" group-title="BOLLYWOOD | CLASSIC ",Mohra (1994)
 http://filex.me:8080/movie/shafiq02/1234/685811.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chris Hemsworth: A Road Trip to Remember (2025) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uRvBvxOmqaCMeZNJGducuh2WsgE.jpg" group-title="HINDI DUB | 2026",Chris Hemsworth: A Road Trip to Remember (2025) (Hindi)
+http://filex.me:8080/movie/shafiq02/1234/1348305.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Marty, Life Is Short (2026) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z4QdUukg4FnbcwM6qeP6ZCoQZhf.jpg" group-title="HINDI DUB | 2026",Marty, Life Is Short (2026) (Hindi)
+http://filex.me:8080/movie/shafiq02/1234/1348304.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Bus: A French Football Mutiny (2026) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vLYxo8SDMLfroqT3fMVnbvddXRF.jpg" group-title="HINDI DUB | 2026",The Bus: A French Football Mutiny (2026) (Hindi)
+http://filex.me:8080/movie/shafiq02/1234/1348303.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Senior (2023) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sv3kE86knrukjpGTtLLfg246JFx.jpg" group-title="HINDI DUB | 2023-2024",The Senior (2023) (Hindi)
+http://filex.me:8080/movie/shafiq02/1234/1348302.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Untold UK: Jamie Vardy (2026) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0pODTh6FOwn87iOeXGb7nKOdNT.jpg" group-title="HINDI DUB | 2026",Untold UK: Jamie Vardy (2026) (Hindi)
+http://filex.me:8080/movie/shafiq02/1234/1348301.mp4
 #EXTINF:-1 tvg-id="" tvg-name="I.T. (2016) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A5VrX0pzM2pnPNXwKO3jKTt35ux.jpg" group-title="HINDI DUB | 2016-2018",I.T. (2016) (Hindi)
 http://filex.me:8080/movie/shafiq02/1234/1346034.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Lake George (2024) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7nqwvs1DORz65GtV7MeNBfqBxQW.jpg" group-title="HINDI DUB | 2023-2024",Lake George (2024) (Hindi)
@@ -45085,8 +45097,28 @@ http://filex.me:8080//live/shafiq02/1234/522602.ts
 http://filex.me:8080//live/shafiq02/1234/522603.ts
 #EXTINF:-1 tvg-id="464083" tvg-name="COlors Super HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/300/-/2025-04-08/250408785000.jpg" group-title="IND | KANNADA",COlors Super HD
 http://filex.me:8080//live/shafiq02/1234/522604.ts
+#EXTINF:-1 tvg-id="" tvg-name="Untold UK: Jamie Vardy (2026) (Tamil)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0pODTh6FOwn87iOeXGb7nKOdNT.jpg" group-title="TAMIL | 2025 - 2026",Untold UK: Jamie Vardy (2026) (Tamil)
+http://filex.me:8080/movie/shafiq02/1234/1348300.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mr. X (2026) (Kannada)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qNkIONc4Rgmzo23ph7qWp9QfVnW.jpg" group-title="KANNADA | 2025 - 2026",Mr. X (2026) (Kannada)
+http://filex.me:8080/movie/shafiq02/1234/1348295.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mr. X (2026) (Malayalam)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qNkIONc4Rgmzo23ph7qWp9QfVnW.jpg" group-title=" MALAYALAM | 2025 - 2026",Mr. X (2026) (Malayalam)
+http://filex.me:8080/movie/shafiq02/1234/1348294.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kanavu Kadhakal (2026) (Malayalam)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi42Ck68Iz2Aq15kRd9mFgtgO09DTUPYU1dA&s" group-title=" MALAYALAM | 2025 - 2026",Kanavu Kadhakal (2026) (Malayalam)
+http://filex.me:8080/movie/shafiq02/1234/1348293.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Second in Command (2006) (Tamil)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3MlHO10nWkQkzO7B5BE9OCKjC7Z.jpg" group-title="✯TAMIL✯ MIX",Second in Command (2006) (Tamil)
+http://filex.me:8080/movie/shafiq02/1234/1348292.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Thimmarajupalli TV (2026) (Tamil)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sUKPQzaYQoLqlM0jiK6URjXgtbZ.jpg" group-title="TAMIL | 2025 - 2026",Thimmarajupalli TV (2026) (Tamil)
+http://filex.me:8080/movie/shafiq02/1234/1348291.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mr. X (2026) (Tamil)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qNkIONc4Rgmzo23ph7qWp9QfVnW.jpg" group-title="TAMIL | 2025 - 2026",Mr. X (2026) (Tamil)
+http://filex.me:8080/movie/shafiq02/1234/1348290.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kaalidas 2 (2026)(Tamil)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fq2eQegiFy6JxyM2S2ctm9RbB2G.jpg" group-title="TAMIL | 2025 - 2026",Kaalidas 2 (2026)(Tamil)
+http://filex.me:8080/movie/shafiq02/1234/1348286.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Oru Durooha Saahacharyathil (2026) (Malayalam)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m5QAeVHpqSedMEvIpbUle6aUn5q.jpg" group-title=" MALAYALAM | 2025 - 2026",Oru Durooha Saahacharyathil (2026) (Malayalam)
+http://filex.me:8080/movie/shafiq02/1234/1348280.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Dridam (2026)(Malayalam)(CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fXSdAujfiRRW6LqekN4FvFQidh3.jpg" group-title=" MALAYALAM | 2025 - 2026",Dridam (2026)(Malayalam)(CAM)
 http://filex.me:8080/movie/shafiq02/1234/1347029.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Krishnavataram Part 1: The Heart (Hridayam) (2026) (Hindi) (CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7AxJYvPWLlNiGH52A9eenDxQzu8.jpg" group-title="SOUTH INDIA | 2026",Krishnavataram Part 1: The Heart (Hridayam) (2026) (Hindi) (CAM)
+http://filex.me:8080/movie/shafiq02/1234/1347024.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Dridam (2026) (Malayalam) (CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fXSdAujfiRRW6LqekN4FvFQidh3.jpg" group-title=" MALAYALAM | 2025 - 2026",Dridam (2026) (Malayalam) (CAM)
 http://filex.me:8080/movie/shafiq02/1234/1347023.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Ten Hours (2025) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5dYmfe3UtKyWZs4GNlLPS4pweEa.jpg" group-title="SOUTH INDIA | 2025",Ten Hours (2025) (Hindi)
@@ -49966,35 +49998,3 @@ http://filex.me:8080/movie/shafiq02/1234/1174457.mkv
 #EXTINF:-1 tvg-id="" tvg-name="AR_ Double Threat (1992)" tvg-logo="" group-title="AR | 2020-2025",AR_ Double Threat (1992)
 http://filex.me:8080/movie/shafiq02/1234/1174454.mp4
 #EXTINF:-1 tvg-id="" tvg-name="AR_ Apollyon - The Black Awakening (2021)" tvg-logo="" group-title="AR | 2020-2025",AR_ Apollyon - The Black Awakening (2021)
-http://filex.me:8080/movie/shafiq02/1234/1174451.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Kingdom of the Planet of the Apes (2024)" tvg-logo="" group-title="AR | 2020-2025",AR_ Kingdom of the Planet of the Apes (2024)
-http://filex.me:8080/movie/shafiq02/1234/1174448.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ فيلم مينون ومناخولي (2022)" tvg-logo="" group-title="AR | 2020-2025",AR_ فيلم مينون ومناخولي (2022)
-http://filex.me:8080/movie/shafiq02/1234/1174446.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Maybe I Do (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8AepEHAUDEbvxzuKV4ll0gKobdL.jpg" group-title="AR | 2020-2025",Maybe I Do (2023)
-http://filex.me:8080/movie/shafiq02/1234/1174443.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ زومبي على جنبي (2022)" tvg-logo="" group-title="AR | 2020-2025",AR_ زومبي على جنبي (2022)
-http://filex.me:8080/movie/shafiq02/1234/1174439.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Lady Chatterley's Lover (2015)" tvg-logo="" group-title="AR | 2020-2025",AR_ Lady Chatterley's Lover (2015)
-http://filex.me:8080/movie/shafiq02/1234/1174436.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Hotel for the Holidays (2022)" tvg-logo="" group-title="AR | 2020-2025",AR_ Hotel for the Holidays (2022)
-http://filex.me:8080/movie/shafiq02/1234/1174433.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Marvelous and the Black Hole (2022)" tvg-logo="" group-title="AR | 2020-2025",AR_ Marvelous and the Black Hole (2022)
-http://filex.me:8080/movie/shafiq02/1234/1174430.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Spiderhead (2022)" tvg-logo="" group-title="AR | 2020-2025",AR_ Spiderhead (2022)
-http://filex.me:8080/movie/shafiq02/1234/1174427.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Inside Out 2 [FHD] (2024)" tvg-logo="" group-title="AR | 2020-2025",AR_ Inside Out 2 [FHD] (2024)
-http://filex.me:8080/movie/shafiq02/1234/1174424.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Karate Kid_ Legends (HDCAM) (2025)" tvg-logo="" group-title="AR | 2020-2025",AR_ Karate Kid_ Legends (HDCAM) (2025)
-http://filex.me:8080/movie/shafiq02/1234/1174423.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Bull Shark (2023)" tvg-logo="" group-title="AR | 2020-2025",AR_ Bull Shark (2023)
-http://filex.me:8080/movie/shafiq02/1234/1174420.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Feed Me (2022)" tvg-logo="" group-title="AR | 2020-2025",AR_ Feed Me (2022)
-http://filex.me:8080/movie/shafiq02/1234/1174417.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Sheltering Season (2022)" tvg-logo="" group-title="AR | 2020-2025",AR_ Sheltering Season (2022)
-http://filex.me:8080/movie/shafiq02/1234/1174414.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Something in the Woods (2022)" tvg-logo="" group-title="AR | 2020-2025",AR_ Something in the Woods (2022)
-http://filex.me:8080/movie/shafiq02/1234/1174411.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ The Oscars (2025)" tvg-logo="" group-title="AR | 2020-2025",AR_ The Oscars (2025)
-http://filex.me:8080/movie/shafiq02/1234/1174409.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Waking Karma (2023)" tvg-logo="" group-title="AR | 2020-2025",AR_ Waking Karma (2023)
