@@ -25199,6 +25199,8 @@ http://filex.me:8080//live/shafiq02/1234/908780.ts
 http://filex.me:8080//live/shafiq02/1234/908774.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR: WANASAH HD" tvg-logo="" group-title="✯MUSIC✯اغاني",AR: WANASAH HD
 http://filex.me:8080//live/shafiq02/1234/908783.ts
+#EXTINF:-1 tvg-id="" tvg-name="Pati Patni Aur Woh Do (2026) (Hindi) (CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cExvVp4TtS7QvtyjPmazT8NE4LL.jpg" group-title="BOLLYWOOD | 2026",Pati Patni Aur Woh Do (2026) (Hindi) (CAM)
+http://filex.me:8080/movie/shafiq02/1234/1351405.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Dhurandhar: The Revenge (2026) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dI7CjJA4cC92UcKMBnCh5BTDHVQ.jpg" group-title="BOLLYWOOD | 2026",Dhurandhar: The Revenge (2026) (Hindi)
 http://filex.me:8080/movie/shafiq02/1234/1349689.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Kartavya (2026)" tvg-logo="https://pbs.twimg.com/media/HIR3I8rbQAEkuxe.jpg" group-title="BOLLYWOOD | 2026",Kartavya (2026)
@@ -28305,6 +28307,8 @@ http://filex.me:8080/movie/shafiq02/1234/851462.mp4
 http://filex.me:8080/movie/shafiq02/1234/851461.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Mohra (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nWAptaCNiTIJtv9cYqfF5E7qm0I.jpg" group-title="BOLLYWOOD | CLASSIC ",Mohra (1994)
 http://filex.me:8080/movie/shafiq02/1234/685811.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Crash (2026) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/veskdPx4YUTmkrFrTs6zRJ8VV4E.jpg" group-title="HINDI DUB | 2026",The Crash (2026) (Hindi)
+http://filex.me:8080/movie/shafiq02/1234/1351406.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Chris Hemsworth: A Road Trip to Remember (2025) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uRvBvxOmqaCMeZNJGducuh2WsgE.jpg" group-title="HINDI DUB | 2026",Chris Hemsworth: A Road Trip to Remember (2025) (Hindi)
 http://filex.me:8080/movie/shafiq02/1234/1348305.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Marty, Life Is Short (2026) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z4QdUukg4FnbcwM6qeP6ZCoQZhf.jpg" group-title="HINDI DUB | 2026",Marty, Life Is Short (2026) (Hindi)
@@ -45109,6 +45113,10 @@ http://filex.me:8080//live/shafiq02/1234/522602.ts
 http://filex.me:8080//live/shafiq02/1234/522603.ts
 #EXTINF:-1 tvg-id="464083" tvg-name="COlors Super HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/300/-/2025-04-08/250408785000.jpg" group-title="IND | KANNADA",COlors Super HD
 http://filex.me:8080//live/shafiq02/1234/522604.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kartavya (2026) (Tamil)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aIFKidipXwU6eFlsCPZCJZWfqop.jpg" group-title="TAMIL | 2025 - 2026",Kartavya (2026) (Tamil)
+http://filex.me:8080/movie/shafiq02/1234/1351403.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Crash (2026) (Tamil)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/veskdPx4YUTmkrFrTs6zRJ8VV4E.jpg" group-title="TAMIL | 2025 - 2026",The Crash (2026) (Tamil)
+http://filex.me:8080/movie/shafiq02/1234/1351402.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Dhurandhar: The Revenge (2026) (Kannada)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dI7CjJA4cC92UcKMBnCh5BTDHVQ.jpg" group-title="KANNADA | 2025 - 2026",Dhurandhar: The Revenge (2026) (Kannada)
 http://filex.me:8080/movie/shafiq02/1234/1349688.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Dhurandhar: The Revenge (2026) (Malayalam)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dI7CjJA4cC92UcKMBnCh5BTDHVQ.jpg" group-title=" MALAYALAM | 2025 - 2026",Dhurandhar: The Revenge (2026) (Malayalam)
@@ -49990,11 +49998,3 @@ http://filex.me:8080/movie/shafiq02/1234/1174497.mp4
 #EXTINF:-1 tvg-id="" tvg-name="AR_ ريما" tvg-logo="" group-title="AR | 2020-2025",AR_ ريما
 http://filex.me:8080/movie/shafiq02/1234/1174495.mp4
 #EXTINF:-1 tvg-id="" tvg-name="AR_ Running with the Devil_ The Wild World of John McAfee (2022)" tvg-logo="" group-title="AR | 2020-2025",AR_ Running with the Devil_ The Wild World of John McAfee (2022)
-http://filex.me:8080/movie/shafiq02/1234/1174492.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Warden (2025)" tvg-logo="" group-title="AR | 2020-2025",AR_ Warden (2025)
-http://filex.me:8080/movie/shafiq02/1234/1174489.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Captors (2020)" tvg-logo="" group-title="AR | 2020-2025",AR_ Captors (2020)
-http://filex.me:8080/movie/shafiq02/1234/1174486.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Allegoria (2022)" tvg-logo="" group-title="AR | 2020-2025",AR_ Allegoria (2022)
-http://filex.me:8080/movie/shafiq02/1234/1174483.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Shut In (2016)" tvg-logo="" group-title="AR | 2020-2025",AR_ Shut In (2016)
