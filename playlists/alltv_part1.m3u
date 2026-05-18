@@ -25199,6 +25199,10 @@ http://filex.me:8080//live/shafiq02/1234/908780.ts
 http://filex.me:8080//live/shafiq02/1234/908774.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR: WANASAH HD" tvg-logo="" group-title="✯MUSIC✯اغاني",AR: WANASAH HD
 http://filex.me:8080//live/shafiq02/1234/908783.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kartavya (2026)(Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2I689w0K02r5oXawo08W8yNYIzx.jpg" group-title="BOLLYWOOD | 2026",Kartavya (2026)(Hindi)
+http://filex.me:8080/movie/shafiq02/1234/1352771.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aakhri Sawal (2026) (Hindi) (CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9CXBZH6sRJpFTMSaY3wj1jx98F4.jpg" group-title="BOLLYWOOD | 2026",Aakhri Sawal (2026) (Hindi) (CAM)
+http://filex.me:8080/movie/shafiq02/1234/1352768.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Pati Patni Aur Woh Do (2026) (Hindi) (CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cExvVp4TtS7QvtyjPmazT8NE4LL.jpg" group-title="BOLLYWOOD | 2026",Pati Patni Aur Woh Do (2026) (Hindi) (CAM)
 http://filex.me:8080/movie/shafiq02/1234/1351405.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Dhurandhar: The Revenge (2026) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dI7CjJA4cC92UcKMBnCh5BTDHVQ.jpg" group-title="BOLLYWOOD | 2026",Dhurandhar: The Revenge (2026) (Hindi)
@@ -28307,6 +28311,8 @@ http://filex.me:8080/movie/shafiq02/1234/851462.mp4
 http://filex.me:8080/movie/shafiq02/1234/851461.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Mohra (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nWAptaCNiTIJtv9cYqfF5E7qm0I.jpg" group-title="BOLLYWOOD | CLASSIC ",Mohra (1994)
 http://filex.me:8080/movie/shafiq02/1234/685811.mp4
+#EXTINF:-1 tvg-id="" tvg-name="I Can Only Imagine 2 (2026) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qYBCs9nBmdNCLduw5BTlendq89z.jpg" group-title="HINDI DUB | 2026",I Can Only Imagine 2 (2026) (Hindi)
+http://filex.me:8080/movie/shafiq02/1234/1352770.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Crash (2026) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/veskdPx4YUTmkrFrTs6zRJ8VV4E.jpg" group-title="HINDI DUB | 2026",The Crash (2026) (Hindi)
 http://filex.me:8080/movie/shafiq02/1234/1351406.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Chris Hemsworth: A Road Trip to Remember (2025) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uRvBvxOmqaCMeZNJGducuh2WsgE.jpg" group-title="HINDI DUB | 2026",Chris Hemsworth: A Road Trip to Remember (2025) (Hindi)
@@ -45113,6 +45119,14 @@ http://filex.me:8080//live/shafiq02/1234/522602.ts
 http://filex.me:8080//live/shafiq02/1234/522603.ts
 #EXTINF:-1 tvg-id="464083" tvg-name="COlors Super HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/300/-/2025-04-08/250408785000.jpg" group-title="IND | KANNADA",COlors Super HD
 http://filex.me:8080//live/shafiq02/1234/522604.ts
+#EXTINF:-1 tvg-id="" tvg-name="Karuppu (2026) Tamil" tvg-logo="https://image.tmdb.org/t/p/w500/9NvjgQaBgwOhe13W3RArMCeskCV.jpg" group-title="TAMIL | 2025 - 2026",Karuppu (2026) Tamil
+http://filex.me:8080/movie/shafiq02/1234/1353095.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Marty Supreme (2026) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg" group-title="SOUTH INDIA | 2026",Marty Supreme (2026) (Hindi)
+http://filex.me:8080/movie/shafiq02/1234/1352769.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Choo Mantar (2025) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/niKNhXDy7rkvjxRoxgy31sMXQZg.jpg" group-title="SOUTH INDIA | 2025",Choo Mantar (2025) (Hindi)
+http://filex.me:8080/movie/shafiq02/1234/1352766.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Marty Supreme (2026) (Tamil)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg" group-title="TAMIL | 2025 - 2026",Marty Supreme (2026) (Tamil)
+http://filex.me:8080/movie/shafiq02/1234/1352765.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Kartavya (2026) (Tamil)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aIFKidipXwU6eFlsCPZCJZWfqop.jpg" group-title="TAMIL | 2025 - 2026",Kartavya (2026) (Tamil)
 http://filex.me:8080/movie/shafiq02/1234/1351403.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Crash (2026) (Tamil)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/veskdPx4YUTmkrFrTs6zRJ8VV4E.jpg" group-title="TAMIL | 2025 - 2026",The Crash (2026) (Tamil)
@@ -49984,17 +49998,3 @@ http://filex.me:8080/movie/shafiq02/1234/1174517.mp4
 #EXTINF:-1 tvg-id="" tvg-name="AR_ She Said (2022)" tvg-logo="" group-title="AR | 2020-2025",AR_ She Said (2022)
 http://filex.me:8080/movie/shafiq02/1234/1174512.mp4
 #EXTINF:-1 tvg-id="" tvg-name="AR_ King (2026)" tvg-logo="" group-title="AR | 2020-2025",AR_ King (2026)
-http://filex.me:8080/movie/shafiq02/1234/1174510.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ The Children's Train (2024)" tvg-logo="" group-title="AR | 2020-2025",AR_ The Children's Train (2024)
-http://filex.me:8080/movie/shafiq02/1234/1174507.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ The Wraith Within (2022)" tvg-logo="" group-title="AR | 2020-2025",AR_ The Wraith Within (2022)
-http://filex.me:8080/movie/shafiq02/1234/1174504.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Trapped Inn (2024)" tvg-logo="" group-title="AR | 2020-2025",AR_ Trapped Inn (2024)
-http://filex.me:8080/movie/shafiq02/1234/1174501.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ The Hanging Sun (2023)" tvg-logo="" group-title="AR | 2020-2025",AR_ The Hanging Sun (2023)
-http://filex.me:8080/movie/shafiq02/1234/1174499.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Unlocked (2017)" tvg-logo="" group-title="AR | 2020-2025",AR_ Unlocked (2017)
-http://filex.me:8080/movie/shafiq02/1234/1174497.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ ريما" tvg-logo="" group-title="AR | 2020-2025",AR_ ريما
-http://filex.me:8080/movie/shafiq02/1234/1174495.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Running with the Devil_ The Wild World of John McAfee (2022)" tvg-logo="" group-title="AR | 2020-2025",AR_ Running with the Devil_ The Wild World of John McAfee (2022)
