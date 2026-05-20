@@ -25199,6 +25199,12 @@ http://filex.me:8080//live/shafiq02/1234/908780.ts
 http://filex.me:8080//live/shafiq02/1234/908774.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR: WANASAH HD" tvg-logo="" group-title="✯MUSIC✯اغاني",AR: WANASAH HD
 http://filex.me:8080//live/shafiq02/1234/908783.ts
+#EXTINF:-1 tvg-id="" tvg-name="Indian Institute of Zombies (2026) (Hindi) (CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zSiNbahfCoezs5LQYNtJrvczngM.jpg" group-title="BOLLYWOOD | 2026",Indian Institute of Zombies (2026) (Hindi) (CAM)
+http://filex.me:8080/movie/shafiq02/1234/1353732.mp4
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night 276: Allen vs. Costa (2026) (Main Card)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cssaN9nb45lxwDrEw5XH1ZBgIMO.jpg" group-title="✯UFC FIGHT✯",UFC Fight Night 276: Allen vs. Costa (2026) (Main Card)
+http://filex.me:8080/movie/shafiq02/1234/1353720.mp4
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night 276: Allen vs. Costa (2026) (Prelims)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cssaN9nb45lxwDrEw5XH1ZBgIMO.jpg" group-title="✯UFC FIGHT✯",UFC Fight Night 276: Allen vs. Costa (2026) (Prelims)
+http://filex.me:8080/movie/shafiq02/1234/1353719.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Kartavya (2026)(Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2I689w0K02r5oXawo08W8yNYIzx.jpg" group-title="BOLLYWOOD | 2026",Kartavya (2026)(Hindi)
 http://filex.me:8080/movie/shafiq02/1234/1352771.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Aakhri Sawal (2026) (Hindi) (CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9CXBZH6sRJpFTMSaY3wj1jx98F4.jpg" group-title="BOLLYWOOD | 2026",Aakhri Sawal (2026) (Hindi) (CAM)
@@ -45119,6 +45125,30 @@ http://filex.me:8080//live/shafiq02/1234/522602.ts
 http://filex.me:8080//live/shafiq02/1234/522603.ts
 #EXTINF:-1 tvg-id="464083" tvg-name="COlors Super HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/300/-/2025-04-08/250408785000.jpg" group-title="IND | KANNADA",COlors Super HD
 http://filex.me:8080//live/shafiq02/1234/522604.ts
+#EXTINF:-1 tvg-id="" tvg-name="S. Saraswathi (2026) (Tamil)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfwCKJdNbbJJNLJE8quaRJd-AaVhSarXZCrLVbDSuzfsrDqdnbuVSUS-kO&s=10" group-title="TAMIL | 2025 - 2026",S. Saraswathi (2026) (Tamil)
+http://filex.me:8080/movie/shafiq02/1234/1354046.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Faith Under Fire (2020) (Tamil)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hwIvZcFEgKCFhL3Gzc8hHRQ1ynj.jpg" group-title="✯TAMIL✯ MIX",Faith Under Fire (2020) (Tamil)
+http://filex.me:8080/movie/shafiq02/1234/1353731.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Indivisible (2018) (Tamil)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nHoV8LbrDPGBZp0QSl9S0Jiw4tg.jpg" group-title="✯TAMIL✯ MIX",Indivisible (2018) (Tamil)
+http://filex.me:8080/movie/shafiq02/1234/1353730.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Anthony (2026) (Tamil)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xmw1SgqHKSJGs1AA3xi4yiGbSh4.jpg" group-title="TAMIL | 2025 - 2026",Anthony (2026) (Tamil)
+http://filex.me:8080/movie/shafiq02/1234/1353729.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Karuppu (2026) (Tamil) (CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/abZTTqblQDgRDUiIgrsH7YNKwyb.jpg" group-title="TAMIL | 2025 - 2026",Karuppu (2026) (Tamil) (CAM)
+http://filex.me:8080/movie/shafiq02/1234/1353728.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sattendru Maarudhu Vaanilai (2026) (Tamil) (CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7LDRsAUfC1iAlL9ugBXNkI1k1N.jpg" group-title="TAMIL | 2025 - 2026",Sattendru Maarudhu Vaanilai (2026) (Tamil) (CAM)
+http://filex.me:8080/movie/shafiq02/1234/1353727.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Son Of (2026) (Kannada)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzRlY2U2ZTMtMDIyNC00ZDViLWI0NWMtYzVhN2JmNzFmNmViXkEyXkFqcGc@._V1_.jpg" group-title="KANNADA | 2025 - 2026",Son Of (2026) (Kannada)
+http://filex.me:8080/movie/shafiq02/1234/1353712.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Son Of (2026) (Malayalam)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzRlY2U2ZTMtMDIyNC00ZDViLWI0NWMtYzVhN2JmNzFmNmViXkEyXkFqcGc@._V1_.jpg" group-title=" MALAYALAM | 2025 - 2026",Son Of (2026) (Malayalam)
+http://filex.me:8080/movie/shafiq02/1234/1353711.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Athiradi (2026) (Malayalam) (CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AgghZr1txyNREiK0WQi3bePW1ax.jpg" group-title=" MALAYALAM | 2025 - 2026",Athiradi (2026) (Malayalam) (CAM)
+http://filex.me:8080/movie/shafiq02/1234/1353710.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roma 6 (2025) (Malayalam)" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGNmZmZiNGQtNDM4MC00MTVjLWE0NDctNzQ4OGNmZDJkZGUxXkEyXkFqcGc@._V1_QL75_UX190_CR0,13,190,281_.jpg" group-title=" MALAYALAM | 2025 - 2026",Roma 6 (2025) (Malayalam)
+http://filex.me:8080/movie/shafiq02/1234/1353709.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Son Of (2026) (Tamil)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzRlY2U2ZTMtMDIyNC00ZDViLWI0NWMtYzVhN2JmNzFmNmViXkEyXkFqcGc@._V1_.jpg" group-title="TAMIL | 2025 - 2026",Son Of (2026) (Tamil)
+http://filex.me:8080/movie/shafiq02/1234/1353708.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Peter Rabbit (2018) (Tamil)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lugOvdaNpbVGQK9TyMRDiUbLtY6.jpg" group-title="✯TAMIL✯ MIX",Peter Rabbit (2018) (Tamil)
+http://filex.me:8080/movie/shafiq02/1234/1353707.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Karuppu (2026) Tamil" tvg-logo="https://image.tmdb.org/t/p/w500/9NvjgQaBgwOhe13W3RArMCeskCV.jpg" group-title="TAMIL | 2025 - 2026",Karuppu (2026) Tamil
 http://filex.me:8080/movie/shafiq02/1234/1353095.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Marty Supreme (2026) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg" group-title="SOUTH INDIA | 2026",Marty Supreme (2026) (Hindi)
@@ -49968,33 +49998,3 @@ http://filex.me:8080/movie/shafiq02/1234/1174552.mp4
 #EXTINF:-1 tvg-id="" tvg-name="AR_ The River Wild" tvg-logo="" group-title="AR | 2020-2025",AR_ The River Wild
 http://filex.me:8080/movie/shafiq02/1234/1174549.mkv
 #EXTINF:-1 tvg-id="" tvg-name="AR_ Deadly Ex Next Door (2022)" tvg-logo="" group-title="AR | 2020-2025",AR_ Deadly Ex Next Door (2022)
-http://filex.me:8080/movie/shafiq02/1234/1174546.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Captain America_ Brave New World (FHD) (2025)" tvg-logo="" group-title="AR | 2020-2025",AR_ Captain America_ Brave New World (FHD) (2025)
-http://filex.me:8080/movie/shafiq02/1234/1174544.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ The Gates (2022)" tvg-logo="" group-title="AR | 2020-2025",AR_ The Gates (2022)
-http://filex.me:8080/movie/shafiq02/1234/1174543.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Valley of the Dead (2016)" tvg-logo="" group-title="AR | 2020-2025",AR_ Valley of the Dead (2016)
-http://filex.me:8080/movie/shafiq02/1234/1174542.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Harmony (2018)" tvg-logo="" group-title="AR | 2020-2025",AR_ Harmony (2018)
-http://filex.me:8080/movie/shafiq02/1234/1174541.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Seriously Red (2022)" tvg-logo="" group-title="AR | 2020-2025",AR_ Seriously Red (2022)
-http://filex.me:8080/movie/shafiq02/1234/1174540.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Bermuda Island (2023)" tvg-logo="" group-title="AR | 2020-2025",AR_ Bermuda Island (2023)
-http://filex.me:8080/movie/shafiq02/1234/1174538.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Presence (2024)" tvg-logo="" group-title="AR | 2020-2025",AR_ Presence (2024)
-http://filex.me:8080/movie/shafiq02/1234/1174535.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Resurrected (2023)" tvg-logo="" group-title="AR | 2020-2025",AR_ Resurrected (2023)
-http://filex.me:8080/movie/shafiq02/1234/1174533.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ The Exorcism of God (2022)" tvg-logo="" group-title="AR | 2020-2025",AR_ The Exorcism of God (2022)
-http://filex.me:8080/movie/shafiq02/1234/1174529.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ After Ever Happy (2022)" tvg-logo="" group-title="AR | 2020-2025",AR_ After Ever Happy (2022)
-http://filex.me:8080/movie/shafiq02/1234/1174526.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ French Girl (2024)" tvg-logo="" group-title="AR | 2020-2025",AR_ French Girl (2024)
-http://filex.me:8080/movie/shafiq02/1234/1174523.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ The Grandmother (1909)" tvg-logo="" group-title="AR | 2020-2025",AR_ The Grandmother (1909)
-http://filex.me:8080/movie/shafiq02/1234/1174520.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Soul to Squeeze (2025)" tvg-logo="" group-title="AR | 2020-2025",AR_ Soul to Squeeze (2025)
-http://filex.me:8080/movie/shafiq02/1234/1174517.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ She Said (2022)" tvg-logo="" group-title="AR | 2020-2025",AR_ She Said (2022)
-http://filex.me:8080/movie/shafiq02/1234/1174512.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ King (2026)" tvg-logo="" group-title="AR | 2020-2025",AR_ King (2026)
