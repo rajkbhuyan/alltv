@@ -12601,6 +12601,10 @@ http://filex.me:8080/movie/shafiq02/1234/885980.mkv
 http://filex.me:8080/movie/shafiq02/1234/885979.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Mission 007 (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oQufNu6Aw3Emze7bxvYNAXzaZNi.jpg" group-title="SOUTH INDIA | 2025",Mission 007 (2025)
 http://filex.me:8080/movie/shafiq02/1234/885978.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Voice of Hind Rajab (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q7M8kQB46T11vmDMD6E239jsqTz.jpg" group-title="HOLLYWOOD | 2025",The Voice of Hind Rajab (2025)
+http://filex.me:8080/movie/shafiq02/1234/1354588.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Magic Faraway Tree (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/udXvLxC5gAqN8SinemyFBEcHpTf.jpg" group-title="HOLLYWOOD | 2026",The Magic Faraway Tree (2026)
+http://filex.me:8080/movie/shafiq02/1234/1354540.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Gary (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jtMuKwlOl4IzpB5fWn9RT9uyy6E.jpg" group-title="HOLLYWOOD | 2026",Gary (2026)
 http://filex.me:8080/movie/shafiq02/1234/1354189.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Wanda Sykes: Legacy (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oXU82DqaebxbrPyJkQt2MRfLhKG.jpg" group-title="HOLLYWOOD | 2026",Wanda Sykes: Legacy (2026)
@@ -49994,7 +49998,3 @@ http://filex.me:8080/movie/shafiq02/1234/957851.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Shahkot (2026)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAJGY7lyjW2SKJ5oulOq7ffr8GO1VNxrLIGa74V6is5g&s=10" group-title="✯PUNJABI✯ MIX",Shahkot (2026)
 http://filex.me:8080/movie/shafiq02/1234/957850.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Hostellers (2026)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4TElKi8vIQak9hzG_89DxYIjtJAwHvcRP704ufAUrk8LhO2rX6XmGnDA&s=10" group-title="✯PUNJABI✯ MIX",Hostellers (2026)
-http://filex.me:8080/movie/shafiq02/1234/957474.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Om Shanti Shanti Shantihi (2026) [Telugu Audio] Cam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mALSJGjgjohkv56pZzpPJL2MOuj.jpg" group-title="✯TELUGU✯",Om Shanti Shanti Shantihi (2026) [Telugu Audio] Cam
-http://filex.me:8080/movie/shafiq02/1234/957447.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Devagudi (2026) [Telugu Audio] Cam" tvg-logo="" group-title="✯TELUGU✯",Devagudi (2026) [Telugu Audio] Cam
