@@ -25199,6 +25199,8 @@ http://filex.me:8080//live/shafiq02/1234/908780.ts
 http://filex.me:8080//live/shafiq02/1234/908774.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR: WANASAH HD" tvg-logo="" group-title="✯MUSIC✯اغاني",AR: WANASAH HD
 http://filex.me:8080//live/shafiq02/1234/908783.ts
+#EXTINF:-1 tvg-id="" tvg-name="Chand Mera Dil (2026) (Hindi) (CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9LPkXJustudEBgPZEm9tgDx5KtC.jpg" group-title="BOLLYWOOD | 2026",Chand Mera Dil (2026) (Hindi) (CAM)
+http://filex.me:8080/movie/shafiq02/1234/1357307.mp4
 #EXTINF:-1 tvg-id="" tvg-name="System (2026) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8qrddM5BRcTuqjc9crJY6e3gyE6.jpg" group-title="BOLLYWOOD | 2026",System (2026) (Hindi)
 http://filex.me:8080/movie/shafiq02/1234/1356595.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Zalzala (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rPjDfLdtGUh0qsjD6EDn1cYClrK.jpg" group-title="BOLLYWOOD | 1981-1999",Zalzala (1988)
@@ -30477,6 +30479,10 @@ http://filex.me:8080/movie/shafiq02/1234/851462.mp4
 http://filex.me:8080/movie/shafiq02/1234/851461.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Mohra (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nWAptaCNiTIJtv9cYqfF5E7qm0I.jpg" group-title="BOLLYWOOD | CLASSIC ",Mohra (1994)
 http://filex.me:8080/movie/shafiq02/1234/685811.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ladies First (2026) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kjR56Yv17pbjTVBTMjqepvcus4f.jpg" group-title="HINDI DUB | 2026",Ladies First (2026) (Hindi)
+http://filex.me:8080/movie/shafiq02/1234/1357310.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Little Amélie or the Character of Rain (2025) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qoqDvTUVPoZJWw24AjGDt3J4tZN.jpg" group-title="HINDI DUB | 2025",Little Amélie or the Character of Rain (2025) (Hindi)
+http://filex.me:8080/movie/shafiq02/1234/1357308.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Tom Clancy's Jack Ryan: Ghost War (2026) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ehYxUh5MWE41AeE9gkHE8DKzvB.jpg" group-title="HINDI DUB | 2026",Tom Clancy's Jack Ryan: Ghost War (2026) (Hindi)
 http://filex.me:8080/movie/shafiq02/1234/1356626.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Panda Plan: The Magical Tribe (2026) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/asrLPsZMg75SxN1BooggGmpBwRO.jpg" group-title="HINDI DUB | 2026",Panda Plan: The Magical Tribe (2026) (Hindi)
@@ -47295,6 +47301,18 @@ http://filex.me:8080//live/shafiq02/1234/522602.ts
 http://filex.me:8080//live/shafiq02/1234/522603.ts
 #EXTINF:-1 tvg-id="464083" tvg-name="COlors Super HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/300/-/2025-04-08/250408785000.jpg" group-title="IND | KANNADA",COlors Super HD
 http://filex.me:8080//live/shafiq02/1234/522604.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sathi Leelavathi (2026) (Kannada)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/povosquaaJWFjgTqd2ObTIvwl8.jpg" group-title="KANNADA | 2025 - 2026",Sathi Leelavathi (2026) (Kannada)
+http://filex.me:8080/movie/shafiq02/1234/1358491.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sathi Leelavathi (2026) (Malayalam)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/povosquaaJWFjgTqd2ObTIvwl8.jpg" group-title=" MALAYALAM | 2025 - 2026",Sathi Leelavathi (2026) (Malayalam)
+http://filex.me:8080/movie/shafiq02/1234/1358490.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drishyam 3 (2026) (Malayalam) (CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/456FlpiU1iOBnaOxSd783QhZKWw.jpg" group-title=" MALAYALAM | 2025 - 2026",Drishyam 3 (2026) (Malayalam) (CAM)
+http://filex.me:8080/movie/shafiq02/1234/1358489.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Athiradi (2026) (Tamil) (CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AgghZr1txyNREiK0WQi3bePW1ax.jpg" group-title="TAMIL | 2025 - 2026",Athiradi (2026) (Tamil) (CAM)
+http://filex.me:8080/movie/shafiq02/1234/1358487.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ladies First (2026) (Tamil)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kjR56Yv17pbjTVBTMjqepvcus4f.jpg" group-title="TAMIL | 2025 - 2026",Ladies First (2026) (Tamil)
+http://filex.me:8080/movie/shafiq02/1234/1357306.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Derby (2026) (Tamil)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zaTTuhOJMTzlSRx7kvzVZevc2wQ.jpg" group-title="TAMIL | 2025 - 2026",Derby (2026) (Tamil)
+http://filex.me:8080/movie/shafiq02/1234/1357298.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Tom Clancy's Jack Ryan: Ghost War (2026) (Kannada)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ehYxUh5MWE41AeE9gkHE8DKzvB.jpg" group-title="KANNADA | 2025 - 2026",Tom Clancy's Jack Ryan: Ghost War (2026) (Kannada)
 http://filex.me:8080/movie/shafiq02/1234/1356625.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Tom Clancy's Jack Ryan: Ghost War (2026) (Malayalam)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ehYxUh5MWE41AeE9gkHE8DKzvB.jpg" group-title=" MALAYALAM | 2025 - 2026",Tom Clancy's Jack Ryan: Ghost War (2026) (Malayalam)
@@ -49980,21 +49998,3 @@ http://filex.me:8080/movie/shafiq02/1234/1199712.mp4
 #EXTINF:-1 tvg-id="" tvg-name="AR_ Waves" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Waves
 http://filex.me:8080/movie/shafiq02/1234/1199710.mkv
 #EXTINF:-1 tvg-id="" tvg-name="AR_ Auggie" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Auggie
-http://filex.me:8080/movie/shafiq02/1234/1199708.mkv
-#EXTINF:-1 tvg-id="" tvg-name="AR_ His House" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ His House
-http://filex.me:8080/movie/shafiq02/1234/1199706.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Queen Of Katwe" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Queen Of Katwe
-http://filex.me:8080/movie/shafiq02/1234/1199705.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Lost Transmissions" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Lost Transmissions
-http://filex.me:8080/movie/shafiq02/1234/1199703.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Brittany Runs A Marathon" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Brittany Runs A Marathon
-http://filex.me:8080/movie/shafiq02/1234/1199701.mkv
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Rag Doll" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Rag Doll
-http://filex.me:8080/movie/shafiq02/1234/1199699.mkv
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Nina" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Nina
-http://filex.me:8080/movie/shafiq02/1234/1199697.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Tiger" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Tiger
-http://filex.me:8080/movie/shafiq02/1234/1199695.mkv
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Never Here" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Never Here
-http://filex.me:8080/movie/shafiq02/1234/1199693.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Enter The Wild" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Enter The Wild
