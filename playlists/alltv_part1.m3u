@@ -25199,6 +25199,10 @@ http://filex.me:8080//live/shafiq02/1234/908780.ts
 http://filex.me:8080//live/shafiq02/1234/908774.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR: WANASAH HD" tvg-logo="" group-title="✯MUSIC✯اغاني",AR: WANASAH HD
 http://filex.me:8080//live/shafiq02/1234/908783.ts
+#EXTINF:-1 tvg-id="" tvg-name="Vadapav (2025) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8r23uEQ5dljvlOjql4Hh56daDIp.jpg" group-title="BOLLYWOOD | 2026",Vadapav (2025) (Hindi)
+http://filex.me:8080/movie/shafiq02/1234/1360475.mp4
+#EXTINF:-1 tvg-id="" tvg-name="WWE Saturday Night's Main Event XLIV (2026)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKka5J5kcHKibKuQIQgLUX83o7iE0yfs4sew&s" group-title="✯WWE✯",WWE Saturday Night's Main Event XLIV (2026)
+http://filex.me:8080/movie/shafiq02/1234/1360464.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Chand Mera Dil (2026) (Hindi) (CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9LPkXJustudEBgPZEm9tgDx5KtC.jpg" group-title="BOLLYWOOD | 2026",Chand Mera Dil (2026) (Hindi) (CAM)
 http://filex.me:8080/movie/shafiq02/1234/1357307.mp4
 #EXTINF:-1 tvg-id="" tvg-name="System (2026) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8qrddM5BRcTuqjc9crJY6e3gyE6.jpg" group-title="BOLLYWOOD | 2026",System (2026) (Hindi)
@@ -47301,6 +47305,12 @@ http://filex.me:8080//live/shafiq02/1234/522602.ts
 http://filex.me:8080//live/shafiq02/1234/522603.ts
 #EXTINF:-1 tvg-id="464083" tvg-name="COlors Super HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/300/-/2025-04-08/250408785000.jpg" group-title="IND | KANNADA",COlors Super HD
 http://filex.me:8080//live/shafiq02/1234/522604.ts
+#EXTINF:-1 tvg-id="" tvg-name="Madhuvidhu (2026)[Tam,Tel,Hin,Mal,Kan]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jVSnpXklfxi3FchGqweRMvrC8Gd.jpg" group-title="SOUTH INDIA | MULTI AUDIO",Madhuvidhu (2026)[Tam,Tel,Hin,Mal,Kan]
+http://filex.me:8080/movie/shafiq02/1234/1360477.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Drishyam 3 (2026) (Tamil) (CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/456FlpiU1iOBnaOxSd783QhZKWw.jpg" group-title="TAMIL | 2025 - 2026",Drishyam 3 (2026) (Tamil) (CAM)
+http://filex.me:8080/movie/shafiq02/1234/1360474.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Radio Flyer (1992) (Tamil)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nQjCKrwWYH6ES0HrnkLkPXnOEp0.jpg" group-title="✯TAMIL✯ MIX",Radio Flyer (1992) (Tamil)
+http://filex.me:8080/movie/shafiq02/1234/1360472.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Sathi Leelavathi (2026) (Kannada)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/povosquaaJWFjgTqd2ObTIvwl8.jpg" group-title="KANNADA | 2025 - 2026",Sathi Leelavathi (2026) (Kannada)
 http://filex.me:8080/movie/shafiq02/1234/1358491.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Sathi Leelavathi (2026) (Malayalam)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/povosquaaJWFjgTqd2ObTIvwl8.jpg" group-title=" MALAYALAM | 2025 - 2026",Sathi Leelavathi (2026) (Malayalam)
@@ -49988,13 +49998,3 @@ http://filex.me:8080/movie/shafiq02/1234/1199722.mkv
 #EXTINF:-1 tvg-id="" tvg-name="AR_ 5 Flights Up" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ 5 Flights Up
 http://filex.me:8080/movie/shafiq02/1234/1199720.mp4
 #EXTINF:-1 tvg-id="" tvg-name="AR_ Union" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Union
-http://filex.me:8080/movie/shafiq02/1234/1199718.mkv
-#EXTINF:-1 tvg-id="" tvg-name="AR_ The Secret Garden" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ The Secret Garden
-http://filex.me:8080/movie/shafiq02/1234/1199716.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ The Dressmaker" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ The Dressmaker
-http://filex.me:8080/movie/shafiq02/1234/1199714.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Super Dark Times" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Super Dark Times
-http://filex.me:8080/movie/shafiq02/1234/1199712.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Waves" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Waves
-http://filex.me:8080/movie/shafiq02/1234/1199710.mkv
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Auggie" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Auggie
