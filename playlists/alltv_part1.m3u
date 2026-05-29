@@ -25199,6 +25199,12 @@ http://filex.me:8080//live/shafiq02/1234/908780.ts
 http://filex.me:8080//live/shafiq02/1234/908774.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR: WANASAH HD" tvg-logo="" group-title="✯MUSIC✯اغاني",AR: WANASAH HD
 http://filex.me:8080//live/shafiq02/1234/908783.ts
+#EXTINF:-1 tvg-id="" tvg-name="WWE NXT (19th May 2026)" tvg-logo="http://upload.wikimedia.org/wikipedia/en/9/9e/RAW_Netflix_Anniversary_poster.jpg" group-title="✯WWE✯",WWE NXT (19th May 2026)
+http://filex.me:8080/movie/shafiq02/1234/1361314.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monday Night Raw English (18.05.2026)" tvg-logo="http://upload.wikimedia.org/wikipedia/en/9/9e/RAW_Netflix_Anniversary_poster.jpg" group-title="✯WWE✯",Monday Night Raw English (18.05.2026)
+http://filex.me:8080/movie/shafiq02/1234/1361305.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Friday Night SmackDown (15.05.2026)" tvg-logo="http://upload.wikimedia.org/wikipedia/en/9/9e/RAW_Netflix_Anniversary_poster.jpg" group-title="✯WWE✯",Friday Night SmackDown (15.05.2026)
+http://filex.me:8080/movie/shafiq02/1234/1361299.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Dhurandhar Raw and Undekha (2026) (Hindi)" tvg-logo="https://i.ytimg.com/vi/2K3DDK_LH30/maxresdefault.jpg" group-title="BOLLYWOOD | 2026",Dhurandhar Raw and Undekha (2026) (Hindi)
 http://filex.me:8080/movie/shafiq02/1234/1361273.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Vadapav (2025) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8r23uEQ5dljvlOjql4Hh56daDIp.jpg" group-title="BOLLYWOOD | 2026",Vadapav (2025) (Hindi)
@@ -30485,6 +30491,8 @@ http://filex.me:8080/movie/shafiq02/1234/851462.mp4
 http://filex.me:8080/movie/shafiq02/1234/851461.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Mohra (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nWAptaCNiTIJtv9cYqfF5E7qm0I.jpg" group-title="BOLLYWOOD | CLASSIC ",Mohra (1994)
 http://filex.me:8080/movie/shafiq02/1234/685811.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hybrid (2007) Hindi " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jjQDD5bGMQpFH0yE1xKVv4Kyk4j.jpg" group-title="HINDI DUB | 2000-2010",Hybrid (2007) Hindi 
+http://filex.me:8080/movie/shafiq02/1234/1361308.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Gridiron Gang (2006) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tTjDApg546wt8OWazvPbEhygu83.jpg" group-title="HINDI DUB | 2000-2010",Gridiron Gang (2006) (Hindi)
 http://filex.me:8080/movie/shafiq02/1234/1361254.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Botanist (2026) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6lBR3uDf0uOHrBmNf4NSaxtkhlX.jpg" group-title="HINDI DUB | 2026",The Botanist (2026) (Hindi)
@@ -47311,6 +47319,10 @@ http://filex.me:8080//live/shafiq02/1234/522602.ts
 http://filex.me:8080//live/shafiq02/1234/522603.ts
 #EXTINF:-1 tvg-id="464083" tvg-name="COlors Super HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/300/-/2025-04-08/250408785000.jpg" group-title="IND | KANNADA",COlors Super HD
 http://filex.me:8080//live/shafiq02/1234/522604.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tate Lagila Mo Sankha Sindura (2026)" tvg-logo="https://i0.wp.com/odiamoviedb.com/wp-content/uploads/2026/05/Tate-Lagila-Mo-Sankha-Sidura-Official-Poster_01.jpg?resize=990%2C1238&ssl=1" group-title="IN | ODIA",Tate Lagila Mo Sankha Sindura (2026)
+http://filex.me:8080/movie/shafiq02/1234/1361311.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Paree: An Unsolved Mystery (2026) Odia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t0NHOkTRJzlKW36OnaWWs1dwehN.jpg" group-title="IN | ODIA",Paree: An Unsolved Mystery (2026) Odia
+http://filex.me:8080/movie/shafiq02/1234/1361302.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Jetlee (2026) (Kannada)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wNqDTEXvDNNFD1aWYNou4uuDoPq.jpg" group-title="KANNADA | 2025 - 2026",Jetlee (2026) (Kannada)
 http://filex.me:8080/movie/shafiq02/1234/1361272.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Seat Edge (2026) (Kannada)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vWQNfKKdoXWiAVATeoKzdyaxS8m.jpg" group-title="KANNADA | 2025 - 2026",Seat Edge (2026) (Kannada)
@@ -49986,15 +49998,3 @@ http://filex.me:8080/movie/shafiq02/1234/1199757.mp4
 #EXTINF:-1 tvg-id="" tvg-name="AR_ Bennett's War" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Bennett's War
 http://filex.me:8080/movie/shafiq02/1234/1199756.mkv
 #EXTINF:-1 tvg-id="" tvg-name="AR_ Ask For Jane" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Ask For Jane
-http://filex.me:8080/movie/shafiq02/1234/1199754.mkv
-#EXTINF:-1 tvg-id="" tvg-name="We Are Champions (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mV728fO8JOQvpjhBga4TkMaxjw2.jpg" group-title="AR | DRAMA & ROMANCE",We Are Champions (2019)
-http://filex.me:8080/movie/shafiq02/1234/1199752.mkv
-#EXTINF:-1 tvg-id="" tvg-name="AR_ The Big Ugly" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ The Big Ugly
-http://filex.me:8080/movie/shafiq02/1234/1199750.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Lady Bird" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Lady Bird
-http://filex.me:8080/movie/shafiq02/1234/1199748.mkv
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Black Beauty" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Black Beauty
-http://filex.me:8080/movie/shafiq02/1234/1199746.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Let Him Go" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Let Him Go
-http://filex.me:8080/movie/shafiq02/1234/1199745.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ A United Kingdom" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ A United Kingdom
