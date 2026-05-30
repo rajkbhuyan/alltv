@@ -30491,6 +30491,10 @@ http://filex.me:8080/movie/shafiq02/1234/851462.mp4
 http://filex.me:8080/movie/shafiq02/1234/851461.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Mohra (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nWAptaCNiTIJtv9cYqfF5E7qm0I.jpg" group-title="BOLLYWOOD | CLASSIC ",Mohra (1994)
 http://filex.me:8080/movie/shafiq02/1234/685811.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Succubus (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7AfBMebJS8mEtSV5ymdxEPpgvXb.jpg" group-title="HINDI DUB | 2023-2024",Succubus (2024)
+http://filex.me:8080/movie/shafiq02/1234/1361468.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marshmallow (2025) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qZseaOw1BgLkJsfiEmNpS1KhH8d.jpg" group-title="HINDI DUB | 2025",Marshmallow (2025) (Hindi)
+http://filex.me:8080/movie/shafiq02/1234/1361451.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Hybrid (2007) Hindi " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jjQDD5bGMQpFH0yE1xKVv4Kyk4j.jpg" group-title="HINDI DUB | 2000-2010",Hybrid (2007) Hindi 
 http://filex.me:8080/movie/shafiq02/1234/1361308.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Gridiron Gang (2006) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tTjDApg546wt8OWazvPbEhygu83.jpg" group-title="HINDI DUB | 2000-2010",Gridiron Gang (2006) (Hindi)
@@ -47319,6 +47323,22 @@ http://filex.me:8080//live/shafiq02/1234/522602.ts
 http://filex.me:8080//live/shafiq02/1234/522603.ts
 #EXTINF:-1 tvg-id="464083" tvg-name="COlors Super HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/300/-/2025-04-08/250408785000.jpg" group-title="IND | KANNADA",COlors Super HD
 http://filex.me:8080//live/shafiq02/1234/522604.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nawab Cafe (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mZ3By7MbNzMx2ANQ9MdYnwMYlQ3.jpg" group-title="SOUTH INDIA | 2026",Nawab Cafe (2026)
+http://filex.me:8080/movie/shafiq02/1234/1361467.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mahasenha (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kQeOxMQ1F8E5vixcLfju3vYRT0U.jpg" group-title="SOUTH INDIA | 2026",Mahasenha (2025)
+http://filex.me:8080/movie/shafiq02/1234/1361466.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kara (2026) [Tam,Tel,Hin,Mal,Kan]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uIrFdMWlJFdc1jPBP9bxeaISCDj.jpg" group-title="SOUTH INDIA | MULTI AUDIO",Kara (2026) [Tam,Tel,Hin,Mal,Kan]
+http://filex.me:8080/movie/shafiq02/1234/1361462.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Unbroken: The Unmukt Chand Story (2025) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j96DmQNTKdzEJfKNgdeyKLfy9gn.jpg" group-title="SOUTH INDIA | 2025",Unbroken: The Unmukt Chand Story (2025) (Hindi)
+http://filex.me:8080/movie/shafiq02/1234/1361457.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Spa (2026) (Malayalam)" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTJjMDc3NTgtZjY3Ni00ODU3LTk1N2QtYmQyNDE2MGM1YzQzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title=" MALAYALAM | 2025 - 2026",Spa (2026) (Malayalam)
+http://filex.me:8080/movie/shafiq02/1234/1361456.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vinai Vidhaithavan (2026) (Tamil)" tvg-logo="https://i.ytimg.com/vi/bYxRh6EnyII/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA5E3PiYz49CRBo93mXZZRFMaXXLw" group-title="TAMIL | 2025 - 2026",Vinai Vidhaithavan (2026) (Tamil)
+http://filex.me:8080/movie/shafiq02/1234/1361454.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kara (2026) Hindi " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uIrFdMWlJFdc1jPBP9bxeaISCDj.jpg" group-title="SOUTH INDIA | 2026",Kara (2026) Hindi 
+http://filex.me:8080/movie/shafiq02/1234/1361442.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Karikaada (2026) Hindi " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tL0skwRWivuNZHQD89baWynksct.jpg" group-title="SOUTH INDIA | 2026",Karikaada (2026) Hindi 
+http://filex.me:8080/movie/shafiq02/1234/1361439.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Tate Lagila Mo Sankha Sindura (2026)" tvg-logo="https://i0.wp.com/odiamoviedb.com/wp-content/uploads/2026/05/Tate-Lagila-Mo-Sankha-Sidura-Official-Poster_01.jpg?resize=990%2C1238&ssl=1" group-title="IN | ODIA",Tate Lagila Mo Sankha Sindura (2026)
 http://filex.me:8080/movie/shafiq02/1234/1361311.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Paree: An Unsolved Mystery (2026) Odia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t0NHOkTRJzlKW36OnaWWs1dwehN.jpg" group-title="IN | ODIA",Paree: An Unsolved Mystery (2026) Odia
@@ -49978,23 +49998,3 @@ http://filex.me:8080/movie/shafiq02/1234/1199775.mp4
 #EXTINF:-1 tvg-id="" tvg-name="AR_ This Is Where I Leave You" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ This Is Where I Leave You
 http://filex.me:8080/movie/shafiq02/1234/1199773.mp4
 #EXTINF:-1 tvg-id="" tvg-name="AR_ Titanic" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Titanic
-http://filex.me:8080/movie/shafiq02/1234/1199771.mkv
-#EXTINF:-1 tvg-id="" tvg-name="AR_ A Dog's Way Home" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ A Dog's Way Home
-http://filex.me:8080/movie/shafiq02/1234/1199770.mkv
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Brooklyn" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Brooklyn
-http://filex.me:8080/movie/shafiq02/1234/1199768.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Fathers And Daughters" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Fathers And Daughters
-http://filex.me:8080/movie/shafiq02/1234/1199766.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Blood On Her Name" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Blood On Her Name
-http://filex.me:8080/movie/shafiq02/1234/1199764.mkv
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Antidote" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Antidote
-http://filex.me:8080/movie/shafiq02/1234/1199762.mkv
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Secret Obsession" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Secret Obsession
-http://filex.me:8080/movie/shafiq02/1234/1199761.mkv
-#EXTINF:-1 tvg-id="" tvg-name="AR_ The Keeping Hours" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ The Keeping Hours
-http://filex.me:8080/movie/shafiq02/1234/1199759.mkv
-#EXTINF:-1 tvg-id="" tvg-name="AR_ The Vessel" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ The Vessel
-http://filex.me:8080/movie/shafiq02/1234/1199757.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Bennett's War" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Bennett's War
-http://filex.me:8080/movie/shafiq02/1234/1199756.mkv
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Ask For Jane" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Ask For Jane
