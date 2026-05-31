@@ -4805,8 +4805,6 @@ http://filex.me:8080//live/shafiq02/1234/957585.ts
 http://filex.me:8080//live/shafiq02/1234/957584.ts
 #EXTINF:-1 tvg-id="" tvg-name="CRICKET | CRICLIFE 1 FHD" tvg-logo="https://www.ooredoo.qa/web/wp-content/uploads/2023/08/10-CricLife1-Logo_02_Web-site-logo-150x120pxl_.png" group-title="IND | CRICKET HD",CRICKET | CRICLIFE 1 FHD
 http://filex.me:8080//live/shafiq02/1234/1342651.ts
-#EXTINF:-1 tvg-id="" tvg-name="CRICKET | CRICBUZZ 2 FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXjgojAGT94RlJJHFtVw3LBJXMgk0m9dYyLTF4laNtmDKpdj3rCRaWqx_9WtgRtAAVPt4&usqp=CAU" group-title="IND | CRICKET HD",CRICKET | CRICBUZZ 2 FHD
-http://filex.me:8080//live/shafiq02/1234/1342653.ts
 #EXTINF:-1 tvg-id="" tvg-name="CRICKET (1)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStx7da_qa94FyoeuOHp7jhGWruG_Xw4KO8pEXlHLQgNT5Q8Jjtke-0mX8&s=10" group-title="PSL | CHAMPION LEAGUE (2026)",CRICKET (1)
 http://filex.me:8080//live/shafiq02/1234/905187.ts
 #EXTINF:-1 tvg-id="" tvg-name="CRICKET (2) " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStx7da_qa94FyoeuOHp7jhGWruG_Xw4KO8pEXlHLQgNT5Q8Jjtke-0mX8&s=10" group-title="PSL | CHAMPION LEAGUE (2026)",CRICKET (2) 
@@ -25199,6 +25197,8 @@ http://filex.me:8080//live/shafiq02/1234/908780.ts
 http://filex.me:8080//live/shafiq02/1234/908774.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR: WANASAH HD" tvg-logo="" group-title="✯MUSIC✯اغاني",AR: WANASAH HD
 http://filex.me:8080//live/shafiq02/1234/908783.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nawab Cafe (2026) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mZ3By7MbNzMx2ANQ9MdYnwMYlQ3.jpg" group-title="BOLLYWOOD | 2026",Nawab Cafe (2026) (Hindi)
+http://filex.me:8080/movie/shafiq02/1234/1361550.mp4
 #EXTINF:-1 tvg-id="" tvg-name="WWE NXT (19th May 2026)" tvg-logo="http://upload.wikimedia.org/wikipedia/en/9/9e/RAW_Netflix_Anniversary_poster.jpg" group-title="✯WWE✯",WWE NXT (19th May 2026)
 http://filex.me:8080/movie/shafiq02/1234/1361314.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Monday Night Raw English (18.05.2026)" tvg-logo="http://upload.wikimedia.org/wikipedia/en/9/9e/RAW_Netflix_Anniversary_poster.jpg" group-title="✯WWE✯",Monday Night Raw English (18.05.2026)
@@ -30491,6 +30491,10 @@ http://filex.me:8080/movie/shafiq02/1234/851462.mp4
 http://filex.me:8080/movie/shafiq02/1234/851461.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Mohra (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nWAptaCNiTIJtv9cYqfF5E7qm0I.jpg" group-title="BOLLYWOOD | CLASSIC ",Mohra (1994)
 http://filex.me:8080/movie/shafiq02/1234/685811.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Race (2025) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oTLcRCSuunNV8ML81VlU4spIpMi.jpg" group-title="HINDI DUB | 2025",The Race (2025) (Hindi)
+http://filex.me:8080/movie/shafiq02/1234/1361579.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lee Cronin's The Mummy (2026) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uIb9Tvae5haF0XcQBaPyufmxbb0.jpg" group-title="HINDI DUB | 2026",Lee Cronin's The Mummy (2026) (Hindi)
+http://filex.me:8080/movie/shafiq02/1234/1361566.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Succubus (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7AfBMebJS8mEtSV5ymdxEPpgvXb.jpg" group-title="HINDI DUB | 2023-2024",Succubus (2024)
 http://filex.me:8080/movie/shafiq02/1234/1361468.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Marshmallow (2025) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qZseaOw1BgLkJsfiEmNpS1KhH8d.jpg" group-title="HINDI DUB | 2025",Marshmallow (2025) (Hindi)
@@ -47323,6 +47327,40 @@ http://filex.me:8080//live/shafiq02/1234/522602.ts
 http://filex.me:8080//live/shafiq02/1234/522603.ts
 #EXTINF:-1 tvg-id="464083" tvg-name="COlors Super HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/300/-/2025-04-08/250408785000.jpg" group-title="IND | KANNADA",COlors Super HD
 http://filex.me:8080//live/shafiq02/1234/522604.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kara (2026) (Kannada)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uIrFdMWlJFdc1jPBP9bxeaISCDj.jpg" group-title="KANNADA | 2025 - 2026",Kara (2026) (Kannada)
+http://filex.me:8080/movie/shafiq02/1234/1361578.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kara (2026) (Malayalam)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uIrFdMWlJFdc1jPBP9bxeaISCDj.jpg" group-title=" MALAYALAM | 2025 - 2026",Kara (2026) (Malayalam)
+http://filex.me:8080/movie/shafiq02/1234/1361577.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kara (2026) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uIrFdMWlJFdc1jPBP9bxeaISCDj.jpg" group-title="SOUTH INDIA | 2026",Kara (2026) (Hindi)
+http://filex.me:8080/movie/shafiq02/1234/1361576.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Karikaada (2026) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tL0skwRWivuNZHQD89baWynksct.jpg" group-title="SOUTH INDIA | 2026",Karikaada (2026) (Hindi)
+http://filex.me:8080/movie/shafiq02/1234/1361575.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mr and Mrs Bachelor (2025) (Tamil)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bDlNY3BDP0Ki7c2XWwckOkCzZeG.jpg" group-title="TAMIL | 2025 - 2026",Mr and Mrs Bachelor (2025) (Tamil)
+http://filex.me:8080/movie/shafiq02/1234/1361574.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Race (2025) (Tamil)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oTLcRCSuunNV8ML81VlU4spIpMi.jpg" group-title="TAMIL | 2025 - 2026",The Race (2025) (Tamil)
+http://filex.me:8080/movie/shafiq02/1234/1361573.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kara (2026) (Tamil)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uIrFdMWlJFdc1jPBP9bxeaISCDj.jpg" group-title="TAMIL | 2025 - 2026",Kara (2026) (Tamil)
+http://filex.me:8080/movie/shafiq02/1234/1361572.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Faces of Death (2026) (Kannada)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vPVY3S57lEooBLJCg6KGdMHkUxm.jpg" group-title="KANNADA | 2025 - 2026",Faces of Death (2026) (Kannada)
+http://filex.me:8080/movie/shafiq02/1234/1361561.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Leader (2026) (Kannada)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eitNeP5lMT67piVVA8h31lb5keN.jpg" group-title="KANNADA | 2025 - 2026",Leader (2026) (Kannada)
+http://filex.me:8080/movie/shafiq02/1234/1361560.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nawab Cafe (2026) (Kannada)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mZ3By7MbNzMx2ANQ9MdYnwMYlQ3.jpg" group-title="KANNADA | 2025 - 2026",Nawab Cafe (2026) (Kannada)
+http://filex.me:8080/movie/shafiq02/1234/1361559.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Leader (2026) (Malayalam)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eitNeP5lMT67piVVA8h31lb5keN.jpg" group-title=" MALAYALAM | 2025 - 2026",Leader (2026) (Malayalam)
+http://filex.me:8080/movie/shafiq02/1234/1361558.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nawab Cafe (2026) (Malayalam)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mZ3By7MbNzMx2ANQ9MdYnwMYlQ3.jpg" group-title=" MALAYALAM | 2025 - 2026",Nawab Cafe (2026) (Malayalam)
+http://filex.me:8080/movie/shafiq02/1234/1361557.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Faces of Death (2026) (Malayalam)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vPVY3S57lEooBLJCg6KGdMHkUxm.jpg" group-title=" MALAYALAM | 2025 - 2026",Faces of Death (2026) (Malayalam)
+http://filex.me:8080/movie/shafiq02/1234/1361556.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Faces of Death (2026) (Tamil)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vPVY3S57lEooBLJCg6KGdMHkUxm.jpg" group-title="TAMIL | 2025 - 2026",Faces of Death (2026) (Tamil)
+http://filex.me:8080/movie/shafiq02/1234/1361549.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lee Cronin's The Mummy (2026) (Tamil)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uIb9Tvae5haF0XcQBaPyufmxbb0.jpg" group-title="TAMIL | 2025 - 2026",Lee Cronin's The Mummy (2026) (Tamil)
+http://filex.me:8080/movie/shafiq02/1234/1361548.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Blast (2026) (Tamil) (CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ho824aZtnBzE6FuJRn2znQCq4qQ.jpg" group-title="TAMIL | 2025 - 2026",Blast (2026) (Tamil) (CAM)
+http://filex.me:8080/movie/shafiq02/1234/1361545.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Leader (2026) (Tamil)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eitNeP5lMT67piVVA8h31lb5keN.jpg" group-title="TAMIL | 2025 - 2026",Leader (2026) (Tamil)
+http://filex.me:8080/movie/shafiq02/1234/1361544.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Nawab Cafe (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mZ3By7MbNzMx2ANQ9MdYnwMYlQ3.jpg" group-title="SOUTH INDIA | 2026",Nawab Cafe (2026)
 http://filex.me:8080/movie/shafiq02/1234/1361467.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Mahasenha (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kQeOxMQ1F8E5vixcLfju3vYRT0U.jpg" group-title="SOUTH INDIA | 2026",Mahasenha (2025)
@@ -49960,41 +49998,3 @@ http://filex.me:8080/movie/shafiq02/1234/1199808.mkv
 #EXTINF:-1 tvg-id="" tvg-name="AR_ Mr Holmes" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Mr Holmes
 http://filex.me:8080/movie/shafiq02/1234/1199806.mp4
 #EXTINF:-1 tvg-id="" tvg-name="AR_ Babyteeth" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Babyteeth
-http://filex.me:8080/movie/shafiq02/1234/1199804.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Blue Jay" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Blue Jay
-http://filex.me:8080/movie/shafiq02/1234/1199802.mkv
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Wonder" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Wonder
-http://filex.me:8080/movie/shafiq02/1234/1199801.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Same Kind Of Different As Me" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Same Kind Of Different As Me
-http://filex.me:8080/movie/shafiq02/1234/1199799.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ American History X" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ American History X
-http://filex.me:8080/movie/shafiq02/1234/1199797.mkv
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Madeline's Madeline" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Madeline's Madeline
-http://filex.me:8080/movie/shafiq02/1234/1199795.mkv
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Inherit The Viper" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Inherit The Viper
-http://filex.me:8080/movie/shafiq02/1234/1199793.mkv
-#EXTINF:-1 tvg-id="" tvg-name="AR_ The Call Of The Wild" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ The Call Of The Wild
-http://filex.me:8080/movie/shafiq02/1234/1199792.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Jacob's Ladder" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Jacob's Ladder
-http://filex.me:8080/movie/shafiq02/1234/1199790.mkv
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Most Beautiful Island" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Most Beautiful Island
-http://filex.me:8080/movie/shafiq02/1234/1199788.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Under The Influence" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Under The Influence
-http://filex.me:8080/movie/shafiq02/1234/1199787.mkv
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Atlantique" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Atlantique
-http://filex.me:8080/movie/shafiq02/1234/1199785.mkv
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Chemical Hearts" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Chemical Hearts
-http://filex.me:8080/movie/shafiq02/1234/1199783.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ The Postcard Killings" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ The Postcard Killings
-http://filex.me:8080/movie/shafiq02/1234/1199782.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Ana" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Ana
-http://filex.me:8080/movie/shafiq02/1234/1199780.mkv
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Freeheld" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Freeheld
-http://filex.me:8080/movie/shafiq02/1234/1199778.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Unpregnant" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Unpregnant
-http://filex.me:8080/movie/shafiq02/1234/1199777.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ My Cousin Rachel" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ My Cousin Rachel
-http://filex.me:8080/movie/shafiq02/1234/1199775.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ This Is Where I Leave You" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ This Is Where I Leave You
-http://filex.me:8080/movie/shafiq02/1234/1199773.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Titanic" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Titanic
