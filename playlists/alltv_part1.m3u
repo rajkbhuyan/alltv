@@ -3745,19 +3745,19 @@ http://filex.me:8080//live/shafiq02/1234/246985.ts
 http://filex.me:8080//live/shafiq02/1234/246984.ts
 #EXTINF:-1 tvg-id="" tvg-name="PK | Metro 1 NEWS 4K" tvg-logo="https://www.lyngsat.com/logo/tv/mm/metro1_news_pk.png" group-title="PAK | NEWS 4K",PK | Metro 1 NEWS 4K
 http://filex.me:8080//live/shafiq02/1234/246982.ts
-#EXTINF:-1 tvg-id="441259" tvg-name="IN | ZEE TV HD." tvg-logo="https://www.lyngsat.com/logo/tv/zz/zee-tv-in.png" group-title="IND | INTERTAINMENT 4K",IN | ZEE TV HD.
+#EXTINF:-1 tvg-id="404001" tvg-name="IN | ZEE TV HD." tvg-logo="https://www.lyngsat.com/logo/tv/zz/zee-tv-in.png" group-title="IND | INTERTAINMENT 4K",IN | ZEE TV HD.
 http://filex.me:8080//live/shafiq02/1234/911280.ts
 #EXTINF:-1 tvg-id="441259" tvg-name="IN | ZEE TV 4K" tvg-logo="https://www.lyngsat.com/logo/tv/zz/zee-tv-in.png" group-title="IND | INTERTAINMENT 4K",IN | ZEE TV 4K
 http://filex.me:8080//live/shafiq02/1234/275034.ts
-#EXTINF:-1 tvg-id="463919" tvg-name="IN | SONY HD." tvg-logo="https://www.lyngsat.com/logo/tv/ss/set_in.png" group-title="IND | INTERTAINMENT 4K",IN | SONY HD.
+#EXTINF:-1 tvg-id="404001" tvg-name="IN | SONY HD." tvg-logo="https://www.lyngsat.com/logo/tv/ss/set_in.png" group-title="IND | INTERTAINMENT 4K",IN | SONY HD.
 http://filex.me:8080//live/shafiq02/1234/911285.ts
 #EXTINF:-1 tvg-id="463919" tvg-name="IN | SONY 4K" tvg-logo="https://www.lyngsat.com/logo/tv/ss/set_in.png" group-title="IND | INTERTAINMENT 4K",IN | SONY 4K
 http://filex.me:8080//live/shafiq02/1234/275035.ts
-#EXTINF:-1 tvg-id="463821" tvg-name="IN | COLORS HD." tvg-logo="https://www.lyngsat.com/logo/tv/cc/colors-in.png" group-title="IND | INTERTAINMENT 4K",IN | COLORS HD.
+#EXTINF:-1 tvg-id="404001" tvg-name="IN | COLORS HD." tvg-logo="https://www.lyngsat.com/logo/tv/cc/colors-in.png" group-title="IND | INTERTAINMENT 4K",IN | COLORS HD.
 http://filex.me:8080//live/shafiq02/1234/911289.ts
 #EXTINF:-1 tvg-id="463821" tvg-name="IN | COLORS 4K" tvg-logo="https://www.lyngsat.com/logo/tv/cc/colors-in.png" group-title="IND | INTERTAINMENT 4K",IN | COLORS 4K
 http://filex.me:8080//live/shafiq02/1234/275036.ts
-#EXTINF:-1 tvg-id="463922" tvg-name="IN | SONY SAB HD." tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sab-tv-in.png" group-title="IND | INTERTAINMENT 4K",IN | SONY SAB HD.
+#EXTINF:-1 tvg-id="404001" tvg-name="IN | SONY SAB HD." tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sab-tv-in.png" group-title="IND | INTERTAINMENT 4K",IN | SONY SAB HD.
 http://filex.me:8080//live/shafiq02/1234/911319.ts
 #EXTINF:-1 tvg-id="463922" tvg-name="IN | SONY SAB 4K" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sab-tv-in.png" group-title="IND | INTERTAINMENT 4K",IN | SONY SAB 4K
 http://filex.me:8080//live/shafiq02/1234/275044.ts
@@ -3773,7 +3773,7 @@ http://filex.me:8080//live/shafiq02/1234/910391.ts
 http://filex.me:8080//live/shafiq02/1234/911272.ts
 #EXTINF:-1 tvg-id="464042" tvg-name="IN | COLORS RISHTEY" tvg-logo="https://www.lyngsat.com/logo/tv/cc/colors-rishtey-in.png" group-title="IND | INTERTAINMENT 4K",IN | COLORS RISHTEY
 http://filex.me:8080//live/shafiq02/1234/911275.ts
-#EXTINF:-1 tvg-id="463968" tvg-name="IND_COLORS INFINITY FHD" tvg-logo="" group-title="IND | INTERTAINMENT 4K",IND_COLORS INFINITY FHD
+#EXTINF:-1 tvg-id="404001" tvg-name="IND_COLORS INFINITY FHD" tvg-logo="" group-title="IND | INTERTAINMENT 4K",IND_COLORS INFINITY FHD
 http://filex.me:8080//live/shafiq02/1234/911321.ts
 #EXTINF:-1 tvg-id="463838" tvg-name="IND_COLORS CINEPLEX BOLLYWOOD" tvg-logo="" group-title="IND | INTERTAINMENT 4K",IND_COLORS CINEPLEX BOLLYWOOD
 http://filex.me:8080//live/shafiq02/1234/911273.ts
@@ -3787,7 +3787,7 @@ http://filex.me:8080//live/shafiq02/1234/911271.ts
 http://filex.me:8080//live/shafiq02/1234/1345166.ts
 #EXTINF:-1 tvg-id="404001" tvg-name="IN | ZEE CAFE FHD" tvg-logo="" group-title="IND | INTERTAINMENT 4K",IN | ZEE CAFE FHD
 http://filex.me:8080//live/shafiq02/1234/911322.ts
-#EXTINF:-1 tvg-id="464096" tvg-name="IN | ZEE Bollywood 4K" tvg-logo="" group-title="IND | INTERTAINMENT 4K",IN | ZEE Bollywood 4K
+#EXTINF:-1 tvg-id="404001" tvg-name="IN | ZEE Bollywood 4K" tvg-logo="" group-title="IND | INTERTAINMENT 4K",IN | ZEE Bollywood 4K
 http://filex.me:8080//live/shafiq02/1234/275059.ts
 #EXTINF:-1 tvg-id="" tvg-name="IND_ZEE CLASSIC" tvg-logo="" group-title="IND | INTERTAINMENT 4K",IND_ZEE CLASSIC
 http://filex.me:8080//live/shafiq02/1234/911311.ts
@@ -25197,8 +25197,14 @@ http://filex.me:8080//live/shafiq02/1234/908780.ts
 http://filex.me:8080//live/shafiq02/1234/908774.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR: WANASAH HD" tvg-logo="" group-title="✯MUSIC✯اغاني",AR: WANASAH HD
 http://filex.me:8080//live/shafiq02/1234/908783.ts
+#EXTINF:-1 tvg-id="" tvg-name="Lord Curzon Ki Haveli (2023) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Hvhy3cVYCTWXvHDSX4XlCFfrec.jpg" group-title="BOLLYWOOD | 2026",Lord Curzon Ki Haveli (2023) (Hindi)
+http://filex.me:8080/movie/shafiq02/1234/1361704.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Great Grand Superhero (2026) (Hindi) (CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6CYmHknTN2UGGhqQUZh4tqQ6fEr.jpg" group-title="BOLLYWOOD | 2026",The Great Grand Superhero (2026) (Hindi) (CAM)
+http://filex.me:8080/movie/shafiq02/1234/1361562.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Nawab Cafe (2026) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mZ3By7MbNzMx2ANQ9MdYnwMYlQ3.jpg" group-title="BOLLYWOOD | 2026",Nawab Cafe (2026) (Hindi)
 http://filex.me:8080/movie/shafiq02/1234/1361550.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Waqt The Race Against Time (2005) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x6bor6Zkuj5FVt9B7YyztbeKOJ4.jpg" group-title="BOLLYWOOD | 2000-2009",Waqt The Race Against Time (2005) (Hindi)
+http://filex.me:8080/movie/shafiq02/1234/1361531.mkv
 #EXTINF:-1 tvg-id="" tvg-name="WWE NXT (19th May 2026)" tvg-logo="http://upload.wikimedia.org/wikipedia/en/9/9e/RAW_Netflix_Anniversary_poster.jpg" group-title="✯WWE✯",WWE NXT (19th May 2026)
 http://filex.me:8080/movie/shafiq02/1234/1361314.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Monday Night Raw English (18.05.2026)" tvg-logo="http://upload.wikimedia.org/wikipedia/en/9/9e/RAW_Netflix_Anniversary_poster.jpg" group-title="✯WWE✯",Monday Night Raw English (18.05.2026)
@@ -30491,6 +30497,8 @@ http://filex.me:8080/movie/shafiq02/1234/851462.mp4
 http://filex.me:8080/movie/shafiq02/1234/851461.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Mohra (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nWAptaCNiTIJtv9cYqfF5E7qm0I.jpg" group-title="BOLLYWOOD | CLASSIC ",Mohra (1994)
 http://filex.me:8080/movie/shafiq02/1234/685811.mp4
+#EXTINF:-1 tvg-id="" tvg-name="K-Pops! (2026) (Hindi)" tvg-logo="" group-title="HINDI DUB | 2026",K-Pops! (2026) (Hindi)
+http://filex.me:8080/movie/shafiq02/1234/1361705.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Race (2025) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oTLcRCSuunNV8ML81VlU4spIpMi.jpg" group-title="HINDI DUB | 2025",The Race (2025) (Hindi)
 http://filex.me:8080/movie/shafiq02/1234/1361579.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Lee Cronin's The Mummy (2026) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uIb9Tvae5haF0XcQBaPyufmxbb0.jpg" group-title="HINDI DUB | 2026",Lee Cronin's The Mummy (2026) (Hindi)
@@ -47327,6 +47335,22 @@ http://filex.me:8080//live/shafiq02/1234/522602.ts
 http://filex.me:8080//live/shafiq02/1234/522603.ts
 #EXTINF:-1 tvg-id="464083" tvg-name="COlors Super HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/300/-/2025-04-08/250408785000.jpg" group-title="IND | KANNADA",COlors Super HD
 http://filex.me:8080//live/shafiq02/1234/522604.ts
+#EXTINF:-1 tvg-id="" tvg-name="Shree Baba Neeb Karori Maharaj (2026) (Hindi) (CAM)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTQxNGQ3MWItYTlmOS00ZjdjLWEyODYtY2JjY2UyOTQxNTk4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="SOUTH INDIA | 2026",Shree Baba Neeb Karori Maharaj (2026) (Hindi) (CAM)
+http://filex.me:8080/movie/shafiq02/1234/1361703.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aadujeevitham: The Goat Life (2024) (Kannada)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vwRkVhvJuAFz4i8udXMNkcJCztc.jpg" group-title="KANNADA | 2023 - 2024",Aadujeevitham: The Goat Life (2024) (Kannada)
+http://filex.me:8080/movie/shafiq02/1234/1361702.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kattalan (2026) (Tamil) (CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/53FATyQirV8BuBcrsQMGPvGKgCu.jpg" group-title="TAMIL | 2025 - 2026",Kattalan (2026) (Tamil) (CAM)
+http://filex.me:8080/movie/shafiq02/1234/1361701.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mukhtiar Chadha (2015) (Tamil)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mcPSlda3ouuEhvXf1XLd8CH1ye3.jpg" group-title="✯TAMIL✯ MIX",Mukhtiar Chadha (2015) (Tamil)
+http://filex.me:8080/movie/shafiq02/1234/1361700.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Exorcism of Emily Rose (2005) (Tamil)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qMN0HIP34f736kkQcfvTfmL9TP3.jpg" group-title="✯TAMIL✯ MIX",The Exorcism of Emily Rose (2005) (Tamil)
+http://filex.me:8080/movie/shafiq02/1234/1361699.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aadujeevitham: The Goat Life (2024) (Tamil)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vwRkVhvJuAFz4i8udXMNkcJCztc.jpg" group-title="✯TAMIL✯ MIX",Aadujeevitham: The Goat Life (2024) (Tamil)
+http://filex.me:8080/movie/shafiq02/1234/1361698.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aadujeevitham: The Goat Life (2024) (Malayalam)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vwRkVhvJuAFz4i8udXMNkcJCztc.jpg" group-title=" MALAYALAM | 2023 - 2024",Aadujeevitham: The Goat Life (2024) (Malayalam)
+http://filex.me:8080/movie/shafiq02/1234/1361695.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aadujeevitham: The Goat Life (2024) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vwRkVhvJuAFz4i8udXMNkcJCztc.jpg" group-title="SOUTH INDIA | 2023-2024",Aadujeevitham: The Goat Life (2024) (Hindi)
+http://filex.me:8080/movie/shafiq02/1234/1361693.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Kara (2026) (Kannada)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uIrFdMWlJFdc1jPBP9bxeaISCDj.jpg" group-title="KANNADA | 2025 - 2026",Kara (2026) (Kannada)
 http://filex.me:8080/movie/shafiq02/1234/1361578.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Kara (2026) (Malayalam)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uIrFdMWlJFdc1jPBP9bxeaISCDj.jpg" group-title=" MALAYALAM | 2025 - 2026",Kara (2026) (Malayalam)
@@ -47353,10 +47377,18 @@ http://filex.me:8080/movie/shafiq02/1234/1361558.mp4
 http://filex.me:8080/movie/shafiq02/1234/1361557.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Faces of Death (2026) (Malayalam)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vPVY3S57lEooBLJCg6KGdMHkUxm.jpg" group-title=" MALAYALAM | 2025 - 2026",Faces of Death (2026) (Malayalam)
 http://filex.me:8080/movie/shafiq02/1234/1361556.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kattalan (2026) (Hindi) (CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9OA6y2GdbXuJ5PAMMMawNBIkrZA.jpg" group-title="SOUTH INDIA | 2026",Kattalan (2026) (Hindi) (CAM)
+http://filex.me:8080/movie/shafiq02/1234/1361552.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mahasenha (2025) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kQeOxMQ1F8E5vixcLfju3vYRT0U.jpg" group-title="SOUTH INDIA | 2026",Mahasenha (2025) (Hindi)
+http://filex.me:8080/movie/shafiq02/1234/1361551.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Faces of Death (2026) (Tamil)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vPVY3S57lEooBLJCg6KGdMHkUxm.jpg" group-title="TAMIL | 2025 - 2026",Faces of Death (2026) (Tamil)
 http://filex.me:8080/movie/shafiq02/1234/1361549.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Lee Cronin's The Mummy (2026) (Tamil)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uIb9Tvae5haF0XcQBaPyufmxbb0.jpg" group-title="TAMIL | 2025 - 2026",Lee Cronin's The Mummy (2026) (Tamil)
 http://filex.me:8080/movie/shafiq02/1234/1361548.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Léon: The Professional (1994) (Tamil)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bxB2q91nKYp8JNzqE7t7TWBVupB.jpg" group-title="✯TAMIL✯ MIX",Léon: The Professional (1994) (Tamil)
+http://filex.me:8080/movie/shafiq02/1234/1361547.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Moneyball (2011) (Tamil)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4yIQq1e6iOcaZ5rLDG3lZBP3j7a.jpg" group-title="✯TAMIL✯ MIX",Moneyball (2011) (Tamil)
+http://filex.me:8080/movie/shafiq02/1234/1361546.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Blast (2026) (Tamil) (CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ho824aZtnBzE6FuJRn2znQCq4qQ.jpg" group-title="TAMIL | 2025 - 2026",Blast (2026) (Tamil) (CAM)
 http://filex.me:8080/movie/shafiq02/1234/1361545.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Leader (2026) (Tamil)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eitNeP5lMT67piVVA8h31lb5keN.jpg" group-title="TAMIL | 2025 - 2026",Leader (2026) (Tamil)
@@ -49966,35 +49998,3 @@ http://filex.me:8080/movie/shafiq02/1234/1199837.mp4
 #EXTINF:-1 tvg-id="" tvg-name="AR_ Luce" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Luce
 http://filex.me:8080/movie/shafiq02/1234/1199835.mkv
 #EXTINF:-1 tvg-id="" tvg-name="AR_ Sweet Virginia" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Sweet Virginia
-http://filex.me:8080/movie/shafiq02/1234/1199833.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Ithaca" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Ithaca
-http://filex.me:8080/movie/shafiq02/1234/1199831.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ GoodFellas" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ GoodFellas
-http://filex.me:8080/movie/shafiq02/1234/1199829.mkv
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Judy" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Judy
-http://filex.me:8080/movie/shafiq02/1234/1199827.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Free Rein_ Valentine's Day" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Free Rein_ Valentine's Day
-http://filex.me:8080/movie/shafiq02/1234/1199826.mkv
-#EXTINF:-1 tvg-id="" tvg-name="AR_ End Of Sentence" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ End Of Sentence
-http://filex.me:8080/movie/shafiq02/1234/1199824.mkv
-#EXTINF:-1 tvg-id="" tvg-name="AR_ The Dawn" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ The Dawn
-http://filex.me:8080/movie/shafiq02/1234/1199822.mkv
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Light Of My Life" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Light Of My Life
-http://filex.me:8080/movie/shafiq02/1234/1199821.mkv
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Carga" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Carga
-http://filex.me:8080/movie/shafiq02/1234/1199819.mkv
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Room" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Room
-http://filex.me:8080/movie/shafiq02/1234/1199817.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Odd Man Rush" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Odd Man Rush
-http://filex.me:8080/movie/shafiq02/1234/1199816.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Beyond The Night" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Beyond The Night
-http://filex.me:8080/movie/shafiq02/1234/1199814.mkv
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Military Wives" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Military Wives
-http://filex.me:8080/movie/shafiq02/1234/1199812.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Second Act" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Second Act
-http://filex.me:8080/movie/shafiq02/1234/1199810.mkv
-#EXTINF:-1 tvg-id="" tvg-name="AR_ I'm Not Here" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ I'm Not Here
-http://filex.me:8080/movie/shafiq02/1234/1199808.mkv
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Mr Holmes" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Mr Holmes
-http://filex.me:8080/movie/shafiq02/1234/1199806.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Babyteeth" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Babyteeth
