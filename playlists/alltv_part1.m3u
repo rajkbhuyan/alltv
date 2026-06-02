@@ -25197,6 +25197,10 @@ http://filex.me:8080//live/shafiq02/1234/908780.ts
 http://filex.me:8080//live/shafiq02/1234/908774.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR: WANASAH HD" tvg-logo="" group-title="✯MUSIC✯اغاني",AR: WANASAH HD
 http://filex.me:8080//live/shafiq02/1234/908783.ts
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night 277: Song vs. Figueiredo (2026) (Main Card)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kYMQ13Iax6FYLyikLRfwI7boHIN.jpg" group-title="✯UFC FIGHT✯",UFC Fight Night 277: Song vs. Figueiredo (2026) (Main Card)
+http://filex.me:8080/movie/shafiq02/1234/1362036.mp4
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night 277: Song vs. Figueiredo (2026) (Prelims)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kYMQ13Iax6FYLyikLRfwI7boHIN.jpg" group-title="✯UFC FIGHT✯",UFC Fight Night 277: Song vs. Figueiredo (2026) (Prelims)
+http://filex.me:8080/movie/shafiq02/1234/1362035.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Lord Curzon Ki Haveli (2023) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Hvhy3cVYCTWXvHDSX4XlCFfrec.jpg" group-title="BOLLYWOOD | 2026",Lord Curzon Ki Haveli (2023) (Hindi)
 http://filex.me:8080/movie/shafiq02/1234/1361704.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Great Grand Superhero (2026) (Hindi) (CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6CYmHknTN2UGGhqQUZh4tqQ6fEr.jpg" group-title="BOLLYWOOD | 2026",The Great Grand Superhero (2026) (Hindi) (CAM)
@@ -49994,7 +49998,3 @@ http://filex.me:8080/movie/shafiq02/1234/1199840.mp4
 #EXTINF:-1 tvg-id="" tvg-name="AR_ Misconduct" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Misconduct
 http://filex.me:8080/movie/shafiq02/1234/1199839.mp4
 #EXTINF:-1 tvg-id="" tvg-name="AR_ Rialto" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Rialto
-http://filex.me:8080/movie/shafiq02/1234/1199837.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Luce" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Luce
-http://filex.me:8080/movie/shafiq02/1234/1199835.mkv
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Sweet Virginia" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Sweet Virginia
