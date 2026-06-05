@@ -13,8 +13,6 @@ http://filex.me:8080/movie/shafiq02/1234/877114.mp4
 http://filex.me:8080/movie/shafiq02/1234/877113.mp4
 #EXTINF:-1 tvg-id="" tvg-name="In the Mouth of Madness (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/msh4tEUzbnEqlHcFOUH4O0Zti8r.jpg" group-title="HOLLYWOOD | 90s",In the Mouth of Madness (1995)
 http://filex.me:8080/movie/shafiq02/1234/877112.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ghost Rider (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1pyU94dAY7npDQCKuxCSyX9KthN.jpg" group-title="HOLLYWOOD | 2006-2007",Ghost Rider (2007)
-http://filex.me:8080/movie/shafiq02/1234/877111.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Where's the Money (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7PNa5L06uqYte4FKnkYEzXdkFwn.jpg" group-title="HOLLYWOOD | 2016-2017",Where's the Money (2017)
 http://filex.me:8080/movie/shafiq02/1234/877110.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Dark City (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tNPEGju4DpTdbhBphNmZoEi9Bd3.jpg" group-title="HOLLYWOOD | 90s",Dark City (1998)
@@ -1513,6 +1511,8 @@ http://filex.me:8080/movie/shafiq02/1234/876336.mp4
 http://filex.me:8080/movie/shafiq02/1234/876335.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Sex Tape (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pFdS7SIdjcrYXtf141dabWVly9B.jpg" group-title="HOLLYWOOD | 2014-2015",Sex Tape (2014)
 http://filex.me:8080/movie/shafiq02/1234/876334.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Zombeid (2026) CAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gy8Y1TELd0guAYcBP5QHnI7Xp6V.jpg" group-title="ON DEMAND",Zombeid (2026) CAM
+http://filex.me:8080/movie/shafiq02/1234/1364308.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Dhabkaaro (2026) (Gujarati) (CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sCFITXvOn1q1U8LG4xwXcImS22y.jpg" group-title="✯GUJRATI✯ MIX",Dhabkaaro (2026) (Gujarati) (CAM)
 http://filex.me:8080/movie/shafiq02/1234/1363252.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Rescue Dawn (2006) (Telugu)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ymPlV2ymUBSctfRzpehFOxFmJiS.jpg" group-title="✯TELUGU✯",Rescue Dawn (2006) (Telugu)
@@ -2707,8 +2707,12 @@ http://filex.me:8080/movie/shafiq02/1234/954997.mp4
 http://filex.me:8080/movie/shafiq02/1234/954967.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Kairee (2025)" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGEyNTM1NDItMDI4My00MzcyLTkwY2UtMzZmZmEyOWQ4ZWQ1XkEyXkFqcGc@._V1_.jpg" group-title="✯MARATHI✯ MIX",Kairee (2025)
 http://filex.me:8080/movie/shafiq02/1234/954854.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ice Age: Collision Course (2016) HIN+ENG " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/okF78W1AcXAenlYFE3vna9Uuqjp.jpg" group-title="ON DEMAND",Ice Age: Collision Course (2016) HIN+ENG 
+http://filex.me:8080/movie/shafiq02/1234/949958.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Warning (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0iPHGvzEIvoiTkBVVMWOuMGarH.jpg" group-title="✯PUNJABI✯ MIX",Warning (2021)
 http://filex.me:8080/movie/shafiq02/1234/934318.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gone in Sixty Seconds (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fToQDmkBtiXYGh9xfgAh3gpo6GZ.jpg" group-title="ON DEMAND",Gone in Sixty Seconds (2000)
+http://filex.me:8080/movie/shafiq02/1234/933693.mkv
 #EXTINF:-1 tvg-id="" tvg-name="IT: Clash" tvg-logo="" group-title="✯ITALIAN✯MOVIES",IT: Clash
 http://filex.me:8080/movie/shafiq02/1234/915760.mp4
 #EXTINF:-1 tvg-id="" tvg-name="IT: Civilta Perduta" tvg-logo="https://image.tmdb.org/t/p/original/7N2lOb7x2ym0p4xrDKkN72DOZkQ.jpg" group-title="✯ITALIAN✯MOVIES",IT: Civilta Perduta
@@ -11517,6 +11521,8 @@ http://filex.me:8080/movie/shafiq02/1234/899365.mp4
 http://filex.me:8080/movie/shafiq02/1234/899364.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Frankenstein and the Monster from Hell (1974)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lKcAIHSOHquRgit3F59Z81vdMdl.jpg" group-title="✯HORROR✯ MIX",Frankenstein and the Monster from Hell (1974)
 http://filex.me:8080/movie/shafiq02/1234/899363.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ghost Rider (2007) HIN+ENG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1pyU94dAY7npDQCKuxCSyX9KthN.jpg" group-title="ON DEMAND",Ghost Rider (2007) HIN+ENG
+http://filex.me:8080/movie/shafiq02/1234/877111.mkv
 #EXTINF:-1 tvg-id="" tvg-name="In the Sub for Love (2024) (Turkish)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8AgHsphAafmNANTKdBQfKmgGbhi.jpg" group-title="✯TURK✯ MOVIES",In the Sub for Love (2024) (Turkish)
 http://filex.me:8080/movie/shafiq02/1234/1362322.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Milky☆Subway: The Galactic Limited Express - the Movie (2026) (Turkish)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2PzHbEOfCaC2fS8uCfeylySnaUG.jpg" group-title="✯TURK✯ MOVIES",Milky☆Subway: The Galactic Limited Express - the Movie (2026) (Turkish)
@@ -27593,8 +27599,6 @@ http://filex.me:8080/movie/shafiq02/1234/933696.mkv
 http://filex.me:8080/movie/shafiq02/1234/933695.mkv
 #EXTINF:-1 tvg-id="" tvg-name="NC: Instant Death" tvg-logo="https://image.tmdb.org/t/p/original/sVm3AUJhZb6lPjkhTVLtSTZQIV4.jpg" group-title="✯NORDIC✯ MOVIES",NC: Instant Death
 http://filex.me:8080/movie/shafiq02/1234/933694.mkv
-#EXTINF:-1 tvg-id="" tvg-name="NC: Gone In 60 Seconds" tvg-logo="" group-title="✯NORDIC✯ MOVIES",NC: Gone In 60 Seconds
-http://filex.me:8080/movie/shafiq02/1234/933693.mkv
 #EXTINF:-1 tvg-id="" tvg-name="NC: Gnome Alone" tvg-logo="https://image.tmdb.org/t/p/original/jWB0zhk1Rj1tIWUM98Wsh15gkiW.jpg" group-title="✯NORDIC✯ MOVIES",NC: Gnome Alone
 http://filex.me:8080/movie/shafiq02/1234/933692.mkv
 #EXTINF:-1 tvg-id="" tvg-name="NC: Elevator" tvg-logo="https://image.tmdb.org/t/p/original/1V8G6Lkxhv9ztJuBhXlGxyUp1MF.jpg" group-title="✯NORDIC✯ MOVIES",NC: Elevator
@@ -49994,7 +49998,3 @@ http://filex.me:8080/movie/shafiq02/1234/922490.mkv
 #EXTINF:-1 tvg-id="" tvg-name="FR: Batman And Robin" tvg-logo="https://image.tmdb.org/t/p/original/hIjHbdjOQFDDLlkihPjoNdTLswj.jpg" group-title="✯FRANCE✯ MOVIES",FR: Batman And Robin
 http://filex.me:8080/movie/shafiq02/1234/922489.mkv
 #EXTINF:-1 tvg-id="" tvg-name="FR: Wonder Park" tvg-logo="https://image.tmdb.org/t/p/original/vtt6mB2oywdpwYVGK0PS87M4aAv.jpg" group-title="✯FRANCE✯ MOVIES",FR: Wonder Park
-http://filex.me:8080/movie/shafiq02/1234/922488.mkv
-#EXTINF:-1 tvg-id="" tvg-name="FR: US" tvg-logo="https://image.tmdb.org/t/p/original/hVGBsF3MvHuBxLsAaBVjNoU58X.jpg" group-title="✯FRANCE✯ MOVIES",FR: US
-http://filex.me:8080/movie/shafiq02/1234/922487.mkv
-#EXTINF:-1 tvg-id="" tvg-name="FR: The Aftermath" tvg-logo="https://image.tmdb.org/t/p/original/oigveQs2x8BmtOXZYjR5qPJhhbk.jpg" group-title="✯FRANCE✯ MOVIES",FR: The Aftermath

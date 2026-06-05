@@ -25197,6 +25197,8 @@ http://filex.me:8080//live/shafiq02/1234/908780.ts
 http://filex.me:8080//live/shafiq02/1234/908774.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR: WANASAH HD" tvg-logo="" group-title="✯MUSIC✯اغاني",AR: WANASAH HD
 http://filex.me:8080//live/shafiq02/1234/908783.ts
+#EXTINF:-1 tvg-id="" tvg-name="Maa Behen (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dpQIeEunpgj0C4rngb6OFb4zSd1.jpg" group-title="BOLLYWOOD | 2026",Maa Behen (2026)
+http://filex.me:8080/movie/shafiq02/1234/1364249.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Friday Night SmackDown (29.05.2026)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrZDPcmhh2nqHwWK5R3XR0ioL1WvRpZJbzlBRgcvgBFwrts_8PczqRKNve&s=10" group-title="✯WWE✯",Friday Night SmackDown (29.05.2026)
 http://filex.me:8080/movie/shafiq02/1234/1362044.mp4
 #EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night 277: Song vs. Figueiredo (2026) (Main Card)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kYMQ13Iax6FYLyikLRfwI7boHIN.jpg" group-title="✯UFC FIGHT✯",UFC Fight Night 277: Song vs. Figueiredo (2026) (Main Card)
@@ -30503,6 +30505,8 @@ http://filex.me:8080/movie/shafiq02/1234/851462.mp4
 http://filex.me:8080/movie/shafiq02/1234/851461.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Mohra (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nWAptaCNiTIJtv9cYqfF5E7qm0I.jpg" group-title="BOLLYWOOD | CLASSIC ",Mohra (1994)
 http://filex.me:8080/movie/shafiq02/1234/685811.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mission: Impossible - The Final Reckoning (2025) Hindi + English " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z53D72EAOxGRqdr7KXXWp9dJiDe.jpg" group-title="HINDI DUB | 2025",Mission: Impossible - The Final Reckoning (2025) Hindi + English 
+http://filex.me:8080/movie/shafiq02/1234/1364302.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Case 137 (2025) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t93h1ptV098Q6vzl9gfEymJQ6Qp.jpg" group-title="HINDI DUB | 2025",Case 137 (2025) (Hindi)
 http://filex.me:8080/movie/shafiq02/1234/1363257.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Crazy Old Lady (2025) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pT28lZl2eYCNYFyxyThpSKttLfI.jpg" group-title="HINDI DUB | 2025",Crazy Old Lady (2025) (Hindi)
@@ -47359,6 +47363,8 @@ http://filex.me:8080//live/shafiq02/1234/522602.ts
 http://filex.me:8080//live/shafiq02/1234/522603.ts
 #EXTINF:-1 tvg-id="464083" tvg-name="COlors Super HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/300/-/2025-04-08/250408785000.jpg" group-title="IND | KANNADA",COlors Super HD
 http://filex.me:8080//live/shafiq02/1234/522604.ts
+#EXTINF:-1 tvg-id="" tvg-name="Peddi (2026) •CAM• Multi Languages " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kydPBzuU4TSmDOXCkgAdVFF8sgU.jpg" group-title="SOUTH INDIA | MULTI AUDIO",Peddi (2026) •CAM• Multi Languages 
+http://filex.me:8080/movie/shafiq02/1234/1364305.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Rescue Dawn (2006) (Tamil)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ymPlV2ymUBSctfRzpehFOxFmJiS.jpg" group-title="✯TAMIL✯ MIX",Rescue Dawn (2006) (Tamil)
 http://filex.me:8080/movie/shafiq02/1234/1363251.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The House Elf (2019) (Tamil)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/amn6ZxnazHGZAONxVVfra08L40M.jpg" group-title="✯TAMIL✯ MIX",The House Elf (2019) (Tamil)
@@ -49992,9 +49998,3 @@ http://filex.me:8080/movie/shafiq02/1234/1199873.mp4
 #EXTINF:-1 tvg-id="" tvg-name="AR_ Moonlight" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Moonlight
 http://filex.me:8080/movie/shafiq02/1234/1199871.mp4
 #EXTINF:-1 tvg-id="" tvg-name="AR_ Fishbowl" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Fishbowl
-http://filex.me:8080/movie/shafiq02/1234/1199869.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ King Lear" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ King Lear
-http://filex.me:8080/movie/shafiq02/1234/1199867.mkv
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Sunrise In Heaven" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Sunrise In Heaven
-http://filex.me:8080/movie/shafiq02/1234/1199865.mkv
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Miss Peregrine's Home For Peculiar Children" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Miss Peregrine's Home For Peculiar Children
