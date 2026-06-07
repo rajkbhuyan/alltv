@@ -3879,13 +3879,13 @@ http://filex.me:8080//live/shafiq02/1234/275054.ts
 http://filex.me:8080//live/shafiq02/1234/275058.ts
 #EXTINF:-1 tvg-id="" tvg-name="IND_ALL TIME MOVIES" tvg-logo="" group-title="IND | MOVIES",IND_ALL TIME MOVIES
 http://filex.me:8080//live/shafiq02/1234/911237.ts
-#EXTINF:-1 tvg-id="464104" tvg-name="IN | B4U MOVIES 4k" tvg-logo="https://www.lyngsat.com/logo/tv/bb/b4u_movies_in.png" group-title="IND | MOVIES",IN | B4U MOVIES 4k
+#EXTINF:-1 tvg-id="404001" tvg-name="IN | B4U MOVIES 4k" tvg-logo="https://www.lyngsat.com/logo/tv/bb/b4u_movies_in.png" group-title="IND | MOVIES",IN | B4U MOVIES 4k
 http://filex.me:8080//live/shafiq02/1234/911225.ts
 #EXTINF:-1 tvg-id="" tvg-name="IND_BHOJPURI CINEMA" tvg-logo="images.png" group-title="IND | MOVIES",IND_BHOJPURI CINEMA
 http://filex.me:8080//live/shafiq02/1234/911245.ts
 #EXTINF:-1 tvg-id="" tvg-name="IND_BIG MAGIC" tvg-logo="" group-title="IND | MOVIES",IND_BIG MAGIC
 http://filex.me:8080//live/shafiq02/1234/911254.ts
-#EXTINF:-1 tvg-id="463864" tvg-name="IND_DANGAL" tvg-logo="channels4_profile (2).jpg" group-title="IND | MOVIES",IND_DANGAL
+#EXTINF:-1 tvg-id="404001" tvg-name="IND_DANGAL" tvg-logo="channels4_profile (2).jpg" group-title="IND | MOVIES",IND_DANGAL
 http://filex.me:8080//live/shafiq02/1234/911244.ts
 #EXTINF:-1 tvg-id="404001" tvg-name="IND_DANGAL 2" tvg-logo="" group-title="IND | MOVIES",IND_DANGAL 2
 http://filex.me:8080//live/shafiq02/1234/911251.ts
@@ -3905,11 +3905,11 @@ http://filex.me:8080//live/shafiq02/1234/911253.ts
 http://filex.me:8080//live/shafiq02/1234/911238.ts
 #EXTINF:-1 tvg-id="" tvg-name="IND_MANORANJAN TV" tvg-logo="" group-title="IND | MOVIES",IND_MANORANJAN TV
 http://filex.me:8080//live/shafiq02/1234/911255.ts
-#EXTINF:-1 tvg-id="464293" tvg-name="IND_MN+ FHD" tvg-logo="" group-title="IND | MOVIES",IND_MN+ FHD
+#EXTINF:-1 tvg-id="404001" tvg-name="IND_MN+ FHD" tvg-logo="" group-title="IND | MOVIES",IND_MN+ FHD
 http://filex.me:8080//live/shafiq02/1234/911298.ts
-#EXTINF:-1 tvg-id="463999" tvg-name="IND_MNX" tvg-logo="" group-title="IND | MOVIES",IND_MNX
+#EXTINF:-1 tvg-id="404001" tvg-name="IND_MNX" tvg-logo="" group-title="IND | MOVIES",IND_MNX
 http://filex.me:8080//live/shafiq02/1234/911296.ts
-#EXTINF:-1 tvg-id="463999" tvg-name="IND_MNX FHD" tvg-logo="" group-title="IND | MOVIES",IND_MNX FHD
+#EXTINF:-1 tvg-id="404001" tvg-name="IND_MNX FHD" tvg-logo="" group-title="IND | MOVIES",IND_MNX FHD
 http://filex.me:8080//live/shafiq02/1234/911297.ts
 #EXTINF:-1 tvg-id="" tvg-name="IND_MOVIES NOW FHD" tvg-logo="" group-title="IND | MOVIES",IND_MOVIES NOW FHD
 http://filex.me:8080//live/shafiq02/1234/911295.ts
@@ -3917,9 +3917,9 @@ http://filex.me:8080//live/shafiq02/1234/911295.ts
 http://filex.me:8080//live/shafiq02/1234/911299.ts
 #EXTINF:-1 tvg-id="404001" tvg-name="IND_SHEMAROO TV" tvg-logo="shemaroo-tv.png" group-title="IND | MOVIES",IND_SHEMAROO TV
 http://filex.me:8080//live/shafiq02/1234/911243.ts
-#EXTINF:-1 tvg-id="463940" tvg-name="IND_SHOWBOX" tvg-logo="" group-title="IND | MOVIES",IND_SHOWBOX
+#EXTINF:-1 tvg-id="404001" tvg-name="IND_SHOWBOX" tvg-logo="" group-title="IND | MOVIES",IND_SHOWBOX
 http://filex.me:8080//live/shafiq02/1234/911223.ts
-#EXTINF:-1 tvg-id="463932" tvg-name="IN | SONY PIX HD." tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-pix-in.png" group-title="IND | MOVIES",IN | SONY PIX HD.
+#EXTINF:-1 tvg-id="404001" tvg-name="IN | SONY PIX HD." tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-pix-in.png" group-title="IND | MOVIES",IN | SONY PIX HD.
 http://filex.me:8080//live/shafiq02/1234/911301.ts
 #EXTINF:-1 tvg-id="404001" tvg-name="IN | STAR GOLD 2 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-gold-2-hk-in.png" group-title="IND | MOVIES",IN | STAR GOLD 2 FHD
 http://filex.me:8080//live/shafiq02/1234/911305.ts

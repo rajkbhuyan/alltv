@@ -1637,6 +1637,8 @@ http://filex.me:8080/movie/shafiq02/1234/876336.mp4
 http://filex.me:8080/movie/shafiq02/1234/876335.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Sex Tape (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pFdS7SIdjcrYXtf141dabWVly9B.jpg" group-title="HOLLYWOOD | 2014-2015",Sex Tape (2014)
 http://filex.me:8080/movie/shafiq02/1234/876334.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Thora Jee Le (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gYHsHFOLDsVEiX4Fmx7AFQo8JPp.jpg" group-title="ON DEMAND",Thora Jee Le (2017)
+http://filex.me:8080/movie/shafiq02/1234/1365739.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Pushpa 2 - The Rule (2024) Hindi " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bhxZj3y59cK7JtGdV285dhDRaMe.jpg" group-title="ON DEMAND",Pushpa 2 - The Rule (2024) Hindi 
 http://filex.me:8080/movie/shafiq02/1234/1365106.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Dharpakad (2026) (Gujarati) (CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fZBcXT118bj6DuDKUokl83BXhqx.jpg" group-title="✯GUJRATI✯ MIX",Dharpakad (2026) (Gujarati) (CAM)
@@ -49996,5 +49998,3 @@ http://filex.me:8080/movie/shafiq02/1234/922572.mkv
 #EXTINF:-1 tvg-id="" tvg-name="FR: Five Feet Apart" tvg-logo="https://image.tmdb.org/t/p/original/c71h4tvMrhUK9jENJrOJm5IRuNF.jpg" group-title="✯FRANCE✯ MOVIES",FR: Five Feet Apart
 http://filex.me:8080/movie/shafiq02/1234/922571.mkv
 #EXTINF:-1 tvg-id="" tvg-name="FR: Doubles Vies" tvg-logo="https://image.tmdb.org/t/p/original/gWZUCupTs7lILnkspa5aJYZooP0.jpg" group-title="✯FRANCE✯ MOVIES",FR: Doubles Vies
-http://filex.me:8080/movie/shafiq02/1234/922570.mkv
-#EXTINF:-1 tvg-id="" tvg-name="FR: Doom Annihilation" tvg-logo="https://image.tmdb.org/t/p/original/7EGElXVSNnqcPjuhXPd6UVUX1rD.jpg" group-title="✯FRANCE✯ MOVIES",FR: Doom Annihilation
