@@ -3775,7 +3775,7 @@ http://filex.me:8080//live/shafiq02/1234/911272.ts
 http://filex.me:8080//live/shafiq02/1234/911275.ts
 #EXTINF:-1 tvg-id="404001" tvg-name="IND_COLORS INFINITY FHD" tvg-logo="" group-title="IND | INTERTAINMENT 4K",IND_COLORS INFINITY FHD
 http://filex.me:8080//live/shafiq02/1234/911321.ts
-#EXTINF:-1 tvg-id="463838" tvg-name="IND_COLORS CINEPLEX BOLLYWOOD" tvg-logo="" group-title="IND | INTERTAINMENT 4K",IND_COLORS CINEPLEX BOLLYWOOD
+#EXTINF:-1 tvg-id="404001" tvg-name="IND_COLORS CINEPLEX BOLLYWOOD" tvg-logo="" group-title="IND | INTERTAINMENT 4K",IND_COLORS CINEPLEX BOLLYWOOD
 http://filex.me:8080//live/shafiq02/1234/911273.ts
 #EXTINF:-1 tvg-id="" tvg-name="IND_COLORS CINEPLEX FHD" tvg-logo="" group-title="IND | INTERTAINMENT 4K",IND_COLORS CINEPLEX FHD
 http://filex.me:8080//live/shafiq02/1234/911274.ts
@@ -3803,7 +3803,7 @@ http://filex.me:8080//live/shafiq02/1234/911229.ts
 http://filex.me:8080//live/shafiq02/1234/911246.ts
 #EXTINF:-1 tvg-id="" tvg-name="IND_SHEMAROO UMANG" tvg-logo="" group-title="IND | INTERTAINMENT 4K",IND_SHEMAROO UMANG
 http://filex.me:8080//live/shafiq02/1234/911235.ts
-#EXTINF:-1 tvg-id="463849" tvg-name="PB_PITARAA" tvg-logo="" group-title="IND | INTERTAINMENT 4K",PB_PITARAA
+#EXTINF:-1 tvg-id="404001" tvg-name="PB_PITARAA" tvg-logo="" group-title="IND | INTERTAINMENT 4K",PB_PITARAA
 http://filex.me:8080//live/shafiq02/1234/911277.ts
 #EXTINF:-1 tvg-id="" tvg-name="IND_B4U BHOJPURI" tvg-logo="" group-title="IND | INTERTAINMENT 4K",IND_B4U BHOJPURI
 http://filex.me:8080//live/shafiq02/1234/911232.ts
@@ -3817,9 +3817,9 @@ http://filex.me:8080//live/shafiq02/1234/911242.ts
 http://filex.me:8080//live/shafiq02/1234/911241.ts
 #EXTINF:-1 tvg-id="" tvg-name="IND_THE Q" tvg-logo="The-Q-Logo.png" group-title="IND | INTERTAINMENT 4K",IND_THE Q
 http://filex.me:8080//live/shafiq02/1234/911249.ts
-#EXTINF:-1 tvg-id="464205" tvg-name="IND_INDIA TV" tvg-logo="" group-title="IND | INTERTAINMENT 4K",IND_INDIA TV
+#EXTINF:-1 tvg-id="404001" tvg-name="IND_INDIA TV" tvg-logo="" group-title="IND | INTERTAINMENT 4K",IND_INDIA TV
 http://filex.me:8080//live/shafiq02/1234/911265.ts
-#EXTINF:-1 tvg-id="464126" tvg-name="IND_TIMES NOW NAVBHARAT" tvg-logo="" group-title="IND | INTERTAINMENT 4K",IND_TIMES NOW NAVBHARAT
+#EXTINF:-1 tvg-id="404001" tvg-name="IND_TIMES NOW NAVBHARAT" tvg-logo="" group-title="IND | INTERTAINMENT 4K",IND_TIMES NOW NAVBHARAT
 http://filex.me:8080//live/shafiq02/1234/911268.ts
 #EXTINF:-1 tvg-id="404001" tvg-name="IND_TV9 BHARATVARSH" tvg-logo="" group-title="IND | INTERTAINMENT 4K",IND_TV9 BHARATVARSH
 http://filex.me:8080//live/shafiq02/1234/911256.ts
@@ -3835,14 +3835,10 @@ http://filex.me:8080//live/shafiq02/1234/911224.ts
 http://filex.me:8080//live/shafiq02/1234/911270.ts
 #EXTINF:-1 tvg-id="" tvg-name="IND_GOOD NEWS TODAY" tvg-logo="" group-title="IND | INTERTAINMENT 4K",IND_GOOD NEWS TODAY
 http://filex.me:8080//live/shafiq02/1234/911233.ts
-#EXTINF:-1 tvg-id="464181" tvg-name="IN |STAR UTSAV MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_utsav.png" group-title="IND | INTERTAINMENT 4K",IN |STAR UTSAV MOVIES
+#EXTINF:-1 tvg-id="404001" tvg-name="IN |STAR UTSAV MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_utsav.png" group-title="IND | INTERTAINMENT 4K",IN |STAR UTSAV MOVIES
 http://filex.me:8080//live/shafiq02/1234/911263.ts
 #EXTINF:-1 tvg-id="" tvg-name="IN | & FLIX HD." tvg-logo="https://www.lyngsat.com/logo/tv/aa/and-flix-in.png" group-title="IND | MOVIES",IN | & FLIX HD.
 http://filex.me:8080//live/shafiq02/1234/911287.ts
-#EXTINF:-1 tvg-id="" tvg-name="IN | & FLIX TV 4K" tvg-logo="https://www.lyngsat.com/logo/tv/aa/and-flix-in.png" group-title="IND | MOVIES",IN | & FLIX TV 4K
-http://filex.me:8080//live/shafiq02/1234/275041.ts
-#EXTINF:-1 tvg-id="463869" tvg-name="IN | & Prive 4K" tvg-logo="https://www.lyngsat.com/logo/tv/aa/and-prive-hd-in.png" group-title="IND | MOVIES",IN | & Prive 4K
-http://filex.me:8080//live/shafiq02/1234/275043.ts
 #EXTINF:-1 tvg-id="404001" tvg-name="IN |  PICTURES HD." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3WabgtdlxvjP6GDUfKH4hgrCTusUCcu5PLPaTcK3w7A&s=10" group-title="IND | MOVIES",IN |  PICTURES HD.
 http://filex.me:8080//live/shafiq02/1234/911318.ts
 #EXTINF:-1 tvg-id="463886" tvg-name="IN | & Pictures 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3WabgtdlxvjP6GDUfKH4hgrCTusUCcu5PLPaTcK3w7A&s=10" group-title="IND | MOVIES",IN | & Pictures 4K
@@ -25475,6 +25471,26 @@ http://filex.me:8080//live/shafiq02/1234/908780.ts
 http://filex.me:8080//live/shafiq02/1234/908774.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR: WANASAH HD" tvg-logo="" group-title="✯MUSIC✯اغاني",AR: WANASAH HD
 http://filex.me:8080//live/shafiq02/1234/908783.ts
+#EXTINF:-1 tvg-id="" tvg-name="Friday Night SmackDown (05.06.2026)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUaBUsFpJTb0M0ZG5QPVsXTrZFxKLWn6_pr6auHpsixw&s=10" group-title="✯WWE✯",Friday Night SmackDown (05.06.2026)
+http://filex.me:8080/movie/shafiq02/1234/1368854.mp4
+#EXTINF:-1 tvg-id="" tvg-name="WWE NXT (02.06.2026)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkodXrjwUVfQXTvRnG8Zskv2JBhJsQZgEleyqECMIEPw&s=10" group-title="✯WWE✯",WWE NXT (02.06.2026)
+http://filex.me:8080/movie/shafiq02/1234/1368851.mp4
+#EXTINF:-1 tvg-id="" tvg-name="WWE Clash in Italy (2026)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIkvz-tALPK2LlsaPWoEsdUoGz0qH9HiLlqMrABnV0CGeL4bqltuYpcEc&s=10" group-title="✯WWE✯",WWE Clash in Italy (2026)
+http://filex.me:8080/movie/shafiq02/1234/1368848.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Friday Night SmackDown (29.05.2026)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeODE9ja0Y0mdb3qlLkGU5WGtt_ad-uYb0zNFyGIt7Nw&s=10" group-title="✯WWE✯",Friday Night SmackDown (29.05.2026)
+http://filex.me:8080/movie/shafiq02/1234/1368845.mp4
+#EXTINF:-1 tvg-id="" tvg-name="WWE NXT (26th May 2026)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1rZcqSfFQRYxHqOsJM9U2sQRv1HImMfnzRwImUFNtOA&s=10" group-title="✯WWE✯",WWE NXT (26th May 2026)
+http://filex.me:8080/movie/shafiq02/1234/1368842.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monday Night Raw (25.05.2026)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKBbSaqTXmNkY0rMjAObeaAvGDISGKBiHkehMoUFesEQ&s=10" group-title="✯WWE✯",Monday Night Raw (25.05.2026)
+http://filex.me:8080/movie/shafiq02/1234/1368839.mp4
+#EXTINF:-1 tvg-id="" tvg-name="WWE Saturday Night’s Main Event 23rd May (2026)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEyLqODqScoConDFr0DhnWUtGE6SfeYm-4ovxVmxPiig&s=10" group-title="✯WWE✯",WWE Saturday Night’s Main Event 23rd May (2026)
+http://filex.me:8080/movie/shafiq02/1234/1368836.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monday Night Raw (22.05.2026)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVqL97puH0UkxeoXAhpbmUjm4xKYhfVs1um5ABiUSHnJBiIMFpjcYX4SI&s=10" group-title="✯WWE✯",Monday Night Raw (22.05.2026)
+http://filex.me:8080/movie/shafiq02/1234/1368833.mp4
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night 278: Muhammad vs. Bonfim (2026) (Prelims)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/szJJreLYexjod1zLbLa0Or7Na81.jpg" group-title="✯UFC FIGHT✯",UFC Fight Night 278: Muhammad vs. Bonfim (2026) (Prelims)
+http://filex.me:8080/movie/shafiq02/1234/1366929.mp4
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night 278: Muhammad vs. Bonfim (2026) (Main Card)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/szJJreLYexjod1zLbLa0Or7Na81.jpg" group-title="✯UFC FIGHT✯",UFC Fight Night 278: Muhammad vs. Bonfim (2026) (Main Card)
+http://filex.me:8080/movie/shafiq02/1234/1366928.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Bandar (2026) (Hindi) (CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3TrQUHmnEL2tOYf4KKkXb01BQt2.jpg" group-title="BOLLYWOOD | 2026",Bandar (2026) (Hindi) (CAM)
 http://filex.me:8080/movie/shafiq02/1234/1366103.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Revolver Rita (2025) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Aht5LuEzNQKHEWycCsO6mOJhn1U.jpg" group-title="BOLLYWOOD | 2025",Revolver Rita (2025) (Hindi)
@@ -30799,6 +30815,10 @@ http://filex.me:8080/movie/shafiq02/1234/851462.mp4
 http://filex.me:8080/movie/shafiq02/1234/851461.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Mohra (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nWAptaCNiTIJtv9cYqfF5E7qm0I.jpg" group-title="BOLLYWOOD | CLASSIC ",Mohra (1994)
 http://filex.me:8080/movie/shafiq02/1234/685811.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Boss (2025) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q6x4DSADutTluaGBoQ4U7Gq12WG.jpg" group-title="HINDI DUB | 2025",Boss (2025) (Hindi)
+http://filex.me:8080/movie/shafiq02/1234/1366940.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Masters of the Universe (2026) (Hindi) (CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3YMd9Ogae4rDKLWuAZFuse9xhc5.jpg" group-title="HINDI DUB | 2026",Masters of the Universe (2026) (Hindi) (CAM)
+http://filex.me:8080/movie/shafiq02/1234/1366939.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Summer House (2026) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/81xUChgVphBFehihIgbXbyneZXP.jpg" group-title="HINDI DUB | 2026",Summer House (2026) (Hindi)
 http://filex.me:8080/movie/shafiq02/1234/1366104.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Hannah Berner: None of My Business (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gUgxDNzbCXMLPCu0fsWzqnsEo86.jpg" group-title="HINDI DUB | 2026",Hannah Berner: None of My Business (2026)
@@ -47449,6 +47469,14 @@ http://filex.me:8080/movie/shafiq02/1234/859713.mkv
 http://filex.me:8080/movie/shafiq02/1234/859712.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Chhota Bheem - Crazy Cards World _ Videos for Kids in Hindi _ Fun Kids Videos" tvg-logo="" group-title="✯CHOTA BHEEM✯",Chhota Bheem - Crazy Cards World _ Videos for Kids in Hindi _ Fun Kids Videos
 http://filex.me:8080/movie/shafiq02/1234/859711.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mollywood Times (2026) (Malayalam) (CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zUBCBtMsQ8dxnhJhhng4C8U80IU.jpg" group-title=" MALAYALAM | 2025 - 2026",Mollywood Times (2026) (Malayalam) (CAM)
+http://filex.me:8080/movie/shafiq02/1234/1366938.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jamun (2021) (Tamil)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vLNR7klRVFcT4IDAHpVKgXc6GfT.jpg" group-title="TAMIL | 2020 - 2022",Jamun (2021) (Tamil)
+http://filex.me:8080/movie/shafiq02/1234/1366936.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lost in Yonkers (1993) (Tamil)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9COy4RAhPzOw1ICecKMYQCexTgm.jpg" group-title="✯TAMIL✯ MIX",Lost in Yonkers (1993) (Tamil)
+http://filex.me:8080/movie/shafiq02/1234/1366935.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Snorkel (1958) (Tamil)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cimYDFGjTTfPUNaJT1S0VUnL3Ao.jpg" group-title="✯TAMIL✯ MIX",The Snorkel (1958) (Tamil)
+http://filex.me:8080/movie/shafiq02/1234/1366934.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Valavaara (2026) (Kannada)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kHFvqy0pPGdPjjBo513JS0WkDa1.jpg" group-title="KANNADA | 2025 - 2026",Valavaara (2026) (Kannada)
 http://filex.me:8080/movie/shafiq02/1234/1366102.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Juniors Journey (2026) (Malayalam)" tvg-logo="https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/juniors-journey-et00486508-1770793665.jpg" group-title=" MALAYALAM | 2025 - 2026",Juniors Journey (2026) (Malayalam)
@@ -49970,31 +49998,3 @@ http://filex.me:8080/movie/shafiq02/1234/1200046.mkv
 #EXTINF:-1 tvg-id="" tvg-name="AR_ Storm Boy" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Storm Boy
 http://filex.me:8080/movie/shafiq02/1234/1200045.mkv
 #EXTINF:-1 tvg-id="" tvg-name="AR_ My Dinner With Hervé" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ My Dinner With Hervé
-http://filex.me:8080/movie/shafiq02/1234/1200043.mkv
-#EXTINF:-1 tvg-id="" tvg-name="AR_ The Perfect Mother" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ The Perfect Mother
-http://filex.me:8080/movie/shafiq02/1234/1200041.mkv
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Fatima" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Fatima
-http://filex.me:8080/movie/shafiq02/1234/1200039.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Fences" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Fences
-http://filex.me:8080/movie/shafiq02/1234/1200038.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Lady Driver" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Lady Driver
-http://filex.me:8080/movie/shafiq02/1234/1200036.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ The Report" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ The Report
-http://filex.me:8080/movie/shafiq02/1234/1200034.mkv
-#EXTINF:-1 tvg-id="" tvg-name="AR_ The Book Of Henry" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ The Book Of Henry
-http://filex.me:8080/movie/shafiq02/1234/1200032.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Psycho Yoga Instructor" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Psycho Yoga Instructor
-http://filex.me:8080/movie/shafiq02/1234/1200030.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Moments In Spacetime" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Moments In Spacetime
-http://filex.me:8080/movie/shafiq02/1234/1200029.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Restraint" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Restraint
-http://filex.me:8080/movie/shafiq02/1234/1200027.mkv
-#EXTINF:-1 tvg-id="" tvg-name="AR_ The Divorce Party" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ The Divorce Party
-http://filex.me:8080/movie/shafiq02/1234/1200025.mkv
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Belong To Us" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Belong To Us
-http://filex.me:8080/movie/shafiq02/1234/1200024.mkv
-#EXTINF:-1 tvg-id="" tvg-name="AR_ The Other Side Of The Mountain_ Part II" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ The Other Side Of The Mountain_ Part II
-http://filex.me:8080/movie/shafiq02/1234/1200022.mkv
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Paddleton" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Paddleton
-http://filex.me:8080/movie/shafiq02/1234/1200020.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sex Guaranteed (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bOEzlIW7SPejPDDnAdasHXfzArA.jpg" group-title="AR | DRAMA & ROMANCE",Sex Guaranteed (2017)
