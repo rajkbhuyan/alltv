@@ -5011,6 +5011,14 @@ http://filex.me:8080/shafiq02/1234/834876
 http://filex.me:8080/shafiq02/1234/317783
 #EXTINF:-1 tvg-id="m6.fr" tvg-name="FR: M6 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/2e471c9a55628012ff3b6f4fb8ab3ec3.png" group-title="France ➾ LifeStyle",FR: M6 HD
 http://filex.me:8080/shafiq02/1234/302138
+#EXTINF:-1 tvg-id="" tvg-name="FIFA | FHD (ENG)" tvg-logo="https://i.ibb.co/DbtpCng/Soccer.png" group-title="FIFA|SPECIAL",FIFA | FHD (ENG)
+http://filex.me:8080/shafiq02/1234/1370353
+#EXTINF:-1 tvg-id="" tvg-name="FIFA |  FHD (SPANISH)" tvg-logo="https://i.ibb.co/DbtpCng/Soccer.png" group-title="FIFA|SPECIAL",FIFA |  FHD (SPANISH)
+http://filex.me:8080/shafiq02/1234/1370354
+#EXTINF:-1 tvg-id="" tvg-name="FIFA | FHD 2 (ENG)" tvg-logo="https://i.ibb.co/DbtpCng/Soccer.png" group-title="FIFA|SPECIAL",FIFA | FHD 2 (ENG)
+http://filex.me:8080/shafiq02/1234/1370355
+#EXTINF:-1 tvg-id="" tvg-name="FIFA | 4K 3 (ENG)" tvg-logo="https://i.ibb.co/DbtpCng/Soccer.png" group-title="FIFA|SPECIAL",FIFA | 4K 3 (ENG)
+http://filex.me:8080/shafiq02/1234/1370357
 #EXTINF:-1 tvg-id="" tvg-name="24/7 C I D 1" tvg-logo="" group-title="IND | TV SHOW 24/7",24/7 C I D 1
 http://filex.me:8080/shafiq02/1234/1321194
 #EXTINF:-1 tvg-id="" tvg-name="CRIME PATROL" tvg-logo="" group-title="IND | TV SHOW 24/7",CRIME PATROL
@@ -31147,8 +31155,6 @@ http://filex.me:8080/movie/shafiq02/1234/984087.mkv
 http://filex.me:8080/movie/shafiq02/1234/983596.mp4
 #EXTINF:-1 tvg-id="" tvg-name="BTS: THE RETURN (2026) Hindi + Korean " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9CNUWleZWN9EGMZjvaSTcxmAAGg.jpg" group-title="HINDI DUB | 2026",BTS: THE RETURN (2026) Hindi + Korean 
 http://filex.me:8080/movie/shafiq02/1234/983492.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Project Hail Mary (2026) Hindi •CAM•" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yihdXomYb5kTeSivtFndMy5iDmf.jpg" group-title="HINDI DUB | 2026",Project Hail Mary (2026) Hindi •CAM•
-http://filex.me:8080/movie/shafiq02/1234/971412.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Rise of the Red Hot Chili Peppers: Our Brother, Hillel (2025) Hindi Audio " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y9hHoO3eB7l3ZjYUZoJUJpZW22V.jpg" group-title="HINDI DUB | 2025",The Rise of the Red Hot Chili Peppers: Our Brother, Hillel (2025) Hindi Audio 
 http://filex.me:8080/movie/shafiq02/1234/970437.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Pretty Lethal (2026) HIN + ENG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/znTPnXCK3lEQJgqXCvP7e5FUz6f.jpg" group-title="HINDI DUB | 2026",Pretty Lethal (2026) HIN + ENG
@@ -49992,9 +49998,3 @@ http://filex.me:8080/movie/shafiq02/1234/1200184.mkv
 #EXTINF:-1 tvg-id="" tvg-name="AR_ Skate Kitchen" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Skate Kitchen
 http://filex.me:8080/movie/shafiq02/1234/1200182.mkv
 #EXTINF:-1 tvg-id="" tvg-name="AR_ Mr Jones" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Mr Jones
-http://filex.me:8080/movie/shafiq02/1234/1200180.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Chapter Two" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Chapter Two
-http://filex.me:8080/movie/shafiq02/1234/1200178.mkv
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Professor Marston And The Wonder Women" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Professor Marston And The Wonder Women
-http://filex.me:8080/movie/shafiq02/1234/1200177.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Before I Fall" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Before I Fall

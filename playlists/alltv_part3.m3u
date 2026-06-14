@@ -1,3 +1,7 @@
+http://filex.me:8080/movie/shafiq02/1234/877357.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Life (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/saWYpX3ADdmdByQZVrSYUNbQ9GC.jpg" group-title="HOLLYWOOD | 90s",Life (1999)
+http://filex.me:8080/movie/shafiq02/1234/877356.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tragic Ceremony (1972)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wpIXmgoAkxrmYY5LgezXOgHux16.jpg" group-title="HOLLYWOOD | 90s",Tragic Ceremony (1972)
 http://filex.me:8080/movie/shafiq02/1234/877355.mp4
 #EXTINF:-1 tvg-id="" tvg-name="7 Guardians of the Tomb (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ca799tQJwj4lkkQpBdXohlvEtuQ.jpg" group-title="HOLLYWOOD | 2018-2019",7 Guardians of the Tomb (2018)
 http://filex.me:8080/movie/shafiq02/1234/877354.mkv
@@ -1963,6 +1967,12 @@ http://filex.me:8080/movie/shafiq02/1234/876336.mp4
 http://filex.me:8080/movie/shafiq02/1234/876335.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Sex Tape (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pFdS7SIdjcrYXtf141dabWVly9B.jpg" group-title="HOLLYWOOD | 2014-2015",Sex Tape (2014)
 http://filex.me:8080/movie/shafiq02/1234/876334.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Project Hail Mary (2026) Hindi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yihdXomYb5kTeSivtFndMy5iDmf.jpg" group-title="ON DEMAND",Project Hail Mary (2026) Hindi
+http://filex.me:8080/movie/shafiq02/1234/1370273.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nuremberg (2025) Hindi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xthXNYltOOm80vW5Kxjzxx5gvQ6.jpg" group-title="ON DEMAND",Nuremberg (2025) Hindi
+http://filex.me:8080/movie/shafiq02/1234/1370270.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nuremberg (2025) English" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xthXNYltOOm80vW5Kxjzxx5gvQ6.jpg" group-title="ON DEMAND",Nuremberg (2025) English
+http://filex.me:8080/movie/shafiq02/1234/1370267.mp4
 #EXTINF:-1 tvg-id="" tvg-name="De De Pyaar De (2019)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgXJ-KDOXI4jYuenNg2v0Vi4T0Ig4D4il-CA&s" group-title="ON DEMAND",De De Pyaar De (2019)
 http://filex.me:8080/movie/shafiq02/1234/1369464.mp4
 #EXTINF:-1 tvg-id="" tvg-name="DSP Dev 2 (2026) (Punjabi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/85TcTWInOY8eO2JACpCJW7w0CXt.jpg" group-title="✯PUNJABI✯ MIX",DSP Dev 2 (2026) (Punjabi)
@@ -2947,8 +2957,6 @@ http://filex.me:8080/movie/shafiq02/1234/983557.mp4
 http://filex.me:8080/movie/shafiq02/1234/983545.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Repu Udayam 10 Gantalaku (2026) Telugu Audio " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ivduzvxeVnzyEDeV1zTwcc91vbA.jpg" group-title="✯TELUGU✯",Repu Udayam 10 Gantalaku (2026) Telugu Audio 
 http://filex.me:8080/movie/shafiq02/1234/983505.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Project Hail Mary (2026) •Telugu•CAM•" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yihdXomYb5kTeSivtFndMy5iDmf.jpg" group-title="✯TELUGU✯",Project Hail Mary (2026) •Telugu•CAM•
-http://filex.me:8080/movie/shafiq02/1234/983476.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Masthishka Maranam (2026) Malayalam HD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9RAnO6kPsoZTVPTVNeJ2sLE0HK.jpg" group-title="ON DEMAND",Masthishka Maranam (2026) Malayalam HD
 http://filex.me:8080/movie/shafiq02/1234/983467.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Ishqa'n De Lekhe (2026) Punjabi •CAM•" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g3EpAFlNGqkYxkw8cHOANzi8u1.jpg" group-title="ON DEMAND",Ishqa'n De Lekhe (2026) Punjabi •CAM•
@@ -49990,11 +49998,3 @@ http://filex.me:8080/movie/shafiq02/1234/922784.mkv
 #EXTINF:-1 tvg-id="" tvg-name="FR: Animal World" tvg-logo="https://image.tmdb.org/t/p/original" group-title="✯FRANCE✯ MOVIES",FR: Animal World
 http://filex.me:8080/movie/shafiq02/1234/922783.mkv
 #EXTINF:-1 tvg-id="" tvg-name="FR: 7 Days In Entebbe" tvg-logo="https://image.tmdb.org/t/p/original/tVczo8jUkxgFxsyQ0hex9oZjpO8.jpg" group-title="✯FRANCE✯ MOVIES",FR: 7 Days In Entebbe
-http://filex.me:8080/movie/shafiq02/1234/922782.mkv
-#EXTINF:-1 tvg-id="" tvg-name="FR: The Little Rascals" tvg-logo="" group-title="✯FRANCE✯ MOVIES",FR: The Little Rascals
-http://filex.me:8080/movie/shafiq02/1234/922781.mkv
-#EXTINF:-1 tvg-id="" tvg-name="FR: The First Purge" tvg-logo="https://image.tmdb.org/t/p/original/er8aMOEndXZ9MoPmVRHeZ63wPPb.jpg" group-title="✯FRANCE✯ MOVIES",FR: The First Purge
-http://filex.me:8080/movie/shafiq02/1234/922780.mkv
-#EXTINF:-1 tvg-id="" tvg-name="FR: Police Academy" tvg-logo="https://image.tmdb.org/t/p/original/5E4IC0RGjD1w4IQ41QP7T4jcYeG.jpg" group-title="✯FRANCE✯ MOVIES",FR: Police Academy
-http://filex.me:8080/movie/shafiq02/1234/922779.mkv
-#EXTINF:-1 tvg-id="" tvg-name="FR: Plaire Aimer Et Courir Vite" tvg-logo="https://image.tmdb.org/t/p/original/w6XmTBzV5JvrsEtmmepV9u9qIEl.jpg" group-title="✯FRANCE✯ MOVIES",FR: Plaire Aimer Et Courir Vite
