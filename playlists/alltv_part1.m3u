@@ -3397,6 +3397,26 @@ http://filex.me:8080/shafiq02/1234/302180
 http://filex.me:8080/shafiq02/1234/302181
 #EXTINF:-1 tvg-id="" tvg-name="IQ: IMAM Hussein TV 3 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/2732d500b5c293a3502a07c882008bab.png" group-title="PAK | ISLAMIC",IQ: IMAM Hussein TV 3 HD
 http://filex.me:8080/shafiq02/1234/302182
+#EXTINF:-1 tvg-id="" tvg-name="PK | Hyder TV" tvg-logo="https://hyder.tv/wp-content/uploads/2019/08/Logo_HYDER-TV_high-res_013.png" group-title="PAK | ISLAMIC",PK | Hyder TV
+http://filex.me:8080/shafiq02/1234/1371075
+#EXTINF:-1 tvg-id="" tvg-name="PK | Paigham Pashto TV" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/09/Paigham-Pashto-TV.png" group-title="PAK | ISLAMIC",PK | Paigham Pashto TV
+http://filex.me:8080/shafiq02/1234/1371076
+#EXTINF:-1 tvg-id="" tvg-name="ISL | Imam Hussein TV 4 FHD" tvg-logo="https://imamhusseintv.com/assets/images/ch4.webp" group-title="PAK | ISLAMIC",ISL | Imam Hussein TV 4 FHD
+http://filex.me:8080/shafiq02/1234/1371077
+#EXTINF:-1 tvg-id="" tvg-name="ISL | Imam Hussein TV 5 FHD" tvg-logo="https://imamhusseintv.com/assets/images/ch5.webp" group-title="PAK | ISLAMIC",ISL | Imam Hussein TV 5 FHD
+http://filex.me:8080/shafiq02/1234/1371078
+#EXTINF:-1 tvg-id="" tvg-name="ISL | Imam Hussein TV 6 FHD" tvg-logo="https://imamhusseintv.com/assets/images/ch6.webp" group-title="PAK | ISLAMIC",ISL | Imam Hussein TV 6 FHD
+http://filex.me:8080/shafiq02/1234/1371079
+#EXTINF:-1 tvg-id="" tvg-name="Ahlebait HD" tvg-logo="s:1:/images/Y_iLp5zM1z0Hv5o0voAY43gZWms8T5YIsuMWOBrHoUMir-jGs1OviQTA1r3prvcTp0IepONbAPRDzmk1ZG3qQg.png" group-title="PAK | ISLAMIC",Ahlebait HD
+http://filex.me:8080/shafiq02/1234/1371080
+#EXTINF:-1 tvg-id="" tvg-name="Al Ehsan" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-ehsaan-tv-pk.png" group-title="PAK | ISLAMIC",Al Ehsan
+http://filex.me:8080/shafiq02/1234/1371081
+#EXTINF:-1 tvg-id="" tvg-name="HIDAYAT TV" tvg-logo="s:1:/images/Y_iLp5zM1z0Hv5o0voAY43gZWms8T5YIsuMWOBrHoUOO1LuLvC9YoRsXIq9pzu8Cq4495h_BqVK-xKG-Hb95Mg.png" group-title="PAK | ISLAMIC",HIDAYAT TV
+http://filex.me:8080/shafiq02/1234/1371082
+#EXTINF:-1 tvg-id="" tvg-name="NAATS 24/7" tvg-logo="s:1:/images/sF5tEpdd2Lvyz1dx1JUPnRL4D3ofeeKACSP5mOFRkmCBxOIhGqd6RVwlhux24X-V.png" group-title="PAK | ISLAMIC",NAATS 24/7
+http://filex.me:8080/shafiq02/1234/1371083
+#EXTINF:-1 tvg-id="" tvg-name="Qaim TV HD" tvg-logo="" group-title="PAK | ISLAMIC",Qaim TV HD
+http://filex.me:8080/shafiq02/1234/1371084
 #EXTINF:-1 tvg-id="" tvg-name="PK | HUM TV SD" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hum_tv_pk.png" group-title="PAK | ENTERTAINMENT HD",PK | HUM TV SD
 http://filex.me:8080/shafiq02/1234/110033
 #EXTINF:-1 tvg-id="" tvg-name="PK | HUM TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hum_tv_pk.png" group-title="PAK | ENTERTAINMENT HD",PK | HUM TV HD
@@ -4249,77 +4269,59 @@ http://filex.me:8080/shafiq02/1234/509255
 http://filex.me:8080/shafiq02/1234/832054
 #EXTINF:-1 tvg-id="" tvg-name="BIG BOSS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDuqy4QrAQazx1QLHEKCoUsiIb0PIa7GPrBcWz9gtlNbabIfHf1URPycU&s=10" group-title="24/7 | BIGBOSS",BIG BOSS HD
 http://filex.me:8080/shafiq02/1234/542293
-#EXTINF:-1 tvg-id="" tvg-name="UK: HUB Premier 1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="FIFA | WORLD CUP 2026",UK: HUB Premier 1 HD
-http://filex.me:8080/shafiq02/1234/495230
-#EXTINF:-1 tvg-id="" tvg-name="UK: HUB Premier 2 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="FIFA | WORLD CUP 2026",UK: HUB Premier 2 HD
-http://filex.me:8080/shafiq02/1234/495231
-#EXTINF:-1 tvg-id="9453" tvg-name="UK: MUTV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/73eef793ce91db2ff4122b6e3581ec7b.png" group-title="FIFA | WORLD CUP 2026",UK: MUTV HD
-http://filex.me:8080/shafiq02/1234/495237
-#EXTINF:-1 tvg-id="219100" tvg-name="UK: Premier Sports 1 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/9c7d3f18c08487ae764df48783c089a1.png" group-title="FIFA | WORLD CUP 2026",UK: Premier Sports 1 HD
+#EXTINF:-1 tvg-id="219100" tvg-name="UK: Premier Sports 1 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/9c7d3f18c08487ae764df48783c089a1.png" group-title="SPORTS | UK SKY",UK: Premier Sports 1 HD
 http://filex.me:8080/shafiq02/1234/495238
-#EXTINF:-1 tvg-id="219104" tvg-name="UK: Premier Sports 2 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/35affbf18fb742f52581f3f069a97258.png" group-title="FIFA | WORLD CUP 2026",UK: Premier Sports 2 HD
-http://filex.me:8080/shafiq02/1234/495239
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY Sports Premier League HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/09bb1aded27d31530f3939146dffbc0c.png" group-title="FIFA | WORLD CUP 2026",UK: SKY Sports Premier League HD
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY Sports Premier League HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/09bb1aded27d31530f3939146dffbc0c.png" group-title="SPORTS | UK SKY",UK: SKY Sports Premier League HD
 http://filex.me:8080/shafiq02/1234/495240
-#EXTINF:-1 tvg-id="beIN.Sports.HD.(Canada).ca2" tvg-name="CA: BEIN Sports HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/7c07efb5599972e022017294d3666dbc.png" group-title="FIFA | WORLD CUP 2026",CA: BEIN Sports HD
-http://filex.me:8080/shafiq02/1234/290701
-#EXTINF:-1 tvg-id="SuperSport OTT" tvg-name="ZA: Supersport Maximo 1 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/488fd8d34ea146bfaf82c12331f4223e.png" group-title="FIFA | WORLD CUP 2026",ZA: Supersport Maximo 1 HD
-http://filex.me:8080/shafiq02/1234/290355
-#EXTINF:-1 tvg-id="SS Football" tvg-name="ZA: Supersport Football HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/8dab62dd2c2faa3d66261a2a5afa6260.png" group-title="FIFA | WORLD CUP 2026",ZA: Supersport Football HD
-http://filex.me:8080/shafiq02/1234/290354
-#EXTINF:-1 tvg-id="SuperSport PSL" tvg-name="ZA: Supersport PSL HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/b113905d39622090910a766c75af759d.png" group-title="FIFA | WORLD CUP 2026",ZA: Supersport PSL HD
-http://filex.me:8080/shafiq02/1234/290356
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="FR: BEIN Sports 1 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/d40f4a64bc712ca477fcb4e7412b5ccc.png" group-title="FIFA | WORLD CUP 2026",FR: BEIN Sports 1 HD
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="FR: BEIN Sports 1 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/d40f4a64bc712ca477fcb4e7412b5ccc.png" group-title="FIFA WORLD CUP | beIN Sports ",FR: BEIN Sports 1 HD
 http://filex.me:8080/shafiq02/1234/301958
-#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="FR: BEIN Sports 2 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/0546311aed22a274b1e87d23c33dd475.png" group-title="FIFA | WORLD CUP 2026",FR: BEIN Sports 2 HD
-http://filex.me:8080/shafiq02/1234/301959
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 1 SD" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="FIFA | WORLD CUP 2026",Bein Sports Max 1 SD
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 1 SD" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="FIFA WORLD CUP | beIN Sports ",Bein Sports Max 1 SD
 http://filex.me:8080/shafiq02/1234/1364779
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 1 HD" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="FIFA | WORLD CUP 2026",Bein Sports Max 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 1 HD" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="FIFA WORLD CUP | beIN Sports ",Bein Sports Max 1 HD
 http://filex.me:8080/shafiq02/1234/1364780
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 1 4K" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="FIFA | WORLD CUP 2026",Bein Sports Max 1 4K
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 1 4K" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="FIFA WORLD CUP | beIN Sports ",Bein Sports Max 1 4K
 http://filex.me:8080/shafiq02/1234/1364781
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 1 FHD" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="FIFA | WORLD CUP 2026",Bein Sports Max 1 FHD
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 1 FHD" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="FIFA WORLD CUP | beIN Sports ",Bein Sports Max 1 FHD
 http://filex.me:8080/shafiq02/1234/1364782
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 2 SD" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="FIFA | WORLD CUP 2026",Bein Sports Max 2 SD
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 2 SD" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="FIFA WORLD CUP | beIN Sports ",Bein Sports Max 2 SD
 http://filex.me:8080/shafiq02/1234/1364783
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 2 HD" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="FIFA | WORLD CUP 2026",Bein Sports Max 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 2 HD" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="FIFA WORLD CUP | beIN Sports ",Bein Sports Max 2 HD
 http://filex.me:8080/shafiq02/1234/1364784
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 2 4K" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="FIFA | WORLD CUP 2026",Bein Sports Max 2 4K
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 2 4K" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="FIFA WORLD CUP | beIN Sports ",Bein Sports Max 2 4K
 http://filex.me:8080/shafiq02/1234/1364785
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 2 FHD" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="FIFA | WORLD CUP 2026",Bein Sports Max 2 FHD
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 2 FHD" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="FIFA WORLD CUP | beIN Sports ",Bein Sports Max 2 FHD
 http://filex.me:8080/shafiq02/1234/1364786
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 3 SD" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="FIFA | WORLD CUP 2026",Bein Sports Max 3 SD
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 3 SD" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="FIFA WORLD CUP | beIN Sports ",Bein Sports Max 3 SD
 http://filex.me:8080/shafiq02/1234/1364787
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 3 HD" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="FIFA | WORLD CUP 2026",Bein Sports Max 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 3 HD" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="FIFA WORLD CUP | beIN Sports ",Bein Sports Max 3 HD
 http://filex.me:8080/shafiq02/1234/1364788
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 3 4K" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="FIFA | WORLD CUP 2026",Bein Sports Max 3 4K
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 3 4K" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="FIFA WORLD CUP | beIN Sports ",Bein Sports Max 3 4K
 http://filex.me:8080/shafiq02/1234/1364789
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 3 FHD" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="FIFA | WORLD CUP 2026",Bein Sports Max 3 FHD
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 3 FHD" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="FIFA WORLD CUP | beIN Sports ",Bein Sports Max 3 FHD
 http://filex.me:8080/shafiq02/1234/1364790
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 4 SD" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="FIFA | WORLD CUP 2026",Bein Sports Max 4 SD
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 4 SD" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="FIFA WORLD CUP | beIN Sports ",Bein Sports Max 4 SD
 http://filex.me:8080/shafiq02/1234/1364791
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 4 HD" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="FIFA | WORLD CUP 2026",Bein Sports Max 4 HD
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 4 HD" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="FIFA WORLD CUP | beIN Sports ",Bein Sports Max 4 HD
 http://filex.me:8080/shafiq02/1234/1364792
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 4 4K" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="FIFA | WORLD CUP 2026",Bein Sports Max 4 4K
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 4 4K" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="FIFA WORLD CUP | beIN Sports ",Bein Sports Max 4 4K
 http://filex.me:8080/shafiq02/1234/1364793
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 4 FHD" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="FIFA | WORLD CUP 2026",Bein Sports Max 4 FHD
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 4 FHD" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="FIFA WORLD CUP | beIN Sports ",Bein Sports Max 4 FHD
 http://filex.me:8080/shafiq02/1234/1364794
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 5 SD" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="FIFA | WORLD CUP 2026",Bein Sports Max 5 SD
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 5 SD" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="FIFA WORLD CUP | beIN Sports ",Bein Sports Max 5 SD
 http://filex.me:8080/shafiq02/1234/1364795
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 5 HD" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="FIFA | WORLD CUP 2026",Bein Sports Max 5 HD
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 5 HD" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="FIFA WORLD CUP | beIN Sports ",Bein Sports Max 5 HD
 http://filex.me:8080/shafiq02/1234/1364796
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 5 4K" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="FIFA | WORLD CUP 2026",Bein Sports Max 5 4K
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 5 4K" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="FIFA WORLD CUP | beIN Sports ",Bein Sports Max 5 4K
 http://filex.me:8080/shafiq02/1234/1364797
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 5 FHD" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="FIFA | WORLD CUP 2026",Bein Sports Max 5 FHD
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 5 FHD" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="FIFA WORLD CUP | beIN Sports ",Bein Sports Max 5 FHD
 http://filex.me:8080/shafiq02/1234/1364798
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 6 SD" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="FIFA | WORLD CUP 2026",Bein Sports Max 6 SD
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 6 SD" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="FIFA WORLD CUP | beIN Sports ",Bein Sports Max 6 SD
 http://filex.me:8080/shafiq02/1234/1364799
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 6 HD" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="FIFA | WORLD CUP 2026",Bein Sports Max 6 HD
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 6 HD" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="FIFA WORLD CUP | beIN Sports ",Bein Sports Max 6 HD
 http://filex.me:8080/shafiq02/1234/1364800
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 6 4K" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="FIFA | WORLD CUP 2026",Bein Sports Max 6 4K
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 6 4K" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="FIFA WORLD CUP | beIN Sports ",Bein Sports Max 6 4K
 http://filex.me:8080/shafiq02/1234/1364801
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 6 FHD" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="FIFA | WORLD CUP 2026",Bein Sports Max 6 FHD
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 6 FHD" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="FIFA WORLD CUP | beIN Sports ",Bein Sports Max 6 FHD
 http://filex.me:8080/shafiq02/1234/1364802
 #EXTINF:-1 tvg-id="" tvg-name="SP-UK | Sky Sports 1 4K/UHD" tvg-logo="https://i.ibb.co/c6kYjjk/Sky-Sports.png" group-title="SPORTS | UK SKY",SP-UK | Sky Sports 1 4K/UHD
 http://filex.me:8080/shafiq02/1234/956595
@@ -4845,9 +4847,9 @@ http://filex.me:8080/shafiq02/1234/956949
 http://filex.me:8080/shafiq02/1234/956950
 #EXTINF:-1 tvg-id="" tvg-name="4K | ESPN (Events Only)" tvg-logo="https://i.ibb.co/VpyQTLg/ESPN4k.png" group-title="SPORTS | ESPN",4K | ESPN (Events Only)
 http://filex.me:8080/shafiq02/1234/956838
-#EXTINF:-1 tvg-id="" tvg-name="FIFA 4k ENG | 2 " tvg-logo="https://i.postimg.cc/6p2DxNtv/1781307738491.png" group-title="FIFA|SPECIAL",FIFA 4k ENG | 2 
+#EXTINF:-1 tvg-id="" tvg-name="FIFA 4k ENG | 2 " tvg-logo="https://i.postimg.cc/6p2DxNtv/1781307738491.png" group-title="FIFA World Cup| VIP",FIFA 4k ENG | 2 
 http://filex.me:8080/shafiq02/1234/1369494
-#EXTINF:-1 tvg-id="" tvg-name="FIFA 4k ENG | 1" tvg-logo="https://i.postimg.cc/gjGWGt4s/1781307552866.png" group-title="FIFA|SPECIAL",FIFA 4k ENG | 1
+#EXTINF:-1 tvg-id="" tvg-name="FIFA 4k ENG | 1" tvg-logo="https://i.postimg.cc/gjGWGt4s/1781307552866.png" group-title="FIFA World Cup| VIP",FIFA 4k ENG | 1
 http://filex.me:8080/shafiq02/1234/1369482
 #EXTINF:-1 tvg-id="DD.Sports.in" tvg-name="PK | PTV Sports SD" tvg-logo="https://www.lyngsat.com/logo/tv/pp/ptv_sports_pk.png" group-title="IND | CRICKET HD",PK | PTV Sports SD
 http://filex.me:8080/shafiq02/1234/250211
@@ -4949,14 +4951,16 @@ http://filex.me:8080/shafiq02/1234/905193
 http://filex.me:8080/shafiq02/1234/911332
 #EXTINF:-1 tvg-id="" tvg-name="CIRCKET (5)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStx7da_qa94FyoeuOHp7jhGWruG_Xw4KO8pEXlHLQgNT5Q8Jjtke-0mX8&s=10" group-title="PSL | CHAMPION LEAGUE (2026)",CIRCKET (5)
 http://filex.me:8080/shafiq02/1234/911334
-#EXTINF:-1 tvg-id="" tvg-name="UNITE8 SPORTS 1 HD (HINDI)" tvg-logo="https://i.postimg.cc/sxMN9xC0/Picsart-26-06-12-23-03-37-009.jpg" group-title="FIFA|SPECIAL",UNITE8 SPORTS 1 HD (HINDI)
+#EXTINF:-1 tvg-id="" tvg-name="UNITE8 SPORTS 1 HD (HINDI)" tvg-logo="https://i.postimg.cc/sxMN9xC0/Picsart-26-06-12-23-03-37-009.jpg" group-title="FIFA World Cup| VIP",UNITE8 SPORTS 1 HD (HINDI)
 http://filex.me:8080/shafiq02/1234/1369005
-#EXTINF:-1 tvg-id="" tvg-name="UNITE8 SPORTS 1 FHD (Hindi)" tvg-logo="https://i.postimg.cc/sxMN9xC0/Picsart-26-06-12-23-03-37-009.jpg" group-title="FIFA|SPECIAL",UNITE8 SPORTS 1 FHD (Hindi)
+#EXTINF:-1 tvg-id="" tvg-name="UNITE8 SPORTS 1 FHD (Hindi)" tvg-logo="https://i.postimg.cc/sxMN9xC0/Picsart-26-06-12-23-03-37-009.jpg" group-title="FIFA World Cup| VIP",UNITE8 SPORTS 1 FHD (Hindi)
 http://filex.me:8080/shafiq02/1234/1369004
-#EXTINF:-1 tvg-id="" tvg-name="IND_UNITE8 SPORTS 2 HD" tvg-logo="https://i.ibb.co/84RhY6HW/Picsart-26-06-13-01-41-58-563.jpg" group-title="FIFA|SPECIAL",IND_UNITE8 SPORTS 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="IND_UNITE8 SPORTS 2 HD" tvg-logo="https://i.ibb.co/84RhY6HW/Picsart-26-06-13-01-41-58-563.jpg" group-title="FIFA World Cup| VIP",IND_UNITE8 SPORTS 2 HD
 http://filex.me:8080/shafiq02/1234/1369003
-#EXTINF:-1 tvg-id="" tvg-name="IND_UNITE8 SPORTS 2 FHD" tvg-logo="https://i.ibb.co/84RhY6HW/Picsart-26-06-13-01-41-58-563.jpg" group-title="FIFA|SPECIAL",IND_UNITE8 SPORTS 2 FHD
+#EXTINF:-1 tvg-id="" tvg-name="IND_UNITE8 SPORTS 2 FHD" tvg-logo="https://i.ibb.co/84RhY6HW/Picsart-26-06-13-01-41-58-563.jpg" group-title="FIFA World Cup| VIP",IND_UNITE8 SPORTS 2 FHD
 http://filex.me:8080/shafiq02/1234/1369002
+#EXTINF:-1 tvg-id="SuperSport OTT" tvg-name="ZA: Supersport Maximo 1 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/488fd8d34ea146bfaf82c12331f4223e.png" group-title="FIFA World Cup| VIP",ZA: Supersport Maximo 1 HD
+http://filex.me:8080/shafiq02/1234/290355
 #EXTINF:-1 tvg-id="" tvg-name="IPL Hotstar Hindi ( Match Time)" tvg-logo="https://i.postimg.cc/vBD79StP/Picsart-26-04-02-17-29-19-438.jpg" group-title="IPL | CHAMPION LEAGUE (2026)",IPL Hotstar Hindi ( Match Time)
 http://filex.me:8080/shafiq02/1234/984278
 #EXTINF:-1 tvg-id="" tvg-name="IPL Hotstar Punjabi" tvg-logo="https://i.postimg.cc/j5KNPQy7/Picsart-26-04-03-22-48-14-321.jpg" group-title="IPL | CHAMPION LEAGUE (2026)",IPL Hotstar Punjabi
@@ -4989,10 +4993,18 @@ http://filex.me:8080/shafiq02/1234/957594
 http://filex.me:8080/shafiq02/1234/957597
 #EXTINF:-1 tvg-id="" tvg-name="CIRCKET (13)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/2025_IPL_logo.png" group-title="IPL | CHAMPION LEAGUE (2026)",CIRCKET (13)
 http://filex.me:8080/shafiq02/1234/957599
+#EXTINF:-1 tvg-id="" tvg-name="UTV HD [IE] (1080p H264)" tvg-logo="http://plexflix.to/plexflix.to/picons/entertainment/utvirelandhd.png" group-title="UK | 1",UTV HD [IE] (1080p H264)
+http://filex.me:8080/shafiq02/1234/957732
+#EXTINF:-1 tvg-id="" tvg-name="STV HD (1080p H264)" tvg-logo="http://plexflix.to/plexflix.to/picons/entertainment/e-stvhd.png" group-title="UK | 1",STV HD (1080p H264)
+http://filex.me:8080/shafiq02/1234/957708
 #EXTINF:-1 tvg-id="9121" tvg-name="UK: BBC ONE HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/784f2cc4e90f364b88658303186aac6f.png" group-title="UK | LIFESTYLE",UK: BBC ONE HD
 http://filex.me:8080/shafiq02/1234/495483
 #EXTINF:-1 tvg-id="FS1.HD.us2" tvg-name="US: FS1 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/30569238d01ed9c7e8f50b4f61c70865.png" group-title="✯USA✯ SPORTS",US: FS1 HD
 http://filex.me:8080/shafiq02/1234/291613
+#EXTINF:-1 tvg-id="" tvg-name="USA | FOX Yakima, WA KCYUⓧ" tvg-logo="" group-title="✯USA✯ FOX REGIONALS",USA | FOX Yakima, WA KCYUⓧ
+http://filex.me:8080/shafiq02/1234/909379
+#EXTINF:-1 tvg-id="" tvg-name="USA | FOX Austin, TX KTBCⓧ" tvg-logo="" group-title="✯USA✯ FOX REGIONALS",USA | FOX Austin, TX KTBCⓧ
+http://filex.me:8080/shafiq02/1234/909281
 #EXTINF:-1 tvg-id="TSN.1.ca2" tvg-name="CA: TSN 1 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/1fba41bf57803049ca52a3131bf7b749.png" group-title="✯Canada✯ Sports",CA: TSN 1 HD
 http://filex.me:8080/shafiq02/1234/290734
 #EXTINF:-1 tvg-id="" tvg-name="Dubai Racing (1080p)" tvg-logo="https://i.imgur.com/CJ1dagP.png" group-title="✯RACING Tv✯",Dubai Racing (1080p)
@@ -5009,15 +5021,19 @@ http://filex.me:8080/shafiq02/1234/834875
 http://filex.me:8080/shafiq02/1234/834876
 #EXTINF:-1 tvg-id="antena1.ro" tvg-name="RO: Antena 1 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/4659d2bca898e371660103eb401e30fd.png" group-title="Romania ➾ LifeStyle",RO: Antena 1 HD
 http://filex.me:8080/shafiq02/1234/317783
+#EXTINF:-1 tvg-id="tvlandeast.us" tvg-name="AL: TV KLAN HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/46595988f0083f19afd11068bd05c6d0.png" group-title="Albania ➾ News",AL: TV KLAN HD
+http://filex.me:8080/shafiq02/1234/303980
 #EXTINF:-1 tvg-id="m6.fr" tvg-name="FR: M6 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/2e471c9a55628012ff3b6f4fb8ab3ec3.png" group-title="France ➾ LifeStyle",FR: M6 HD
 http://filex.me:8080/shafiq02/1234/302138
-#EXTINF:-1 tvg-id="" tvg-name="FIFA | FHD (ENG)" tvg-logo="https://i.ibb.co/DbtpCng/Soccer.png" group-title="FIFA|SPECIAL",FIFA | FHD (ENG)
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TYC Sports HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/a845a6541822a8cad70a73b6c708610a.png" group-title="Argentina",ARG: TYC Sports HD
+http://filex.me:8080/shafiq02/1234/303225
+#EXTINF:-1 tvg-id="" tvg-name="FIFA | FHD (ENG)" tvg-logo="https://i.ibb.co/DbtpCng/Soccer.png" group-title="FIFA World Cup| VIP",FIFA | FHD (ENG)
 http://filex.me:8080/shafiq02/1234/1370353
-#EXTINF:-1 tvg-id="" tvg-name="FIFA |  FHD (SPANISH)" tvg-logo="https://i.ibb.co/DbtpCng/Soccer.png" group-title="FIFA|SPECIAL",FIFA |  FHD (SPANISH)
+#EXTINF:-1 tvg-id="" tvg-name="FIFA |  FHD (SPANISH)" tvg-logo="https://i.ibb.co/DbtpCng/Soccer.png" group-title="FIFA World Cup| VIP",FIFA |  FHD (SPANISH)
 http://filex.me:8080/shafiq02/1234/1370354
-#EXTINF:-1 tvg-id="" tvg-name="FIFA | FHD 2 (ENG)" tvg-logo="https://i.ibb.co/DbtpCng/Soccer.png" group-title="FIFA|SPECIAL",FIFA | FHD 2 (ENG)
+#EXTINF:-1 tvg-id="" tvg-name="FIFA | FHD 2 (ENG)" tvg-logo="https://i.ibb.co/DbtpCng/Soccer.png" group-title="FIFA World Cup| VIP",FIFA | FHD 2 (ENG)
 http://filex.me:8080/shafiq02/1234/1370355
-#EXTINF:-1 tvg-id="" tvg-name="FIFA | 4K 3 (ENG)" tvg-logo="https://i.ibb.co/DbtpCng/Soccer.png" group-title="FIFA|SPECIAL",FIFA | 4K 3 (ENG)
+#EXTINF:-1 tvg-id="" tvg-name="FIFA | 4K 3 (ENG)" tvg-logo="https://i.ibb.co/DbtpCng/Soccer.png" group-title="FIFA World Cup| VIP",FIFA | 4K 3 (ENG)
 http://filex.me:8080/shafiq02/1234/1370357
 #EXTINF:-1 tvg-id="" tvg-name="24/7 C I D 1" tvg-logo="" group-title="IND | TV SHOW 24/7",24/7 C I D 1
 http://filex.me:8080/shafiq02/1234/1321194
@@ -5357,6 +5373,36 @@ http://filex.me:8080/shafiq02/1234/957303
 http://filex.me:8080/shafiq02/1234/957304
 #EXTINF:-1 tvg-id="" tvg-name="US-Music | Concert Channel" tvg-logo="https://i.ibb.co/C7Gwzp1/Concert-HD.png" group-title="WORLD | MUSIC",US-Music | Concert Channel
 http://filex.me:8080/shafiq02/1234/957337
+#EXTINF:-1 tvg-id="" tvg-name="90s HITs" tvg-logo="" group-title="IND | MUSIC HD",90s HITs
+http://filex.me:8080/shafiq02/1234/1371066
+#EXTINF:-1 tvg-id="" tvg-name="Asha Bhosle" tvg-logo="https://c.saavncdn.com/136/Asha-Bhosle-The-Collection-Hindi-2022-20220912223408-500x500.jpg" group-title="IND | MUSIC HD",Asha Bhosle
+http://filex.me:8080/shafiq02/1234/1371067
+#EXTINF:-1 tvg-id="" tvg-name="COKE STUDIO" tvg-logo="https://i1.sndcdn.com/avatars-000364552709-cdtdl3-t1080x1080.jpg" group-title="IND | MUSIC HD",COKE STUDIO
+http://filex.me:8080/shafiq02/1234/1371068
+#EXTINF:-1 tvg-id="" tvg-name="Dilip Kumar" tvg-logo="https://i.scdn.co/image/ab67616d0000b273fb8ce8ab893be3f41f6cdcc4" group-title="IND | MUSIC HD",Dilip Kumar
+http://filex.me:8080/shafiq02/1234/1371069
+#EXTINF:-1 tvg-id="" tvg-name="Kishore Kumar 90s" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCyycyR5_Out4MXHIGYib9XcXdG8hWZ_JcaQ&s" group-title="IND | MUSIC HD",Kishore Kumar 90s
+http://filex.me:8080/shafiq02/1234/1371070
+#EXTINF:-1 tvg-id="" tvg-name="Kumar Sanu" tvg-logo="https://c.saavncdn.com/334/90s-Hits-Of-Kumar-Sanu-Hindi-2019-20191024051719-500x500.jpg" group-title="IND | MUSIC HD",Kumar Sanu
+http://filex.me:8080/shafiq02/1234/1371071
+#EXTINF:-1 tvg-id="" tvg-name="Lata Mangeshkar 90s" tvg-logo="https://s.saregama.tech/image/c/fw_485/d/ca/8a/legends-lata-mangeshkar-the-ultimate-collection-vol-1_1481880422.jpg" group-title="IND | MUSIC HD",Lata Mangeshkar 90s
+http://filex.me:8080/shafiq02/1234/1371072
+#EXTINF:-1 tvg-id="" tvg-name="Mohammed Rafi Songs" tvg-logo="https://i.scdn.co/image/ab67616d0000b273f40be5a8c3042c33f28f0afd" group-title="IND | MUSIC HD",Mohammed Rafi Songs
+http://filex.me:8080/shafiq02/1234/1371073
+#EXTINF:-1 tvg-id="" tvg-name="Sidhu Moosewala" tvg-logo="https://i1.sndcdn.com/artworks-R9e2fzi2wiedDouG-z0Jn1Q-t500x500.jpg" group-title="IND | MUSIC HD",Sidhu Moosewala
+http://filex.me:8080/shafiq02/1234/1371074
+#EXTINF:-1 tvg-id="" tvg-name="Shemaroo Filmigaane" tvg-logo="https://a.jsrdn.com/hls/23141/shemaroo-filmigaane/logo_20240206_190035_68.png" group-title="IND | MUSIC HD",Shemaroo Filmigaane
+http://filex.me:8080/shafiq02/1234/1371085
+#EXTINF:-1 tvg-id="" tvg-name="Punjabi Hits" tvg-logo="https://a.jsrdn.com/hls/23196/punjabi-hits/logo_20241010_204324_70.png" group-title="IND | MUSIC HD",Punjabi Hits
+http://filex.me:8080/shafiq02/1234/1371086
+#EXTINF:-1 tvg-id="" tvg-name="UK: HUB Premier 1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK | SPORTS",UK: HUB Premier 1 HD
+http://filex.me:8080/shafiq02/1234/495230
+#EXTINF:-1 tvg-id="" tvg-name="UK: HUB Premier 2 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK | SPORTS",UK: HUB Premier 2 HD
+http://filex.me:8080/shafiq02/1234/495231
+#EXTINF:-1 tvg-id="9121" tvg-name="UK: MUTV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/73eef793ce91db2ff4122b6e3581ec7b.png" group-title="UK | SPORTS",UK: MUTV HD
+http://filex.me:8080/shafiq02/1234/495237
+#EXTINF:-1 tvg-id="219104" tvg-name="UK: Premier Sports 2 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/35affbf18fb742f52581f3f069a97258.png" group-title="UK | SPORTS",UK: Premier Sports 2 HD
+http://filex.me:8080/shafiq02/1234/495239
 #EXTINF:-1 tvg-id="" tvg-name="Sky Comedy HD (1080p H264)" tvg-logo="http://plexflix.to/plexflix.to/picons/entertainment/entertainment-universalchannelhd.jpg" group-title="UK | 1",Sky Comedy HD (1080p H264)
 http://filex.me:8080/shafiq02/1234/957696
 #EXTINF:-1 tvg-id="" tvg-name="Channel 5 +1 (SD H264)" tvg-logo="s:1:/images/Clolc7yhhL5yWQ8UIkwttSycy4xXQOSnY52qxV7zKAbuz3Ya_TxiuF0VGcc8oPSzX1Fig--hkcjfjqHvX7BIos2tgby3v83b84h0h6w-_OGm17JsX6aap5CEhlLxjUKZ.png" group-title="UK | 1",Channel 5 +1 (SD H264)
@@ -5561,8 +5607,6 @@ http://filex.me:8080/shafiq02/1234/957799
 http://filex.me:8080/shafiq02/1234/957797
 #EXTINF:-1 tvg-id="" tvg-name="Sky Max (SD H264)" tvg-logo="" group-title="UK | 1",Sky Max (SD H264)
 http://filex.me:8080/shafiq02/1234/957697
-#EXTINF:-1 tvg-id="" tvg-name="UTV HD [IE] (1080p H264)" tvg-logo="http://plexflix.to/plexflix.to/picons/entertainment/utvirelandhd.png" group-title="UK | 1",UTV HD [IE] (1080p H264)
-http://filex.me:8080/shafiq02/1234/957732
 #EXTINF:-1 tvg-id="" tvg-name="U&Dave HD (1080p H264)" tvg-logo="http://plexflix.to/plexflix.to/picons/entertainment/entertainment-davehd.png" group-title="UK | 1",U&Dave HD (1080p H264)
 http://filex.me:8080/shafiq02/1234/957723
 #EXTINF:-1 tvg-id="" tvg-name="U&DaveJaVu (SD H264)" tvg-logo="http://plexflix.to/plexflix.to/picons/entertainment/entertainment-davejavu.png" group-title="UK | 1",U&DaveJaVu (SD H264)
@@ -5631,8 +5675,6 @@ http://filex.me:8080/shafiq02/1234/957704
 http://filex.me:8080/shafiq02/1234/957705
 #EXTINF:-1 tvg-id="" tvg-name="Sky Witness +1 (SD H264)" tvg-logo="" group-title="UK | 1",Sky Witness +1 (SD H264)
 http://filex.me:8080/shafiq02/1234/957706
-#EXTINF:-1 tvg-id="" tvg-name="STV HD (1080p H264)" tvg-logo="http://plexflix.to/plexflix.to/picons/entertainment/e-stvhd.png" group-title="UK | 1",STV HD (1080p H264)
-http://filex.me:8080/shafiq02/1234/957708
 #EXTINF:-1 tvg-id="" tvg-name="U&Alibi +1 (SD H264)" tvg-logo="s:1:/images/Clolc7yhhL5yWQ8UIkwttSycy4xXQOSnY52qxV7zKAbuz3Ya_TxiuF0VGcc8oPSzX1Fig--hkcjfjqHvX7BIosfjKxrkne7_ho1fkCOgNesi4SNFkK7UtsMWwriuqbPT.png" group-title="UK | 1",U&Alibi +1 (SD H264)
 http://filex.me:8080/shafiq02/1234/957719
 #EXTINF:-1 tvg-id="" tvg-name="TG4 HD [IE] (1080p H264)" tvg-logo="http://plexflix.to/plexflix.to/picons/entertainment/entertainment-tg4hd.png" group-title="UK | 1",TG4 HD [IE] (1080p H264)
@@ -8711,14 +8753,10 @@ http://filex.me:8080/shafiq02/1234/909190
 http://filex.me:8080/shafiq02/1234/909273
 #EXTINF:-1 tvg-id="" tvg-name="USA | FOX Greenville, NC WYDOⓧ" tvg-logo="" group-title="✯USA✯ FOX REGIONALS",USA | FOX Greenville, NC WYDOⓧ
 http://filex.me:8080/shafiq02/1234/909312
-#EXTINF:-1 tvg-id="" tvg-name="USA | FOX Yakima, WA KCYUⓧ" tvg-logo="" group-title="✯USA✯ FOX REGIONALS",USA | FOX Yakima, WA KCYUⓧ
-http://filex.me:8080/shafiq02/1234/909379
 #EXTINF:-1 tvg-id="" tvg-name="USA | FOX Baton Rouge, LA WGMBⓧ" tvg-logo="" group-title="✯USA✯ FOX REGIONALS",USA | FOX Baton Rouge, LA WGMBⓧ
 http://filex.me:8080/shafiq02/1234/909283
 #EXTINF:-1 tvg-id="" tvg-name="USA | FOX Bakersfield, CA KBFXⓧ" tvg-logo="" group-title="✯USA✯ FOX REGIONALS",USA | FOX Bakersfield, CA KBFXⓧ
 http://filex.me:8080/shafiq02/1234/909282
-#EXTINF:-1 tvg-id="" tvg-name="USA | FOX Austin, TX KTBCⓧ" tvg-logo="" group-title="✯USA✯ FOX REGIONALS",USA | FOX Austin, TX KTBCⓧ
-http://filex.me:8080/shafiq02/1234/909281
 #EXTINF:-1 tvg-id="" tvg-name="USA | FOX Augusta, GA WFXGⓧ" tvg-logo="" group-title="✯USA✯ FOX REGIONALS",USA | FOX Augusta, GA WFXGⓧ
 http://filex.me:8080/shafiq02/1234/909280
 #EXTINF:-1 tvg-id="" tvg-name="USA | FOX Atlanta, GA WAGAⓧ" tvg-logo="" group-title="✯USA✯ FOX REGIONALS",USA | FOX Atlanta, GA WAGAⓧ
@@ -10437,6 +10475,10 @@ http://filex.me:8080/shafiq02/1234/292768
 http://filex.me:8080/shafiq02/1234/292769
 #EXTINF:-1 tvg-id="" tvg-name="AF: ZAP VIVA HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/c7eecc6ff94c2e0cb0f82e88c3dbe56c.png" group-title="Africa",AF: ZAP VIVA HD
 http://filex.me:8080/shafiq02/1234/292770
+#EXTINF:-1 tvg-id="SS Football" tvg-name="ZA: Supersport Football HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/8dab62dd2c2faa3d66261a2a5afa6260.png" group-title="South Africa ➾ Sports",ZA: Supersport Football HD
+http://filex.me:8080/shafiq02/1234/290354
+#EXTINF:-1 tvg-id="SuperSport PSL" tvg-name="ZA: Supersport PSL HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/b113905d39622090910a766c75af759d.png" group-title="South Africa ➾ Sports",ZA: Supersport PSL HD
+http://filex.me:8080/shafiq02/1234/290356
 #EXTINF:-1 tvg-id="canalplus.fr" tvg-name="ZA: Canal+ Formule 1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="South Africa Entertainment",ZA: Canal+ Formule 1 HD
 http://filex.me:8080/shafiq02/1234/290252
 #EXTINF:-1 tvg-id="" tvg-name="ZA: Dumisa TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/10a1fbddf79aa90625cf77b75e978d53.png" group-title="South Africa Entertainment",ZA: Dumisa TV HD
@@ -11341,6 +11383,8 @@ http://filex.me:8080/shafiq02/1234/293614
 http://filex.me:8080/shafiq02/1234/293615
 #EXTINF:-1 tvg-id="" tvg-name="DE: Stingray Classica HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/103bd0c99e9f34330b9bbae054954f3d.png" group-title="Germany ➾ Music",DE: Stingray Classica HD
 http://filex.me:8080/shafiq02/1234/293616
+#EXTINF:-1 tvg-id="beIN.Sports.HD.(Canada).ca2" tvg-name="CA: BEIN Sports HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/7c07efb5599972e022017294d3666dbc.png" group-title="✯Canada✯ Sports",CA: BEIN Sports HD
+http://filex.me:8080/shafiq02/1234/290701
 #EXTINF:-1 tvg-id="BBC.News.(North.America).ca2" tvg-name="CA: BBC NEWS HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/2bb9178c3b382ede798b6693317a7e11.svg" group-title="✯Canada✯",CA: BBC NEWS HD
 http://filex.me:8080/shafiq02/1234/290782
 #EXTINF:-1 tvg-id="CBC.St..John’s.ca2" tvg-name="CA: CBC ST Johns HD" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="✯Canada✯",CA: CBC ST Johns HD
@@ -17331,6 +17375,24 @@ http://filex.me:8080/shafiq02/1234/911634
 http://filex.me:8080/shafiq02/1234/911633
 #EXTINF:-1 tvg-id="464178" tvg-name="Nepal tv plus" tvg-logo="http://vplay.site:2052/images/I1cw7IUoJnubkLMEpVufUdIhSDJBAMD32Bv9xh9cePFwxRko6wyWZYVZWo68OtsK.png" group-title="IND | NEPAL",Nepal tv plus
 http://filex.me:8080/shafiq02/1234/911651
+#EXTINF:-1 tvg-id="" tvg-name="Capital TV" tvg-logo="https://www.capitaltvhd.com/images/logo.png?v=1.0.0" group-title="IND | NEPAL",Capital TV
+http://filex.me:8080/shafiq02/1234/1371094
+#EXTINF:-1 tvg-id="" tvg-name="Divya Darshan" tvg-logo="" group-title="IND | NEPAL",Divya Darshan
+http://filex.me:8080/shafiq02/1234/1371095
+#EXTINF:-1 tvg-id="" tvg-name="NEP: Indigenous TV" tvg-logo="" group-title="IND | NEPAL",NEP: Indigenous TV
+http://filex.me:8080/shafiq02/1234/1371096
+#EXTINF:-1 tvg-id="" tvg-name="NEP: NTV NEWS" tvg-logo="" group-title="IND | NEPAL",NEP: NTV NEWS
+http://filex.me:8080/shafiq02/1234/1371097
+#EXTINF:-1 tvg-id="" tvg-name="NEP : NEPAL TV" tvg-logo="" group-title="IND | NEPAL",NEP : NEPAL TV
+http://filex.me:8080/shafiq02/1234/1371098
+#EXTINF:-1 tvg-id="" tvg-name="NEP: NTV PLUS" tvg-logo="" group-title="IND | NEPAL",NEP: NTV PLUS
+http://filex.me:8080/shafiq02/1234/1371099
+#EXTINF:-1 tvg-id="" tvg-name="NEP: KANTIPUR" tvg-logo="" group-title="IND | NEPAL",NEP: KANTIPUR
+http://filex.me:8080/shafiq02/1234/1371100
+#EXTINF:-1 tvg-id="" tvg-name="NEP: NTV ITAHRI HD" tvg-logo="" group-title="IND | NEPAL",NEP: NTV ITAHRI HD
+http://filex.me:8080/shafiq02/1234/1371101
+#EXTINF:-1 tvg-id="" tvg-name="NEP: NTV KOHALPUR" tvg-logo="" group-title="IND | NEPAL",NEP: NTV KOHALPUR
+http://filex.me:8080/shafiq02/1234/1371102
 #EXTINF:-1 tvg-id="463944" tvg-name="Udaya ᴴᴰ" tvg-logo="http://vplay.site:2052/images/1e33hFaez5JOt1vmQ78I_0RHnogbmvf1UljIZoNm6Z0P2_em7gyBxftqa7cxBZ-w.png" group-title="IND | KANNADA",Udaya ᴴᴰ
 http://filex.me:8080/shafiq02/1234/955347
 #EXTINF:-1 tvg-id="464191" tvg-name="TV5 News ᴴᴰ" tvg-logo="http://vplay.site:2052/images/Ge08vpI2Z44hU23OXCO49-DrgGVPcH4TGzRnrXoGg7kCM-kUmOqnAYKWsE0c4N7H.png" group-title="IND | KANNADA",TV5 News ᴴᴰ
@@ -20437,8 +20499,6 @@ http://filex.me:8080/shafiq02/1234/303222
 http://filex.me:8080/shafiq02/1234/303223
 #EXTINF:-1 tvg-id="" tvg-name="ARG: TVU Universidad Nacional DE LA Plata HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-10/4d9d2f269a87f25f159687b695701ba6.jpg" group-title="Argentina",ARG: TVU Universidad Nacional DE LA Plata HD
 http://filex.me:8080/shafiq02/1234/303224
-#EXTINF:-1 tvg-id="" tvg-name="ARG: TYC Sports HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/a845a6541822a8cad70a73b6c708610a.png" group-title="Argentina",ARG: TYC Sports HD
-http://filex.me:8080/shafiq02/1234/303225
 #EXTINF:-1 tvg-id="" tvg-name="ARG: UNAM Transmedia HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Argentina",ARG: UNAM Transmedia HD
 http://filex.me:8080/shafiq02/1234/303226
 #EXTINF:-1 tvg-id="" tvg-name="ARG: Unife TV HD" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Argentina",ARG: Unife TV HD
@@ -24781,8 +24841,6 @@ http://filex.me:8080/shafiq02/1234/303977
 http://filex.me:8080/shafiq02/1234/303978
 #EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-name="AL: Tring Sport NEWS HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/d336e84b188eca200534666d82b422c9.png" group-title="Albania ➾ News",AL: Tring Sport NEWS HD
 http://filex.me:8080/shafiq02/1234/303979
-#EXTINF:-1 tvg-id="tvlandeast.us" tvg-name="AL: TV KLAN HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/46595988f0083f19afd11068bd05c6d0.png" group-title="Albania ➾ News",AL: TV KLAN HD
-http://filex.me:8080/shafiq02/1234/303980
 #EXTINF:-1 tvg-id="babytv.it" tvg-name="AL: BABY TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-06/bfffd3dcc537580d993145acb49d47d4.png" group-title="Albania ➾ Kids",AL: BABY TV HD
 http://filex.me:8080/shafiq02/1234/304025
 #EXTINF:-1 tvg-id="" tvg-name="AL: BANG BANG HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-06/96e9592c36c5590a5503a86aa8c84042.png" group-title="Albania ➾ Kids",AL: BANG BANG HD
@@ -24831,6 +24889,8 @@ http://filex.me:8080/shafiq02/1234/303992
 http://filex.me:8080/shafiq02/1234/303993
 #EXTINF:-1 tvg-id="" tvg-name="AL: TV Sharri HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/03bf7ee22afa23be577be153f1748038.png" group-title="Albania ➾ Music",AL: TV Sharri HD
 http://filex.me:8080/shafiq02/1234/303994
+#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="FR: BEIN Sports 2 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/0546311aed22a274b1e87d23c33dd475.png" group-title="AR |BEIN SPORTS HD",FR: BEIN Sports 2 HD
+http://filex.me:8080/shafiq02/1234/301959
 #EXTINF:-1 tvg-id="" tvg-name="BeIN Sport 1 SD" tvg-logo="http://137.74.40.152/Categories.Logo/beinsports.png" group-title="AR |BEIN SPORTS SD",BeIN Sport 1 SD
 http://filex.me:8080/shafiq02/1234/908592
 #EXTINF:-1 tvg-id="" tvg-name="BeIN Sport 2 SD" tvg-logo="http://137.74.40.152/Categories.Logo/beinsports.png" group-title="AR |BEIN SPORTS SD",BeIN Sport 2 SD
@@ -25559,6 +25619,12 @@ http://filex.me:8080/shafiq02/1234/908780
 http://filex.me:8080/shafiq02/1234/908774
 #EXTINF:-1 tvg-id="" tvg-name="AR: WANASAH HD" tvg-logo="" group-title="✯MUSIC✯اغاني",AR: WANASAH HD
 http://filex.me:8080/shafiq02/1234/908783
+#EXTINF:-1 tvg-id="" tvg-name="Main Vaapas Aaunga (2026) (Hindi) (CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6i5PhBWoDGWmVRmvlUk2L4N23jz.jpg" group-title="BOLLYWOOD | 2026",Main Vaapas Aaunga (2026) (Hindi) (CAM)
+http://filex.me:8080/movie/shafiq02/1234/1370647.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bharat Bhhagya Viddhaata (2026) (Hindi) (CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tf5lLrrikOswHKHpzW0UiHycJEx.jpg" group-title="BOLLYWOOD | 2026",Bharat Bhhagya Viddhaata (2026) (Hindi) (CAM)
+http://filex.me:8080/movie/shafiq02/1234/1370642.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Governor (2026) (Hindi) (CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cdWfUYREo8RXkPxnZLvuG08QJrP.jpg" group-title="BOLLYWOOD | 2026",Governor (2026) (Hindi) (CAM)
+http://filex.me:8080/movie/shafiq02/1234/1370629.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Bhooth Bangla (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/79RBp8afL4u4z3nVGR78z6eIvBB.jpg" group-title="BOLLYWOOD | 2026",Bhooth Bangla (2026)
 http://filex.me:8080/movie/shafiq02/1234/1369443.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Friday Night SmackDown (05.06.2026)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUaBUsFpJTb0M0ZG5QPVsXTrZFxKLWn6_pr6auHpsixw&s=10" group-title="✯WWE✯",Friday Night SmackDown (05.06.2026)
@@ -30901,6 +30967,14 @@ http://filex.me:8080/movie/shafiq02/1234/851462.mp4
 http://filex.me:8080/movie/shafiq02/1234/851461.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Mohra (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nWAptaCNiTIJtv9cYqfF5E7qm0I.jpg" group-title="BOLLYWOOD | CLASSIC ",Mohra (1994)
 http://filex.me:8080/movie/shafiq02/1234/685811.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maternal Instinct (2026) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sSY1K2wENhlpAEo2ASrtsezn0YH.jpg" group-title="HINDI DUB | 2026",Maternal Instinct (2026) (Hindi)
+http://filex.me:8080/movie/shafiq02/1234/1370650.mp4
+#EXTINF:-1 tvg-id="" tvg-name="R.L. Stine's Pumpkinhead (2025) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gRJFFA9lK9pLikEIMcetgkmOGTj.jpg" group-title="HINDI DUB | 2026",R.L. Stine's Pumpkinhead (2025) (Hindi)
+http://filex.me:8080/movie/shafiq02/1234/1370649.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chickenhare and the Secret of the Groundhog (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cUCwWxHF1bRfqeY7beZfsvT7WBR.jpg" group-title="HINDI DUB | 2026",Chickenhare and the Secret of the Groundhog (2025)
+http://filex.me:8080/movie/shafiq02/1234/1370632.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haunted 3D: Ghosts of the Past (2026) (Hindi) (CAM)" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/2JzXsjm4xrbyHaK5VwAYuyMtsEX.jpg" group-title="HINDI DUB | 2026",Haunted 3D: Ghosts of the Past (2026) (Hindi) (CAM)
+http://filex.me:8080/movie/shafiq02/1234/1370628.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Shelter (2026) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/buPFnHZ3xQy6vZEHxbHgL1Pc6CR.jpg" group-title="HINDI DUB | 2026",Shelter (2026) (Hindi)
 http://filex.me:8080/movie/shafiq02/1234/1369460.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Over Your Dead Body (2026) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kZCauMzAt9eMAhLMopCqnFw1Q5k.jpg" group-title="HINDI DUB | 2026",Over Your Dead Body (2026) (Hindi)
@@ -47573,6 +47647,28 @@ http://filex.me:8080/movie/shafiq02/1234/859713.mkv
 http://filex.me:8080/movie/shafiq02/1234/859712.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Chhota Bheem - Crazy Cards World _ Videos for Kids in Hindi _ Fun Kids Videos" tvg-logo="" group-title="✯CHOTA BHEEM✯",Chhota Bheem - Crazy Cards World _ Videos for Kids in Hindi _ Fun Kids Videos
 http://filex.me:8080/movie/shafiq02/1234/859711.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nanu Karunakara (2026) (Kannada)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/viUyZ6k8cFT7vTXpenDcS0RpHtZ.jpg" group-title="KANNADA | 2025 - 2026",Nanu Karunakara (2026) (Kannada)
+http://filex.me:8080/movie/shafiq02/1234/1370646.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maternal Instinct (2026) (Tamil)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/An0LGWZ1jmnHlHeVzRcHXcqhkDF.jpg" group-title="TAMIL | 2025 - 2026",Maternal Instinct (2026) (Tamil)
+http://filex.me:8080/movie/shafiq02/1234/1370645.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Karuppu (2026) (Kannada)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4KZXlZ5tTT6ghbW77gS4hSLkCd7.jpg" group-title="KANNADA | 2025 - 2026",Karuppu (2026) (Kannada)
+http://filex.me:8080/movie/shafiq02/1234/1370641.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vikalpa (2026) (Kannada)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eewLh4MjXdG9jrdOvW6g0HPvqMI.jpg" group-title="KANNADA | 2025 - 2026",Vikalpa (2026) (Kannada)
+http://filex.me:8080/movie/shafiq02/1234/1370640.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Karuppu (2026) (Malayalam)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4KZXlZ5tTT6ghbW77gS4hSLkCd7.jpg" group-title=" MALAYALAM | 2025 - 2026",Karuppu (2026) (Malayalam)
+http://filex.me:8080/movie/shafiq02/1234/1370639.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Karuppu (2026) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4KZXlZ5tTT6ghbW77gS4hSLkCd7.jpg" group-title="SOUTH INDIA | 2026",Karuppu (2026) (Hindi)
+http://filex.me:8080/movie/shafiq02/1234/1370638.mp4
+#EXTINF:-1 tvg-id="" tvg-name="R.L. Stine's Pumpkinhead (2025) (Tamil)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gRJFFA9lK9pLikEIMcetgkmOGTj.jpg" group-title="TAMIL | 2025 - 2026",R.L. Stine's Pumpkinhead (2025) (Tamil)
+http://filex.me:8080/movie/shafiq02/1234/1370637.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Peeli (2026) (Malayalam)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVoFJkNKVkqrKE8vq7osECMcEskIMqTtKESz3jINdp5A&s=10" group-title=" MALAYALAM | 2025 - 2026",Peeli (2026) (Malayalam)
+http://filex.me:8080/movie/shafiq02/1234/1370627.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Oru Nodi (2024) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jcZl2itDpPLKvMrd8C2hNxifGMp.jpg" group-title="SOUTH INDIA | 2023-2024",Oru Nodi (2024) (Hindi)
+http://filex.me:8080/movie/shafiq02/1234/1370626.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Double Occupancy (2026) (Tamil) (CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m0rN6dUnvAAjIwKDLRSIdkrZcBA.jpg" group-title="TAMIL | 2025 - 2026",Double Occupancy (2026) (Tamil) (CAM)
+http://filex.me:8080/movie/shafiq02/1234/1370625.mp4
+#EXTINF:-1 tvg-id="" tvg-name="First Sunday (2008) (Tamil)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9l0sdc7ohLe6TdFsYyCTBnVn1F8.jpg" group-title="✯TAMIL✯ MIX",First Sunday (2008) (Tamil)
+http://filex.me:8080/movie/shafiq02/1234/1370623.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Mahavatar Narsimha (2025) Multi Audio" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzhkMjFhOTItMTczNi00YWM1LTlhZjItOTc4OTA0OWVhZTIzXkEyXkFqcGc@._V1_.jpg" group-title="SOUTH INDIA | MULTI AUDIO",Mahavatar Narsimha (2025) Multi Audio
 http://filex.me:8080/movie/shafiq02/1234/1370175.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Mahavatar Narsimha (2025) Hindi" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzhkMjFhOTItMTczNi00YWM1LTlhZjItOTc4OTA0OWVhZTIzXkEyXkFqcGc@._V1_.jpg" group-title="SOUTH INDIA | 2026",Mahavatar Narsimha (2025) Hindi
@@ -49902,99 +49998,3 @@ http://filex.me:8080/movie/shafiq02/1234/1200270.mkv
 #EXTINF:-1 tvg-id="" tvg-name="AR_ Lie Low" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Lie Low
 http://filex.me:8080/movie/shafiq02/1234/1200268.mkv
 #EXTINF:-1 tvg-id="" tvg-name="AR_ Trial By Fire" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Trial By Fire
-http://filex.me:8080/movie/shafiq02/1234/1200266.mkv
-#EXTINF:-1 tvg-id="" tvg-name="AR_ The Killing Of A Sacred Deer" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ The Killing Of A Sacred Deer
-http://filex.me:8080/movie/shafiq02/1234/1200265.mkv
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Juanita" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Juanita
-http://filex.me:8080/movie/shafiq02/1234/1200263.mkv
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Stake Land" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Stake Land
-http://filex.me:8080/movie/shafiq02/1234/1200261.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ The Traitor" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ The Traitor
-http://filex.me:8080/movie/shafiq02/1234/1200259.mkv
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Leave No Trace" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Leave No Trace
-http://filex.me:8080/movie/shafiq02/1234/1200258.mkv
-#EXTINF:-1 tvg-id="" tvg-name="AR_ A Boy Called Sailboat" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ A Boy Called Sailboat
-http://filex.me:8080/movie/shafiq02/1234/1200256.mkv
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Pride And Prejudice And Zombies" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Pride And Prejudice And Zombies
-http://filex.me:8080/movie/shafiq02/1234/1200254.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sacred Silence (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f6PG7AwtlnIgjyDZWdbgM45x6dU.jpg" group-title="AR | DRAMA & ROMANCE",Sacred Silence (1996)
-http://filex.me:8080/movie/shafiq02/1234/1200253.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Wasp Network" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Wasp Network
-http://filex.me:8080/movie/shafiq02/1234/1200251.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ The 24th" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ The 24th
-http://filex.me:8080/movie/shafiq02/1234/1200249.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ The Children Act" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ The Children Act
-http://filex.me:8080/movie/shafiq02/1234/1200248.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Fight Club" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Fight Club
-http://filex.me:8080/movie/shafiq02/1234/1200246.mkv
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Escape And Evasion" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Escape And Evasion
-http://filex.me:8080/movie/shafiq02/1234/1200244.mkv
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Beyond The Sea" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Beyond The Sea
-http://filex.me:8080/movie/shafiq02/1234/1200242.mkv
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Isi" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Isi
-http://filex.me:8080/movie/shafiq02/1234/1200240.mkv
-#EXTINF:-1 tvg-id="" tvg-name="AR_ The Operative" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ The Operative
-http://filex.me:8080/movie/shafiq02/1234/1200239.mkv
-#EXTINF:-1 tvg-id="" tvg-name="AR_ The Brave" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ The Brave
-http://filex.me:8080/movie/shafiq02/1234/1200237.mkv
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Knives Out" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Knives Out
-http://filex.me:8080/movie/shafiq02/1234/1200236.mkv
-#EXTINF:-1 tvg-id="" tvg-name="AR_ I Predatori" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ I Predatori
-http://filex.me:8080/movie/shafiq02/1234/1200234.mkv
-#EXTINF:-1 tvg-id="" tvg-name="AR_ The Cure" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ The Cure
-http://filex.me:8080/movie/shafiq02/1234/1200232.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ She Never Died" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ She Never Died
-http://filex.me:8080/movie/shafiq02/1234/1200230.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ The Runaways" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ The Runaways
-http://filex.me:8080/movie/shafiq02/1234/1200228.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Final Voyage" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Final Voyage
-http://filex.me:8080/movie/shafiq02/1234/1200226.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ After Darkness" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ After Darkness
-http://filex.me:8080/movie/shafiq02/1234/1200224.mkv
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Been So Long" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Been So Long
-http://filex.me:8080/movie/shafiq02/1234/1200222.mkv
-#EXTINF:-1 tvg-id="" tvg-name="AR_ The Holiday Calendar" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ The Holiday Calendar
-http://filex.me:8080/movie/shafiq02/1234/1200221.mkv
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Semper Fi" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Semper Fi
-http://filex.me:8080/movie/shafiq02/1234/1200219.mkv
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Focus" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Focus
-http://filex.me:8080/movie/shafiq02/1234/1200217.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ The Goldfinch" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ The Goldfinch
-http://filex.me:8080/movie/shafiq02/1234/1200215.mkv
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Finding Steve McQueen" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Finding Steve McQueen
-http://filex.me:8080/movie/shafiq02/1234/1200214.mkv
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Native Son" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Native Son
-http://filex.me:8080/movie/shafiq02/1234/1200212.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Me Before You (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ia3dzj5LnCj1ZBdlVeJrbKJQxG.jpg" group-title="AR | DRAMA & ROMANCE",Me Before You (2016)
-http://filex.me:8080/movie/shafiq02/1234/1200210.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ The Lighthouse" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ The Lighthouse
-http://filex.me:8080/movie/shafiq02/1234/1200207.mkv
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Uncorked" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Uncorked
-http://filex.me:8080/movie/shafiq02/1234/1200205.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Uncle Frank" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Uncle Frank
-http://filex.me:8080/movie/shafiq02/1234/1200204.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ The Martian" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ The Martian
-http://filex.me:8080/movie/shafiq02/1234/1200202.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ High Flying Bird" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ High Flying Bird
-http://filex.me:8080/movie/shafiq02/1234/1200200.mkv
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Septembers Of Shiraz" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Septembers Of Shiraz
-http://filex.me:8080/movie/shafiq02/1234/1200198.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Luz" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Luz
-http://filex.me:8080/movie/shafiq02/1234/1200196.mkv
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Holiday In The Wild" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Holiday In The Wild
-http://filex.me:8080/movie/shafiq02/1234/1200195.mkv
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Risen" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Risen
-http://filex.me:8080/movie/shafiq02/1234/1200193.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Mob Town" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Mob Town
-http://filex.me:8080/movie/shafiq02/1234/1200191.mkv
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Shooting Heroin" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Shooting Heroin
-http://filex.me:8080/movie/shafiq02/1234/1200190.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ The Man Who Killed Hitler And Then The Bigfoot" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ The Man Who Killed Hitler And Then The Bigfoot
-http://filex.me:8080/movie/shafiq02/1234/1200188.mkv
-#EXTINF:-1 tvg-id="" tvg-name="AR_ A Ghost Story" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ A Ghost Story
-http://filex.me:8080/movie/shafiq02/1234/1200186.mp4
-#EXTINF:-1 tvg-id="" tvg-name="I Love You (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vUh3NrbZ3fVt2zj5ehAkPvVFgsU.jpg" group-title="AR | DRAMA & ROMANCE",I Love You (2025)
-http://filex.me:8080/movie/shafiq02/1234/1200184.mkv
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Skate Kitchen" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Skate Kitchen
-http://filex.me:8080/movie/shafiq02/1234/1200182.mkv
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Mr Jones" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Mr Jones
