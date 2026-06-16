@@ -5035,6 +5035,8 @@ http://filex.me:8080/shafiq02/1234/1370354
 http://filex.me:8080/shafiq02/1234/1370355
 #EXTINF:-1 tvg-id="" tvg-name="FIFA | 4K 3 (ENG)" tvg-logo="https://i.ibb.co/DbtpCng/Soccer.png" group-title="FIFA World Cup| VIP",FIFA | 4K 3 (ENG)
 http://filex.me:8080/shafiq02/1234/1370357
+#EXTINF:-1 tvg-id="" tvg-name="4K | Fox (Events Only)" tvg-logo="https://i.ibb.co/RggBQ5p/Fox-Sports4-K.png" group-title="FIFA World Cup| VIP",4K | Fox (Events Only)
+http://filex.me:8080/shafiq02/1234/1372371
 #EXTINF:-1 tvg-id="" tvg-name="24/7 C I D 1" tvg-logo="" group-title="IND | TV SHOW 24/7",24/7 C I D 1
 http://filex.me:8080/shafiq02/1234/1321194
 #EXTINF:-1 tvg-id="" tvg-name="CRIME PATROL" tvg-logo="" group-title="IND | TV SHOW 24/7",CRIME PATROL
@@ -47647,6 +47649,20 @@ http://filex.me:8080/movie/shafiq02/1234/859713.mkv
 http://filex.me:8080/movie/shafiq02/1234/859712.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Chhota Bheem - Crazy Cards World _ Videos for Kids in Hindi _ Fun Kids Videos" tvg-logo="" group-title="✯CHOTA BHEEM✯",Chhota Bheem - Crazy Cards World _ Videos for Kids in Hindi _ Fun Kids Videos
 http://filex.me:8080/movie/shafiq02/1234/859711.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Seven Years in Tibet (1997) (Kannada)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qm87HHUew8ICtUCM4asO3gFYvby.jpg" group-title="✯KANNADA✯ MIX",Seven Years in Tibet (1997) (Kannada)
+http://filex.me:8080/movie/shafiq02/1234/1371532.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kolahalamedu (2026) (Malayalam)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGRlY2E3YmQtOTFkYS00ZGZkLTg3MDEtMmU4MjU2ZmNmNmFlXkEyXkFqcGc@._V1_.jpg" group-title=" MALAYALAM | 2025 - 2026",Kolahalamedu (2026) (Malayalam)
+http://filex.me:8080/movie/shafiq02/1234/1371530.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Normal (2026) (Malayalam)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g8JqVRu2eC5SGJd9idauTXurMl2.jpg" group-title=" MALAYALAM | 2025 - 2026",Normal (2026) (Malayalam)
+http://filex.me:8080/movie/shafiq02/1234/1371529.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Seven Years in Tibet (1997) (Tamil)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qm87HHUew8ICtUCM4asO3gFYvby.jpg" group-title="✯TAMIL✯ MIX",Seven Years in Tibet (1997) (Tamil)
+http://filex.me:8080/movie/shafiq02/1234/1371526.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Deep (1977) (Tamil)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z3HXf0nIN7tvpTF8fxiJrvD603f.jpg" group-title="✯TAMIL✯ MIX",The Deep (1977) (Tamil)
+http://filex.me:8080/movie/shafiq02/1234/1371525.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Habeebi (2026) (Tamil) (CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kHU73XK0DHhphgo7U6MUQz8ADYv.jpg" group-title="TAMIL | 2025 - 2026",Habeebi (2026) (Tamil) (CAM)
+http://filex.me:8080/movie/shafiq02/1234/1371524.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Moondram Kan (2026) (Tamil) (CAM)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5P-KBf3Pn0FWU0Yzet3B-i8ytC7fN71ZhlVorNoW2RQ&s=10" group-title="TAMIL | 2025 - 2026",Moondram Kan (2026) (Tamil) (CAM)
+http://filex.me:8080/movie/shafiq02/1234/1371523.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Nanu Karunakara (2026) (Kannada)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/viUyZ6k8cFT7vTXpenDcS0RpHtZ.jpg" group-title="KANNADA | 2025 - 2026",Nanu Karunakara (2026) (Kannada)
 http://filex.me:8080/movie/shafiq02/1234/1370646.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Maternal Instinct (2026) (Tamil)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/An0LGWZ1jmnHlHeVzRcHXcqhkDF.jpg" group-title="TAMIL | 2025 - 2026",Maternal Instinct (2026) (Tamil)
@@ -49982,19 +49998,3 @@ http://filex.me:8080/movie/shafiq02/1234/1200284.mp4
 #EXTINF:-1 tvg-id="" tvg-name="AR_ The 33" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ The 33
 http://filex.me:8080/movie/shafiq02/1234/1200282.mp4
 #EXTINF:-1 tvg-id="" tvg-name="AR_ The Devil Has A Name" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ The Devil Has A Name
-http://filex.me:8080/movie/shafiq02/1234/1200280.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ The Way Back" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ The Way Back
-http://filex.me:8080/movie/shafiq02/1234/1200278.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Equals" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Equals
-http://filex.me:8080/movie/shafiq02/1234/1200276.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ The Christ Slayer" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ The Christ Slayer
-http://filex.me:8080/movie/shafiq02/1234/1200275.mkv
-#EXTINF:-1 tvg-id="" tvg-name="AR_ She Dies Tomorrow" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ She Dies Tomorrow
-http://filex.me:8080/movie/shafiq02/1234/1200273.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ The Pursuit of Happyness" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ The Pursuit of Happyness
-http://filex.me:8080/movie/shafiq02/1234/1200271.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Shadow Fighter" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Shadow Fighter
-http://filex.me:8080/movie/shafiq02/1234/1200270.mkv
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Lie Low" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Lie Low
-http://filex.me:8080/movie/shafiq02/1234/1200268.mkv
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Trial By Fire" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Trial By Fire
