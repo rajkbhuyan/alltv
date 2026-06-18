@@ -3371,22 +3371,36 @@ http://filex.me:8080/shafiq02/1234/52112
 http://filex.me:8080/shafiq02/1234/247145
 #EXTINF:-1 tvg-id="" tvg-name="PK | Madani Channel HD" tvg-logo="https://www.lyngsat.com/logo/tv/mm/madani-channel-pk.png" group-title="PAK | ISLAMIC",PK | Madani Channel HD
 http://filex.me:8080/shafiq02/1234/247146
+#EXTINF:-1 tvg-id="" tvg-name="NAATS 24/7" tvg-logo="s:1:/images/sF5tEpdd2Lvyz1dx1JUPnRL4D3ofeeKACSP5mOFRkmCBxOIhGqd6RVwlhux24X-V.png" group-title="PAK | ISLAMIC",NAATS 24/7
+http://filex.me:8080/shafiq02/1234/1371083
 #EXTINF:-1 tvg-id="" tvg-name="PK | Peace TV URDU HD" tvg-logo="https://www.lyngsat.com/logo/tv/pp/peace_tv_ae_urdu.png" group-title="PAK | ISLAMIC",PK | Peace TV URDU HD
 http://filex.me:8080/shafiq02/1234/247151
 #EXTINF:-1 tvg-id="" tvg-name="PK | Peace TV ENG HD" tvg-logo="https://www.lyngsat.com/logo/tv/pp/peace-tv-english-ae.png" group-title="PAK | ISLAMIC",PK | Peace TV ENG HD
 http://filex.me:8080/shafiq02/1234/247152
-#EXTINF:-1 tvg-id="" tvg-name="PK | ARY QTV HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/ary_qtv.png" group-title="PAK | ISLAMIC",PK | ARY QTV HD
-http://filex.me:8080/shafiq02/1234/247150
 #EXTINF:-1 tvg-id="" tvg-name="PK | Paigham TV URDU HD" tvg-logo="https://www.lyngsat.com/logo/tv/pp/paigham_tv_pk.png" group-title="PAK | ISLAMIC",PK | Paigham TV URDU HD
 http://filex.me:8080/shafiq02/1234/247153
-#EXTINF:-1 tvg-id="" tvg-name="PK | Ahlebait TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/ahlebait.png" group-title="PAK | ISLAMIC",PK | Ahlebait TV HD
-http://filex.me:8080/shafiq02/1234/247148
-#EXTINF:-1 tvg-id="" tvg-name="PK | HADI TV HD" tvg-logo="https://en.haditv.co.uk/pics/logo.png" group-title="PAK | ISLAMIC",PK | HADI TV HD
-http://filex.me:8080/shafiq02/1234/247149
+#EXTINF:-1 tvg-id="" tvg-name="PK | Paigham Pashto TV" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/09/Paigham-Pashto-TV.png" group-title="PAK | ISLAMIC",PK | Paigham Pashto TV
+http://filex.me:8080/shafiq02/1234/1371076
+#EXTINF:-1 tvg-id="" tvg-name="PK | ARY QTV HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/ary_qtv.png" group-title="PAK | ISLAMIC",PK | ARY QTV HD
+http://filex.me:8080/shafiq02/1234/247150
 #EXTINF:-1 tvg-id="" tvg-name="PK | NOOR TV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy0MixFEp6-ToygFQ4HKDbh7XvKxDjeKueKc0ZrNYe-DHV8VrQ0_vOg8eA&s=10" group-title="PAK | ISLAMIC",PK | NOOR TV HD
 http://filex.me:8080/shafiq02/1234/141305
+#EXTINF:-1 tvg-id="" tvg-name="PK | Ahlebait TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/ahlebait.png" group-title="PAK | ISLAMIC",PK | Ahlebait TV HD
+http://filex.me:8080/shafiq02/1234/247148
+#EXTINF:-1 tvg-id="" tvg-name="Ahlebait HD" tvg-logo="s:1:/images/Y_iLp5zM1z0Hv5o0voAY43gZWms8T5YIsuMWOBrHoUMir-jGs1OviQTA1r3prvcTp0IepONbAPRDzmk1ZG3qQg.png" group-title="PAK | ISLAMIC",Ahlebait HD
+http://filex.me:8080/shafiq02/1234/1371080
+#EXTINF:-1 tvg-id="" tvg-name="PK | HADI TV HD" tvg-logo="https://en.haditv.co.uk/pics/logo.png" group-title="PAK | ISLAMIC",PK | HADI TV HD
+http://filex.me:8080/shafiq02/1234/247149
 #EXTINF:-1 tvg-id="" tvg-name="PK | Karbala TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/kk/karbala_satellite_channel.png" group-title="PAK | ISLAMIC",PK | Karbala TV HD
 http://filex.me:8080/shafiq02/1234/247147
+#EXTINF:-1 tvg-id="" tvg-name="PK | Hyder TV" tvg-logo="https://hyder.tv/wp-content/uploads/2019/08/Logo_HYDER-TV_high-res_013.png" group-title="PAK | ISLAMIC",PK | Hyder TV
+http://filex.me:8080/shafiq02/1234/1371075
+#EXTINF:-1 tvg-id="" tvg-name="HIDAYAT TV" tvg-logo="s:1:/images/Y_iLp5zM1z0Hv5o0voAY43gZWms8T5YIsuMWOBrHoUOO1LuLvC9YoRsXIq9pzu8Cq4495h_BqVK-xKG-Hb95Mg.png" group-title="PAK | ISLAMIC",HIDAYAT TV
+http://filex.me:8080/shafiq02/1234/1371082
+#EXTINF:-1 tvg-id="" tvg-name="Qaim TV HD" tvg-logo="" group-title="PAK | ISLAMIC",Qaim TV HD
+http://filex.me:8080/shafiq02/1234/1371084
+#EXTINF:-1 tvg-id="" tvg-name="Al Ehsan" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-ehsaan-tv-pk.png" group-title="PAK | ISLAMIC",Al Ehsan
+http://filex.me:8080/shafiq02/1234/1371081
 #EXTINF:-1 tvg-id="" tvg-name="PK | Muntazir TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/mm/muntazar-tv-pk.png" group-title="PAK | ISLAMIC",PK | Muntazir TV HD
 http://filex.me:8080/shafiq02/1234/247154
 #EXTINF:-1 tvg-id="jimjam.pt" tvg-name="IQ: IMAM ALI TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/34fcddff2dc3e73e9c6ce41a6c11bf0a.jpg" group-title="PAK | ISLAMIC",IQ: IMAM ALI TV HD
@@ -3397,26 +3411,12 @@ http://filex.me:8080/shafiq02/1234/302180
 http://filex.me:8080/shafiq02/1234/302181
 #EXTINF:-1 tvg-id="" tvg-name="IQ: IMAM Hussein TV 3 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/2732d500b5c293a3502a07c882008bab.png" group-title="PAK | ISLAMIC",IQ: IMAM Hussein TV 3 HD
 http://filex.me:8080/shafiq02/1234/302182
-#EXTINF:-1 tvg-id="" tvg-name="PK | Hyder TV" tvg-logo="https://hyder.tv/wp-content/uploads/2019/08/Logo_HYDER-TV_high-res_013.png" group-title="PAK | ISLAMIC",PK | Hyder TV
-http://filex.me:8080/shafiq02/1234/1371075
-#EXTINF:-1 tvg-id="" tvg-name="PK | Paigham Pashto TV" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/09/Paigham-Pashto-TV.png" group-title="PAK | ISLAMIC",PK | Paigham Pashto TV
-http://filex.me:8080/shafiq02/1234/1371076
 #EXTINF:-1 tvg-id="" tvg-name="ISL | Imam Hussein TV 4 FHD" tvg-logo="https://imamhusseintv.com/assets/images/ch4.webp" group-title="PAK | ISLAMIC",ISL | Imam Hussein TV 4 FHD
 http://filex.me:8080/shafiq02/1234/1371077
 #EXTINF:-1 tvg-id="" tvg-name="ISL | Imam Hussein TV 5 FHD" tvg-logo="https://imamhusseintv.com/assets/images/ch5.webp" group-title="PAK | ISLAMIC",ISL | Imam Hussein TV 5 FHD
 http://filex.me:8080/shafiq02/1234/1371078
 #EXTINF:-1 tvg-id="" tvg-name="ISL | Imam Hussein TV 6 FHD" tvg-logo="https://imamhusseintv.com/assets/images/ch6.webp" group-title="PAK | ISLAMIC",ISL | Imam Hussein TV 6 FHD
 http://filex.me:8080/shafiq02/1234/1371079
-#EXTINF:-1 tvg-id="" tvg-name="Ahlebait HD" tvg-logo="s:1:/images/Y_iLp5zM1z0Hv5o0voAY43gZWms8T5YIsuMWOBrHoUMir-jGs1OviQTA1r3prvcTp0IepONbAPRDzmk1ZG3qQg.png" group-title="PAK | ISLAMIC",Ahlebait HD
-http://filex.me:8080/shafiq02/1234/1371080
-#EXTINF:-1 tvg-id="" tvg-name="Al Ehsan" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-ehsaan-tv-pk.png" group-title="PAK | ISLAMIC",Al Ehsan
-http://filex.me:8080/shafiq02/1234/1371081
-#EXTINF:-1 tvg-id="" tvg-name="HIDAYAT TV" tvg-logo="s:1:/images/Y_iLp5zM1z0Hv5o0voAY43gZWms8T5YIsuMWOBrHoUOO1LuLvC9YoRsXIq9pzu8Cq4495h_BqVK-xKG-Hb95Mg.png" group-title="PAK | ISLAMIC",HIDAYAT TV
-http://filex.me:8080/shafiq02/1234/1371082
-#EXTINF:-1 tvg-id="" tvg-name="NAATS 24/7" tvg-logo="s:1:/images/sF5tEpdd2Lvyz1dx1JUPnRL4D3ofeeKACSP5mOFRkmCBxOIhGqd6RVwlhux24X-V.png" group-title="PAK | ISLAMIC",NAATS 24/7
-http://filex.me:8080/shafiq02/1234/1371083
-#EXTINF:-1 tvg-id="" tvg-name="Qaim TV HD" tvg-logo="" group-title="PAK | ISLAMIC",Qaim TV HD
-http://filex.me:8080/shafiq02/1234/1371084
 #EXTINF:-1 tvg-id="" tvg-name="PK | HUM TV SD" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hum_tv_pk.png" group-title="PAK | ENTERTAINMENT HD",PK | HUM TV SD
 http://filex.me:8080/shafiq02/1234/110033
 #EXTINF:-1 tvg-id="" tvg-name="PK | HUM TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hum_tv_pk.png" group-title="PAK | ENTERTAINMENT HD",PK | HUM TV HD
@@ -4021,6 +4021,8 @@ http://filex.me:8080/shafiq02/1234/911292
 http://filex.me:8080/shafiq02/1234/911291
 #EXTINF:-1 tvg-id="404001" tvg-name="IND | ZEE CINEMA HD." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzcZtadM4RSjBp7JZF49VWdOzCL8rWejgLKZ1spZvGk2-xKhc7TziwEjVK&s=10" group-title="IND | MOVIES",IND | ZEE CINEMA HD.
 http://filex.me:8080/shafiq02/1234/911313
+#EXTINF:-1 tvg-id="" tvg-name="NZ: Sky Sport 1 FHD" tvg-logo="s:1:/images/39c033ae42efda2dd6bed7cea44a3788.png" group-title="IND | CRICKET HD",NZ: Sky Sport 1 FHD
+http://filex.me:8080/shafiq02/1234/1339631
 #EXTINF:-1 tvg-id="" tvg-name="IND_DD NEWS" tvg-logo="" group-title="IND | DD",IND_DD NEWS
 http://filex.me:8080/shafiq02/1234/911343
 #EXTINF:-1 tvg-id="" tvg-name="IND_DD NATIONAL" tvg-logo="" group-title="IND | DD",IND_DD NATIONAL
@@ -4269,12 +4271,66 @@ http://filex.me:8080/shafiq02/1234/509255
 http://filex.me:8080/shafiq02/1234/832054
 #EXTINF:-1 tvg-id="" tvg-name="BIG BOSS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDuqy4QrAQazx1QLHEKCoUsiIb0PIa7GPrBcWz9gtlNbabIfHf1URPycU&s=10" group-title="24/7 | BIGBOSS",BIG BOSS HD
 http://filex.me:8080/shafiq02/1234/542293
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="FR: BEIN Sports 1 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/d40f4a64bc712ca477fcb4e7412b5ccc.png" group-title="FIFA WORLD CUP | beIN Sports ",FR: BEIN Sports 1 HD
+http://filex.me:8080/shafiq02/1234/301958
+#EXTINF:-1 tvg-id="" tvg-name="Bein Max 1 ˢᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png" group-title="FIFA WORLD CUP | beIN Sports ",Bein Max 1 ˢᴰ
+http://filex.me:8080/shafiq02/1234/1373423
+#EXTINF:-1 tvg-id="" tvg-name="Bein Max 1 ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png" group-title="FIFA WORLD CUP | beIN Sports ",Bein Max 1 ᴴᴰ
+http://filex.me:8080/shafiq02/1234/1373424
+#EXTINF:-1 tvg-id="" tvg-name="Bein Max 1 ⁴ᴷ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png" group-title="FIFA WORLD CUP | beIN Sports ",Bein Max 1 ⁴ᴷ
+http://filex.me:8080/shafiq02/1234/1373425
+#EXTINF:-1 tvg-id="" tvg-name="Bein Max 1 ᶠʰᵈ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png" group-title="FIFA WORLD CUP | beIN Sports ",Bein Max 1 ᶠʰᵈ
+http://filex.me:8080/shafiq02/1234/1373426
+#EXTINF:-1 tvg-id="" tvg-name="Bein Max 2 ˢᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png" group-title="FIFA WORLD CUP | beIN Sports ",Bein Max 2 ˢᴰ
+http://filex.me:8080/shafiq02/1234/1373427
+#EXTINF:-1 tvg-id="" tvg-name="Bein Max 2 ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png" group-title="FIFA WORLD CUP | beIN Sports ",Bein Max 2 ᴴᴰ
+http://filex.me:8080/shafiq02/1234/1373428
+#EXTINF:-1 tvg-id="" tvg-name="Bein Max 2 ⁴ᴷ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png" group-title="FIFA WORLD CUP | beIN Sports ",Bein Max 2 ⁴ᴷ
+http://filex.me:8080/shafiq02/1234/1373429
+#EXTINF:-1 tvg-id="" tvg-name="Bein Max 2 ᶠʰᵈ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png" group-title="FIFA WORLD CUP | beIN Sports ",Bein Max 2 ᶠʰᵈ
+http://filex.me:8080/shafiq02/1234/1373430
+#EXTINF:-1 tvg-id="" tvg-name="Bein Max 3 ˢᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png" group-title="FIFA WORLD CUP | beIN Sports ",Bein Max 3 ˢᴰ
+http://filex.me:8080/shafiq02/1234/1373431
+#EXTINF:-1 tvg-id="" tvg-name="Bein Max 3 ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png" group-title="FIFA WORLD CUP | beIN Sports ",Bein Max 3 ᴴᴰ
+http://filex.me:8080/shafiq02/1234/1373432
+#EXTINF:-1 tvg-id="" tvg-name="Bein Max 3 ⁴ᴷ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png" group-title="FIFA WORLD CUP | beIN Sports ",Bein Max 3 ⁴ᴷ
+http://filex.me:8080/shafiq02/1234/1373433
+#EXTINF:-1 tvg-id="" tvg-name="Bein Max 3 ᶠʰᵈ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png" group-title="FIFA WORLD CUP | beIN Sports ",Bein Max 3 ᶠʰᵈ
+http://filex.me:8080/shafiq02/1234/1373434
+#EXTINF:-1 tvg-id="" tvg-name="Bein Max 4 ˢᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png" group-title="FIFA WORLD CUP | beIN Sports ",Bein Max 4 ˢᴰ
+http://filex.me:8080/shafiq02/1234/1373435
+#EXTINF:-1 tvg-id="" tvg-name="Bein Max 4 ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png" group-title="FIFA WORLD CUP | beIN Sports ",Bein Max 4 ᴴᴰ
+http://filex.me:8080/shafiq02/1234/1373436
+#EXTINF:-1 tvg-id="" tvg-name="Bein Max 4 ⁴ᴷ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png" group-title="FIFA WORLD CUP | beIN Sports ",Bein Max 4 ⁴ᴷ
+http://filex.me:8080/shafiq02/1234/1373437
+#EXTINF:-1 tvg-id="" tvg-name="Bein Max 4 ᶠʰᵈ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png" group-title="FIFA WORLD CUP | beIN Sports ",Bein Max 4 ᶠʰᵈ
+http://filex.me:8080/shafiq02/1234/1373438
+#EXTINF:-1 tvg-id="" tvg-name="Bein Max 5 en ⁴ᴷ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png" group-title="FIFA WORLD CUP | beIN Sports ",Bein Max 5 en ⁴ᴷ
+http://filex.me:8080/shafiq02/1234/1373439
+#EXTINF:-1 tvg-id="" tvg-name="Bein Max 6 FR ⁴ᴷ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png" group-title="FIFA WORLD CUP | beIN Sports ",Bein Max 6 FR ⁴ᴷ
+http://filex.me:8080/shafiq02/1234/1373440
+#EXTINF:-1 tvg-id="" tvg-name="Bein Max 5 en ᶠʰᵈ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png" group-title="FIFA WORLD CUP | beIN Sports ",Bein Max 5 en ᶠʰᵈ
+http://filex.me:8080/shafiq02/1234/1373441
+#EXTINF:-1 tvg-id="" tvg-name="Bein Max 6 FR ᶠʰᵈ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png" group-title="FIFA WORLD CUP | beIN Sports ",Bein Max 6 FR ᶠʰᵈ
+http://filex.me:8080/shafiq02/1234/1373442
+#EXTINF:-1 tvg-id="" tvg-name="Bein Max 5 en ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png" group-title="FIFA WORLD CUP | beIN Sports ",Bein Max 5 en ᴴᴰ
+http://filex.me:8080/shafiq02/1234/1373443
+#EXTINF:-1 tvg-id="" tvg-name="Bein Max 6 FR ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png" group-title="FIFA WORLD CUP | beIN Sports ",Bein Max 6 FR ᴴᴰ
+http://filex.me:8080/shafiq02/1234/1373444
+#EXTINF:-1 tvg-id="" tvg-name="Bein Max 5 en ˢᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png" group-title="FIFA WORLD CUP | beIN Sports ",Bein Max 5 en ˢᴰ
+http://filex.me:8080/shafiq02/1234/1373445
+#EXTINF:-1 tvg-id="" tvg-name="Bein Max 6 FR ˢᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png" group-title="FIFA WORLD CUP | beIN Sports ",Bein Max 6 FR ˢᴰ
+http://filex.me:8080/shafiq02/1234/1373446
+#EXTINF:-1 tvg-id="" tvg-name="FIFA 1 ENGLISH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png" group-title="FIFA WORLD CUP | beIN Sports ",FIFA 1 ENGLISH
+http://filex.me:8080/shafiq02/1234/1373447
+#EXTINF:-1 tvg-id="" tvg-name="FIFA 2 ENGLISH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png" group-title="FIFA WORLD CUP | beIN Sports ",FIFA 2 ENGLISH
+http://filex.me:8080/shafiq02/1234/1373448
+#EXTINF:-1 tvg-id="" tvg-name="FIFA 1 SPANISH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png" group-title="FIFA WORLD CUP | beIN Sports ",FIFA 1 SPANISH
+http://filex.me:8080/shafiq02/1234/1373449
 #EXTINF:-1 tvg-id="219100" tvg-name="UK: Premier Sports 1 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/9c7d3f18c08487ae764df48783c089a1.png" group-title="SPORTS | UK SKY",UK: Premier Sports 1 HD
 http://filex.me:8080/shafiq02/1234/495238
 #EXTINF:-1 tvg-id="" tvg-name="UK: SKY Sports Premier League HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/09bb1aded27d31530f3939146dffbc0c.png" group-title="SPORTS | UK SKY",UK: SKY Sports Premier League HD
 http://filex.me:8080/shafiq02/1234/495240
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="FR: BEIN Sports 1 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/d40f4a64bc712ca477fcb4e7412b5ccc.png" group-title="FIFA WORLD CUP | beIN Sports ",FR: BEIN Sports 1 HD
-http://filex.me:8080/shafiq02/1234/301958
 #EXTINF:-1 tvg-id="" tvg-name="SP-UK | Sky Sports 1 4K/UHD" tvg-logo="https://i.ibb.co/c6kYjjk/Sky-Sports.png" group-title="SPORTS | UK SKY",SP-UK | Sky Sports 1 4K/UHD
 http://filex.me:8080/shafiq02/1234/956595
 #EXTINF:-1 tvg-id="" tvg-name="SP-UK | Sky Sports News [HD]" tvg-logo="https://i.ibb.co/c6kYjjk/Sky-Sports.png" group-title="SPORTS | UK SKY",SP-UK | Sky Sports News [HD]
@@ -4399,8 +4455,6 @@ http://filex.me:8080/shafiq02/1234/1339628
 http://filex.me:8080/shafiq02/1234/1339629
 #EXTINF:-1 tvg-id="" tvg-name="NZ: Sky Sport 2 FHD" tvg-logo="data:image/png;base64,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" group-title="SPORTS | NZ SKY",NZ: Sky Sport 2 FHD
 http://filex.me:8080/shafiq02/1234/1339630
-#EXTINF:-1 tvg-id="" tvg-name="NZ: Sky Sport 1 FHD" tvg-logo="s:1:/images/39c033ae42efda2dd6bed7cea44a3788.png" group-title="SPORTS | NZ SKY",NZ: Sky Sport 1 FHD
-http://filex.me:8080/shafiq02/1234/1339631
 #EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS GOLF FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-Golf.png" group-title="SPORTS | GOLF",SKY SPORTS GOLF FHD
 http://filex.me:8080/shafiq02/1234/957339
 #EXTINF:-1 tvg-id="" tvg-name="Fox 503 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox-sports-503-us-au.png" group-title="SPORTS | GOLF",Fox 503 FHD
@@ -4799,66 +4853,6 @@ http://filex.me:8080/shafiq02/1234/956949
 http://filex.me:8080/shafiq02/1234/956950
 #EXTINF:-1 tvg-id="" tvg-name="4K | ESPN (Events Only)" tvg-logo="https://i.ibb.co/VpyQTLg/ESPN4k.png" group-title="SPORTS | ESPN",4K | ESPN (Events Only)
 http://filex.me:8080/shafiq02/1234/956838
-#EXTINF:-1 tvg-id="" tvg-name="Bein Max 1 ˢᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png" group-title="FIFA WORLD CUP | beIN Sports ",Bein Max 1 ˢᴰ
-http://filex.me:8080/shafiq02/1234/1373423
-#EXTINF:-1 tvg-id="" tvg-name="Bein Max 1 ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png" group-title="FIFA WORLD CUP | beIN Sports ",Bein Max 1 ᴴᴰ
-http://filex.me:8080/shafiq02/1234/1373424
-#EXTINF:-1 tvg-id="" tvg-name="Bein Max 1 ⁴ᴷ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png" group-title="FIFA WORLD CUP | beIN Sports ",Bein Max 1 ⁴ᴷ
-http://filex.me:8080/shafiq02/1234/1373425
-#EXTINF:-1 tvg-id="" tvg-name="Bein Max 1 ᶠʰᵈ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png" group-title="FIFA WORLD CUP | beIN Sports ",Bein Max 1 ᶠʰᵈ
-http://filex.me:8080/shafiq02/1234/1373426
-#EXTINF:-1 tvg-id="" tvg-name="Bein Max 2 ˢᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png" group-title="FIFA WORLD CUP | beIN Sports ",Bein Max 2 ˢᴰ
-http://filex.me:8080/shafiq02/1234/1373427
-#EXTINF:-1 tvg-id="" tvg-name="Bein Max 2 ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png" group-title="FIFA WORLD CUP | beIN Sports ",Bein Max 2 ᴴᴰ
-http://filex.me:8080/shafiq02/1234/1373428
-#EXTINF:-1 tvg-id="" tvg-name="Bein Max 2 ⁴ᴷ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png" group-title="FIFA WORLD CUP | beIN Sports ",Bein Max 2 ⁴ᴷ
-http://filex.me:8080/shafiq02/1234/1373429
-#EXTINF:-1 tvg-id="" tvg-name="Bein Max 2 ᶠʰᵈ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png" group-title="FIFA WORLD CUP | beIN Sports ",Bein Max 2 ᶠʰᵈ
-http://filex.me:8080/shafiq02/1234/1373430
-#EXTINF:-1 tvg-id="" tvg-name="Bein Max 3 ˢᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png" group-title="FIFA WORLD CUP | beIN Sports ",Bein Max 3 ˢᴰ
-http://filex.me:8080/shafiq02/1234/1373431
-#EXTINF:-1 tvg-id="" tvg-name="Bein Max 3 ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png" group-title="FIFA WORLD CUP | beIN Sports ",Bein Max 3 ᴴᴰ
-http://filex.me:8080/shafiq02/1234/1373432
-#EXTINF:-1 tvg-id="" tvg-name="Bein Max 3 ⁴ᴷ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png" group-title="FIFA WORLD CUP | beIN Sports ",Bein Max 3 ⁴ᴷ
-http://filex.me:8080/shafiq02/1234/1373433
-#EXTINF:-1 tvg-id="" tvg-name="Bein Max 3 ᶠʰᵈ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png" group-title="FIFA WORLD CUP | beIN Sports ",Bein Max 3 ᶠʰᵈ
-http://filex.me:8080/shafiq02/1234/1373434
-#EXTINF:-1 tvg-id="" tvg-name="Bein Max 4 ˢᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png" group-title="FIFA WORLD CUP | beIN Sports ",Bein Max 4 ˢᴰ
-http://filex.me:8080/shafiq02/1234/1373435
-#EXTINF:-1 tvg-id="" tvg-name="Bein Max 4 ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png" group-title="FIFA WORLD CUP | beIN Sports ",Bein Max 4 ᴴᴰ
-http://filex.me:8080/shafiq02/1234/1373436
-#EXTINF:-1 tvg-id="" tvg-name="Bein Max 4 ⁴ᴷ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png" group-title="FIFA WORLD CUP | beIN Sports ",Bein Max 4 ⁴ᴷ
-http://filex.me:8080/shafiq02/1234/1373437
-#EXTINF:-1 tvg-id="" tvg-name="Bein Max 4 ᶠʰᵈ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png" group-title="FIFA WORLD CUP | beIN Sports ",Bein Max 4 ᶠʰᵈ
-http://filex.me:8080/shafiq02/1234/1373438
-#EXTINF:-1 tvg-id="" tvg-name="Bein Max 5 en ⁴ᴷ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png" group-title="FIFA WORLD CUP | beIN Sports ",Bein Max 5 en ⁴ᴷ
-http://filex.me:8080/shafiq02/1234/1373439
-#EXTINF:-1 tvg-id="" tvg-name="Bein Max 6 FR ⁴ᴷ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png" group-title="FIFA WORLD CUP | beIN Sports ",Bein Max 6 FR ⁴ᴷ
-http://filex.me:8080/shafiq02/1234/1373440
-#EXTINF:-1 tvg-id="" tvg-name="Bein Max 5 en ᶠʰᵈ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png" group-title="FIFA WORLD CUP | beIN Sports ",Bein Max 5 en ᶠʰᵈ
-http://filex.me:8080/shafiq02/1234/1373441
-#EXTINF:-1 tvg-id="" tvg-name="Bein Max 6 FR ᶠʰᵈ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png" group-title="FIFA WORLD CUP | beIN Sports ",Bein Max 6 FR ᶠʰᵈ
-http://filex.me:8080/shafiq02/1234/1373442
-#EXTINF:-1 tvg-id="" tvg-name="Bein Max 5 en ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png" group-title="FIFA WORLD CUP | beIN Sports ",Bein Max 5 en ᴴᴰ
-http://filex.me:8080/shafiq02/1234/1373443
-#EXTINF:-1 tvg-id="" tvg-name="Bein Max 6 FR ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png" group-title="FIFA WORLD CUP | beIN Sports ",Bein Max 6 FR ᴴᴰ
-http://filex.me:8080/shafiq02/1234/1373444
-#EXTINF:-1 tvg-id="" tvg-name="Bein Max 5 en ˢᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png" group-title="FIFA WORLD CUP | beIN Sports ",Bein Max 5 en ˢᴰ
-http://filex.me:8080/shafiq02/1234/1373445
-#EXTINF:-1 tvg-id="" tvg-name="Bein Max 6 FR ˢᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png" group-title="FIFA WORLD CUP | beIN Sports ",Bein Max 6 FR ˢᴰ
-http://filex.me:8080/shafiq02/1234/1373446
-#EXTINF:-1 tvg-id="" tvg-name="FIFA 1 ENGLISH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png" group-title="FIFA WORLD CUP | beIN Sports ",FIFA 1 ENGLISH
-http://filex.me:8080/shafiq02/1234/1373447
-#EXTINF:-1 tvg-id="" tvg-name="FIFA 2 ENGLISH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png" group-title="FIFA WORLD CUP | beIN Sports ",FIFA 2 ENGLISH
-http://filex.me:8080/shafiq02/1234/1373448
-#EXTINF:-1 tvg-id="" tvg-name="FIFA 1 SPANISH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png" group-title="FIFA WORLD CUP | beIN Sports ",FIFA 1 SPANISH
-http://filex.me:8080/shafiq02/1234/1373449
-#EXTINF:-1 tvg-id="" tvg-name="FIFA | 4K 2" tvg-logo="https://i.postimg.cc/gjGWGt4s/1781307552866.png" group-title="FIFA World Cup| VIP",FIFA | 4K 2
-http://filex.me:8080/shafiq02/1234/1369482
-#EXTINF:-1 tvg-id="" tvg-name="FIFA | 4K 1" tvg-logo="https://i.postimg.cc/6p2DxNtv/1781307738491.png" group-title="FIFA World Cup| VIP",FIFA | 4K 1
-http://filex.me:8080/shafiq02/1234/1369494
-#EXTINF:-1 tvg-id="" tvg-name="FIFA | VIP 1" tvg-logo="https://letagemagazine.com/wp-content/uploads/2026/01/fwc2026_hcl_mia_rgbt_pat_xl2036.png" group-title="FIFA World Cup| VIP",FIFA | VIP 1
-http://filex.me:8080/shafiq02/1234/1373850
 #EXTINF:-1 tvg-id="DD.Sports.in" tvg-name="PK | PTV Sports SD" tvg-logo="https://www.lyngsat.com/logo/tv/pp/ptv_sports_pk.png" group-title="IND | CRICKET HD",PK | PTV Sports SD
 http://filex.me:8080/shafiq02/1234/250211
 #EXTINF:-1 tvg-id="DD.Sports.in" tvg-name="PK | PTV Sports HD" tvg-logo="https://www.lyngsat.com/logo/tv/pp/ptv_sports_pk.png" group-title="IND | CRICKET HD",PK | PTV Sports HD
@@ -4959,6 +4953,22 @@ http://filex.me:8080/shafiq02/1234/905193
 http://filex.me:8080/shafiq02/1234/911332
 #EXTINF:-1 tvg-id="" tvg-name="CIRCKET (5)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStx7da_qa94FyoeuOHp7jhGWruG_Xw4KO8pEXlHLQgNT5Q8Jjtke-0mX8&s=10" group-title="PSL | CHAMPION LEAGUE (2026)",CIRCKET (5)
 http://filex.me:8080/shafiq02/1234/911334
+#EXTINF:-1 tvg-id="" tvg-name="FIFA | VIP 1" tvg-logo="https://letagemagazine.com/wp-content/uploads/2026/01/fwc2026_hcl_mia_rgbt_pat_xl2036.png" group-title="FIFA World Cup| VIP",FIFA | VIP 1
+http://filex.me:8080/shafiq02/1234/1373850
+#EXTINF:-1 tvg-id="" tvg-name="FIFA | VIP 2" tvg-logo="https://letagemagazine.com/wp-content/uploads/2026/01/fwc2026_hcl_mia_rgbt_pat_xl2036.png" group-title="FIFA World Cup| VIP",FIFA | VIP 2
+http://filex.me:8080/shafiq02/1234/1370355
+#EXTINF:-1 tvg-id="" tvg-name="FIFA | VIP 3" tvg-logo="https://letagemagazine.com/wp-content/uploads/2026/01/fwc2026_hcl_mia_rgbt_pat_xl2036.png" group-title="FIFA World Cup| VIP",FIFA | VIP 3
+http://filex.me:8080/shafiq02/1234/1370354
+#EXTINF:-1 tvg-id="" tvg-name="FIFA | VIP 4" tvg-logo="https://letagemagazine.com/wp-content/uploads/2026/01/fwc2026_hcl_mia_rgbt_pat_xl2036.png" group-title="FIFA World Cup| VIP",FIFA | VIP 4
+http://filex.me:8080/shafiq02/1234/1370353
+#EXTINF:-1 tvg-id="" tvg-name="FIFA | 4K 1" tvg-logo="https://i.postimg.cc/6p2DxNtv/1781307738491.png" group-title="FIFA World Cup| VIP",FIFA | 4K 1
+http://filex.me:8080/shafiq02/1234/1369494
+#EXTINF:-1 tvg-id="" tvg-name="FIFA | 4K 2" tvg-logo="https://i.postimg.cc/gjGWGt4s/1781307552866.png" group-title="FIFA World Cup| VIP",FIFA | 4K 2
+http://filex.me:8080/shafiq02/1234/1369482
+#EXTINF:-1 tvg-id="" tvg-name="FIFA | 4K 3 " tvg-logo="https://i.postimg.cc/6p2DxNtv/1781307738491.png" group-title="FIFA World Cup| VIP",FIFA | 4K 3 
+http://filex.me:8080/shafiq02/1234/1370357
+#EXTINF:-1 tvg-id="" tvg-name="4K | Fox (Events Only)" tvg-logo="https://i.postimg.cc/gjGWGt4s/1781307552866.png" group-title="FIFA World Cup| VIP",4K | Fox (Events Only)
+http://filex.me:8080/shafiq02/1234/1372371
 #EXTINF:-1 tvg-id="" tvg-name="UNITE8 SPORTS 1 HD (HINDI)" tvg-logo="https://i.postimg.cc/sxMN9xC0/Picsart-26-06-12-23-03-37-009.jpg" group-title="FIFA World Cup| VIP",UNITE8 SPORTS 1 HD (HINDI)
 http://filex.me:8080/shafiq02/1234/1369005
 #EXTINF:-1 tvg-id="" tvg-name="UNITE8 SPORTS 1 FHD (Hindi)" tvg-logo="https://i.postimg.cc/sxMN9xC0/Picsart-26-06-12-23-03-37-009.jpg" group-title="FIFA World Cup| VIP",UNITE8 SPORTS 1 FHD (Hindi)
@@ -4969,38 +4979,6 @@ http://filex.me:8080/shafiq02/1234/1369003
 http://filex.me:8080/shafiq02/1234/1369002
 #EXTINF:-1 tvg-id="SuperSport OTT" tvg-name="ZA: Supersport Maximo 1 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/488fd8d34ea146bfaf82c12331f4223e.png" group-title="FIFA World Cup| VIP",ZA: Supersport Maximo 1 HD
 http://filex.me:8080/shafiq02/1234/290355
-#EXTINF:-1 tvg-id="" tvg-name="IPL Hotstar Hindi ( Match Time)" tvg-logo="https://i.postimg.cc/vBD79StP/Picsart-26-04-02-17-29-19-438.jpg" group-title="IPL | CHAMPION LEAGUE (2026)",IPL Hotstar Hindi ( Match Time)
-http://filex.me:8080/shafiq02/1234/984278
-#EXTINF:-1 tvg-id="" tvg-name="IPL Hotstar Punjabi" tvg-logo="https://i.postimg.cc/j5KNPQy7/Picsart-26-04-03-22-48-14-321.jpg" group-title="IPL | CHAMPION LEAGUE (2026)",IPL Hotstar Punjabi
-http://filex.me:8080/shafiq02/1234/957592
-#EXTINF:-1 tvg-id="" tvg-name="CRicket 01 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/2025_IPL_logo.png" group-title="IPL | CHAMPION LEAGUE (2026)",CRicket 01 HD
-http://filex.me:8080/shafiq02/1234/141872
-#EXTINF:-1 tvg-id="" tvg-name="CRicket 02 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/2025_IPL_logo.png" group-title="IPL | CHAMPION LEAGUE (2026)",CRicket 02 HD
-http://filex.me:8080/shafiq02/1234/191878
-#EXTINF:-1 tvg-id="" tvg-name="CRicket 03 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/2025_IPL_logo.png" group-title="IPL | CHAMPION LEAGUE (2026)",CRicket 03 HD
-http://filex.me:8080/shafiq02/1234/178637
-#EXTINF:-1 tvg-id="" tvg-name="CRicket 04 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/2025_IPL_logo.png" group-title="IPL | CHAMPION LEAGUE (2026)",CRicket 04 HD
-http://filex.me:8080/shafiq02/1234/191879
-#EXTINF:-1 tvg-id="" tvg-name="CRicket 05 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/2025_IPL_logo.png" group-title="IPL | CHAMPION LEAGUE (2026)",CRicket 05 HD
-http://filex.me:8080/shafiq02/1234/141723
-#EXTINF:-1 tvg-id="" tvg-name="CRicket 06 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/2025_IPL_logo.png" group-title="IPL | CHAMPION LEAGUE (2026)",CRicket 06 HD
-http://filex.me:8080/shafiq02/1234/191819
-#EXTINF:-1 tvg-id="" tvg-name="CIRCKET (6)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/2025_IPL_logo.png" group-title="IPL | CHAMPION LEAGUE (2026)",CIRCKET (6)
-http://filex.me:8080/shafiq02/1234/957575
-#EXTINF:-1 tvg-id="" tvg-name="CIRCKET (7)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/2025_IPL_logo.png" group-title="IPL | CHAMPION LEAGUE (2026)",CIRCKET (7)
-http://filex.me:8080/shafiq02/1234/957576
-#EXTINF:-1 tvg-id="" tvg-name="CIRCKET (8)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/2025_IPL_logo.png" group-title="IPL | CHAMPION LEAGUE (2026)",CIRCKET (8)
-http://filex.me:8080/shafiq02/1234/957577
-#EXTINF:-1 tvg-id="" tvg-name="CRICKET (9)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/2025_IPL_logo.png" group-title="IPL | CHAMPION LEAGUE (2026)",CRICKET (9)
-http://filex.me:8080/shafiq02/1234/957578
-#EXTINF:-1 tvg-id="" tvg-name="CRICKET (10)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/2025_IPL_logo.png" group-title="IPL | CHAMPION LEAGUE (2026)",CRICKET (10)
-http://filex.me:8080/shafiq02/1234/957593
-#EXTINF:-1 tvg-id="" tvg-name="CRICKET (11)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/2025_IPL_logo.png" group-title="IPL | CHAMPION LEAGUE (2026)",CRICKET (11)
-http://filex.me:8080/shafiq02/1234/957594
-#EXTINF:-1 tvg-id="" tvg-name="CRICKET (12)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/2025_IPL_logo.png" group-title="IPL | CHAMPION LEAGUE (2026)",CRICKET (12)
-http://filex.me:8080/shafiq02/1234/957597
-#EXTINF:-1 tvg-id="" tvg-name="CIRCKET (13)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/2025_IPL_logo.png" group-title="IPL | CHAMPION LEAGUE (2026)",CIRCKET (13)
-http://filex.me:8080/shafiq02/1234/957599
 #EXTINF:-1 tvg-id="" tvg-name="UTV HD [IE] (1080p H264)" tvg-logo="http://plexflix.to/plexflix.to/picons/entertainment/utvirelandhd.png" group-title="UK | 1",UTV HD [IE] (1080p H264)
 http://filex.me:8080/shafiq02/1234/957732
 #EXTINF:-1 tvg-id="" tvg-name="STV HD (1080p H264)" tvg-logo="http://plexflix.to/plexflix.to/picons/entertainment/e-stvhd.png" group-title="UK | 1",STV HD (1080p H264)
@@ -5015,6 +4993,46 @@ http://filex.me:8080/shafiq02/1234/909379
 http://filex.me:8080/shafiq02/1234/909281
 #EXTINF:-1 tvg-id="TSN.1.ca2" tvg-name="CA: TSN 1 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/1fba41bf57803049ca52a3131bf7b749.png" group-title="✯Canada✯ Sports",CA: TSN 1 HD
 http://filex.me:8080/shafiq02/1234/290734
+#EXTINF:-1 tvg-id="antena1.ro" tvg-name="RO: Antena 1 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/4659d2bca898e371660103eb401e30fd.png" group-title="Romania ➾ LifeStyle",RO: Antena 1 HD
+http://filex.me:8080/shafiq02/1234/317783
+#EXTINF:-1 tvg-id="sporttvplus.pt" tvg-name="BR: SporTV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/6eafe5012b43973f31c5ee0b648e0594.png" group-title="Brazil ➾ Sports",BR: SporTV HD
+http://filex.me:8080/shafiq02/1234/304301
+#EXTINF:-1 tvg-id="tvlandeast.us" tvg-name="AL: TV KLAN HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/46595988f0083f19afd11068bd05c6d0.png" group-title="Albania ➾ News",AL: TV KLAN HD
+http://filex.me:8080/shafiq02/1234/303980
+#EXTINF:-1 tvg-id="m6.fr" tvg-name="FR: M6 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/2e471c9a55628012ff3b6f4fb8ab3ec3.png" group-title="France ➾ LifeStyle",FR: M6 HD
+http://filex.me:8080/shafiq02/1234/302138
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TYC Sports HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/a845a6541822a8cad70a73b6c708610a.png" group-title="Argentina",ARG: TYC Sports HD
+http://filex.me:8080/shafiq02/1234/303225
+#EXTINF:-1 tvg-id="" tvg-name="IPL Hotstar Punjabi" tvg-logo="https://i.postimg.cc/j5KNPQy7/Picsart-26-04-03-22-48-14-321.jpg" group-title="T20 Women World Cup (2026)",IPL Hotstar Punjabi
+http://filex.me:8080/shafiq02/1234/957592
+#EXTINF:-1 tvg-id="" tvg-name="CRicket 01 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/2025_IPL_logo.png" group-title="T20 Women World Cup (2026)",CRicket 01 HD
+http://filex.me:8080/shafiq02/1234/141872
+#EXTINF:-1 tvg-id="" tvg-name="CRicket 02 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/2025_IPL_logo.png" group-title="T20 Women World Cup (2026)",CRicket 02 HD
+http://filex.me:8080/shafiq02/1234/191878
+#EXTINF:-1 tvg-id="" tvg-name="CRicket 03 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/2025_IPL_logo.png" group-title="T20 Women World Cup (2026)",CRicket 03 HD
+http://filex.me:8080/shafiq02/1234/178637
+#EXTINF:-1 tvg-id="" tvg-name="CRicket 04 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/2025_IPL_logo.png" group-title="T20 Women World Cup (2026)",CRicket 04 HD
+http://filex.me:8080/shafiq02/1234/191879
+#EXTINF:-1 tvg-id="" tvg-name="CRicket 05 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/2025_IPL_logo.png" group-title="T20 Women World Cup (2026)",CRicket 05 HD
+http://filex.me:8080/shafiq02/1234/141723
+#EXTINF:-1 tvg-id="" tvg-name="CRicket 06 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/2025_IPL_logo.png" group-title="T20 Women World Cup (2026)",CRicket 06 HD
+http://filex.me:8080/shafiq02/1234/191819
+#EXTINF:-1 tvg-id="" tvg-name="CIRCKET (6)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/2025_IPL_logo.png" group-title="T20 Women World Cup (2026)",CIRCKET (6)
+http://filex.me:8080/shafiq02/1234/957575
+#EXTINF:-1 tvg-id="" tvg-name="CIRCKET (7)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/2025_IPL_logo.png" group-title="T20 Women World Cup (2026)",CIRCKET (7)
+http://filex.me:8080/shafiq02/1234/957576
+#EXTINF:-1 tvg-id="" tvg-name="CIRCKET (8)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/2025_IPL_logo.png" group-title="T20 Women World Cup (2026)",CIRCKET (8)
+http://filex.me:8080/shafiq02/1234/957577
+#EXTINF:-1 tvg-id="" tvg-name="CRICKET (9)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/2025_IPL_logo.png" group-title="T20 Women World Cup (2026)",CRICKET (9)
+http://filex.me:8080/shafiq02/1234/957578
+#EXTINF:-1 tvg-id="" tvg-name="CRICKET (10)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/2025_IPL_logo.png" group-title="T20 Women World Cup (2026)",CRICKET (10)
+http://filex.me:8080/shafiq02/1234/957593
+#EXTINF:-1 tvg-id="" tvg-name="CRICKET (11)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/2025_IPL_logo.png" group-title="T20 Women World Cup (2026)",CRICKET (11)
+http://filex.me:8080/shafiq02/1234/957594
+#EXTINF:-1 tvg-id="" tvg-name="CRICKET (12)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/2025_IPL_logo.png" group-title="T20 Women World Cup (2026)",CRICKET (12)
+http://filex.me:8080/shafiq02/1234/957597
+#EXTINF:-1 tvg-id="" tvg-name="CIRCKET (13)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/2025_IPL_logo.png" group-title="T20 Women World Cup (2026)",CIRCKET (13)
+http://filex.me:8080/shafiq02/1234/957599
 #EXTINF:-1 tvg-id="" tvg-name="Dubai Racing (1080p)" tvg-logo="https://i.imgur.com/CJ1dagP.png" group-title="✯RACING Tv✯",Dubai Racing (1080p)
 http://filex.me:8080/shafiq02/1234/834751
 #EXTINF:-1 tvg-id="" tvg-name="Dubai Racing 2 (1080p)" tvg-logo="https://i.imgur.com/H2TTn7t.png" group-title="✯RACING Tv✯",Dubai Racing 2 (1080p)
@@ -5027,26 +5045,6 @@ http://filex.me:8080/shafiq02/1234/834771
 http://filex.me:8080/shafiq02/1234/834875
 #EXTINF:-1 tvg-id="" tvg-name="Racing America (720p)" tvg-logo="https://i.imgur.com/Eufk8rl.png" group-title="✯RACING Tv✯",Racing America (720p)
 http://filex.me:8080/shafiq02/1234/834876
-#EXTINF:-1 tvg-id="antena1.ro" tvg-name="RO: Antena 1 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/4659d2bca898e371660103eb401e30fd.png" group-title="Romania ➾ LifeStyle",RO: Antena 1 HD
-http://filex.me:8080/shafiq02/1234/317783
-#EXTINF:-1 tvg-id="sporttvplus.pt" tvg-name="BR: SporTV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/6eafe5012b43973f31c5ee0b648e0594.png" group-title="Brazil ➾ Sports",BR: SporTV HD
-http://filex.me:8080/shafiq02/1234/304301
-#EXTINF:-1 tvg-id="tvlandeast.us" tvg-name="AL: TV KLAN HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/46595988f0083f19afd11068bd05c6d0.png" group-title="Albania ➾ News",AL: TV KLAN HD
-http://filex.me:8080/shafiq02/1234/303980
-#EXTINF:-1 tvg-id="m6.fr" tvg-name="FR: M6 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/2e471c9a55628012ff3b6f4fb8ab3ec3.png" group-title="France ➾ LifeStyle",FR: M6 HD
-http://filex.me:8080/shafiq02/1234/302138
-#EXTINF:-1 tvg-id="" tvg-name="ARG: TYC Sports HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/a845a6541822a8cad70a73b6c708610a.png" group-title="Argentina",ARG: TYC Sports HD
-http://filex.me:8080/shafiq02/1234/303225
-#EXTINF:-1 tvg-id="" tvg-name="FIFA | VIP 4" tvg-logo="https://letagemagazine.com/wp-content/uploads/2026/01/fwc2026_hcl_mia_rgbt_pat_xl2036.png" group-title="FIFA World Cup| VIP",FIFA | VIP 4
-http://filex.me:8080/shafiq02/1234/1370353
-#EXTINF:-1 tvg-id="" tvg-name="FIFA | VIP 3" tvg-logo="https://letagemagazine.com/wp-content/uploads/2026/01/fwc2026_hcl_mia_rgbt_pat_xl2036.png" group-title="FIFA World Cup| VIP",FIFA | VIP 3
-http://filex.me:8080/shafiq02/1234/1370354
-#EXTINF:-1 tvg-id="" tvg-name="FIFA | VIP 2" tvg-logo="https://letagemagazine.com/wp-content/uploads/2026/01/fwc2026_hcl_mia_rgbt_pat_xl2036.png" group-title="FIFA World Cup| VIP",FIFA | VIP 2
-http://filex.me:8080/shafiq02/1234/1370355
-#EXTINF:-1 tvg-id="" tvg-name="FIFA | 4K 3 " tvg-logo="https://i.postimg.cc/6p2DxNtv/1781307738491.png" group-title="FIFA World Cup| VIP",FIFA | 4K 3 
-http://filex.me:8080/shafiq02/1234/1370357
-#EXTINF:-1 tvg-id="" tvg-name="4K | Fox (Events Only)" tvg-logo="https://i.postimg.cc/gjGWGt4s/1781307552866.png" group-title="FIFA World Cup| VIP",4K | Fox (Events Only)
-http://filex.me:8080/shafiq02/1234/1372371
 #EXTINF:-1 tvg-id="" tvg-name="24/7 C I D 1" tvg-logo="" group-title="IND | TV SHOW 24/7",24/7 C I D 1
 http://filex.me:8080/shafiq02/1234/1321194
 #EXTINF:-1 tvg-id="" tvg-name="CRIME PATROL" tvg-logo="" group-title="IND | TV SHOW 24/7",CRIME PATROL
@@ -5259,6 +5257,28 @@ http://filex.me:8080/shafiq02/1234/246687
 http://filex.me:8080/shafiq02/1234/1339640
 #EXTINF:-1 tvg-id="" tvg-name="PLAYMAX COKESTUDIO" tvg-logo="s:1:/images/sF5tEpdd2Lvyz1dx1JUPnRL4D3ofeeKACSP5mOFRkmCBxOIhGqd6RVwlhux24X-V.png" group-title="IND | MUSIC HD",PLAYMAX COKESTUDIO
 http://filex.me:8080/shafiq02/1234/1339641
+#EXTINF:-1 tvg-id="" tvg-name="90s HITs" tvg-logo="" group-title="IND | MUSIC HD",90s HITs
+http://filex.me:8080/shafiq02/1234/1371066
+#EXTINF:-1 tvg-id="" tvg-name="Asha Bhosle" tvg-logo="https://c.saavncdn.com/136/Asha-Bhosle-The-Collection-Hindi-2022-20220912223408-500x500.jpg" group-title="IND | MUSIC HD",Asha Bhosle
+http://filex.me:8080/shafiq02/1234/1371067
+#EXTINF:-1 tvg-id="" tvg-name="COKE STUDIO" tvg-logo="https://i1.sndcdn.com/avatars-000364552709-cdtdl3-t1080x1080.jpg" group-title="IND | MUSIC HD",COKE STUDIO
+http://filex.me:8080/shafiq02/1234/1371068
+#EXTINF:-1 tvg-id="" tvg-name="Dilip Kumar" tvg-logo="https://i.scdn.co/image/ab67616d0000b273fb8ce8ab893be3f41f6cdcc4" group-title="IND | MUSIC HD",Dilip Kumar
+http://filex.me:8080/shafiq02/1234/1371069
+#EXTINF:-1 tvg-id="" tvg-name="Kishore Kumar 90s" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCyycyR5_Out4MXHIGYib9XcXdG8hWZ_JcaQ&s" group-title="IND | MUSIC HD",Kishore Kumar 90s
+http://filex.me:8080/shafiq02/1234/1371070
+#EXTINF:-1 tvg-id="" tvg-name="Kumar Sanu" tvg-logo="https://c.saavncdn.com/334/90s-Hits-Of-Kumar-Sanu-Hindi-2019-20191024051719-500x500.jpg" group-title="IND | MUSIC HD",Kumar Sanu
+http://filex.me:8080/shafiq02/1234/1371071
+#EXTINF:-1 tvg-id="" tvg-name="Lata Mangeshkar 90s" tvg-logo="https://s.saregama.tech/image/c/fw_485/d/ca/8a/legends-lata-mangeshkar-the-ultimate-collection-vol-1_1481880422.jpg" group-title="IND | MUSIC HD",Lata Mangeshkar 90s
+http://filex.me:8080/shafiq02/1234/1371072
+#EXTINF:-1 tvg-id="" tvg-name="Mohammed Rafi Songs" tvg-logo="https://i.scdn.co/image/ab67616d0000b273f40be5a8c3042c33f28f0afd" group-title="IND | MUSIC HD",Mohammed Rafi Songs
+http://filex.me:8080/shafiq02/1234/1371073
+#EXTINF:-1 tvg-id="" tvg-name="Sidhu Moosewala" tvg-logo="https://i1.sndcdn.com/artworks-R9e2fzi2wiedDouG-z0Jn1Q-t500x500.jpg" group-title="IND | MUSIC HD",Sidhu Moosewala
+http://filex.me:8080/shafiq02/1234/1371074
+#EXTINF:-1 tvg-id="" tvg-name="Shemaroo Filmigaane" tvg-logo="https://a.jsrdn.com/hls/23141/shemaroo-filmigaane/logo_20240206_190035_68.png" group-title="IND | MUSIC HD",Shemaroo Filmigaane
+http://filex.me:8080/shafiq02/1234/1371085
+#EXTINF:-1 tvg-id="" tvg-name="Punjabi Hits" tvg-logo="https://a.jsrdn.com/hls/23196/punjabi-hits/logo_20241010_204324_70.png" group-title="IND | MUSIC HD",Punjabi Hits
+http://filex.me:8080/shafiq02/1234/1371086
 #EXTINF:-1 tvg-id="" tvg-name="US | Vevo '90s" tvg-logo="https://i.ibb.co/nnjjL2f/Vevo.png" group-title="WORLD | MUSIC",US | Vevo '90s
 http://filex.me:8080/shafiq02/1234/957275
 #EXTINF:-1 tvg-id="" tvg-name="US-Music Choice | Teen Beats" tvg-logo="https://i.ibb.co/h9F2k59/Music-Choice.png" group-title="WORLD | MUSIC",US-Music Choice | Teen Beats
@@ -5385,36 +5405,6 @@ http://filex.me:8080/shafiq02/1234/957303
 http://filex.me:8080/shafiq02/1234/957304
 #EXTINF:-1 tvg-id="" tvg-name="US-Music | Concert Channel" tvg-logo="https://i.ibb.co/C7Gwzp1/Concert-HD.png" group-title="WORLD | MUSIC",US-Music | Concert Channel
 http://filex.me:8080/shafiq02/1234/957337
-#EXTINF:-1 tvg-id="" tvg-name="90s HITs" tvg-logo="" group-title="IND | MUSIC HD",90s HITs
-http://filex.me:8080/shafiq02/1234/1371066
-#EXTINF:-1 tvg-id="" tvg-name="Asha Bhosle" tvg-logo="https://c.saavncdn.com/136/Asha-Bhosle-The-Collection-Hindi-2022-20220912223408-500x500.jpg" group-title="IND | MUSIC HD",Asha Bhosle
-http://filex.me:8080/shafiq02/1234/1371067
-#EXTINF:-1 tvg-id="" tvg-name="COKE STUDIO" tvg-logo="https://i1.sndcdn.com/avatars-000364552709-cdtdl3-t1080x1080.jpg" group-title="IND | MUSIC HD",COKE STUDIO
-http://filex.me:8080/shafiq02/1234/1371068
-#EXTINF:-1 tvg-id="" tvg-name="Dilip Kumar" tvg-logo="https://i.scdn.co/image/ab67616d0000b273fb8ce8ab893be3f41f6cdcc4" group-title="IND | MUSIC HD",Dilip Kumar
-http://filex.me:8080/shafiq02/1234/1371069
-#EXTINF:-1 tvg-id="" tvg-name="Kishore Kumar 90s" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCyycyR5_Out4MXHIGYib9XcXdG8hWZ_JcaQ&s" group-title="IND | MUSIC HD",Kishore Kumar 90s
-http://filex.me:8080/shafiq02/1234/1371070
-#EXTINF:-1 tvg-id="" tvg-name="Kumar Sanu" tvg-logo="https://c.saavncdn.com/334/90s-Hits-Of-Kumar-Sanu-Hindi-2019-20191024051719-500x500.jpg" group-title="IND | MUSIC HD",Kumar Sanu
-http://filex.me:8080/shafiq02/1234/1371071
-#EXTINF:-1 tvg-id="" tvg-name="Lata Mangeshkar 90s" tvg-logo="https://s.saregama.tech/image/c/fw_485/d/ca/8a/legends-lata-mangeshkar-the-ultimate-collection-vol-1_1481880422.jpg" group-title="IND | MUSIC HD",Lata Mangeshkar 90s
-http://filex.me:8080/shafiq02/1234/1371072
-#EXTINF:-1 tvg-id="" tvg-name="Mohammed Rafi Songs" tvg-logo="https://i.scdn.co/image/ab67616d0000b273f40be5a8c3042c33f28f0afd" group-title="IND | MUSIC HD",Mohammed Rafi Songs
-http://filex.me:8080/shafiq02/1234/1371073
-#EXTINF:-1 tvg-id="" tvg-name="Sidhu Moosewala" tvg-logo="https://i1.sndcdn.com/artworks-R9e2fzi2wiedDouG-z0Jn1Q-t500x500.jpg" group-title="IND | MUSIC HD",Sidhu Moosewala
-http://filex.me:8080/shafiq02/1234/1371074
-#EXTINF:-1 tvg-id="" tvg-name="Shemaroo Filmigaane" tvg-logo="https://a.jsrdn.com/hls/23141/shemaroo-filmigaane/logo_20240206_190035_68.png" group-title="IND | MUSIC HD",Shemaroo Filmigaane
-http://filex.me:8080/shafiq02/1234/1371085
-#EXTINF:-1 tvg-id="" tvg-name="Punjabi Hits" tvg-logo="https://a.jsrdn.com/hls/23196/punjabi-hits/logo_20241010_204324_70.png" group-title="IND | MUSIC HD",Punjabi Hits
-http://filex.me:8080/shafiq02/1234/1371086
-#EXTINF:-1 tvg-id="" tvg-name="UK: HUB Premier 1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK | SPORTS",UK: HUB Premier 1 HD
-http://filex.me:8080/shafiq02/1234/495230
-#EXTINF:-1 tvg-id="" tvg-name="UK: HUB Premier 2 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK | SPORTS",UK: HUB Premier 2 HD
-http://filex.me:8080/shafiq02/1234/495231
-#EXTINF:-1 tvg-id="9121" tvg-name="UK: MUTV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/73eef793ce91db2ff4122b6e3581ec7b.png" group-title="UK | SPORTS",UK: MUTV HD
-http://filex.me:8080/shafiq02/1234/495237
-#EXTINF:-1 tvg-id="219104" tvg-name="UK: Premier Sports 2 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/35affbf18fb742f52581f3f069a97258.png" group-title="UK | SPORTS",UK: Premier Sports 2 HD
-http://filex.me:8080/shafiq02/1234/495239
 #EXTINF:-1 tvg-id="" tvg-name="Sky Comedy HD (1080p H264)" tvg-logo="http://plexflix.to/plexflix.to/picons/entertainment/entertainment-universalchannelhd.jpg" group-title="UK | 1",Sky Comedy HD (1080p H264)
 http://filex.me:8080/shafiq02/1234/957696
 #EXTINF:-1 tvg-id="" tvg-name="Channel 5 +1 (SD H264)" tvg-logo="s:1:/images/Clolc7yhhL5yWQ8UIkwttSycy4xXQOSnY52qxV7zKAbuz3Ya_TxiuF0VGcc8oPSzX1Fig--hkcjfjqHvX7BIos2tgby3v83b84h0h6w-_OGm17JsX6aap5CEhlLxjUKZ.png" group-title="UK | 1",Channel 5 +1 (SD H264)
@@ -6037,6 +6027,14 @@ http://filex.me:8080/shafiq02/1234/495455
 http://filex.me:8080/shafiq02/1234/495456
 #EXTINF:-1 tvg-id="" tvg-name="UK: VIVA HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK | 2",UK: VIVA HD
 http://filex.me:8080/shafiq02/1234/495457
+#EXTINF:-1 tvg-id="" tvg-name="UK: HUB Premier 1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK | SPORTS",UK: HUB Premier 1 HD
+http://filex.me:8080/shafiq02/1234/495230
+#EXTINF:-1 tvg-id="" tvg-name="UK: HUB Premier 2 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK | SPORTS",UK: HUB Premier 2 HD
+http://filex.me:8080/shafiq02/1234/495231
+#EXTINF:-1 tvg-id="9121" tvg-name="UK: MUTV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/73eef793ce91db2ff4122b6e3581ec7b.png" group-title="UK | SPORTS",UK: MUTV HD
+http://filex.me:8080/shafiq02/1234/495237
+#EXTINF:-1 tvg-id="219104" tvg-name="UK: Premier Sports 2 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/35affbf18fb742f52581f3f069a97258.png" group-title="UK | SPORTS",UK: Premier Sports 2 HD
+http://filex.me:8080/shafiq02/1234/495239
 #EXTINF:-1 tvg-id="" tvg-name="UK: Eurosport 1 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/f596a057554b06e8b7e0e7bad9240e7b.png" group-title="UK | SPORTS",UK: Eurosport 1 HD
 http://filex.me:8080/shafiq02/1234/495242
 #EXTINF:-1 tvg-id="" tvg-name="UK: Eurosport 2 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/091378f6123951037d5075a7585c94d9.png" group-title="UK | SPORTS",UK: Eurosport 2 HD
@@ -10487,10 +10485,6 @@ http://filex.me:8080/shafiq02/1234/292768
 http://filex.me:8080/shafiq02/1234/292769
 #EXTINF:-1 tvg-id="" tvg-name="AF: ZAP VIVA HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/c7eecc6ff94c2e0cb0f82e88c3dbe56c.png" group-title="Africa",AF: ZAP VIVA HD
 http://filex.me:8080/shafiq02/1234/292770
-#EXTINF:-1 tvg-id="SS Football" tvg-name="ZA: Supersport Football HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/8dab62dd2c2faa3d66261a2a5afa6260.png" group-title="South Africa ➾ Sports",ZA: Supersport Football HD
-http://filex.me:8080/shafiq02/1234/290354
-#EXTINF:-1 tvg-id="SuperSport PSL" tvg-name="ZA: Supersport PSL HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/b113905d39622090910a766c75af759d.png" group-title="South Africa ➾ Sports",ZA: Supersport PSL HD
-http://filex.me:8080/shafiq02/1234/290356
 #EXTINF:-1 tvg-id="canalplus.fr" tvg-name="ZA: Canal+ Formule 1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="South Africa Entertainment",ZA: Canal+ Formule 1 HD
 http://filex.me:8080/shafiq02/1234/290252
 #EXTINF:-1 tvg-id="" tvg-name="ZA: Dumisa TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/10a1fbddf79aa90625cf77b75e978d53.png" group-title="South Africa Entertainment",ZA: Dumisa TV HD
@@ -10521,6 +10515,10 @@ http://filex.me:8080/shafiq02/1234/290265
 http://filex.me:8080/shafiq02/1234/290251
 #EXTINF:-1 tvg-id="" tvg-name="ZA: CAPE TOWN TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/97df77609d1a49ffa2f4acf2246973d2.png" group-title="South Africa Entertainment",ZA: CAPE TOWN TV HD
 http://filex.me:8080/shafiq02/1234/290253
+#EXTINF:-1 tvg-id="SS Football" tvg-name="ZA: Supersport Football HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/8dab62dd2c2faa3d66261a2a5afa6260.png" group-title="South Africa ➾ Sports",ZA: Supersport Football HD
+http://filex.me:8080/shafiq02/1234/290354
+#EXTINF:-1 tvg-id="SuperSport PSL" tvg-name="ZA: Supersport PSL HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/b113905d39622090910a766c75af759d.png" group-title="South Africa ➾ Sports",ZA: Supersport PSL HD
+http://filex.me:8080/shafiq02/1234/290356
 #EXTINF:-1 tvg-id="" tvg-name="ZA: Canal+ FOOT HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-01/1ef307d2ff7e452d2d95f3d340717ed9.png" group-title="South Africa ➾ Sports",ZA: Canal+ FOOT HD
 http://filex.me:8080/shafiq02/1234/290324
 #EXTINF:-1 tvg-id="" tvg-name="ZA: Canal+ Premier League HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/c3de2632d14e7fa3ab5145cb9e455c55.png" group-title="South Africa ➾ Sports",ZA: Canal+ Premier League HD
@@ -11395,8 +11393,6 @@ http://filex.me:8080/shafiq02/1234/293614
 http://filex.me:8080/shafiq02/1234/293615
 #EXTINF:-1 tvg-id="" tvg-name="DE: Stingray Classica HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/103bd0c99e9f34330b9bbae054954f3d.png" group-title="Germany ➾ Music",DE: Stingray Classica HD
 http://filex.me:8080/shafiq02/1234/293616
-#EXTINF:-1 tvg-id="beIN.Sports.HD.(Canada).ca2" tvg-name="CA: BEIN Sports HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/7c07efb5599972e022017294d3666dbc.png" group-title="✯Canada✯ Sports",CA: BEIN Sports HD
-http://filex.me:8080/shafiq02/1234/290701
 #EXTINF:-1 tvg-id="BBC.News.(North.America).ca2" tvg-name="CA: BBC NEWS HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/2bb9178c3b382ede798b6693317a7e11.svg" group-title="✯Canada✯",CA: BBC NEWS HD
 http://filex.me:8080/shafiq02/1234/290782
 #EXTINF:-1 tvg-id="CBC.St..John’s.ca2" tvg-name="CA: CBC ST Johns HD" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="✯Canada✯",CA: CBC ST Johns HD
@@ -11455,6 +11451,8 @@ http://filex.me:8080/shafiq02/1234/290808
 http://filex.me:8080/shafiq02/1234/290809
 #EXTINF:-1 tvg-id="YesTV.ca2" tvg-name="CA: YES TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/b0c39a28132d0ea3df294bfe0d780e00.png" group-title="✯Canada✯",CA: YES TV HD
 http://filex.me:8080/shafiq02/1234/290810
+#EXTINF:-1 tvg-id="beIN.Sports.HD.(Canada).ca2" tvg-name="CA: BEIN Sports HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/7c07efb5599972e022017294d3666dbc.png" group-title="✯Canada✯ Sports",CA: BEIN Sports HD
+http://filex.me:8080/shafiq02/1234/290701
 #EXTINF:-1 tvg-id="" tvg-name="CA: Fight Network HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/0acf73a8d84e27437ea2ec13b3576666.png" group-title="✯Canada✯ Sports",CA: Fight Network HD
 http://filex.me:8080/shafiq02/1234/290719
 #EXTINF:-1 tvg-id="" tvg-name="CA: HARD Knocks HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/568411330b2f20cbd4db69f1f079f6f5.png" group-title="✯Canada✯ Sports",CA: HARD Knocks HD
@@ -24899,8 +24897,6 @@ http://filex.me:8080/shafiq02/1234/303992
 http://filex.me:8080/shafiq02/1234/303993
 #EXTINF:-1 tvg-id="" tvg-name="AL: TV Sharri HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/03bf7ee22afa23be577be153f1748038.png" group-title="Albania ➾ Music",AL: TV Sharri HD
 http://filex.me:8080/shafiq02/1234/303994
-#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="FR: BEIN Sports 2 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/0546311aed22a274b1e87d23c33dd475.png" group-title="AR |BEIN SPORTS HD",FR: BEIN Sports 2 HD
-http://filex.me:8080/shafiq02/1234/301959
 #EXTINF:-1 tvg-id="" tvg-name="BeIN Sport 1 SD" tvg-logo="http://137.74.40.152/Categories.Logo/beinsports.png" group-title="AR |BEIN SPORTS SD",BeIN Sport 1 SD
 http://filex.me:8080/shafiq02/1234/908592
 #EXTINF:-1 tvg-id="" tvg-name="BeIN Sport 2 SD" tvg-logo="http://137.74.40.152/Categories.Logo/beinsports.png" group-title="AR |BEIN SPORTS SD",BeIN Sport 2 SD
@@ -24927,6 +24923,8 @@ http://filex.me:8080/shafiq02/1234/908602
 http://filex.me:8080/shafiq02/1234/908603
 #EXTINF:-1 tvg-id="" tvg-name="BeIN Sport French SD2" tvg-logo="http://137.74.40.152/Categories.Logo/beinsports.png" group-title="AR |BEIN SPORTS SD",BeIN Sport French SD2
 http://filex.me:8080/shafiq02/1234/908604
+#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="FR: BEIN Sports 2 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/0546311aed22a274b1e87d23c33dd475.png" group-title="AR |BEIN SPORTS HD",FR: BEIN Sports 2 HD
+http://filex.me:8080/shafiq02/1234/301959
 #EXTINF:-1 tvg-id="" tvg-name="BeIN Global HD" tvg-logo="http://137.74.40.152/Categories.Logo/beinsports.png" group-title="AR |BEIN SPORTS HD",BeIN Global HD
 http://filex.me:8080/shafiq02/1234/908572
 #EXTINF:-1 tvg-id="" tvg-name="BeIN Sport 1 HD" tvg-logo="http://137.74.40.152/Categories.Logo/beinsports.png" group-title="AR |BEIN SPORTS HD",BeIN Sport 1 HD
@@ -30983,6 +30981,8 @@ http://filex.me:8080/movie/shafiq02/1234/851462.mp4
 http://filex.me:8080/movie/shafiq02/1234/851461.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Mohra (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nWAptaCNiTIJtv9cYqfF5E7qm0I.jpg" group-title="BOLLYWOOD | CLASSIC ",Mohra (1994)
 http://filex.me:8080/movie/shafiq02/1234/685811.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba Infinity Castle (2025) Hindi " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg" group-title="HINDI DUB | 2025",Demon Slayer: Kimetsu no Yaiba Infinity Castle (2025) Hindi 
+http://filex.me:8080/movie/shafiq02/1234/1374032.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Hell in Paradise (2025) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nCL9LCKau7c0PBbkRMh7fKHjRRI.jpg" group-title="HINDI DUB | 2025",Hell in Paradise (2025) (Hindi)
 http://filex.me:8080/movie/shafiq02/1234/1372390.mp4
 #EXTINF:-1 tvg-id="" tvg-name="undertone (2025) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2PFgFMnrdCPXWiZl1PUvky7Mo9D.jpg" group-title="HINDI DUB | 2025",undertone (2025) (Hindi)
