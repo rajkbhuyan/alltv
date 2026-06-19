@@ -25627,6 +25627,8 @@ http://filex.me:8080/shafiq02/1234/908780
 http://filex.me:8080/shafiq02/1234/908774
 #EXTINF:-1 tvg-id="" tvg-name="AR: WANASAH HD" tvg-logo="" group-title="✯MUSIC✯اغاني",AR: WANASAH HD
 http://filex.me:8080/shafiq02/1234/908783
+#EXTINF:-1 tvg-id="" tvg-name="Maiin Haan (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1S58eWt1O8SqQi5oSlIUyu0xkIf.jpg" group-title="BOLLYWOOD | 2026",Maiin Haan (2026)
+http://filex.me:8080/movie/shafiq02/1234/1374606.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Narmada Story (2026) (Hindi) (CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pNYG4rj23cuExjwNp8JxwJr7jQI.jpg" group-title="BOLLYWOOD | 2026",The Narmada Story (2026) (Hindi) (CAM)
 http://filex.me:8080/movie/shafiq02/1234/1372389.mp4
 #EXTINF:-1 tvg-id="" tvg-name="UFC Freedom 250: Topuria vs. Gaethje (2026) (Prelims)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9bkunLw8kI13A7aPIjduoUleQ9b.jpg" group-title="✯UFC FIGHT✯",UFC Freedom 250: Topuria vs. Gaethje (2026) (Prelims)
@@ -30981,6 +30983,12 @@ http://filex.me:8080/movie/shafiq02/1234/851462.mp4
 http://filex.me:8080/movie/shafiq02/1234/851461.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Mohra (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nWAptaCNiTIJtv9cYqfF5E7qm0I.jpg" group-title="BOLLYWOOD | CLASSIC ",Mohra (1994)
 http://filex.me:8080/movie/shafiq02/1234/685811.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alien: Rubicon (2024) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zFH6wa8uVU7dKkval9QzMX8nSAb.jpg" group-title="HINDI DUB | 2023-2024",Alien: Rubicon (2024) (Hindi)
+http://filex.me:8080/movie/shafiq02/1234/1374105.mp4
+#EXTINF:-1 tvg-id="" tvg-name="America Is Sinking (2023) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aJPnqK2kSM257FESP69HPTSWt3p.jpg" group-title="HINDI DUB | 2023-2024",America Is Sinking (2023) (Hindi)
+http://filex.me:8080/movie/shafiq02/1234/1374096.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Your Fault: London (2026) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nLxu237EJAisFCYKK48hN9Plobx.jpg" group-title="HINDI DUB | 2026",Your Fault: London (2026) (Hindi)
+http://filex.me:8080/movie/shafiq02/1234/1374095.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba Infinity Castle (2025) Hindi " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg" group-title="HINDI DUB | 2025",Demon Slayer: Kimetsu no Yaiba Infinity Castle (2025) Hindi 
 http://filex.me:8080/movie/shafiq02/1234/1374032.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Hell in Paradise (2025) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nCL9LCKau7c0PBbkRMh7fKHjRRI.jpg" group-title="HINDI DUB | 2025",Hell in Paradise (2025) (Hindi)
@@ -47667,6 +47675,24 @@ http://filex.me:8080/movie/shafiq02/1234/859713.mkv
 http://filex.me:8080/movie/shafiq02/1234/859712.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Chhota Bheem - Crazy Cards World _ Videos for Kids in Hindi _ Fun Kids Videos" tvg-logo="" group-title="✯CHOTA BHEEM✯",Chhota Bheem - Crazy Cards World _ Videos for Kids in Hindi _ Fun Kids Videos
 http://filex.me:8080/movie/shafiq02/1234/859711.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Alien: Rubicon (2024) (Tamil)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zFH6wa8uVU7dKkval9QzMX8nSAb.jpg" group-title="TAMIL | 2025 - 2026",Alien: Rubicon (2024) (Tamil)
+http://filex.me:8080/movie/shafiq02/1234/1374104.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Your Fault: London (2026) (Kannada)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nLxu237EJAisFCYKK48hN9Plobx.jpg" group-title="KANNADA | 2025 - 2026",Your Fault: London (2026) (Kannada)
+http://filex.me:8080/movie/shafiq02/1234/1374094.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Your Fault: London (2026) (Malayalam)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nLxu237EJAisFCYKK48hN9Plobx.jpg" group-title=" MALAYALAM | 2025 - 2026",Your Fault: London (2026) (Malayalam)
+http://filex.me:8080/movie/shafiq02/1234/1374093.mp4
+#EXTINF:-1 tvg-id="" tvg-name="America Is Sinking (2023) (Tamil)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aJPnqK2kSM257FESP69HPTSWt3p.jpg" group-title="TAMIL | 2023 - 2024",America Is Sinking (2023) (Tamil)
+http://filex.me:8080/movie/shafiq02/1234/1374092.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Your Fault: London (2026) (Tamil)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nLxu237EJAisFCYKK48hN9Plobx.jpg" group-title="TAMIL | 2025 - 2026",Your Fault: London (2026) (Tamil)
+http://filex.me:8080/movie/shafiq02/1234/1374091.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arco (2025) (Tamil)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mWlvHFxTDhq9O5WSOHywa32QIez.jpg" group-title="TAMIL | 2025 - 2026",Arco (2025) (Tamil)
+http://filex.me:8080/movie/shafiq02/1234/1374090.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drishyam 3 (2026) (Kannada)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/456FlpiU1iOBnaOxSd783QhZKWw.jpg" group-title="KANNADA | 2025 - 2026",Drishyam 3 (2026) (Kannada)
+http://filex.me:8080/movie/shafiq02/1234/1374088.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drishyam 3 (2026) (Malayalam)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/456FlpiU1iOBnaOxSd783QhZKWw.jpg" group-title=" MALAYALAM | 2025 - 2026",Drishyam 3 (2026) (Malayalam)
+http://filex.me:8080/movie/shafiq02/1234/1374087.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drishyam 3 (2026) (Tamil)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/456FlpiU1iOBnaOxSd783QhZKWw.jpg" group-title="TAMIL | 2025 - 2026",Drishyam 3 (2026) (Tamil)
+http://filex.me:8080/movie/shafiq02/1234/1374086.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Euphoria (2026) (Hindi) (CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9fpTl3fNYmBcMOGocrx59XKDdgO.jpg" group-title="SOUTH INDIA | 2026",Euphoria (2026) (Hindi) (CAM)
 http://filex.me:8080/movie/shafiq02/1234/1372388.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Sattendru Maarudhu Vaanilai (2026) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aHwiypD3b2Ey9CkisGtrkieFHIh.jpg" group-title="SOUTH INDIA | 2026",Sattendru Maarudhu Vaanilai (2026) (Hindi)
@@ -49972,29 +49998,3 @@ http://filex.me:8080/movie/shafiq02/1234/1200331.mp4
 #EXTINF:-1 tvg-id="" tvg-name="AR_ The Space Between Us" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ The Space Between Us
 http://filex.me:8080/movie/shafiq02/1234/1200330.mp4
 #EXTINF:-1 tvg-id="" tvg-name="AR_ Truth" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Truth
-http://filex.me:8080/movie/shafiq02/1234/1200328.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Words On Bathroom Walls" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Words On Bathroom Walls
-http://filex.me:8080/movie/shafiq02/1234/1200327.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Eve" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Eve
-http://filex.me:8080/movie/shafiq02/1234/1200325.mkv
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Possum" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Possum
-http://filex.me:8080/movie/shafiq02/1234/1200324.mkv
-#EXTINF:-1 tvg-id="" tvg-name="It's a Wonderful Life (1946)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bSqt9rhDZx1Q7UZ86dBPKdNomp2.jpg" group-title="AR | DRAMA & ROMANCE",It's a Wonderful Life (1946)
-http://filex.me:8080/movie/shafiq02/1234/1200322.mkv
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Mudbound" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Mudbound
-http://filex.me:8080/movie/shafiq02/1234/1200321.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Parmanu_ The Story Of Pokhran" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Parmanu_ The Story Of Pokhran
-http://filex.me:8080/movie/shafiq02/1234/1200319.mkv
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Tolkien" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Tolkien
-http://filex.me:8080/movie/shafiq02/1234/1200317.mkv
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Measure For Measure" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Measure For Measure
-http://filex.me:8080/movie/shafiq02/1234/1200315.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Paris Est à Nous" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Paris Est à Nous
-http://filex.me:8080/movie/shafiq02/1234/1200313.mkv
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Deeper_ The Retribution Of Beth" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Deeper_ The Retribution Of Beth
-http://filex.me:8080/movie/shafiq02/1234/1200312.mkv
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Suffragette" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Suffragette
-http://filex.me:8080/movie/shafiq02/1234/1200310.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Light From Light" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Light From Light
-http://filex.me:8080/movie/shafiq02/1234/1200308.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR_ Viral" tvg-logo="" group-title="AR | DRAMA & ROMANCE",AR_ Viral
